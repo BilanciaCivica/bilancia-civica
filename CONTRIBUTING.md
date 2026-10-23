@@ -1,6 +1,6 @@
 # Contribuire a Bilancia Civica
 
-> **Aggiornato al 23/10/2026, ore 22:48 (ora di Roma, CEST).**
+> **Aggiornato al 23/10/2026, ore 23:02 (ora di Roma, CEST).**
 >
 > Repository: [https://github.com/BilanciaCivica/bilancia-civica](https://github.com/BilanciaCivica/bilancia-civica) · Sito: [https://bilanciacivica.github.io/bilancia-civica/](https://bilanciacivica.github.io/bilancia-civica/)
 
@@ -45,7 +45,7 @@ Dettagli in [METODOLOGIA, §1.11](METODOLOGIA.md#111-dati-di-terzi).
 
 ## Correzioni
 
-Gli errori si segnalano con una **segnalazione** (*issue*) sul [repository GitHub](https://github.com/BilanciaCivica/bilancia-civica/issues) indicando: pagina, affermazione, fonte corretta e data. Le correzioni vengono registrate con data e motivo in [CORREZIONI.md](CORREZIONI.md) (vedi [METODOLOGIA, §1.10](METODOLOGIA.md#110-registro-correzioni)).
+Gli errori si segnalano con una **segnalazione** (*issue*) sul [repository GitHub](https://github.com/BilanciaCivica/bilancia-civica/issues) indicando: pagina, affermazione, fonte corretta e data. Per contestare un contenuto usa il modello [Richiesta di rettifica](https://github.com/BilanciaCivica/bilancia-civica/issues/new?template=rettifica.md). Le segnalazioni sono pubbliche: non inserire dati personali, tuoi o di altre persone. Le correzioni vengono registrate con data e motivo in [CORREZIONI.md](CORREZIONI.md) (vedi [METODOLOGIA, §1.10](METODOLOGIA.md#110-registro-correzioni)).
 
 Non serve saper programmare: basta un account GitHub gratuito. Le proposte di modifica (*pull request*) vengono accolte solo dopo la revisione dei manutentori.
 

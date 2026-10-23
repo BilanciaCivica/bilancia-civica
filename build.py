@@ -33,7 +33,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "23/10/2026, ore 22:48 (ora di Roma)"
+AGGIORNATO = "23/10/2026, ore 23:02 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -52,6 +52,8 @@ PAGINE = [
     ("contribuisci.html", "CONTRIBUTING.md", "Contribuisci", None),
     ("bussola-completa.html", "docs/bussola-diritti.md", None, "documenti"),
     ("analisi-dl-190-2026.html", "docs/analisi-dl-190-2026.md", None, "documenti"),
+    ("chi-siamo.html", "contenuti/chi-siamo.md", None, None),
+    ("note-legali.html", "contenuti/note-legali.md", None, None),
     ("404.html", "contenuti/404.md", None, None),
 ]
 SOTTOMENU_DIRITTI = [
@@ -110,6 +112,8 @@ def link_sicuro(url: str) -> bool:
 
 
 def _link(url: str) -> str:
+    if url.lower().startswith(SCHEMI_AMMESSI):
+        return url  # URL assoluto: non va riscritto (anche se finisce in .md)
     base, _, ancora = url.partition("#")
     while base.startswith("../"):
         base = base[3:]
@@ -365,7 +369,7 @@ MODELLO = """<!doctype html>
 </main>
 <footer class="piede">
   <div class="contenitore">
-    <p><strong>Informazione generale, non consulenza legale.</strong> Per un caso concreto: avvocato, sindacato, patronato o associazioni di tutela dei diritti.</p>
+    <p><strong>Contenuti informativi, non consulenza legale.</strong> Verifica sempre le fonti ufficiali; per un caso concreto rivolgiti a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
     <p>Bilancia Civica è un progetto civico apartitico e open source (<a href="{repo}/blob/main/LICENSE" rel="noopener noreferrer">licenza AGPL-3.0</a>). Testi aggiornati al {aggiornato}.
     Hai trovato un errore? <a href="{repo}/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="{repo}" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
     <p class="piccolo">Questo sito non usa cookie, non traccia i visitatori, non carica font o script esterni e non raccoglie dati.</p>

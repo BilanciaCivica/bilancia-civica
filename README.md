@@ -6,7 +6,9 @@ Diritti, decreti e soldi pubblici: che cosa cambia per te, con le fonti.
 
 - **Sito:** https://bilanciacivica.github.io/bilancia-civica/
 - **Codice sorgente:** https://github.com/BilanciaCivica/bilancia-civica
-- **Segnalazioni:** https://github.com/BilanciaCivica/bilancia-civica/issues
+- **Segnalazioni:** https://github.com/BilanciaCivica/bilancia-civica/issues (richieste di rettifica: https://github.com/BilanciaCivica/bilancia-civica/issues/new?template=rettifica.md)
+- **Chi siamo e contatti:** https://bilanciacivica.github.io/bilancia-civica/chi-siamo.html
+- **Note legali e privacy:** https://bilanciacivica.github.io/bilancia-civica/note-legali.html
 
 Bilancia Civica è un progetto civico **apartitico** e **open source** che spiega in modo
 semplice tre cose:
@@ -49,6 +51,7 @@ METODOLOGIA.md    metodo, etichette, fonti, registro correzioni
 CONTRIBUTING.md   come contribuire
 CORREZIONI.md     registro pubblico delle correzioni
 build.py          generatore del sito (solo libreria standard Python)
+.github/          modelli per le segnalazioni (rettifica, errore)
 LICENSE           GNU AGPL-3.0
 ```
 
@@ -101,6 +104,7 @@ Prima di pubblicare:
 Gli errori si segnalano aprendo una **segnalazione** (*issue*) su GitHub (https://github.com/BilanciaCivica/bilancia-civica/issues): indica la pagina, il testo da correggere,
 la fonte corretta (preferibilmente primaria) e la data. Le correzioni accettate vengono registrate in
 [CORREZIONI.md](CORREZIONI.md). Dettagli in [CONTRIBUTING.md](CONTRIBUTING.md).
+Le segnalazioni sono pubbliche: non inserire dati personali, tuoi o di altre persone.
 
 È prevista una **revisione esterna** dei contenuti da parte di un giurista e di un economista.
 Stato: **da fare**.
