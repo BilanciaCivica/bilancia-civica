@@ -1,6 +1,6 @@
 # Contribuire a Bilancia Civica
 
-> **Aggiornato al 23/10/2026, ore 23:02 (ora di Roma, CEST).**
+> **Aggiornato al 23/10/2026, ore 23:13 (ora di Roma, CEST).**
 >
 > Repository: [https://github.com/BilanciaCivica/bilancia-civica](https://github.com/BilanciaCivica/bilancia-civica) · Sito: [https://bilanciacivica.github.io/bilancia-civica/](https://bilanciacivica.github.io/bilancia-civica/)
 
@@ -51,4 +51,4 @@ Non serve saper programmare: basta un account GitHub gratuito. Le proposte di mo
 
 ## Licenza
 
-Contribuendo accetti che il codice sia rilasciato sotto [AGPL-3.0](LICENSE). Per i contenuti e le schede è proposta la licenza CC BY-SA 4.0 (da formalizzare).
+Contribuendo accetti che i tuoi **testi** siano rilasciati con licenza [CC BY-SA 4.0](LICENSE-TESTI) e il tuo **codice** con licenza [AGPL-3.0](LICENSE). Contribuisci solo con materiale tuo, con testi di atti ufficiali o con brevi citazioni di terzi indicate con la fonte.

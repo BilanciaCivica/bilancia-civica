@@ -71,6 +71,6 @@ Regole complete nel [Metodo](metodo.html).
 
 ## Open source e revisione
 
-- **Codice e testi sono pubblici.** Il codice è rilasciato con licenza [GNU AGPL-3.0](LICENSE): chiunque può leggerlo, verificarlo, copiarlo e migliorarlo, a patto che anche le versioni modificate restino aperte e citino l'origine. Per i testi è proposta la licenza CC BY-SA 4.0 (da formalizzare).
+- **Codice e testi sono pubblici.** Il codice è rilasciato con licenza [GNU AGPL-3.0](LICENSE) e i testi originali con licenza [CC BY-SA 4.0](LICENSE-TESTI): chiunque può leggerli, verificarli, copiarli e migliorarli, a patto di citare l'origine e di condividere le versioni modificate con la stessa licenza.
 - **Hai trovato un errore?** Apri una segnalazione (*issue*) sul repository GitHub indicando l'affermazione, la fonte corretta e la data. Le correzioni vengono registrate con data e motivo. Vedi [Contribuisci](contribuisci.html).
 - **Revisione esterna.** È prevista la revisione dei testi da parte di almeno un giurista e un economista indipendenti. **Stato: da fare.** Fino ad allora tutti i contenuti vanno considerati una versione di lavoro (v0.2).

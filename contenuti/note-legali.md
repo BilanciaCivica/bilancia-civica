@@ -29,7 +29,10 @@ Le persone pubbliche (per esempio rappresentanti delle istituzioni, dei partiti 
 
 - I **testi degli atti ufficiali** dello Stato e delle amministrazioni pubbliche non sono protetti dal diritto d'autore (art. 5 della legge 22 aprile 1941, n. 633).
 - Le **citazioni brevi** di articoli, dichiarazioni e documenti di terzi sono riportate a scopo di critica e discussione, con l'indicazione della fonte (art. 70 della stessa legge). I diritti restano ai rispettivi titolari.
-- Il **codice** del sito è rilasciato con licenza [GNU AGPL-3.0](LICENSE). Per i **testi originali** di Bilancia Civica è proposta la licenza CC BY-SA 4.0, non ancora formalizzata; finché non lo sarà, i testi sono pubblicati nel repository insieme al codice; a chi li riutilizza chiediamo di citare la fonte.
+- I **testi originali** di Bilancia Civica (le pagine del sito, i documenti di approfondimento, il metodo e il registro delle correzioni) sono rilasciati con licenza **Creative Commons Attribuzione – Condividi allo stesso modo 4.0** (CC BY-SA 4.0): puoi copiarli, modificarli e ridistribuirli, anche per fini commerciali, a patto di citare la fonte, indicare se hai fatto modifiche e usare la stessa licenza. [Sintesi della licenza](https://creativecommons.org/licenses/by-sa/4.0/deed.it) · [testo completo](LICENSE-TESTI).
+- La licenza CC BY-SA 4.0 **non si applica** ai testi degli atti ufficiali né alle citazioni di terzi descritti sopra.
+- Il **codice** del sito (generatore e foglio di stile) è rilasciato con licenza [GNU AGPL-3.0](LICENSE).
+- Attribuzione suggerita: *Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0*.
 
 ## Privacy
 

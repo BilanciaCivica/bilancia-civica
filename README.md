@@ -52,7 +52,8 @@ CONTRIBUTING.md   come contribuire
 CORREZIONI.md     registro pubblico delle correzioni
 build.py          generatore del sito (solo libreria standard Python)
 .github/          modelli per le segnalazioni (rettifica, errore)
-LICENSE           GNU AGPL-3.0
+LICENSE           GNU AGPL-3.0 (codice)
+LICENSE-TESTI     CC BY-SA 4.0 (testi originali)
 ```
 
 ## Anteprima locale
@@ -111,7 +112,10 @@ Stato: **da fare**.
 
 ## Licenza
 
-Il codice è rilasciato con licenza **GNU Affero General Public License v3.0**: vedi [LICENSE](LICENSE).
-Per i testi è proposta la licenza CC BY-SA 4.0, da formalizzare (vedi [CONTRIBUTING.md](CONTRIBUTING.md)).
+- **Codice** (`build.py`, `static/`): **GNU Affero General Public License v3.0**, vedi [LICENSE](LICENSE).
+- **Testi originali** (`contenuti/`, `docs/`, `METODOLOGIA.md`, `CORREZIONI.md` e i testi del sito): **Creative Commons Attribuzione – Condividi allo stesso modo 4.0** (CC BY-SA 4.0), vedi [LICENSE-TESTI](LICENSE-TESTI) e la [sintesi in italiano](https://creativecommons.org/licenses/by-sa/4.0/deed.it).
+- **Esclusi:** i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941).
+
+Attribuzione suggerita: *Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0*.
 
 *Contenuti aggiornati al 23/10/2026.*

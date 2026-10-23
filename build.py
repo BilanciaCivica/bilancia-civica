@@ -33,7 +33,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "23/10/2026, ore 23:02 (ora di Roma)"
+AGGIORNATO = "23/10/2026, ore 23:13 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -67,7 +67,8 @@ SOTTOMENU_DIRITTI = [
 ]
 # Link Markdown tra file del repository -> pagine del sito
 MAPPA_LINK = {src: out for out, src, _, _ in PAGINE}
-MAPPA_LINK.update({"LICENSE": REPO_URL + "/blob/main/LICENSE", "README.md": "index.html"})
+MAPPA_LINK.update({"LICENSE": REPO_URL + "/blob/main/LICENSE",
+                   "LICENSE-TESTI": REPO_URL + "/blob/main/LICENSE-TESTI", "README.md": "index.html"})
 
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "
        "base-uri 'none'; form-action 'none'")
@@ -370,7 +371,8 @@ MODELLO = """<!doctype html>
 <footer class="piede">
   <div class="contenitore">
     <p><strong>Contenuti informativi, non consulenza legale.</strong> Verifica sempre le fonti ufficiali; per un caso concreto rivolgiti a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
-    <p>Bilancia Civica è un progetto civico apartitico e open source (<a href="{repo}/blob/main/LICENSE" rel="noopener noreferrer">licenza AGPL-3.0</a>). Testi aggiornati al {aggiornato}.
+    <p>Bilancia Civica è un progetto civico apartitico e open source. Testi aggiornati al {aggiornato}.
+    <a href="{repo}/blob/main/LICENSE-TESTI" rel="noopener noreferrer">Testi CC BY-SA 4.0</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" rel="noopener noreferrer">sintesi della licenza</a>) · <a href="{repo}/blob/main/LICENSE" rel="noopener noreferrer">Codice AGPL-3.0</a> · Testi normativi e citazioni di terzi esclusi: vedi <a href="note-legali.html#diritto-dautore-e-licenza">note legali</a>.<br>
     Hai trovato un errore? <a href="{repo}/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="{repo}" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
     <p class="piccolo">Questo sito non usa cookie, non traccia i visitatori, non carica font o script esterni e non raccoglie dati.</p>
   </div>
