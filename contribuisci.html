@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Contribuire a Bilancia Civica · Bilancia Civica</title>
+<meta name="description" content="Bilancia Civica: strumento civico apartitico e open source che spiega leggi e decreti con fonti verificabili.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="salta" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <div class="contenitore testata-riga">
+    <a class="marchio" href="index.html">
+      <img src="favicon.svg" alt="" width="36" height="36">
+      <span><strong>Bilancia Civica</strong><br><em>Ogni decreto, pesato sulla tua vita</em></span>
+    </a>
+  </div>
+  <nav class="menu" aria-label="Menu principale">
+    <ul class="contenitore">
+<li><a href="index.html">Home</a></li>
+<li><a href="diritti.html">Bussola Diritti</a></li>
+<li><a href="decreto.html">Decreto sicurezza</a></li>
+<li><a href="stato.html">Stato degli atti</a></li>
+<li><a href="impatto.html">Impatto</a></li>
+<li><a href="alternative.html">Alternative</a></li>
+<li><a href="fonti.html">Fonti</a></li>
+<li><a href="metodo.html">Metodo</a></li>
+<li><a href="contribuisci.html" class="attivo" aria-current="page">Contribuisci</a></li>
+    </ul>
+  </nav>
+</header>
+<main id="contenuto" class="contenitore">
+
+<article class="testo">
+<h1 id="contribuire-a-bilancia-civica">Contribuire a Bilancia Civica</h1>
+<blockquote><p><strong>Aggiornato al 23/10/2026, ore 22:48 (ora di Roma, CEST).</strong></p>
+<p>Repository: <a href="https://github.com/BilanciaCivica/bilancia-civica" rel="noopener noreferrer">https://github.com/BilanciaCivica/bilancia-civica</a> · Sito: <a href="https://bilanciacivica.github.io/bilancia-civica/" rel="noopener noreferrer">https://bilanciacivica.github.io/bilancia-civica/</a></p></blockquote>
+<p>Grazie per voler contribuire. Bilancia Civica è <strong>imparziale e apartitica</strong>: ogni contributo deve rispettare il <a href="metodo.html">metodo</a>.</p>
+<h2 id="regole-sui-contenuti">Regole sui contenuti</h2>
+<ol>
+<li><strong>Niente numeri inventati.</strong> Se un dato manca si scrive «non disponibile»; se è riportato ma non confermato, «DA VERIFICARE».</li>
+<li><strong>Ogni affermazione indica la sua fonte, con il collegamento al documento</strong>, preferibilmente primaria (Gazzetta Ufficiale, Normattiva, Camera, Senato, ministeri, ISTAT, UPB, Corte costituzionale).</li>
+<li><strong>Quattro etichette</strong>, più la certezza (Alta / Media / Bassa):<ul>
+<li><strong>FATTO</strong>: verificabile sulla fonte indicata.</li>
+<li><strong>STIMA</strong>: solo per numeri, sempre come intervallo con ipotesi e metodo.</li>
+<li><strong>INTERPRETAZIONE</strong>: sempre attribuita a chi l'ha espressa (persona, ente, testata). Un consiglio pratico neutro si contrassegna come «Nota redazionale di Bilancia Civica».</li>
+<li><strong>DA VERIFICARE</strong>: affermazione plausibile o riportata da una fonte ma non ancora confermata da fonte primaria; deve indicare <strong>cosa manca</strong> e <strong>come si verificherà</strong>.</li>
+</ul></li>
+<li><strong>Simmetria.</strong> Posizioni di maggioranza e opposizione con gli stessi criteri: citazione testuale, fonte, data.</li>
+<li><strong>Date e orari</strong> in ora di Roma; ogni documento riporta in testa data e ora dell'ultimo aggiornamento.</li>
+<li><strong>Niente consulenza legale</strong> e niente aiuto a identificare manifestanti o agenti.</li>
+<li><strong>Nessun dato degli utenti.</strong> Il sito e il simulatore non raccolgono né salvano dati, nemmeno in forma anonima: non proporre moduli, registri o profili.</li>
+</ol>
+<h2 id="dati-di-terzi">Dati di terzi</h2>
+<p>Se usi dati raccolti o elaborati da altri progetti:</p>
+<ul>
+<li>cita il progetto, il dataset e la data della consultazione, e risali alla fonte primaria quando possibile;</li>
+<li>se la licenza non è dichiarata, <strong>non ridistribuire righe grezze</strong> (niente copie integrali o file CSV nel repository);</li>
+<li>presenta i risultati come <strong>segnali da verificare</strong>, <strong>mai come accuse</strong>;</li>
+<li><strong>non pubblicare nomi di persone fisiche</strong>.</li>
+</ul>
+<p>Dettagli in <a href="metodo.html#111-dati-di-terzi">METODOLOGIA, §1.11</a>.</p>
+<h2 id="testi-e-sito">Testi e sito</h2>
+<ul>
+<li>I testi delle pagine stanno in <code>contenuti/*.md</code> (Markdown semplice). I documenti lunghi sono <code>METODOLOGIA.md</code>, <code>CONTRIBUTING.md</code> e <code>docs/*.md</code>, e diventano anch'essi pagine del sito.</li>
+<li>Dopo ogni modifica rigenera e controlla il sito in locale:<pre><code>python3 build.py                        # scrive _site/ (escluso da git)
+python3 -m http.server -d _site 8000    # apri http://localhost:8000</code></pre></li>
+<li>Il generatore <code>build.py</code> usa solo la libreria standard di Python. Non aggiungere dipendenze, script, font o servizi esterni, cookie o strumenti di tracciamento.</li>
+<li>Ogni pagina che parla di un atto riporta la data di aggiornamento; quando cambia lo stato di un atto aggiorna anche <code>contenuti/stato.md</code>.</li>
+<li><strong>Mai</strong> inserire nel repository segreti, credenziali o dati personali. Non si modificano le versioni archiviate: una nuova versione di un documento va in un nuovo file, con il registro delle modifiche.</li>
+</ul>
+<h2 id="correzioni">Correzioni</h2>
+<p>Gli errori si segnalano con una <strong>segnalazione</strong> (<em>issue</em>) sul <a href="https://github.com/BilanciaCivica/bilancia-civica/issues" rel="noopener noreferrer">repository GitHub</a> indicando: pagina, affermazione, fonte corretta e data. Le correzioni vengono registrate con data e motivo in <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/CORREZIONI.md" rel="noopener noreferrer">CORREZIONI.md</a> (vedi <a href="metodo.html#110-registro-correzioni">METODOLOGIA, §1.10</a>).</p>
+<p>Non serve saper programmare: basta un account GitHub gratuito. Le proposte di modifica (<em>pull request</em>) vengono accolte solo dopo la revisione dei manutentori.</p>
+<h2 id="licenza">Licenza</h2>
+<p>Contribuendo accetti che il codice sia rilasciato sotto <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/LICENSE" rel="noopener noreferrer">AGPL-3.0</a>. Per i contenuti e le schede è proposta la licenza CC BY-SA 4.0 (da formalizzare).</p>
+</article>
+</main>
+<footer class="piede">
+  <div class="contenitore">
+    <p><strong>Informazione generale, non consulenza legale.</strong> Per un caso concreto: avvocato, sindacato, patronato o associazioni di tutela dei diritti.</p>
+    <p>Bilancia Civica è un progetto civico apartitico e open source (<a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/LICENSE" rel="noopener noreferrer">licenza AGPL-3.0</a>). Testi aggiornati al 23/10/2026, ore 22:48 (ora di Roma).
+    Hai trovato un errore? <a href="https://github.com/BilanciaCivica/bilancia-civica/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="https://github.com/BilanciaCivica/bilancia-civica" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
+    <p class="piccolo">Questo sito non usa cookie, non traccia i visitatori, non carica font o script esterni e non raccoglie dati.</p>
+  </div>
+</footer>
+</body>
+</html>

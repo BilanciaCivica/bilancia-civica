@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Simulatore d&#x27;impatto (in sviluppo) · Bilancia Civica</title>
+<meta name="description" content="Come funzionerà il simulatore d&#x27;impatto di Bilancia Civica: intervalli, ipotesi dichiarate, nessun dato salvato.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="salta" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <div class="contenitore testata-riga">
+    <a class="marchio" href="index.html">
+      <img src="favicon.svg" alt="" width="36" height="36">
+      <span><strong>Bilancia Civica</strong><br><em>Ogni decreto, pesato sulla tua vita</em></span>
+    </a>
+  </div>
+  <nav class="menu" aria-label="Menu principale">
+    <ul class="contenitore">
+<li><a href="index.html">Home</a></li>
+<li><a href="diritti.html">Bussola Diritti</a></li>
+<li><a href="decreto.html">Decreto sicurezza</a></li>
+<li><a href="stato.html">Stato degli atti</a></li>
+<li><a href="impatto.html" class="attivo" aria-current="page">Impatto</a></li>
+<li><a href="alternative.html">Alternative</a></li>
+<li><a href="fonti.html">Fonti</a></li>
+<li><a href="metodo.html">Metodo</a></li>
+<li><a href="contribuisci.html">Contribuisci</a></li>
+    </ul>
+  </nav>
+</header>
+<main id="contenuto" class="contenitore">
+
+<article class="testo">
+<h1 id="simulatore-dimpatto">Simulatore d'impatto</h1>
+<div class="box box-attenzione"><p><strong>In sviluppo.</strong> Il simulatore non è ancora disponibile. Questa pagina descrive come funzionerà e con quali regole. Non mostriamo stime finché il metodo e i dati non sono stati verificati.</p></div>
+<h2 id="cosa-farà">Cosa farà</h2>
+<p>Per una <strong>situazione tipo semplificata</strong> mostrerà l'effetto stimato di una misura: sempre come <strong>intervallo</strong> (minimo–massimo), con ipotesi, fonti e livello di certezza. Mai un numero secco.</p>
+<h2 id="le-domande-tutte-facoltative">Le domande (tutte facoltative)</h2>
+<ul>
+<li>Fascia di reddito familiare annuo</li>
+<li>Area: Nord-Ovest, Nord-Est, Centro, Sud, Isole (ripartizioni ISTAT)</li>
+<li>Fascia d'età</li>
+<li>Condizione: dipendente, autonomo, pensionato, disoccupato, studente, altro</li>
+<li>Nucleo: numero di componenti, figli a carico sì/no</li>
+</ul>
+<p>Per ogni domanda ci sarà sempre la risposta «Preferisco non dirlo».</p>
+<h2 id="dati-personali">Dati personali</h2>
+<ul>
+<li><strong>Nessun dato identificativo:</strong> niente nome, codice fiscale, indirizzo o reddito esatto.</li>
+<li><strong>Nessun dato salvato:</strong> le risposte serviranno solo per il calcolo mostrato a schermo. Non verranno registrate né in forma anonima né con il tuo consenso, e non esistono profili utente.</li>
+</ul>
+<h2 id="regole-del-metodo">Regole del metodo</h2>
+<ul>
+<li><span class="etichetta"><span class="et et-stima">STIMA</span></span> si usa <strong>solo per numeri</strong>, sempre con intervallo, ipotesi elencate, dati di partenza con il collegamento alla fonte e metodo riproducibile.</li>
+<li>Se manca il testo ufficiale di una misura (per esempio perché non è ancora in Gazzetta o è un emendamento non approvato), <strong>non produciamo stime</strong>: mostriamo solo cosa prevede l'annuncio e cosa resta da verificare.</li>
+<li>Ogni risultato dirà anche <strong>cosa non è incluso</strong> e ricorderà che la stima non sostituisce il calcolo di un commercialista, di un CAF o dell'ente erogatore.</li>
+</ul>
+<h2 id="misure-candidate">Misure candidate</h2>
+<div class="tabella"><table><thead><tr><th scope="col">Misura</th><th scope="col">Stato</th><th scope="col">Stima</th></tr></thead><tbody><tr><td>Credito d'imposta gasolio autotrasporto, marzo–agosto 2026</td><td>Base normativa pubblicata (D.L. 33/2026, decreti attuativi MIT)</td><td><strong>Possibile</strong> solo per le imprese di autotrasporto, come intervallo (riparametrazione in corso)</td></tr><tr><td>Credito d'imposta autotrasporto, 1/9–5/10/2026</td><td>Emendamento non approvato</td><td><strong>Nessuna stima</strong></td></tr><tr><td>D.L. 190/2026 (decreto sicurezza)</td><td>In vigore dal 23/10/2026</td><td>Misure penali e di polizia, senza effetti economici diretti per i cittadini da stimare → <a href="decreto.html">Decreto sicurezza</a></td></tr><tr><td>Legge di bilancio 2027</td><td>Non ancora approvata dal CdM</td><td><strong>Nessuna stima</strong></td></tr></tbody></table></div>
+<p>Metodo completo: <a href="metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare">Metodo, §1.3 e §1.7</a>.</p>
+</article>
+</main>
+<footer class="piede">
+  <div class="contenitore">
+    <p><strong>Informazione generale, non consulenza legale.</strong> Per un caso concreto: avvocato, sindacato, patronato o associazioni di tutela dei diritti.</p>
+    <p>Bilancia Civica è un progetto civico apartitico e open source (<a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/LICENSE" rel="noopener noreferrer">licenza AGPL-3.0</a>). Testi aggiornati al 23/10/2026, ore 22:48 (ora di Roma).
+    Hai trovato un errore? <a href="https://github.com/BilanciaCivica/bilancia-civica/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="https://github.com/BilanciaCivica/bilancia-civica" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
+    <p class="piccolo">Questo sito non usa cookie, non traccia i visitatori, non carica font o script esterni e non raccoglie dati.</p>
+  </div>
+</footer>
+</body>
+</html>

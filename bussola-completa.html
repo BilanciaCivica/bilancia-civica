@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Bilancia Civica · Bussola Diritti · Bilancia Civica</title>
+<meta name="description" content="Bilancia Civica: strumento civico apartitico e open source che spiega leggi e decreti con fonti verificabili.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="salta" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <div class="contenitore testata-riga">
+    <a class="marchio" href="index.html">
+      <img src="favicon.svg" alt="" width="36" height="36">
+      <span><strong>Bilancia Civica</strong><br><em>Ogni decreto, pesato sulla tua vita</em></span>
+    </a>
+  </div>
+  <nav class="menu" aria-label="Menu principale">
+    <ul class="contenitore">
+<li><a href="index.html">Home</a></li>
+<li><a href="diritti.html">Bussola Diritti</a></li>
+<li><a href="decreto.html">Decreto sicurezza</a></li>
+<li><a href="stato.html">Stato degli atti</a></li>
+<li><a href="impatto.html">Impatto</a></li>
+<li><a href="alternative.html">Alternative</a></li>
+<li><a href="fonti.html">Fonti</a></li>
+<li><a href="metodo.html">Metodo</a></li>
+<li><a href="contribuisci.html">Contribuisci</a></li>
+    </ul>
+  </nav>
+</header>
+<main id="contenuto" class="contenitore">
+<nav class="sottomenu" aria-label="Sezioni della Bussola Diritti"><ul><li><a href="diritti.html">Panoramica</a></li><li><a href="presidio.html">Presidio</a></li><li><a href="corteo.html">Corteo</a></li><li><a href="sciopero.html">Sciopero</a></li><li><a href="decreto.html">Decreto sicurezza</a></li><li><a href="esempio.html">Esempio: corteo e decreto</a></li><li><a href="bussola-completa.html" aria-current="page" class="attivo">Testo completo</a></li></ul></nav>
+<article class="testo">
+<h1 id="bilancia-civica--bussola-diritti">Bilancia Civica · Bussola Diritti</h1>
+<h3 id="riunione-manifestazione-e-sciopero-cosa-dice-la-legge-cosa-è-punibile-cosa-sta-cambiando">Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando</h3>
+<blockquote><p><strong>Aggiornato al 23/10/2026, ore 20:01 (ora di Roma)</strong>, dopo una verifica dei fatti sulle fonti primarie (correzioni in <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/CORREZIONI.md" rel="noopener noreferrer">CORREZIONI.md</a>).<br>
+Ultima verifica in Gazzetta Ufficiale: Serie Generale <strong>n. 246 del 22/10/2026</strong>, che contiene il <strong>D.L. 22 ottobre 2026, n. 190</strong> (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).<br>
+Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).</p></blockquote>
+<blockquote><p>⚠️ <strong>Avviso importante: questa è informazione giuridica generale, non consulenza legale.</strong><br>
+Le norme si applicano sempre ai fatti concreti, e i fatti contano. Per un caso concreto (un preavviso da presentare, un fermo, una denuncia, una sanzione, uno sciopero da proclamare) <strong>rivolgiti a un avvocato</strong> oppure a sportelli legali gratuiti, associazioni per i diritti civili, patronati o al tuo <strong>sindacato</strong>. Se sei stato fermato o denunciato, hai diritto a un difensore: nominane uno di fiducia, altrimenti ti verrà assegnato un difensore d'ufficio.</p></blockquote>
+<hr>
+<h2 id="come-leggere-questa-bussola">Come leggere questa Bussola</h2>
+<p>Ogni affermazione ha un'etichetta:</p>
+<div class="tabella"><table><thead><tr><th scope="col">Etichetta</th><th scope="col">Significato</th></tr></thead><tbody><tr><td><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong></td><td>Lo dice un testo ufficiale (Costituzione, legge, Gazzetta Ufficiale, sentenza, comunicato istituzionale). Il collegamento porta alla fonte.</td></tr><tr><td><strong><span class="etichetta"><span class="et et-stima">STIMA</span></span></strong></td><td><strong>Solo per numeri</strong>: un valore calcolato con un <strong>intervallo</strong> (minimo–massimo) e ipotesi dichiarate. Un giudizio qualitativo non è mai una stima.</td></tr><tr><td><strong><span class="etichetta"><span class="et et-interp">INTERPRETAZIONE</span></span></strong></td><td>Una lettura o valutazione, <strong>sempre attribuita</strong> a chi l'ha espressa (giurista, ente, giudice, partito, governo), con la fonte. Sui temi controversi riportiamo le posizioni contrapposte <strong>realmente espresse</strong>, senza prendere parte.</td></tr><tr><td><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong></td><td>Un'affermazione plausibile o riportata da una fonte, ma <strong>non ancora confermata da una fonte primaria</strong>. Indichiamo sempre <strong>cosa manca</strong> e <strong>come lo verificheremo</strong>. Non va usata come certa.</td></tr></tbody></table></div>
+<p>I consigli pratici neutri (per esempio "conserva la ricevuta") sono marcati <strong><span class="et et-nota">Nota redazionale di Bilancia Civica</span></strong>: non sono interpretazioni di norme né giudizi su persone o schieramenti.</p>
+<p>Regola di metodo: <strong>i testi in Gazzetta Ufficiale sono la fonte che prevale.</strong> Bozze, comunicati e articoli di stampa servono solo finché il testo ufficiale non è pubblicato.</p>
+<hr>
+<h2 id="indice">Indice</h2>
+<ol>
+<li><a href="#1-il-diritto-di-riunione-art-17-cost">Il diritto di riunione (art. 17 Cost.)</a></li>
+<li><a href="#2-il-diritto-di-sciopero-art-40-cost-e-l-1461990">Il diritto di sciopero (art. 40 Cost. e L. 146/1990)</a></li>
+<li><a href="#3-sciopero-fermo-serrata-le-differenze">Sciopero, fermo, serrata: le differenze</a></li>
+<li><a href="#4-tabella-protesta-pacifica-protetta-e-condotte-punibili">Tabella: protesta pacifica protetta e condotte punibili</a></li>
+<li><a href="#5-il-nuovo-decreto-sicurezza-dl-22-ottobre-2026-n-190">Il nuovo decreto sicurezza: D.L. 22 ottobre 2026, n. 190</a></li>
+<li><a href="#6-domande-frequenti-faq">Domande frequenti (FAQ)</a></li>
+<li><a href="#7-punti-aperti-e-da-verificare">Punti aperti e da verificare</a></li>
+<li><a href="#8-fonti-principali">Fonti principali</a></li>
+</ol>
+<hr>
+<h2 id="1-il-diritto-di-riunione-art-17-cost">1. Il diritto di riunione (art. 17 Cost.)</h2>
+<h3 id="11-cosa-dice-la-costituzione">1.1 Cosa dice la Costituzione</h3>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> L'art. 17 della <a href="https://www.senato.it/istituzione/la-costituzione" rel="noopener noreferrer">Costituzione</a> stabilisce che:</p>
+<ul>
+<li>i cittadini hanno diritto di <strong>riunirsi pacificamente e senz'armi</strong>;</li>
+<li>per le riunioni, <strong>anche in luogo aperto al pubblico</strong>, <strong>non è richiesto preavviso</strong>;</li>
+<li>per le riunioni <strong>in luogo pubblico</strong> deve essere dato <strong>preavviso alle autorità</strong>, che possono <strong>vietarle soltanto per comprovati motivi di sicurezza o di incolumità pubblica</strong>.</li>
+</ul>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Altre norme costituzionali collegate:</p>
+<ul>
+<li><strong>art. 21:</strong> tutti hanno diritto di manifestare liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione;</li>
+<li><strong>art. 27:</strong> <strong>la responsabilità penale è personale</strong> (comma 1) e l'imputato non è considerato colpevole fino alla condanna definitiva (comma 2).</li>
+</ul>
+<h3 id="12-tre-tipi-di-luogo-tre-regole-diverse">1.2 Tre tipi di luogo, tre regole diverse</h3>
+<div class="tabella"><table><thead><tr><th scope="col">Luogo</th><th scope="col">Esempi</th><th scope="col">Preavviso?</th></tr></thead><tbody><tr><td><strong>Privato</strong></td><td>casa, sede di un'associazione riservata ai soci</td><td>No</td></tr><tr><td><strong>Aperto al pubblico</strong> (accesso possibile ma regolato)</td><td>teatro, sala convegni, cinema, locale con ingresso controllato</td><td><strong>No</strong> (art. 17, c. 2 Cost.; Corte cost. sent. 27/1958)</td></tr><tr><td><strong>Pubblico</strong> (accesso libero a tutti)</td><td>piazza, strada, parco pubblico</td><td><strong>Sì, al questore, almeno 3 giorni prima</strong> (art. 18 TULPS)</td></tr></tbody></table></div>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> La <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1958/27" rel="noopener noreferrer">sentenza della Corte costituzionale n. 27/1958</a> ha dichiarato illegittimo l'art. 18 TULPS nella parte in cui imponeva il preavviso anche per le riunioni in luogo aperto al pubblico. L'obbligo resta solo per quelle <strong>in luogo pubblico</strong>.</p>
+<h3 id="13-il-preavviso-al-questore-art-18-tulps">1.3 Il preavviso al questore (art. 18 TULPS)</h3>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> L'art. 18 del <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773" rel="noopener noreferrer">Testo unico delle leggi di pubblica sicurezza (R.D. 773/1931, "TULPS")</a> prevede che <strong>i promotori</strong> di una riunione in luogo pubblico ne diano avviso al <strong>questore almeno tre giorni prima</strong>.</p>
+<p><strong>Il preavviso è una comunicazione, non una richiesta di autorizzazione.</strong></p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Lo dice il testo dell'art. 17 Cost.: per la Costituzione la riunione è un diritto, e l'autorità può solo vietarla per "comprovati motivi di sicurezza o di incolumità pubblica".</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> La Corte costituzionale ha distinto l'onere del preavviso, che grava sui promotori, dal potere di vietare la riunione, che richiede motivi comprovati di sicurezza o incolumità pubblica, preavviso o no. La <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1979/11" rel="noopener noreferrer">sent. 11/1979</a> lo ricorda richiamando la <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1970/90" rel="noopener noreferrer">sent. 90/1970</a>.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Giuridicamente il presupposto resta il preavviso, non un'autorizzazione (art. 17 Cost.; sentenze citate sopra).</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Nella prassi molte Questure rispondono al preavviso con prescrizioni su orari e percorsi, e dopo l'incontro si parla spesso di "manifestazione autorizzata". Manca: una fonte documentale sulla prassi. Verifica: circolari del Ministero dell'interno e provvedimenti pubblicati dalle Questure.</li>
+</ul>
+<p><strong>Il questore può:</strong></p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>vietare</strong> la riunione (art. 18 TULPS). Dopo l'entrata in vigore della Costituzione, il divieto è legittimo solo per <strong>comprovati motivi di sicurezza o incolumità pubblica</strong>. Il testo del TULPS menziona anche "moralità" e "sanità pubblica". <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Che questi motivi vadano letti alla luce dell'art. 17 Cost., e quindi ridotti a sicurezza e incolumità pubblica, è una lettura diffusa di cui non abbiamo ancora una fonte citabile. Manca: un'opera di dottrina o una sentenza costituzionale specifica. Verifica: ricerca nelle pronunce della Corte costituzionale sull'art. 18 TULPS;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>prescrivere modalità di tempo e di luogo</strong>, come orario, percorso o piazza alternativa.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Contro il divieto o le prescrizioni ci si può rivolgere al giudice amministrativo (TAR). <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> I tempi pratici di un ricorso urgente. Manca: dati sui tempi delle misure cautelari dei TAR. Verifica: non prevista in questa versione; per il caso concreto serve un avvocato.</li>
+</ul>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> L'art. 18 TULPS non si applica alle <strong>riunioni elettorali</strong> (ultimo comma).</p>
+<h3 id="14-sanzioni-per-il-mancato-preavviso-cosa-è-cambiato-nel-2026">1.4 Sanzioni per il mancato preavviso: cosa è cambiato nel 2026</h3>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il <a href="https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG" rel="noopener noreferrer">D.L. 24 febbraio 2026, n. 23</a>, <strong>in vigore dal 25/02/2026</strong> e convertito con modificazioni dalla <a href="https://www.gazzettaufficiale.it/eli/id/2026/04/24/26G00078/SG" rel="noopener noreferrer">L. 24 aprile 2026, n. 54</a> (in vigore dal 25/04/2026), ha <strong>trasformato le sanzioni dell'art. 18 TULPS da penali (arresto e ammenda) ad amministrative</strong>, e le ha aumentate. Testo coordinato nella GU n. 95 del 24/04/2026:</p>
+<div class="tabella"><table><thead><tr><th scope="col">Condotta (art. 18 TULPS, testo vigente)</th><th scope="col">Sanzione</th></tr></thead><tbody><tr><td>Promotori di riunione in luogo pubblico <strong>senza preavviso</strong>, compreso chi la promuove <strong>tramite reti, piattaforme, servizi di comunicazione elettronica o gruppi chiusi di utenti</strong></td><td>sanzione amministrativa <strong>da 1.000 a 10.000 €</strong></td></tr><tr><td>Chi <strong>non rispetta il divieto o le prescrizioni</strong> del questore</td><td>sanzione amministrativa <strong>da 1.000 a 12.000 €</strong></td></tr><tr><td>Mancato rispetto delle limitazioni alla circolazione o dell'<strong>itinerario</strong> previsto, da cui possa derivare pericolo per sicurezza o incolumità pubblica</td><td><strong>da 1.000 a 10.000 €</strong></td></tr><tr><td>Intralcio ai <strong>servizi di soccorso pubblico urgente</strong> durante una riunione (salvo che sia reato)</td><td><strong>da 1.000 a 10.000 €</strong></td></tr><tr><td>Chi <strong>turba il pacifico svolgimento</strong> di una riunione o il relativo servizio d'ordine (salvo che sia reato)</td><td><strong>da 500 a 3.000 €</strong>, oppure <strong>da 2.000 a 10.000 €</strong> se lo fa con volto travisato o in possesso degli oggetti indicati dall'art. 5-bis L. 152/1975</td></tr><tr><td>Recidiva (reiterazione nel biennio, o tre violazioni in cinque anni)</td><td>aumento da un terzo alla metà</td></tr></tbody></table></div>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Le sanzioni sono irrogate dal <strong>Prefetto</strong> e non è ammesso il pagamento in misura ridotta.</p>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Chi si limita a <strong>partecipare</strong> a una riunione non preavvisata non rientra nella sanzione per mancato preavviso, che riguarda i <strong>promotori</strong>. Il discorso cambia per chi non rispetta un divieto o una prescrizione, o non si allontana dopo l'ordine di scioglimento (vedi §1.5).</p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Chi <strong>prende la parola</strong> in una riunione <strong>vietata</strong> o tenuta violando le prescrizioni rischia la stessa sanzione di chi viola il divieto (art. 18, c. 5, TULPS).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Le sentenze <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1970/90" rel="noopener noreferrer">90/1970</a> e <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1979/11" rel="noopener noreferrer">11/1979</a>, annotate su Normattiva all'art. 18, hanno dichiarato illegittima la punizione di chi <strong>prende la parola</strong> in una riunione non preavvisata (c. 3), anche se sa che il preavviso manca.</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Il testo vigente su Normattiva conserva nel c. 3 la frase su chi prende la parola, ora con "la medesima sanzione" amministrativa, e riporta in nota le due sentenze. Non è chiaro come quelle pronunce, rese sulla norma penale, si applichino al nuovo illecito amministrativo. Manca: giurisprudenza o circolari sul testo del 2026.</li>
+</ul>
+<h3 id="15-scioglimento-della-riunione-artt-20-24-tulps">1.5 Scioglimento della riunione (artt. 20-24 TULPS)</h3>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> La procedura prevista dal TULPS è questa:</p>
+<ul>
+<li><strong>art. 20:</strong> riunioni e assembramenti in luogo pubblico o aperto al pubblico <strong>possono essere sciolti</strong> se vi avvengono manifestazioni o grida sediziose o lesive del prestigio dell'autorità, se possono mettere in pericolo l'ordine pubblico o la sicurezza dei cittadini, oppure se vi vengono <strong>commessi delitti</strong>;</li>
+<li><strong>artt. 22-23:</strong> prima viene rivolto un <strong>invito a sciogliersi</strong>. Se l'invito non ha effetto, segue l'<strong>ordine formale</strong>, preceduto da <strong>intimazioni</strong>. La legge prevede tre intimazioni, ciascuna preceduta da uno squillo di tromba o da un segnale equivalente. <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Le modalità esatte vanno controllate nel testo vigente su Normattiva;</li>
+<li><strong>art. 24:</strong> se le intimazioni restano senza effetto, la riunione può essere <strong>sciolta con la forza</strong>. Chi <strong>non ottempera all'ordine di scioglimento</strong> è soggetto, dopo il D.L. 23/2026, a una <strong>sanzione amministrativa da 2.000 a 20.000 €</strong>, senza pagamento in misura ridotta;</li>
+<li><strong>art. 18, penultimo comma:</strong> non è punibile chi si <strong>ritira dalla riunione</strong> prima dell'ingiunzione dell'autorità o per obbedire a essa.</li>
+</ul>
+<h3 id="16-volto-coperto-e-oggetti-art-5-l-1521975-l-1101975">1.6 Volto coperto e oggetti (art. 5 L. 152/1975; L. 110/1975)</h3>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> L'<a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152" rel="noopener noreferrer">art. 5 della L. 152/1975</a> vieta l'uso di <strong>caschi protettivi o di qualunque altro mezzo che renda difficoltoso il riconoscimento</strong> della persona in luogo pubblico o aperto al pubblico senza giustificato motivo. <strong>In occasione di manifestazioni</strong> in luogo pubblico o aperto al pubblico il divieto è assoluto, tranne per quelle di carattere sportivo che lo comportino. È un <strong>reato</strong> (contravvenzione). Le pene vanno verificate nel testo vigente.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il <a href="https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG" rel="noopener noreferrer">D.L. 23/2026</a> usa il travisamento come aggravante della sanzione per chi turba una riunione (§1.4). Il D.L. 190/2026 lo usa come aggravante del nuovo art. 420-bis c.p. (§5).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Portare fuori casa, senza giustificato motivo, <strong>strumenti atti a offendere</strong> è reato (art. 4 <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110" rel="noopener noreferrer">L. 110/1975</a>). Il D.L. 23/2026 ha inasprito la disciplina sulle lame.</li>
+</ul>
+<h3 id="17-misure-di-polizia-già-in-vigore-prima-del-nuovo-decreto">1.7 Misure di polizia già in vigore prima del nuovo decreto</h3>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> "Fermo preventivo" nelle manifestazioni.</strong> Il D.L. 23/2026 ha introdotto l'<strong>art. 11-bis del <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59" rel="noopener noreferrer">D.L. 59/1978</a></strong>, in vigore dal 25/02/2026 e confermato dalla L. 54/2026. Durante i servizi d'ordine pubblico per manifestazioni, in presenza di un attuale pericolo per l'ordine e la sicurezza pubblica, la polizia può <strong>accompagnare negli uffici e trattenere fino a 12 ore</strong> le persone per cui, sulla base di <strong>elementi di fatto</strong>, ci sia fondato motivo di ritenere che pongano in essere condotte di concreto pericolo per il pacifico svolgimento della manifestazione. Gli elementi di fatto possono essere il possesso di determinati oggetti, oppure precedenti o segnalazioni per reati violenti commessi in manifestazioni negli ultimi cinque anni.<ul>
+<li>Va data <strong>immediata notizia al pubblico ministero</strong>, che ordina il rilascio se le condizioni non ricorrono.</li>
+<li>Per i <strong>minori</strong> vengono avvisati il procuratore presso il tribunale per i minorenni e i genitori (comma 3-bis aggiunto in conversione).</li>
+</ul></li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Identificazione.</strong> La polizia giudiziaria può identificare chi è sottoposto a indagini o chi può riferire su fatti rilevanti. Chi rifiuta di farsi identificare o fornisce generalità false può essere accompagnato negli uffici per il tempo necessario, <strong>non oltre 12 ore</strong>, oppure <strong>24</strong> previo avviso al PM (<a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.presidente.repubblica:1988-09-22;447~art349" rel="noopener noreferrer">art. 349, c. 4, c.p.p.</a>). Fuori dalle indagini, chi rifiuta di dichiarare le generalità, o le dà in modo che si possano ritenere false, può essere accompagnato negli uffici per il tempo strettamente necessario all'identificazione, <strong>non oltre 24 ore</strong>, con notizia immediata al PM (<a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59~art11" rel="noopener noreferrer">art. 11 D.L. 59/1978</a>). Rifiutare di dare le proprie generalità a un pubblico ufficiale è un reato (art. 651 c.p.); darle false è un reato più grave (artt. 495-496 c.p.).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Divieto di partecipare a riunioni come pena accessoria.</strong> Con la condanna per alcuni delitti commessi in occasione di riunioni (art. 10 D.L. 23/2026, come modificato in conversione: tra gli altri 336, 337, 419, 583-quater, 635 c. 3 c.p.), il giudice può vietare di partecipare a pubbliche riunioni <strong>da 1 a 3 anni</strong>, o per una durata pari alla pena se superiore a tre anni, <strong>fino a un massimo di 10</strong>.</li>
+</ul>
+<hr>
+<h2 id="2-il-diritto-di-sciopero-art-40-cost-e-l-1461990">2. Il diritto di sciopero (art. 40 Cost. e L. 146/1990)</h2>
+<h3 id="21-il-principio">2.1 Il principio</h3>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Art. 40 Cost.: <strong>"Il diritto di sciopero si esercita nell'ambito delle leggi che lo regolano."</strong></p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Lo sciopero è un diritto dei <strong>lavoratori</strong>: è l'astensione collettiva dal lavoro per tutelare un interesse comune.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> È nullo il licenziamento, o qualsiasi altro atto che rechi pregiudizio al lavoratore, a causa della sua partecipazione a uno sciopero (<a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art15" rel="noopener noreferrer">art. 15 L. 300/1970</a>).</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Le ore di sciopero non sono retribuite: è un principio costante della giurisprudenza, ma non è scritto in una norma di legge. Manca: una sentenza della Corte di cassazione da citare.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>Sciopero politico.</strong> La stessa <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1974/290" rel="noopener noreferrer">sent. 290/1974</a> ha dichiarato illegittimo l'art. 503 c.p. nella parte in cui puniva lo sciopero politico, <strong>salvo</strong> quello diretto a sovvertire l'ordinamento costituzionale o a impedire od ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranità popolare (nota su Normattiva all'<a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art503" rel="noopener noreferrer">art. 503 c.p.</a>). Uno sciopero contro una manovra, il carovita o una legge, cioè per sollecitare i poteri pubblici, <strong>non è penalmente punibile</strong> in quanto tale.</li>
+</ul>
+<h3 id="22-nei-servizi-pubblici-essenziali-la-l-1461990-modificata-dalla-l-832000">2.2 Nei servizi pubblici essenziali: la L. 146/1990 (modificata dalla L. 83/2000)</h3>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> La <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146" rel="noopener noreferrer">L. 146/1990</a>, riformata dalla <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-04-11;83" rel="noopener noreferrer">L. 83/2000</a>, bilancia lo sciopero con i diritti della persona (vita, salute, libertà e sicurezza, circolazione, assistenza e previdenza, istruzione, comunicazione). Si applica a servizi come <strong>sanità, trasporti pubblici (ferroviari, aerei, urbani ed extraurbani, marittimi verso le isole), igiene e rifiuti, energia, giustizia, scuola, poste e telecomunicazioni, informazione radiotelevisiva pubblica</strong> (art. 1).</p>
+<p>Le regole principali:</p>
+<div class="tabella"><table><thead><tr><th scope="col">Regola</th><th scope="col">Contenuto</th><th scope="col">Norma</th></tr></thead><tbody><tr><td><strong>Preavviso</strong></td><td><strong>minimo 10 giorni</strong>. Contratti e codici di settore possono prevedere termini più lunghi</td><td>art. 2, c. 1 e 5</td></tr><tr><td><strong>Comunicazione scritta</strong></td><td>indicare <strong>durata, modalità e motivazioni</strong>, all'impresa o amministrazione e all'ufficio dell'autorità competente, che la trasmette alla Commissione di garanzia</td><td>art. 2, c. 1</td></tr><tr><td><strong>Prestazioni indispensabili</strong></td><td>vanno sempre garantite, secondo accordi o, in mancanza, secondo la regolamentazione provvisoria della Commissione</td><td>art. 2, c. 2-3; art. 13</td></tr><tr><td><strong>Raffreddamento e conciliazione</strong></td><td>procedure obbligatorie <strong>prima</strong> della proclamazione</td><td>art. 2, c. 2</td></tr><tr><td><strong>Intervalli minimi ("rarefazione")</strong></td><td>tra uno sciopero e la proclamazione del successivo, per evitare che scioperi in sequenza sullo stesso servizio o bacino d'utenza compromettano la continuità</td><td>art. 2, c. 2; art. 13 lett. e)</td></tr><tr><td><strong>Durata massima e franchigie</strong></td><td>periodi in cui non si sciopera (per esempio festività, esodi estivi, elezioni) e durata massima, fissati dagli <strong>accordi e regolamenti di settore</strong></td><td>art. 13 lett. d); discipline di settore su <a href="https://www.cgsse.it" rel="noopener noreferrer">cgsse.it</a></td></tr><tr><td><strong>Informazione agli utenti</strong></td><td>l'azienda deve comunicare almeno <strong>5 giorni prima</strong> i servizi garantiti</td><td>art. 2, c. 6</td></tr><tr><td><strong>Revoca tardiva</strong></td><td>la revoca spontanea dopo l'informazione all'utenza, senza accordo o richiesta delle autorità, è "forma sleale di azione sindacale"</td><td>art. 2, c. 6</td></tr><tr><td><strong>Eccezioni</strong></td><td>preavviso e durata <strong>non</strong> si applicano agli scioperi in difesa dell'ordine costituzionale o di protesta per gravi eventi lesivi dell'incolumità e della sicurezza dei lavoratori</td><td>art. 2, c. 7</td></tr></tbody></table></div>
+<p><strong>La Commissione di garanzia</strong> (artt. 12-13, sito <a href="https://www.cgsse.it" rel="noopener noreferrer">cgsse.it</a>):</p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> valuta gli accordi;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> segnala le irregolarità (preavviso, durata, franchigie, intervalli) e può <strong>invitare a riformulare o differire</strong> lo sciopero;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> apre procedimenti di valutazione e delibera le <strong>sanzioni</strong>.</li>
+</ul>
+<p><strong>Sanzioni (art. 4):</strong></p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>lavoratori:</strong> sanzioni <strong>disciplinari</strong> proporzionate, <strong>escluso il licenziamento</strong> o mutamenti definitivi del rapporto;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>sindacati:</strong> sospensione di permessi e contributi sindacali, esclusione dalle trattative fino a due mesi, sanzioni pecuniarie;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>aziende e amministrazioni inadempienti:</strong> sanzioni amministrative.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Nel testo vigente su Normattiva gli importi sono in euro: per i sindacati, sospensione di permessi e contributi per un ammontare tra <strong>2.500 e 50.000 €</strong>; per dirigenti e responsabili di aziende e amministrazioni, sanzione da <strong>2.500 a 50.000 €</strong> (art. 4, c. 2 e 4).</li>
+</ul>
+<p><strong>Precettazione (art. 8):</strong></p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Presupposto:</strong> il <strong>fondato pericolo di un pregiudizio grave e imminente</strong> ai diritti della persona.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Chi la dispone:</strong> il <strong>Presidente del Consiglio o un Ministro delegato</strong> se il conflitto è nazionale o interregionale, altrimenti il <strong>Prefetto</strong>. Interviene su segnalazione della Commissione oppure, in caso di necessità e urgenza, di propria iniziativa informando la Commissione.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Procedura:</strong> prima l'autorità invita le parti a desistere e tenta la conciliazione. Se il tentativo fallisce, adotta un'<strong>ordinanza</strong>.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Cosa può disporre l'ordinanza:</strong> differire lo sciopero, <strong>ridurne la durata</strong> oppure imporre livelli minimi di servizio.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Tempi:</strong> l'ordinanza va adottata <strong>non meno di 48 ore prima</strong>, salvo conciliazione in corso o urgenza.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Sanzioni (art. 9):</strong> per ogni giorno di inosservanza, sanzione amministrativa da <strong>500 a 1.000 €</strong> al singolo lavoratore e da <strong>2.500 a 50.000 €</strong> alle organizzazioni (testo vigente su Normattiva).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Ricorso (art. 10):</strong> al <strong>TAR entro 7 giorni</strong>. Il ricorso non sospende l'ordinanza, ma il TAR può sospenderla.</li>
+</ul>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Dove controllare gli scioperi proclamati:</strong></p>
+<ul>
+<li>il <a href="https://scioperi.mit.gov.it/mit2/public/scioperi" rel="noopener noreferrer">prospetto scioperi del Ministero delle infrastrutture e dei trasporti</a>, per i trasporti;</li>
+<li>il <a href="https://www.cgsse.it/calendario-scioperi" rel="noopener noreferrer">calendario della Commissione di garanzia</a>.</li>
+</ul>
+<h3 id="23-nel-settore-privato-non-essenziale">2.3 Nel settore privato non essenziale</h3>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Fuori dai servizi pubblici essenziali <strong>non esiste una legge generale che imponga preavviso, durata massima o prestazioni minime</strong>. Restano i limiti generali indicati dalla giurisprudenza: niente violenza, rispetto della <strong>libertà di lavoro di chi non aderisce</strong>, nessun danno agli impianti oltre il normale effetto dell'astensione (<a href="https://www.cortecostituzionale.it/scheda-pronuncia/1974/290" rel="noopener noreferrer">sent. 290/1974</a>, massima D).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> I contratti collettivi possono prevedere clausole di tregua o procedure. La loro violazione ha conseguenze sul piano sindacale e contrattuale, non penale.</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Sulla legittimità di alcune forme "anomale" di sciopero, come lo sciopero a singhiozzo o a scacchiera, esiste giurisprudenza che non abbiamo ancora ricostruito. Manca: sentenze di riferimento della Corte di cassazione. Verifica: banca dati della giurisprudenza, nella prossima versione.</li>
+<li><strong><span class="et et-nota">Nota redazionale di Bilancia Civica</span></strong> Per casi concreti, chiedi al sindacato.</li>
+</ul>
+<hr>
+<h2 id="3-sciopero-fermo-serrata-le-differenze">3. Sciopero, fermo, serrata: le differenze</h2>
+<div class="tabella"><table><thead><tr><th scope="col">Figura</th><th scope="col">Chi</th><th scope="col">Natura giuridica</th></tr></thead><tbody><tr><td><strong>Sciopero</strong></td><td>lavoratori <strong>dipendenti</strong></td><td><strong>diritto</strong> costituzionale (art. 40)</td></tr><tr><td><strong>Astensione collettiva / "fermo"</strong></td><td><strong>lavoratori autonomi, professionisti, piccoli imprenditori</strong> (per esempio i "padroncini" dell'autotrasporto)</td><td>non è sciopero in senso stretto. Se incide su servizi pubblici essenziali, è regolata dall'<strong>art. 2-bis L. 146/1990</strong> tramite <strong>codici di autoregolamentazione</strong> valutati dalla Commissione di garanzia</td></tr><tr><td><strong>Serrata</strong></td><td>datore di lavoro che chiude per pressione</td><td>libertà, non diritto costituzionale (la <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1974/290" rel="noopener noreferrer">sent. 290/1974</a> richiama sul punto la sent. 29/1960)</td></tr></tbody></table></div>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Il caso dell'autotrasporto merci in conto terzi.</strong> Esiste un <strong>codice di autoregolamentazione</strong> del 20/06/2001, valutato idoneo dalla Commissione di garanzia (delibera n. 01/93 del 19/07/2001) e pubblicato in <a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=001A8673&amp;atto.dataPubblicazioneGazzetta=2001-08-03&amp;elenco30giorni=false" rel="noopener noreferrer">GU n. 179 del 3/08/2001</a>. Secondo il testo riportato nella raccolta della Commissione, il codice prevede:</p>
+<ul>
+<li><strong>preavviso:</strong> almeno <strong>25 giorni</strong> per il fermo nazionale, <strong>20</strong> per quello settoriale e <strong>15</strong> per quello locale o verso una specifica committenza. Il preavviso non può superare i 35 giorni;</li>
+<li><strong>durata massima:</strong> <strong>5 giorni</strong>, con intervallo di almeno <strong>30 giorni</strong> tra un'azione e l'altra;</li>
+<li><strong>periodi di franchigia:</strong> tra gli altri dal 20/12 al 6/01, le settimane prima e dopo Pasqua e dal 10 al 20/08;</li>
+<li><strong>servizi da garantire:</strong> per esempio prodotti per ospedali, farmacie e scuole, latte a giorni alterni, carburante alla rete nella misura del 50%.</li>
+</ul>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Non sappiamo se il codice abbia avuto aggiornamenti successivi, né se si applichi alle sigle non firmatarie. Va controllato sul sito della Commissione, che il 21/10/2026 non era raggiungibile dai nostri sistemi.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> I fermi dell'autotrasporto di ottobre 2026 in Sicilia, Calabria e Campania sono iniziative di imprese e associazioni di categoria. In Sicilia il fermo è stato revocato il 20/10, in Calabria e in Campania prosegue almeno fino al 27/10 (<a href="https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html" rel="noopener noreferrer">ANSA, 20/10/2026</a>).</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Non abbiamo trovato delibere della Commissione su questi fermi. Manca: accesso al sito della Commissione. Verifica: delibere su cgsse.it, appena raggiungibile.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>Bloccare le strade</strong> con i mezzi o con il corpo è una condotta diversa dal fermo, cioè dal non far circolare i propri mezzi, e può costituire reato (vedi §4).</li>
+</ul>
+<hr>
+<h2 id="4-tabella-protesta-pacifica-protetta-e-condotte-punibili">4. Tabella: protesta pacifica protetta e condotte punibili</h2>
+<p><strong>Il principio generale:</strong> la Costituzione protegge la riunione <strong>pacifica e senz'armi</strong>, la libertà di parola e lo sciopero. Il diritto penale colpisce <strong>condotte individuali specifiche</strong>, non la partecipazione in sé (<strong>art. 27 Cost.: la responsabilità penale è personale</strong>).</p>
+<h3 id="-protetto-se-pacifico">✅ Protetto (se pacifico)</h3>
+<div class="tabella"><table><thead><tr><th scope="col">Condotta</th><th scope="col">Fondamento</th></tr></thead><tbody><tr><td>Partecipare a un presidio o corteo pacifico, anche molto critico verso il governo</td><td>art. 17 e 21 Cost.</td></tr><tr><td>Riunirsi in luogo aperto al pubblico (sala, teatro) senza preavviso</td><td>art. 17, c. 2 Cost.; Corte cost. 27/1958</td></tr><tr><td>Esporre striscioni e cartelli, gridare slogan, distribuire volantini (purché non integrino reati specifici come diffamazione, minaccia, istigazione)</td><td>art. 21 Cost.</td></tr><tr><td>Scioperare per rivendicazioni economiche <strong>o politiche</strong> (per esempio contro una legge)</td><td>art. 40 Cost.; Corte cost. 290/1974</td></tr><tr><td>Aderire a uno sciopero proclamato, anche senza essere iscritti al sindacato</td><td>art. 40 Cost.</td></tr><tr><td>Documentare con foto e video ciò che accade in luogo pubblico, comprese le operazioni di polizia (vedi FAQ 6.4)</td><td>art. 21 Cost. (con i limiti sulla diffusione dei dati personali)</td></tr><tr><td>Allontanarsi quando arriva l'ordine di scioglimento</td><td>art. 18 TULPS (non punibilità di chi si ritira)</td></tr></tbody></table></div>
+<h3 id="-illecito-amministrativo-multa-non-reato">⚠️ Illecito amministrativo (multa, non reato)</h3>
+<div class="tabella"><table><thead><tr><th scope="col">Condotta</th><th scope="col">Norma</th><th scope="col">Sanzione</th></tr></thead><tbody><tr><td>Promuovere una riunione in luogo pubblico senza preavviso, anche via social o chat</td><td>art. 18 TULPS (mod. D.L. 23/2026)</td><td>1.000–10.000 €</td></tr><tr><td>Violare divieto o prescrizioni del questore</td><td>art. 18 TULPS</td><td>1.000–12.000 €</td></tr><tr><td>Non rispettare l'itinerario o le limitazioni alla circolazione, con pericolo</td><td>art. 18 TULPS</td><td>1.000–10.000 €</td></tr><tr><td>Non ottemperare all'ordine di scioglimento</td><td>art. 24 TULPS</td><td>2.000–20.000 €</td></tr><tr><td>Turbare il pacifico svolgimento della riunione (salvo reato)</td><td>art. 18 TULPS</td><td>500–3.000 € (2.000–10.000 € se travisati)</td></tr></tbody></table></div>
+<h3 id="-reato-condotte-punibili">❌ Reato (condotte punibili)</h3>
+<div class="tabella"><table><thead><tr><th scope="col">Condotta</th><th scope="col">Norma</th><th scope="col">Note</th></tr></thead><tbody><tr><td><strong>Violenza o minaccia a pubblico ufficiale</strong> per costringerlo a compiere od omettere un atto</td><td><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398" rel="noopener noreferrer">art. 336 c.p.</a></td><td></td></tr><tr><td><strong>Resistenza a pubblico ufficiale</strong> con violenza o minaccia mentre compie un atto d'ufficio</td><td>art. 337 c.p.</td><td><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> La giurisprudenza distinguerebbe la mera resistenza passiva (per esempio non muoversi) dall'opposizione attiva con violenza o minaccia. Manca: citazione di sentenze specifiche della Cassazione. Verifica: banca dati della giurisprudenza o parere di un giurista volontario. Il confine dipende comunque dal caso.</td></tr><tr><td><strong>Lesioni</strong> a ufficiali o agenti di polizia in servizio</td><td>art. 583-quater c.p.</td><td>Il D.L. 190/2026 le rende <strong>procedibili d'ufficio</strong> anche se lievi o lievissime (FATTO · Media, §5.2)</td></tr><tr><td><strong>Danneggiamento</strong> (con violenza o minaccia, o in occasione di manifestazioni in luogo pubblico)</td><td>art. 635 c.p.</td><td>Il D.L. 190/2026 prevede l'aggravante del gruppo organizzato di almeno 5 persone (art. 635.1)</td></tr><tr><td><strong>Devastazione e saccheggio</strong></td><td>art. 419 c.p.</td><td>Reato molto grave. Il D.L. 190/2026 aumenta la pena se commesso in manifestazioni su beni in luoghi di vendita o deposito</td></tr><tr><td><strong>Blocco stradale o ferroviario con il proprio corpo</strong></td><td><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66" rel="noopener noreferrer">art. 1-bis d.lgs. 66/1948</a>, come modificato dall'art. 14 D.L. 48/2025 (<a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-09;80" rel="noopener noreferrer">L. 80/2025</a>)</td><td><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Da illecito amministrativo è tornato <strong>reato</strong>: reclusione fino a 1 mese o multa fino a 300 €; <strong>da 6 mesi a 2 anni se commesso da più persone riunite</strong>. Ostruire la strada con <strong>oggetti</strong> è un delitto più grave (art. 1 d.lgs. 66/1948). <strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> La Procura di Torino ha sollevato una questione di legittimità costituzionale sul comma relativo alle "più persone riunite", per contrasto con gli artt. 17, 40, 3, 27 e 77 Cost. (<a href="https://www.giurisprudenzapenale.com/wp-content/uploads/2026/06/26-10835-MEMORIA-PM-2.pdf" rel="noopener noreferrer">memoria PM, pubblicata su giurisprudenzapenale.com</a>). <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Non risulta ancora una decisione della Corte costituzionale.</td></tr><tr><td><strong>Interruzione di pubblico servizio</strong></td><td>art. 340 c.p.</td><td><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Manca: testo vigente dopo le modifiche del 2025. Verifica: Normattiva multivigente</td></tr><tr><td><strong>Travisamento</strong> (volto coperto) in manifestazione</td><td>art. 5 L. 152/1975</td><td>Contravvenzione</td></tr><tr><td><strong>Porto di oggetti atti a offendere</strong> senza giustificato motivo</td><td>art. 4 L. 110/1975</td><td></td></tr><tr><td><strong>Lancio di petardi, razzi, fumogeni, accensioni pericolose</strong></td><td>art. 703 c.p. (accensioni ed esplosioni pericolose) e norme speciali</td><td>Con il nuovo art. 420-bis (§5), il lancio in gruppo organizzato con pericolo concreto per le persone <strong>e danni alle cose</strong> è <strong>delitto con 2–5 anni</strong> (dal 23/10/2026)</td></tr><tr><td><strong>Radunata sediziosa; grida e manifestazioni sediziose</strong></td><td>artt. 655 e 654 c.p.</td><td>Multa dell'art. 654 aggiornata dal D.L. 23/2026 (400–2.400 €)</td></tr><tr><td><strong>Nuovo:</strong> <strong>violenza organizzata nelle manifestazioni pubbliche</strong></td><td><strong>art. 420-bis c.p.</strong> (D.L. 190/2026, <strong>in vigore dal 23/10/2026</strong>)</td><td>Vedi §5</td></tr></tbody></table></div>
+<p><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Il nodo "se altri commettono violenze".</strong></p>
+<ul>
+<li>La <strong>sola presenza</strong> in un corteo dove altri commettono reati <strong>non è reato</strong> (art. 27 Cost.).</li>
+<li>Si risponde penalmente se si <strong>concorre</strong> nel reato altrui (art. 110 c.p.). Per il concorso serve un <strong>contributo</strong> materiale o morale alla condotta, non la semplice vicinanza.</li>
+<li><strong><span class="et et-nota">Nota redazionale di Bilancia Civica</span></strong> Se altri commettono violenze, allontanarsi da quel gruppo rende più chiara la propria estraneità ai fatti.</li>
+</ul>
+<hr>
+<h2 id="5-il-nuovo-decreto-sicurezza-dl-22-ottobre-2026-n-190">5. Il nuovo decreto sicurezza: D.L. 22 ottobre 2026, n. 190</h2>
+<h3 id="51-stato-pubblicato-in-gazzetta-ufficiale-in-vigore-dal-23102026">5.1 Stato: <strong>pubblicato in Gazzetta Ufficiale, in vigore dal 23/10/2026</strong></h3>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il decreto approvato dal <strong>Consiglio dei ministri del 20/10/2026</strong> (<a href="https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884" rel="noopener noreferrer">Comunicato CdM n. 193</a>) è stato pubblicato come <strong>decreto-legge 22 ottobre 2026, n. 190</strong>, "Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile", nella <strong>GU Serie Generale n. 246 del 22/10/2026</strong> (<a href="https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG" rel="noopener noreferrer">testo in GU</a>; <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190" rel="noopener noreferrer">Normattiva</a>). Verifica del 22/10/2026, ore 20:20 (ora di Roma).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> <strong>Entra in vigore il 23/10/2026</strong>, il giorno dopo la pubblicazione (art. 10). Le norme penali nuove <strong>non si applicano a fatti commessi prima</strong> (art. 25 Cost.).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il Parlamento ha <strong>60 giorni</strong> per convertirlo in legge, anche con modifiche: <strong>entro il 21/12/2026</strong> (art. 77 Cost.; calcolo sulla data di GU). Se non viene convertito, perde efficacia fin dall'inizio.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il disegno di legge di conversione è l'<strong>AC 3159</strong>, presentato alla Camera il 22/10/2026 e assegnato lo stesso giorno alla II Commissione (Giustizia) in sede referente (<a href="https://www.camera.it/leg19/126?leg=19&amp;idDocumento=3159" rel="noopener noreferrer">scheda della Camera</a>).</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il testo in GU ha <strong>10 articoli</strong>. Alcuni punti differiscono dalla bozza circolata il 20–21/10: li segnaliamo in §5.3. <strong>Da qui in avanti la fonte è il testo in GU</strong>, non più la bozza.</li>
+</ul>
+<h3 id="52-cosa-prevede-testo-in-gu">5.2 Cosa prevede (testo in GU)</h3>
+<div class="tabella"><table><thead><tr><th scope="col">Misura</th><th scope="col">Contenuto</th><th scope="col">Articolo del D.L. 190/2026</th></tr></thead><tbody><tr><td><strong>Nuovo reato: "violenza organizzata nelle manifestazioni pubbliche" (art. 420-bis c.p.)</strong></td><td>Punisce chi, nel corso di manifestazioni in luogo pubblico o aperto al pubblico, <strong>partecipando a un gruppo di almeno 5 persone che opera in modo organizzato, anche occasionalmente</strong>, <strong>utilizza illegittimamente</strong> bastoni, mazze, oggetti contundenti o comunque atti a offendere, <strong>oppure lancia</strong> questi oggetti o razzi, fuochi artificiali, petardi, strumenti che nebulizzano gas urticanti, <strong>determinando un concreto pericolo per l'incolumità delle persone e cagionando altresì danni alle cose</strong>. Pena: <strong>reclusione da 2 a 5 anni e multa da 10.000 a 20.000 €</strong> (salvo che il fatto costituisca reato più grave)</td><td>art. 1, c. 4</td></tr><tr><td>Aggravanti del 420-bis</td><td>Pena aumentata da un terzo alla metà se: <strong>a)</strong> si agisce <strong>travisati</strong> o con modalità che rendono difficile l'identificazione; <strong>b)</strong> l'azione è diretta contro <strong>infrastrutture</strong> (energia, trasporti, telecomunicazioni, altri servizi pubblici) o beni destinati a funzioni o servizi pubblici o esposti alla pubblica fede</td><td>art. 1, c. 4</td></tr><tr><td>Organizzatori e istigatori</td><td>Chi <strong>organizza o promuove</strong> il gruppo, oppure <strong>incita o istiga</strong> alle condotte, <strong>anche con strumenti informatici o telematici</strong>: <strong>reclusione da 4 a 12 anni</strong></td><td>art. 1, c. 4</td></tr><tr><td>Lesioni nel corso delle condotte</td><td>Pene delle lesioni aumentate da un terzo alla metà</td><td>art. 1, c. 4</td></tr><tr><td>Danneggiamento di gruppo</td><td>Nuovo art. 635.1 c.p.: aumento da un terzo alla metà se il danneggiamento è commesso da un <strong>gruppo organizzato, anche occasionalmente, di almeno 5 persone</strong></td><td>art. 1, c. 6</td></tr><tr><td>Devastazione e saccheggio; attentato a impianti di pubblica utilità</td><td>Pene aumentate da un terzo alla metà se commessi nel corso di manifestazioni (artt. 419 e 420 c.p.); per devastazione e saccheggio solo se riguardano beni in <strong>luoghi di vendita o di deposito</strong></td><td>art. 1, c. 2–3</td></tr><tr><td><strong>Arresto in flagranza differita</strong></td><td>L'art. 382-bis c.p.p. (arresto anche <strong>dopo</strong> il fatto, sulla base di documentazione video o fotografica) si applica anche agli artt. 419, 420, 420-bis e 635.1 c.p. e, per i minorenni, tramite il nuovo art. 16, c. 1-bis, DPR 448/1988</td><td>artt. 2 e 3</td></tr><tr><td><strong>Lesioni agli agenti</strong></td><td>Modificato l'art. 582, secondo comma, c.p.: le lesioni a ufficiali o agenti di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.) diventano <strong>procedibili d'ufficio</strong>, cioè senza querela, anche se lievi o lievissime. <strong><span class="etichetta"><span class="et et-fatto">FATTO</span><span class="et-extra">· Media: lettura redazionale del testo in GU e dell'art. 582 c.p. vigente su Normattiva; il testo coordinato ufficiale non è ancora disponibile</span></span></strong></td><td>art. 1, c. 5</td></tr><tr><td><strong>Fermo preventivo esteso</strong></td><td>L'accompagnamento e trattenimento <strong>fino a 12 ore</strong> già previsto per le manifestazioni (art. 11-bis D.L. 59/1978, §1.7) si estende alle <strong>operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone</strong>, verso chi, sulla base di circostanze concrete ed elementi di fatto (oggetti posseduti, precedenti o segnalazioni negli ultimi 5 anni per determinati delitti), si ritiene ponga in essere condotte di concreto pericolo per la sicurezza. Restano la notizia al PM e gli avvisi per i minori (commi 2, 3 e 3-bis)</td><td>art. 7 (nuovo c. 3-ter art. 11-bis D.L. 59/1978)</td></tr><tr><td><strong>Presunzione di imputabilità dai 14 anni</strong></td><td>Per i minori dai 14 anni la capacità di intendere e di volere <strong>si presume fino a prova contraria</strong>. Resta la diminuzione di pena per i minori</td><td>art. 1, c. 1 (art. 98 c.p.); art. 3</td></tr><tr><td>Misure cautelari per i minorenni</td><td>Custodia cautelare estesa agli artt. 420-bis e 635.1; all'art. 19 DPR 448/1988 aggiunta la clausola "salvo che l'imputato abbia compiuto sedici anni", subito dopo la frase che esclude per i minorenni la presunzione dell'art. 275, c. 3, secondo periodo, c.p.p. <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> L'effetto concreto della clausola. Manca: dossier dei Servizi studi sull'AC 3159. Verifica: camera.it</td><td>art. 3</td></tr><tr><td>Sanzioni ai genitori</td><td>Se un minore, anche non imputabile, partecipa a determinati reati: sanzione amministrativa per chi esercita la responsabilità genitoriale <strong>da 500 a 1.000 €</strong> (<strong>da 1.000 a 2.000 €</strong> se il minore reitera), salvo prova di non aver potuto impedire il fatto. Il Prefetto può ordinare il risarcimento dei danni a beni pubblici. I privati danneggiati possono ottenerlo con <strong>decreto ingiuntivo</strong></td><td>art. 5</td></tr><tr><td><strong>Divieto di radunarsi</strong> (avviso orale del questore)</td><td>Divieto di radunarsi con una o più persone determinate, in luoghi specificamente individuati e anche per fasce orarie, <strong>fino a 1 anno</strong>, anche per i minori dai 14 anni. Presupposti: comportamenti intimidatori, di grave molestia o violenti tenuti da <strong>5 o più persone</strong> in luogo pubblico <strong>e</strong>, nei 5 anni precedenti, provvedimenti di prevenzione o una condanna (anche non definitiva) per delitti contro la persona o il patrimonio commessi in luogo pubblico</td><td>art. 6 (nuovo c. 5-bis art. 3 d.lgs. 159/2011)</td></tr><tr><td>Magistrati per le convalide</td><td>Applicazione di magistrati entro 24 ore dalla richiesta, senza attendere il parere del consiglio giudiziario, in caso di molti arresti in flagranza</td><td>art. 4</td></tr><tr><td>Militari a Milano</td><td>+500 unità di "Strade sicure" fino al 31/12/2026; spesa autorizzata 4.933.831 €. Nessuna funzione di polizia giudiziaria attribuita</td><td>art. 8</td></tr></tbody></table></div>
+<h3 id="53-cosa-è-cambiato-rispetto-alla-bozza-e-cosa-resta-incerto">5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto</h3>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Danni alle cose.</strong> Nel testo in GU il 420-bis richiede, oltre al concreto pericolo per le persone, che siano <strong>cagionati danni alle cose</strong>. Il comunicato e la bozza non lo prevedevano.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Oggetti.</strong> Nel testo in GU non compaiono "bengala" né strumenti per fumo o gas visibile, presenti nella bozza. <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Se bengala e fumogeni rientrino tra "razzi" o "fuochi artificiali". Manca: giurisprudenza o dossier parlamentari. Verifica: dossier dei Servizi studi sul ddl di conversione.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Durata del fermo: 12 ore, non 24.</strong> Il nuovo comma 3-ter rinvia al trattenimento del comma 1 dell'art. 11-bis, che ha il limite di <strong>12 ore</strong>. L'unico termine di 24 ore nel decreto riguarda l'applicazione dei magistrati (art. 4). La cifra di 24 ore riportata da <a href="https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418" rel="noopener noreferrer">L'Espresso (20/10)</a> <strong>non trova riscontro</strong> nel testo; non ne ipotizziamo l'origine.</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span> Fermo preventivo dei minori: da che età?</strong><ul>
+<li>Il comunicato diceva "anche nei confronti dei minorenni"; secondo <a href="https://www.ansa.it/sito/notizie/cronaca/2026/10/21/decreto-sicurezza-fermo-preventivo-e-un-nuovo-reato-ecco-le-misure_88341630-e337-409b-9e6e-9e921af23b41.html" rel="noopener noreferrer">ANSA (21/10)</a> "solo se hanno compiuto 16 anni".</li>
+<li>Il testo in GU (art. 7) <strong>non fissa un'età</strong> e rinvia al comma 3-bis, che regola gli avvisi per il "minore di anni diciotto" senza un'età minima. La clausola dei "sedici anni" compare solo nell'art. 3, sulle misure cautelari, dopo la frase sulla presunzione dell'art. 275, c. 3, c.p.p.: alla lettera riguarda quella presunzione <strong>[INTERPRETAZIONE: lettura redazionale]</strong>.</li>
+<li>Manca: dossier dei Servizi studi sull'AC 3159 o circolari; da chiarire anche l'applicazione ai minori di 14 anni. Verifica: camera.it e Normattiva.</li>
+</ul></li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Il nome del reato.</strong> Nel testo il nome è "<strong>violenza organizzata</strong> nelle manifestazioni pubbliche". "Partecipazione violenta a una manifestazione" è la formula usata da politici e media.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span> Poteri dei militari.</strong> Il testo in GU <strong>non</strong> attribuisce funzioni di polizia giudiziaria ai militari. Sulle ragioni esistono versioni diverse: secondo L'Espresso sono stati tolti dopo interlocuzioni con il Quirinale; il ministro Piantedosi ha negato uno "stop" del Colle.</li>
+</ul>
+<h3 id="54-cosa-cambia-per-chi-partecipa-pacificamente">5.4 Cosa cambia per chi partecipa pacificamente</h3>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> La partecipazione pacifica e senz'armi resta tutelata dall'<strong>art. 17 Cost.</strong>, che un decreto-legge non può modificare.</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Il nuovo art. 420-bis richiede <strong>contemporaneamente</strong>:<ol>
+<li>la <strong>partecipazione a un gruppo</strong> di almeno 5 persone <strong>organizzato</strong>, anche occasionalmente;</li>
+<li>una <strong>condotta personale</strong> di utilizzo illegittimo o di <strong>lancio</strong> di oggetti atti a offendere o di artifici pericolosi;</li>
+<li>un <strong>pericolo concreto</strong> per l'incolumità delle persone;</li>
+<li><strong>danni alle cose</strong>.</li>
+</ol></li>
+</ul>
+<p>Chi sfila, grida slogan, espone cartelli o fa un sit-in <strong>non rientra</strong> in questa descrizione.</p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> Due misure possono però toccare <strong>anche chi non commette violenze</strong>, come <strong>controlli e restrizioni</strong>, non come reati:<ul>
+<li>il <strong>fermo preventivo</strong> si basa su un giudizio di pericolosità fondato su <strong>elementi di fatto</strong>, come oggetti posseduti o precedenti, ed è sottoposto al controllo del PM;</li>
+<li>il <strong>divieto di radunarsi</strong> richiede presupposti specifici: comportamenti in gruppo e precedenti.</li>
+</ul></li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> L'effetto pratico dipenderà da come verranno applicate espressioni come "gruppo che opera in modo organizzato anche occasionalmente", "luoghi caratterizzati da un consistente afflusso di persone" e "fondato motivo". Manca: modifiche in sede di conversione, circolari applicative del Ministero dell'interno, prime decisioni dei giudici. Verifica: monitoraggio del ddl di conversione fino al 21/12/2026 e delle prime pronunce. Sul punto esistono letture contrapposte, riportate qui sotto.</li>
+</ul>
+<p><strong><span class="etichetta"><span class="et et-interp">INTERPRETAZIONE</span></span> Le posizioni espresse pubblicamente (riportate, non valutate).</strong> Sono state raccolte il 20–21/10/2026, sul testo approvato dal CdM, prima della pubblicazione in GU.</p>
+<p><em>Maggioranza e governo</em></p>
+<ul>
+<li><strong>Giorgia Meloni</strong> (Presidente del Consiglio): "Manifestare è un diritto, mettere a ferro e fuoco città no" (<a href="https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418" rel="noopener noreferrer">L'Espresso, 20/10/2026</a>).</li>
+<li><strong>Antonio Tajani</strong> (Forza Italia): il governo ha dato "una risposta forte a chi pensa di mettere a ferro e fuoco le nostre città" (<a href="https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html" rel="noopener noreferrer">Rainews, 20/10/2026</a>).</li>
+<li><strong>Nicola Molteni e Andrea Ostellari</strong> (Lega, sottosegretari all'Interno e alla Giustizia): "una risposta ferma e risoluta agli episodi di criminalità e teppismo […] chi rompe paga" (Rainews, ibid.).</li>
+</ul>
+<p><em>Critiche: opposizioni e avvocatura</em></p>
+<ul>
+<li><strong>Francesco Petrelli</strong> (presidente dell'Unione Camere Penali): il decreto "configura certamente un ulteriore strappo alle garanzie e ai diritti della persona ed ai principi costituzionali di proporzionalità e di determinatezza". Contesta anche l'uso del decreto per norme già all'esame del Parlamento, come quella sull'imputabilità dei minori (<a href="https://www.ansa.it/sito/notizie/cronaca/2026/10/21/penalisti-il-nuovo-decreto-sicurezza-e-inutile-e-lesivo-dei-diritti_aad4edf0-f971-444b-a62c-f8390db3520e.html" rel="noopener noreferrer">ANSA, 21/10/2026</a>).</li>
+<li><strong>Opposizioni (PD, Più Europa):</strong> Chiara Braga, Igor Taruffi e Riccardo Magi criticano la scelta di "decreti punitivi" anziché interventi strutturali. Beatrice Lorenzin (PD) chiede un "decreto concretezza" e ricorda le tensioni economiche, dagli autotrasportatori agli agricoltori (Rainews, ibid.; sintesi della testata).</li>
+</ul>
+<hr>
+<h2 id="6-domande-frequenti-faq">6. Domande frequenti (FAQ)</h2>
+<blockquote><p>Ogni risposta riporta la situazione al 23/10/2026, ore 20:01 (ora di Roma). "Col decreto" si riferisce al <strong>D.L. 22 ottobre 2026, n. 190</strong>, pubblicato in GU il 22/10 e <strong>in vigore dal 23/10/2026</strong>, salvo modifiche in sede di conversione (entro il 21/12/2026).</p></blockquote>
+<h3 id="61-posso-organizzare-un-presidio">6.1 "Posso organizzare un presidio?"</h3>
+<p><strong>Risposta breve:</strong> <strong>sì</strong>. È un diritto costituzionale. Se il presidio è <strong>in luogo pubblico</strong> (piazza, strada), devi <strong>dare preavviso al questore almeno 3 giorni prima</strong>. In una sala o in un luogo aperto al pubblico non serve.</p>
+<p><strong>Passi pratici</strong> <span class="et et-nota">Nota redazionale di Bilancia Civica, salvo dove indicata una norma</span>:</p>
+<ol>
+<li>Decidi luogo, data, orario d'inizio e fine e, se c'è un corteo, il <strong>percorso</strong>.</li>
+<li>Prepara il preavviso scritto indirizzato alla <strong>Questura</strong> competente per territorio. Indica i dati dei promotori (nome, recapito), luogo, data e orario, finalità, numero stimato di partecipanti, eventuale uso di impianti audio, mezzi o gazebo, e un referente presente sul posto. <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Molte Questure hanno moduli e indirizzi PEC propri: controlla sul sito della tua Questura.</li>
+<li>Consegnalo <strong>almeno 3 giorni prima</strong> e conserva la prova (ricevuta, PEC).</li>
+<li>Spesso la Questura convoca i promotori per concordare le <strong>prescrizioni</strong> (percorso, orari). Rispettale: violarle comporta sanzioni fino a 12.000 €.</li>
+<li>Se serve occupare suolo pubblico con strutture (gazebo, palco), può essere necessaria un'autorizzazione del <strong>Comune</strong>, che è un atto diverso dal preavviso.</li>
+<li>Organizza un <strong>servizio d'ordine</strong> interno e prevedi un punto di contatto con le forze dell'ordine.</li>
+<li>Se arriva un <strong>divieto</strong>, chiedi le motivazioni scritte e valuta con un avvocato un ricorso al TAR.</li>
+</ol>
+<p><strong>Norme:</strong> art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958.</p>
+<p><strong>Attenzione online:</strong> dal 2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi <strong>promuove</strong> la riunione <strong>via social, chat o gruppi chiusi</strong>. Lanciare un appello a una piazza senza preavviso può renderti "promotore".</p>
+<p><strong>Cosa cambia col decreto:</strong> sul preavviso <strong>nulla</strong>. Il D.L. 190/2026 non tocca l'art. 18 TULPS.</p>
+<h3 id="62-cosa-rischio-se-partecipo-a-un-corteo">6.2 "Cosa rischio se partecipo a un corteo?"</h3>
+<p><strong>Risposta breve:</strong> se partecipi <strong>pacificamente e senz'armi</strong>, <strong>non commetti alcun illecito</strong>, anche se il corteo è molto critico. Rischi concreti nascono se: (a) commetti tu stesso una condotta vietata (tabella §4); (b) non ti allontani dopo l'ordine di scioglimento; (c) vieni sottoposto a controlli, come identificazione o, in certi casi, fermo preventivo.</p>
+<p><strong>Se altri commettono violenze:</strong></p>
+<ul>
+<li>La <strong>responsabilità penale è personale</strong> (art. 27 Cost.): <strong>la sola presenza non è reato</strong>.</li>
+<li>Si risponde solo se si dà un contributo al reato altrui (concorso, art. 110 c.p.).</li>
+<li><strong><span class="et et-nota">Nota redazionale di Bilancia Civica</span></strong> Allontanati dal gruppo che commette violenze. Se viene dato l'ordine di scioglimento, <strong>allontanati</strong>: chi si ritira non è punibile per il mancato scioglimento.</li>
+</ul>
+<p><strong>Identificazione e documenti:</strong></p>
+<ul>
+<li>Non esiste un obbligo generale di portare con sé un documento.</li>
+<li>Esiste però l'obbligo di <strong>dare le proprie generalità</strong> a un pubblico ufficiale che le chiede: rifiutarsi è reato (art. 651 c.p.), darle false è più grave.</li>
+<li>Se rifiuti di dare le generalità, o se si ha motivo di ritenerle false, puoi essere <strong>accompagnato</strong> negli uffici per il tempo strettamente necessario, <strong>non oltre 24 ore</strong>, con notizia immediata al PM (art. 11 D.L. 59/1978). Durante le indagini, per indagati e testimoni, il limite è di <strong>12 ore</strong>, o 24 con avviso al PM nei casi più complessi (art. 349, c. 4, c.p.p.).</li>
+<li><strong><span class="et et-nota">Nota redazionale di Bilancia Civica</span></strong> Porta un documento d'identità.</li>
+</ul>
+<p><strong>Fermo preventivo (in vigore dal 25/02/2026):</strong></p>
+<ul>
+<li>Durante le manifestazioni, con un pericolo attuale per l'ordine pubblico, puoi essere trattenuto <strong>fino a 12 ore</strong> se ci sono <strong>elementi di fatto</strong> a tuo carico, come oggetti atti a offendere o precedenti per violenze in manifestazioni negli ultimi cinque anni.</li>
+<li>Il <strong>PM</strong> deve essere avvisato subito e ordina il rilascio se mancano i presupposti.</li>
+<li>Se sei minorenne, vengono avvisati i tuoi genitori.</li>
+</ul>
+<p><strong>Cosa portare e cosa no</strong> <span class="et et-nota">Nota redazionale di Bilancia Civica, basata sulle norme citate in §1.6</span>:</p>
+<ul>
+<li><strong>Sì:</strong> documento, telefono carico, acqua, il numero di un avvocato o dello sportello legale.</li>
+<li><strong>No:</strong> oggetti che possano essere considerati atti a offendere (anche coltellini), caschi o mezzi per coprire il volto senza giustificato motivo, petardi o fumogeni.</li>
+</ul>
+<p><strong>Se vieni fermato</strong> <span class="et et-nota">Nota redazionale di Bilancia Civica; la resistenza con violenza o minaccia è reato, art. 337 c.p.</span>:</p>
+<ul>
+<li>resta calmo e non opporre resistenza fisica, perché anche la resistenza è reato;</li>
+<li>chiedi il motivo e di poter avvisare un familiare e un <strong>avvocato</strong>;</li>
+<li>non firmare verbali che non hai letto o capito;</li>
+<li>annota ora e luogo.</li>
+</ul>
+<p><strong>Norme:</strong> artt. 17, 27 Cost.; artt. 20-24 TULPS; art. 349 c.p.p.; art. 11-bis D.L. 59/1978; art. 5 L. 152/1975; art. 4 L. 110/1975.</p>
+<p><strong>Cosa cambia col decreto (D.L. 190/2026, dal 23/10/2026):</strong></p>
+<ul>
+<li><strong>Nuovo reato</strong> se, in un gruppo organizzato di almeno 5 persone, usi o lanci oggetti atti a offendere o artifici pericolosi creando pericolo concreto per le persone <strong>e</strong> causando danni alle cose: <strong>2–5 anni + 10.000–20.000 €</strong>, di più se sei travisato.</li>
+<li><strong>Arresto anche dopo il fatto</strong> (flagranza differita) sulla base di video, per questo reato e per danneggiamento, devastazione e saccheggio.</li>
+<li><strong>Fermo preventivo esteso</strong> anche fuori dai cortei, durante operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone, verso chi è ritenuto pericoloso sulla base di elementi di fatto.</li>
+<li>Per i <strong>14-17enni</strong>:<ul>
+<li>presunzione di imputabilità;</li>
+<li>divieto di radunarsi;</li>
+<li>età minima per il fermo preventivo: il testo in GU non la fissa espressamente; <strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> (vedi §5.3).</li>
+</ul></li>
+</ul>
+<h3 id="63-il-mio-sciopero-è-legittimo">6.3 "Il mio sciopero è legittimo?"</h3>
+<p><strong>Risposta breve:</strong> dipende da <strong>chi sei</strong> (dipendente o autonomo) e dal <strong>settore</strong>. Per un lavoratore dipendente aderire a uno sciopero regolarmente proclamato è un diritto. Nei <strong>servizi pubblici essenziali</strong> lo sciopero deve rispettare le regole della L. 146/1990.</p>
+<p><strong>Lista di controllo (servizi pubblici essenziali):</strong></p>
+<ol>
+<li>Lo sciopero è stato <strong>proclamato</strong> da un soggetto collettivo (sindacato o coalizione)?</li>
+<li>È stato rispettato il <strong>preavviso di almeno 10 giorni</strong>, o quello più lungo previsto dal tuo settore?</li>
+<li>Sono indicate <strong>durata, modalità e motivazioni</strong>?</li>
+<li>Si sono svolte le procedure di <strong>raffreddamento e conciliazione</strong>?</li>
+<li>Si rispettano <strong>franchigie</strong> e <strong>intervalli minimi</strong> dagli scioperi precedenti?</li>
+<li>Sono garantite le <strong>prestazioni indispensabili</strong>? Se sei inserito nei contingenti minimi, <strong>devi lavorare</strong>.</li>
+<li>La Commissione di garanzia ha emesso una <strong>delibera di invito</strong> a riformulare o differire? C'è un'<strong>ordinanza di precettazione</strong>?</li>
+</ol>
+<p>Controlla gli scioperi proclamati sul <a href="https://scioperi.mit.gov.it/mit2/public/scioperi" rel="noopener noreferrer">prospetto MIT</a> e sul <a href="https://www.cgsse.it/calendario-scioperi" rel="noopener noreferrer">calendario della Commissione</a>.</p>
+<p><strong>Nel privato non essenziale:</strong> non ci sono preavvisi di legge. Restano i limiti generali: niente violenza, rispetto di chi lavora, niente danni agli impianti.</p>
+<p><strong>Sciopero "politico"</strong> (contro una legge o una manovra): non punibile, salvo che miri a sovvertire l'ordinamento costituzionale o a impedire od ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranità popolare (Corte cost. 290/1974).</p>
+<p><strong>Conseguenze se lo sciopero è irregolare:</strong></p>
+<ul>
+<li><strong>per il singolo lavoratore:</strong> sanzioni <strong>disciplinari</strong> proporzionate, <strong>mai il licenziamento</strong> (art. 4 L. 146/1990);</li>
+<li><strong>per il sindacato:</strong> sanzioni a suo carico.</li>
+</ul>
+<p><strong>Esempi del periodo</strong> (fonte: <a href="https://scioperi.mit.gov.it/mit2/public/scioperi" rel="noopener noreferrer">prospetto MIT</a>):</p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> sciopero generale USB del <strong>30/10/2026</strong>, con adesioni di altre sigle di base;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> sciopero generale CGIL annunciato per il <strong>20/11/2026</strong> (<a href="https://www.ansa.it/sito/notizie/politica/2026/10/17/landini-in-piazza-a-roma-sciopero-generale-il-20-novembre_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html" rel="noopener noreferrer">ANSA</a>).</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Eventuali delibere della Commissione su questi scioperi. Manca: consultazione delle delibere. Verifica: cgsse.it e prospetto MIT, prima della data.</li>
+</ul>
+<p><strong>Norme:</strong> art. 40 Cost.; L. 146/1990 artt. 1, 2, 4, 8, 13; L. 83/2000.</p>
+<p><strong>Cosa cambia col decreto:</strong> <strong>nulla di diretto</strong> sul diritto di sciopero. Il D.L. 190/2026 non modifica la L. 146/1990. Le norme sulle manifestazioni si applicano anche ai cortei che accompagnano gli scioperi.</p>
+<h3 id="64-posso-filmare-la-polizia-durante-una-manifestazione">6.4 "Posso filmare la polizia durante una manifestazione?"</h3>
+<p><strong>Risposta breve:</strong> <strong>in generale sì</strong>. Non esiste una norma che vieti di riprendere in luogo pubblico operazioni di polizia che si svolgono davanti a tutti. Riprendere è una forma di manifestazione del pensiero e di documentazione.</p>
+<p><strong>Limiti:</strong></p>
+<ul>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> la <strong>diffusione</strong> di immagini di persone identificabili, agenti o manifestanti, è soggetta alla normativa sulla protezione dei dati personali (GDPR e Codice privacy). Per la diffusione a fini giornalistici valgono regole specifiche;</li>
+<li><strong><span class="etichetta"><span class="et et-fatto">FATTO</span></span></strong> non devi <strong>ostacolare</strong> le operazioni: interferire fisicamente può integrare reati o illeciti (§4);</li>
+<li><strong><span class="et et-nota">Nota redazionale di Bilancia Civica</span></strong> se ricevi un ordine specifico di allontanarti, per esempio da un'area di intervento, rispettalo e contestalo eventualmente in seguito.</li>
+</ul>
+<p><strong>Consigli pratici</strong> <span class="et et-nota">Nota redazionale di Bilancia Civica</span>:</p>
+<ul>
+<li>riprendi da distanza di sicurezza;</li>
+<li>conserva i file originali, utili come prova anche a tua difesa;</li>
+<li>prima di pubblicare, valuta se oscurare i volti di chi non è coinvolto, specialmente se si tratta di minori.</li>
+</ul>
+<p><strong>Bilancia Civica non aiuta a identificare singoli manifestanti o agenti.</strong></p>
+<p><strong>Cosa cambia col decreto:</strong> il D.L. 190/2026 <strong>non contiene</strong> norme sulle riprese. La <strong>flagranza differita</strong> rende i video, anche quelli della polizia, ancora più centrali come prova.</p>
+<h3 id="65-cosa-succede-se-il-corteo-non-è-preavvisato">6.5 "Cosa succede se il corteo non è preavvisato?"</h3>
+<p><strong>Risposta breve:</strong></p>
+<ul>
+<li><strong>La riunione non diventa automaticamente illegale da sciogliere.</strong> Il questore <em>può</em> impedirla, ma lo scioglimento è previsto per i casi dell'art. 20 TULPS: sedizione, pericolo per l'ordine pubblico, delitti commessi.</li>
+<li><strong>I promotori</strong> rischiano una <strong>sanzione amministrativa da 1.000 a 10.000 €</strong>, anche se l'hanno promossa online.</li>
+<li><strong>I semplici partecipanti non rischiano la sanzione per il mancato preavviso</strong>, salvo che non rispettino un <strong>ordine di scioglimento</strong> (2.000–20.000 €) o commettano altri illeciti.</li>
+</ul>
+<p><strong>Passi pratici</strong> <span class="et et-nota">Nota redazionale di Bilancia Civica</span>:</p>
+<ul>
+<li>se ti trovi in una manifestazione non preavvisata e arrivano gli inviti a sciogliersi, <strong>allontanati</strong>;</li>
+<li>se sei un organizzatore, il preavviso tardivo è comunque meglio di nessun preavviso.</li>
+<li><strong><span class="etichetta"><span class="et et-verif">DA VERIFICARE</span></span></strong> Gli effetti concreti di un preavviso tardivo. Manca: norma o giurisprudenza specifica. Verifica: testo vigente dell'art. 18 TULPS; per il caso concreto, un legale.</li>
+</ul>
+<p><strong>Norme:</strong> art. 17 Cost.; artt. 18, 20-24 TULPS (testo vigente dopo D.L. 23/2026).</p>
+<p><strong>Cosa cambia col decreto:</strong> nulla sul preavviso. Il <strong>fermo preventivo</strong> per le manifestazioni è in vigore dal 25/02/2026 e si applica anche ai cortei non preavvisati.</p>
+<h3 id="66-il-fermo-degli-autotrasportatori-è-uno-sciopero">6.6 "Il fermo degli autotrasportatori è uno sciopero?"</h3>
+<p><strong>Risposta breve:</strong> <strong>tecnicamente no.</strong> Quando a fermarsi sono <strong>imprese o lavoratori autonomi</strong> (per esempio i "padroncini"), si tratta di un'<strong>astensione collettiva</strong> di autonomi o piccoli imprenditori (art. 2-bis L. 146/1990), non dello sciopero dei dipendenti dell'art. 40 Cost. Se incide su servizi essenziali, deve rispettare il <strong>codice di autoregolamentazione</strong> del settore:</p>
+<ul>
+<li><strong>preavviso</strong> da <strong>15 a 25 giorni</strong> secondo il tipo di fermo;</li>
+<li><strong>durata massima</strong> di <strong>5 giorni</strong>;</li>
+<li><strong>franchigie</strong>;</li>
+<li><strong>servizi garantiti</strong> (vedi §3).</li>
+</ul>
+<p><strong>Cosa è diverso dal fermo:</strong></p>
+<ul>
+<li>tenere fermi i propri mezzi è una cosa;</li>
+<li><strong>bloccare strade o caselli</strong> con mezzi o persone è un'altra, e può costituire <strong>reato</strong> (art. 1 e 1-bis d.lgs. 66/1948);</li>
+<li>gli <strong>autisti dipendenti</strong> delle imprese di autotrasporto, invece, possono scioperare ai sensi dell'art. 40.</li>
+</ul>
+<p><strong>Cosa cambia col decreto:</strong> nulla di specifico sul fermo. Il nuovo art. 420-bis riguarda le "manifestazioni": per il testo, si applica a un presidio di autotrasportatori <strong>solo</strong> se ricorrono tutte le condotte descritte (§5.4).</p>
+<p><strong>Precettazione:</strong> anche i fermi degli autonomi possono essere oggetto di ordinanza ex art. 8 L. 146/1990 (vedi 6.7).</p>
+<h3 id="67-posso-essere-precettato">6.7 "Posso essere precettato?"</h3>
+<p><strong>Risposta breve:</strong> sì, <strong>se lavori in un servizio pubblico essenziale</strong> (o sei un autonomo la cui astensione incide su di esso).</p>
+<ul>
+<li><strong>Quando:</strong> se c'è un fondato pericolo di <strong>pregiudizio grave e imminente</strong> ai diritti della persona.</li>
+<li><strong>Chi decide:</strong> il <strong>Presidente del Consiglio o un Ministro delegato</strong> per i conflitti nazionali, il <strong>Prefetto</strong> per quelli locali.</li>
+<li><strong>Procedura:</strong> dopo un invito a desistere e un tentativo di conciliazione.</li>
+<li><strong>Cosa può disporre l'ordinanza:</strong> rinviare lo sciopero, <strong>ridurne la durata</strong> o imporre servizi minimi.</li>
+<li><strong>Tempi:</strong> di norma almeno 48 ore prima.</li>
+</ul>
+<p><strong>Se ricevi un'ordinanza:</strong></p>
+<ul>
+<li>l'ordinanza va <strong>rispettata</strong> anche se la contesti: il ricorso al <strong>TAR entro 7 giorni</strong> non la sospende automaticamente;</li>
+<li>chi non la osserva rischia una <strong>sanzione amministrativa per ogni giorno</strong> di inosservanza;</li>
+<li>il ricorso può essere presentato dal sindacato, dall'azienda o dal singolo lavoratore interessato.</li>
+</ul>
+<p><strong>Norme:</strong> artt. 8, 9, 10 L. 146/1990.</p>
+<p><strong>Cosa cambia col decreto:</strong> nulla.</p>
+<hr>
+<h2 id="7-punti-aperti-e-da-verificare">7. Punti aperti e da verificare</h2>
+<div class="tabella"><table><thead><tr><th scope="col">#</th><th scope="col">Punto</th><th scope="col">Stato</th><th scope="col">Come lo verificheremo</th></tr></thead><tbody><tr><td>1</td><td>Pubblicazione in GU del decreto</td><td><strong>Chiuso</strong>: D.L. 190/2026, GU n. 246 del 22/10/2026, in vigore dal 23/10</td><td>—</td></tr><tr><td>2</td><td>Numero del ddl di conversione e modifiche parlamentari</td><td><strong>Numero chiuso</strong>: AC 3159, assegnato alla II Commissione della Camera il 22/10/2026. Modifiche: da seguire</td><td>camera.it, fino al 21/12/2026</td></tr><tr><td>3</td><td>Età minima per il fermo preventivo dei minori</td><td>Il testo in GU non la fissa espressamente</td><td>Testo coordinato su Normattiva; dossier parlamentari</td></tr><tr><td>4</td><td>Durata del fermo (12 o 24 ore)</td><td><strong>Chiuso</strong>: 12 ore (rinvio al c. 1 dell'art. 11-bis)</td><td>—</td></tr><tr><td>4a</td><td>Bengala e fumogeni nel 420-bis</td><td>Da verificare (la procedibilità d'ufficio delle lesioni agli agenti è chiarita in §5.2)</td><td>Dossier dei Servizi studi sull'AC 3159</td></tr><tr><td>5</td><td>Importi in euro delle sanzioni della L. 146/1990 (artt. 4 e 9)</td><td><strong>Chiuso</strong>: importi in euro nel testo vigente su Normattiva (§2.2)</td><td>—</td></tr><tr><td>6</td><td>Testo vigente dell'art. 340 c.p. e dell'art. 635 c.p. dopo il 2025</td><td>Non verificato in questa versione</td><td>Normattiva multivigente</td></tr><tr><td>7</td><td>Questione di costituzionalità sull'art. 1-bis d.lgs. 66/1948 (blocco stradale)</td><td>Sollevata (Procura di Torino), decisione non trovata</td><td>Sito della Corte costituzionale</td></tr><tr><td>8</td><td>Codice di autoregolamentazione dell'autotrasporto: aggiornamenti successivi al 2001</td><td>Non verificato (sito CGSSE non raggiungibile il 21/10)</td><td>cgsse.it</td></tr><tr><td>9</td><td>Coordinamento tra le sentenze 90/1970 e 11/1979 e il nuovo testo dell'art. 18 TULPS</td><td>Da approfondire</td><td>Testo vigente e dottrina</td></tr><tr><td>10</td><td>Modalità esatte delle intimazioni (artt. 22-23 TULPS)</td><td>Da verificare sul testo vigente</td><td>Normattiva</td></tr></tbody></table></div>
+<hr>
+<h2 id="8-fonti-principali">8. Fonti principali</h2>
+<p><strong>Costituzione e leggi</strong></p>
+<ul>
+<li><a href="https://www.senato.it/istituzione/la-costituzione" rel="noopener noreferrer">Costituzione della Repubblica italiana (Senato)</a>, anche su <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione" rel="noopener noreferrer">Normattiva</a>: artt. 17, 21, 27, 40, 77</li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773" rel="noopener noreferrer">R.D. 18 giugno 1931, n. 773: TULPS (Normattiva)</a>: artt. 18-24</li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146" rel="noopener noreferrer">L. 12 giugno 1990, n. 146: sciopero nei servizi pubblici essenziali (Normattiva)</a></li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-04-11;83" rel="noopener noreferrer">L. 11 aprile 2000, n. 83: modifiche alla L. 146/1990 (Normattiva)</a></li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398" rel="noopener noreferrer">Codice penale: R.D. 19 ottobre 1930, n. 1398 (Normattiva)</a></li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447" rel="noopener noreferrer">Codice di procedura penale: D.P.R. 22 settembre 1988, n. 447 (Normattiva)</a></li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152" rel="noopener noreferrer">L. 22 maggio 1975, n. 152 (Normattiva)</a>: art. 5, travisamento</li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110" rel="noopener noreferrer">L. 18 aprile 1975, n. 110 (Normattiva)</a>: art. 4, oggetti atti a offendere</li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66" rel="noopener noreferrer">D.lgs. 22 gennaio 1948, n. 66 (Normattiva)</a>: blocco stradale</li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-09;80" rel="noopener noreferrer">L. 9 giugno 2025, n. 80: conversione del D.L. 48/2025 (Normattiva)</a></li>
+<li><a href="https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG" rel="noopener noreferrer">D.L. 22 ottobre 2026, n. 190 (Gazzetta Ufficiale)</a> e su <a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190" rel="noopener noreferrer">Normattiva</a></li>
+<li><a href="https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59" rel="noopener noreferrer">D.L. 21 marzo 1978, n. 59 (Normattiva)</a>: art. 11-bis, fermo preventivo</li>
+<li><a href="https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG" rel="noopener noreferrer">D.L. 24 febbraio 2026, n. 23 (Gazzetta Ufficiale)</a></li>
+<li><a href="https://www.gazzettaufficiale.it/eli/id/2026/04/24/26G00078/SG" rel="noopener noreferrer">L. 24 aprile 2026, n. 54: conversione del D.L. 23/2026 (Gazzetta Ufficiale)</a></li>
+<li><a href="https://www.gazzettaufficiale.it/atto/serie_generale/caricaDettaglioAtto/originario?atto.codiceRedazionale=001A8673&amp;atto.dataPubblicazioneGazzetta=2001-08-03&amp;elenco30giorni=false" rel="noopener noreferrer">Codice di autoregolamentazione degli autotrasportatori in conto terzi, GU n. 179 del 3/08/2001</a></li>
+</ul>
+<p><strong>Corte costituzionale</strong></p>
+<ul>
+<li><a href="https://www.cortecostituzionale.it/scheda-pronuncia/1958/27" rel="noopener noreferrer">Sent. 27/1958</a>: niente preavviso per le riunioni in luogo aperto al pubblico</li>
+<li><a href="https://www.cortecostituzionale.it/scheda-pronuncia/1970/90" rel="noopener noreferrer">Sent. 90/1970</a> e <a href="https://www.cortecostituzionale.it/scheda-pronuncia/1979/11" rel="noopener noreferrer">Sent. 11/1979</a>: chi prende la parola in riunioni non preavvisate</li>
+<li><a href="https://www.cortecostituzionale.it/scheda-pronuncia/1974/290" rel="noopener noreferrer">Sent. 290/1974</a>: sciopero politico</li>
+</ul>
+<p><strong>Istituzioni e calendari</strong></p>
+<ul>
+<li><a href="https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884" rel="noopener noreferrer">Comunicato stampa del Consiglio dei ministri n. 193 del 20/10/2026</a></li>
+<li><a href="https://www.gazzettaufficiale.it" rel="noopener noreferrer">Gazzetta Ufficiale</a></li>
+<li><a href="https://www.cgsse.it" rel="noopener noreferrer">Commissione di garanzia sugli scioperi (CGSSE)</a> e <a href="https://www.cgsse.it/calendario-scioperi" rel="noopener noreferrer">calendario scioperi</a></li>
+<li><a href="https://scioperi.mit.gov.it/mit2/public/scioperi" rel="noopener noreferrer">Prospetto scioperi del Ministero delle infrastrutture e dei trasporti</a></li>
+</ul>
+<p><strong>Documenti non ufficiali e stampa (per posizioni, contesto e confronto con la bozza)</strong></p>
+<ul>
+<li><a href="https://ageei.eu/wp-content/uploads/2026/10/BOZZA-SCHEMA-DL-SICUREZZA.pdf" rel="noopener noreferrer">Bozza dello schema di decreto-legge del 20/10/2026 (PDF non ufficiale, ageei.eu), superata dal testo in GU</a></li>
+<li><a href="https://www.ansa.it/sito/notizie/cronaca/2026/10/21/decreto-sicurezza-fermo-preventivo-e-un-nuovo-reato-ecco-le-misure_88341630-e337-409b-9e6e-9e921af23b41.html" rel="noopener noreferrer">ANSA, 21/10/2026: "Decreto sicurezza, fermo preventivo e un nuovo reato: ecco le misure"</a></li>
+<li><a href="https://www.ansa.it/sito/notizie/cronaca/2026/10/21/penalisti-il-nuovo-decreto-sicurezza-e-inutile-e-lesivo-dei-diritti_aad4edf0-f971-444b-a62c-f8390db3520e.html" rel="noopener noreferrer">ANSA, 21/10/2026: Penalisti, "inutile e lesivo dei diritti"</a></li>
+<li><a href="https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html" rel="noopener noreferrer">Rainews, 20/10/2026: reazioni di maggioranza e opposizione</a></li>
+<li><a href="https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418" rel="noopener noreferrer">L'Espresso, 20/10/2026</a></li>
+<li><a href="https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html" rel="noopener noreferrer">ANSA, 20/10/2026: Governo promette un miliardo ai camionisti, ma i blocchi continuano</a></li>
+<li><a href="https://www.giurisprudenzapenale.com/wp-content/uploads/2026/06/26-10835-MEMORIA-PM-2.pdf" rel="noopener noreferrer">Memoria della Procura di Torino sulla costituzionalità del blocco stradale (giurisprudenzapenale.com)</a></li>
+</ul>
+<hr>
+<p><em>Bilancia Civica è un progetto open source, non partitico. Hai trovato un errore? Apri una segnalazione nel repository: le correzioni sono registrate pubblicamente.</em><br>
+<em>Questa pagina non sostituisce il parere di un avvocato.</em></p>
+</article>
+</main>
+<footer class="piede">
+  <div class="contenitore">
+    <p><strong>Informazione generale, non consulenza legale.</strong> Per un caso concreto: avvocato, sindacato, patronato o associazioni di tutela dei diritti.</p>
+    <p>Bilancia Civica è un progetto civico apartitico e open source (<a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/LICENSE" rel="noopener noreferrer">licenza AGPL-3.0</a>). Testi aggiornati al 23/10/2026, ore 22:48 (ora di Roma).
+    Hai trovato un errore? <a href="https://github.com/BilanciaCivica/bilancia-civica/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="https://github.com/BilanciaCivica/bilancia-civica" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
+    <p class="piccolo">Questo sito non usa cookie, non traccia i visitatori, non carica font o script esterni e non raccoglie dati.</p>
+  </div>
+</footer>
+</body>
+</html>
