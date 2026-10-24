@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-25T00:30:00+02:00",
+  "generato_il": "2026-10-25T00:40:00+02:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 61,
+  "totale": 68,
   "fonti": [
     {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
@@ -546,6 +546,7 @@
         "bussola-completa-b3e56c1569",
         "bussola-completa-b5173f5a3f",
         "bussola-completa-b82d243e4c",
+        "bussola-completa-db78e37ab6",
         "bussola-completa-dced647128",
         "corteo-0cdde9881a",
         "decreto-10a59bd435",
@@ -554,6 +555,7 @@
         "diritti-70be1de314",
         "diritti-80798e52df",
         "diritti-89f9aec69c",
+        "diritti-b8d89a9aeb",
         "diritti-bdc5ec4599",
         "diritti-bed242ab67",
         "diritti-c2977d9e08",
@@ -564,6 +566,17 @@
         "esempio-d53dbb1a51",
         "presidio-af9a350a8b",
         "stato-bf08471979"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art113",
+      "titolo": "art. 113 Cost.",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-db78e37ab6",
+        "diritti-b8d89a9aeb"
       ]
     },
     {
@@ -771,6 +784,81 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "bussola-completa-0b215667be"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104",
+      "titolo": "Codice del processo amministrativo (d.lgs. 104/2010, allegato 1)",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-88d48195b3",
+        "bussola-completa-db78e37ab6",
+        "diritti-b8d89a9aeb",
+        "presidio-88d48195b3"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art22",
+      "titolo": "art. 22 c.p.a.",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-db78e37ab6"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art29",
+      "titolo": "art. 29 c.p.a.",
+      "altri_titoli": [
+        "artt. 29"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-88d48195b3",
+        "bussola-completa-db78e37ab6",
+        "diritti-b8d89a9aeb",
+        "presidio-88d48195b3"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art41",
+      "titolo": "41 c.p.a.",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-88d48195b3",
+        "bussola-completa-db78e37ab6",
+        "diritti-b8d89a9aeb",
+        "presidio-88d48195b3"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art56",
+      "titolo": "art. 56 c.p.a.",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-88d48195b3",
+        "bussola-completa-db78e37ab6",
+        "diritti-b8d89a9aeb",
+        "presidio-88d48195b3"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art7",
+      "titolo": "artt. 7",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-db78e37ab6",
+        "diritti-b8d89a9aeb"
       ]
     },
     {
@@ -1044,6 +1132,7 @@
         "diritti-80e1f5dd0e",
         "diritti-830561f579",
         "diritti-8ffa5cd44f",
+        "diritti-b8d89a9aeb",
         "diritti-bdc5ec4599",
         "diritti-cbd378e67c",
         "diritti-e5c8edb71a",

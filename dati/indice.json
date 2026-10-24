@@ -4,7 +4,7 @@
   "repository": "https://github.com/BilanciaCivica/bilancia-civica",
   "documentazione": "https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-25T00:30:00+02:00",
+  "generato_il": "2026-10-25T00:40:00+02:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -12,7 +12,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "testi_aggiornati_al": "25/10/2026, ore 00:30 (ora di Roma)",
+  "testi_aggiornati_al": "25/10/2026, ore 00:40 (ora di Roma)",
   "nota_generato_il": "Coincide con la data di aggiornamento dei testi: due generazioni dagli stessi testi producono file identici.",
   "etichette": {
     "FATTO": "si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale)",
@@ -21,15 +21,15 @@
     "DA VERIFICARE": "non ancora confermato da una fonte ufficiale: diciamo cosa manca"
   },
   "conteggi": {
-    "affermazioni": 305,
+    "affermazioni": 308,
     "per_etichetta": {
-      "FATTO": 250,
+      "FATTO": 254,
       "STIMA": 0,
       "INTERPRETAZIONE": 11,
-      "DA VERIFICARE": 44
+      "DA VERIFICARE": 43
     },
     "per_tema": {
-      "presidi": 68,
+      "presidi": 71,
       "cortei": 42,
       "sciopero": 57,
       "decreto-sicurezza": 112,
@@ -39,19 +39,19 @@
     },
     "per_pagina": {
       "index.html": 1,
-      "diritti.html": 47,
-      "presidio.html": 13,
+      "diritti.html": 48,
+      "presidio.html": 14,
       "corteo.html": 27,
       "sciopero.html": 6,
       "decreto.html": 27,
       "esempio.html": 20,
       "stato.html": 16,
-      "bussola-completa.html": 119,
+      "bussola-completa.html": 120,
       "analisi-dl-190-2026.html": 29
     },
-    "fonti": 61,
-    "fonti_ufficiali": 54,
-    "affermazioni_senza_fonte_collegata": 16
+    "fonti": 68,
+    "fonti_ufficiali": 61,
+    "affermazioni_senza_fonte_collegata": 15
   },
   "controllo_estrazione": {
     "index.html": {
@@ -61,16 +61,16 @@
       "affermazioni": 1
     },
     "diritti.html": {
-      "badge": 26,
+      "badge": 27,
       "esempio": 0,
       "intestazione": 6,
-      "affermazioni": 47
+      "affermazioni": 48
     },
     "presidio.html": {
-      "badge": 11,
+      "badge": 12,
       "esempio": 0,
       "intestazione": 1,
-      "affermazioni": 13
+      "affermazioni": 14
     },
     "corteo.html": {
       "badge": 12,
@@ -115,10 +115,10 @@
       "affermazioni": 0
     },
     "bussola-completa.html": {
-      "badge": 98,
+      "badge": 99,
       "esempio": 4,
       "intestazione": 8,
-      "affermazioni": 119
+      "affermazioni": 120
     },
     "analisi-dl-190-2026.html": {
       "badge": 16,
