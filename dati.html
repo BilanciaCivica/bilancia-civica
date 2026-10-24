@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="no-referrer">
+<title>Dati aperti (JSON) · Bilancia Civica</title>
+<meta name="description" content="Le affermazioni di Bilancia Civica in formato JSON, con etichetta, certezza, articoli di legge citati e fonti. Licenza CC BY-SA 4.0.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="salta" href="#contenuto">Vai al contenuto</a>
+<header class="testata">
+  <div class="contenitore testata-riga">
+    <a class="marchio" href="index.html">
+      <img src="favicon.svg" alt="" width="36" height="36">
+      <span><strong>Bilancia Civica</strong><br><em>Ogni decreto, pesato sulla tua vita</em></span>
+    </a>
+  </div>
+  <nav class="menu" aria-label="Menu principale">
+    <ul class="contenitore">
+<li><a href="index.html">Home</a></li>
+<li><a href="diritti.html">Diritti e regole</a></li>
+<li><a href="decreto.html">Decreto sicurezza</a></li>
+<li><a href="glossario.html">Glossario</a></li>
+<li><a href="chi-siamo.html">Chi siamo</a></li>
+    </ul>
+  </nav>
+</header>
+<main id="contenuto" class="contenitore">
+
+<article class="testo">
+<h1 id="dati-aperti-json">Dati aperti (JSON)</h1>
+<div class="box box-inbreve"><p><strong>In breve</strong></p>
+<ul>
+<li>Le affermazioni con etichetta del sito sono disponibili anche come <strong>file JSON</strong>, un formato che i programmi leggono facilmente.</li>
+<li>Per ogni affermazione ci sono il testo, l'etichetta, la certezza, gli articoli di legge citati, i link alle fonti e il punto della pagina in cui si trova.</li>
+<li>I file nascono dagli stessi testi del sito: quando cambia una pagina, cambiano anche i dati.</li>
+</ul></div>
+<h2 id="i-file">I file</h2>
+<div class="tabella"><table><thead><tr><th scope="col">File</th><th scope="col">Che cosa contiene</th></tr></thead><tbody><tr><td><a href="dati/indice.json">indice.json</a></td><td>Descrizione dei dati: versione, data, licenza, conteggi per etichetta e per tema, elenco dei file</td></tr><tr><td><a href="dati/affermazioni.json">affermazioni.json</a></td><td>Le affermazioni, una per voce</td></tr><tr><td><a href="dati/fonti.json">fonti.json</a></td><td>Le fonti citate, senza doppioni, con le affermazioni che le usano</td></tr><tr><td><a href="dati/schema-affermazioni.json">schema-affermazioni.json</a></td><td>Lo schema che descrive i campi (formato JSON Schema)</td></tr></tbody></table></div>
+<h2 id="che-cosa-cè-in-ogni-affermazione">Che cosa c'è in ogni affermazione</h2>
+<ul>
+<li><strong>Codice (id):</strong> resta uguale finché non cambiano il testo o l'etichetta dell'affermazione.</li>
+<li><strong>Testo ed etichetta:</strong> fatto, stima, interpretazione o da verificare, con la certezza (Alta, Media o Bassa) quando è indicata.</li>
+<li><strong>Riferimenti normativi:</strong> gli articoli e gli atti citati, per esempio l'art. 17 della Costituzione.</li>
+<li><strong>Fonti:</strong> titolo e link. Il campo «ufficiale» indica i siti istituzionali, come Gazzetta Ufficiale, Normattiva, Camera e Governo.</li>
+<li><strong>Pagina:</strong> il link al punto esatto del sito in cui si trova l'affermazione.</li>
+<li><strong>Data di aggiornamento</strong> dei testi.</li>
+</ul>
+<p>La descrizione completa dei campi e delle regole di lettura è in <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md" rel="noopener noreferrer">DATI.md</a>.</p>
+<h2 id="come-riutilizzarli">Come riutilizzarli</h2>
+<p>Puoi copiare, modificare e ridistribuire i dati, anche per fini commerciali, con la licenza <strong>CC BY-SA 4.0</strong>: cita Bilancia Civica con il link al sito, indica se hai fatto modifiche e usa la stessa licenza. Attribuzione suggerita: <em>Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0</em>.</p>
+<p>La licenza non si applica ai testi degli atti ufficiali (art. 5 <abbr title="legge">L.</abbr> 633/1941) né alle citazioni di terzi, che restano dei rispettivi autori.</p>
+<p>Quando riprendi un'affermazione, riporta anche la sua <strong>etichetta</strong> e la <strong>fonte</strong>: un'affermazione «da verificare» non va presentata come un fatto.</p>
+<h2 id="avvertenze">Avvertenze</h2>
+<ul>
+<li><strong>Contenuti informativi, non consulenza legale.</strong> Per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.</li>
+<li>I dati valgono alla data indicata nei file. Le norme possono cambiare: controlla sempre le fonti ufficiali.</li>
+<li>Il tema di ogni affermazione (presidi, cortei, sciopero e così via) è assegnato in automatico ed è solo indicativo.</li>
+<li>Alcune affermazioni non hanno un link alla fonte nella stessa frase: nei dati sono segnalate. In quel caso cerca la fonte nella stessa sezione della pagina o nell'elenco delle <a href="fonti.html">fonti</a>.</li>
+<li>I file non contengono dati sui visitatori: il sito non ne raccoglie.</li>
+</ul>
+<h2 id="segnalare-un-errore">Segnalare un errore</h2>
+<p>Se trovi un errore, apri una <a href="https://github.com/BilanciaCivica/bilancia-civica/issues" rel="noopener noreferrer">segnalazione su GitHub</a> e indica il codice (id) dell'affermazione. Le segnalazioni sono pubbliche: non inserire dati personali, tuoi o di altre persone. Le correzioni confermate sono registrate nel <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/CORREZIONI.md" rel="noopener noreferrer">registro delle correzioni</a>.</p>
+</article>
+</main>
+<footer class="piede">
+  <div class="contenitore">
+    <nav class="approfondire" aria-label="Per approfondire e trasparenza">
+      <p><strong>Per approfondire:</strong> <a href="stato.html">Stato degli atti</a> · <a href="analisi-dl-190-2026.html">Analisi del decreto</a> · <a href="bussola-completa.html">Bussola, testo completo</a> · <a href="impatto.html">Simulatore (in sviluppo)</a> · <a href="alternative.html">Alternative (in preparazione)</a></p>
+      <p><strong>Trasparenza:</strong> <a href="fonti.html">Fonti</a> · <a href="metodo.html">Metodo</a> · <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/CORREZIONI.md" rel="noopener noreferrer">Registro correzioni</a> · <a href="contribuisci.html">Contribuisci</a> · <a href="dati.html">Dati aperti (JSON)</a></p>
+    </nav>
+    <p><strong>Contenuti informativi, non consulenza legale.</strong> Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
+    <p>Bilancia Civica è un progetto civico apartitico e open source. Testi aggiornati al 24/10/2026, ore 10:42 (ora di Roma).
+    <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/LICENSE-TESTI" rel="noopener noreferrer">Testi CC BY-SA 4.0</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" rel="noopener noreferrer">sintesi della licenza</a>) · <a href="https://github.com/BilanciaCivica/bilancia-civica/blob/main/LICENSE" rel="noopener noreferrer">Codice AGPL-3.0</a> · Testi normativi e citazioni di terzi esclusi: vedi <a href="note-legali.html#diritto-dautore-e-licenza">note legali</a>.<br>
+    Hai trovato un errore? <a href="https://github.com/BilanciaCivica/bilancia-civica/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="https://github.com/BilanciaCivica/bilancia-civica" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
+    <p class="piccolo">Questo sito non usa cookie, non traccia i visitatori, non carica font o script esterni e non raccoglie dati.</p>
+  </div>
+</footer>
+</body>
+</html>
