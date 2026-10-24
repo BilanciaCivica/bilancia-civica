@@ -101,6 +101,16 @@ numero di etichette trovate nell'HTML, quante sono esempi, quante sono intestazi
 affermazioni sono state estratte: le etichette nell'HTML sono sempre uguali alla somma di affermazioni
 con etichetta propria, intestazioni ed esempi.
 
+## Usarli da un assistente (server MCP)
+
+Nella cartella [`mcp/`](mcp/) c'è un server MCP (*Model Context Protocol*) che permette a un
+assistente di intelligenza artificiale, come Claude Desktop o Cursor, di cercare le affermazioni e
+leggerne etichetta e fonti. È un solo file Python con la sola libreria standard, gira sul computer di
+chi lo usa, è in sola lettura, scarica solo `indice.json`, `affermazioni.json` e `fonti.json` dagli
+indirizzi qui sopra, tiene una copia in cache, funziona anche offline e non registra né invia le
+domande. Ogni risposta riporta etichetta, fonte e avvertenza. Istruzioni e configurazione in
+[mcp/README.md](mcp/README.md).
+
 ## Stabilità e versioni
 
 - `versione_schema` segue la numerazione *x.y.z*: cambia *x* se un campo viene tolto o cambia
@@ -122,7 +132,7 @@ Attribuzione suggerita: *Bilancia Civica – https://bilanciacivica.github.io/bi
 
 Sono **esclusi** dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore
 (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941).
-Il codice (`build.py`, `dati.py`) è in licenza GNU AGPL-3.0, vedi [LICENSE](LICENSE).
+Il codice (`build.py`, `dati.py`, `mcp/`) è in licenza GNU AGPL-3.0, vedi [LICENSE](LICENSE).
 
 Chi riusa un'affermazione dovrebbe riportarne anche l'etichetta e la fonte: un'affermazione
 `DA VERIFICARE` non va presentata come un fatto.

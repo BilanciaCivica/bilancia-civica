@@ -32,6 +32,10 @@ descrizione: Le affermazioni di Bilancia Civica in formato JSON, con etichetta, 
 
 La descrizione completa dei campi e delle regole di lettura è in [DATI.md](DATI.md).
 
+## Usarli con un assistente di intelligenza artificiale
+
+Chi usa un assistente come Claude Desktop o Cursor può collegarlo a questi dati con un piccolo programma (un «server MCP») che gira sul proprio computer. Legge solo i file pubblici di questa pagina, non registra le domande e in ogni risposta riporta etichetta, fonte e avvertenza. Istruzioni nel [repository]({{REPO}}/tree/main/mcp).
+
 ## Come riutilizzarli
 
 Puoi copiare, modificare e ridistribuire i dati, anche per fini commerciali, con la licenza **CC BY-SA 4.0**: cita Bilancia Civica con il link al sito, indica se hai fatto modifiche e usa la stessa licenza. Attribuzione suggerita: *Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0*.

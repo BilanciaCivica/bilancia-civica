@@ -1,0 +1,68 @@
+{
+ "progetto": "Bilancia Civica",
+ "sito": "https://bilanciacivica.github.io/bilancia-civica/",
+ "repository": "https://github.com/BilanciaCivica/bilancia-civica",
+ "documentazione": "https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
+ "versione_schema": "1.0.0",
+ "generato_il": "2026-10-24T10:42:00+02:00",
+ "licenza": {
+  "testi": "CC BY-SA 4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
+  "attribuzione": "Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0",
+  "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
+ },
+ "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
+ "testi_aggiornati_al": "24/10/2026, ore 10:42 (ora di Roma)",
+ "nota_generato_il": "Coincide con la data di aggiornamento dei testi: due generazioni dagli stessi testi producono file identici.",
+ "etichette": {
+  "FATTO": "si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale)",
+  "STIMA": "un calcolo su numeri, sempre come intervallo da… a…, con ipotesi dichiarate",
+  "INTERPRETAZIONE": "un'opinione o una lettura, sempre con il nome di chi la esprime",
+  "DA VERIFICARE": "non ancora confermato da una fonte ufficiale: diciamo cosa manca"
+ },
+ "conteggi": {
+  "affermazioni": 5,
+  "per_etichetta": {
+   "FATTO": 3,
+   "STIMA": 0,
+   "INTERPRETAZIONE": 1,
+   "DA VERIFICARE": 1
+  },
+  "per_tema": {
+   "decreto-sicurezza": 1,
+   "presidi": 4
+  },
+  "per_pagina": {
+   "index.html": 1,
+   "diritti.html": 2,
+   "presidio.html": 2
+  },
+  "fonti": 4,
+  "fonti_ufficiali": 4,
+  "affermazioni_senza_fonte_collegata": 1
+ },
+ "file": [
+  {
+   "nome": "affermazioni.json",
+   "url": "https://bilanciacivica.github.io/bilancia-civica/dati/affermazioni.json",
+   "descrizione": "Tutte le affermazioni etichettate del sito, con etichetta, certezza, riferimenti normativi e fonti."
+  },
+  {
+   "nome": "fonti.json",
+   "url": "https://bilanciacivica.github.io/bilancia-civica/dati/fonti.json",
+   "descrizione": "Elenco senza doppioni delle fonti collegate alle affermazioni."
+  },
+  {
+   "nome": "schema-affermazioni.json",
+   "url": "https://bilanciacivica.github.io/bilancia-civica/dati/schema-affermazioni.json",
+   "descrizione": "Schema JSON (draft 2020-12) di affermazioni.json."
+  },
+  {
+   "nome": "indice.json",
+   "url": "https://bilanciacivica.github.io/bilancia-civica/dati/indice.json",
+   "descrizione": "Questo file."
+  }
+ ],
+ "segnalazioni": "https://github.com/BilanciaCivica/bilancia-civica/issues",
+ "nota_test": "Dati ridotti per i test del server MCP, estratti dai dati pubblicati."
+}

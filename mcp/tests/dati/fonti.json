@@ -1,0 +1,80 @@
+{
+ "versione_schema": "1.0.0",
+ "generato_il": "2026-10-24T10:42:00+02:00",
+ "licenza": {
+  "testi": "CC BY-SA 4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
+  "attribuzione": "Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0",
+  "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
+ },
+ "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
+ "totale": 4,
+ "fonti": [
+  {
+   "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+   "titolo": "420-bis",
+   "altri_titoli": [
+    "D.L. 22 ottobre 2026, n. 190",
+    "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+    "GU Serie Generale n. 246 del 22 ottobre 2026",
+    "GU – testo",
+    "Gazzetta Ufficiale",
+    "decreto sicurezza",
+    "decreto-legge 22 ottobre 2026, n. 190",
+    "divieto di radunarsi",
+    "fermo preventivo",
+    "nuovo art. 420-bis",
+    "nuovo comma",
+    "nuovo reato",
+    "testo",
+    "testo in GU"
+   ],
+   "ufficiale": true,
+   "dominio": "www.gazzettaufficiale.it",
+   "affermazioni": [
+    "home-b94d95c585"
+   ]
+  },
+  {
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+   "titolo": "Costituzione della Repubblica italiana",
+   "altri_titoli": [],
+   "ufficiale": true,
+   "dominio": "www.normattiva.it",
+   "affermazioni": [
+    "diritti-bdc5ec4599",
+    "diritti-bed242ab67"
+   ]
+  },
+  {
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773",
+   "titolo": "Testo unico delle leggi di pubblica sicurezza (R.D. 773/1931)",
+   "altri_titoli": [
+    "Testo unico delle leggi di pubblica sicurezza (R.D. 773/1931, \"TULPS\")"
+   ],
+   "ufficiale": true,
+   "dominio": "www.normattiva.it",
+   "affermazioni": [
+    "diritti-bdc5ec4599"
+   ]
+  },
+  {
+   "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+   "titolo": "Prefetto",
+   "altri_titoli": [
+    "avvisare il questore almeno 3 giorni prima",
+    "chi si ritira non è punibile",
+    "la sanzione per mancato preavviso",
+    "preavviso dei promotori",
+    "prescrivere modalità di tempo e di luogo",
+    "promotori",
+    "testo vigente su Normattiva"
+   ],
+   "ufficiale": true,
+   "dominio": "www.normattiva.it",
+   "affermazioni": [
+    "presidio-abc0d7d83d"
+   ]
+  }
+ ]
+}
