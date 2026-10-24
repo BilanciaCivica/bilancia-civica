@@ -1,7 +1,7 @@
 # Bilancia Civica · Bussola Diritti
 ### Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando
 
-> **Aggiornato al 25/10/2026, ore 00:40 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
+> **Aggiornato al 25/10/2026, ore 00:35 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
 > Ultima verifica in Gazzetta Ufficiale: Serie Generale **n. 246 del 22/10/2026**, che contiene il **D.L. 22 ottobre 2026, n. 190** (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
