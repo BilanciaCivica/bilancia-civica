@@ -1,7 +1,7 @@
 # Bilancia Civica · Bussola Diritti
 ### Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando
 
-> **Aggiornato al 24/10/2026, ore 10:13 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
+> **Aggiornato al 25/10/2026, ore 00:30 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
 > Ultima verifica in Gazzetta Ufficiale: Serie Generale **n. 246 del 22/10/2026**, che contiene il **D.L. 22 ottobre 2026, n. 190** (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
@@ -77,7 +77,7 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 **Il questore può:**
 - **[FATTO]** **vietare** la riunione (art. 18 TULPS). Dopo l'entrata in vigore della Costituzione, il divieto è legittimo solo per **comprovati motivi di sicurezza o incolumità pubblica**. Il testo del TULPS menziona anche "moralità" e "sanità pubblica". **[DA VERIFICARE]** Che questi motivi vadano letti alla luce dell'art. 17 Cost., e quindi ridotti a sicurezza e incolumità pubblica, è una lettura diffusa di cui non abbiamo ancora una fonte citabile. Manca: un'opera di dottrina o una sentenza costituzionale specifica. Verifica: ricerca nelle pronunce della Corte costituzionale sull'art. 18 TULPS;
 - **[FATTO]** [**prescrivere modalità di tempo e di luogo**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18), come orario, percorso o piazza alternativa.
-- **[FATTO]** Contro il divieto o le prescrizioni ci si può rivolgere al giudice amministrativo (TAR). **[DA VERIFICARE]** I tempi pratici di un ricorso urgente. Manca: dati sui tempi delle misure cautelari dei TAR. Verifica: non prevista in questa versione; per il caso concreto serve un avvocato.
+- **[DA VERIFICARE]** Contro il divieto o le prescrizioni ci si può rivolgere al giudice amministrativo (TAR). Manca: la norma del codice del processo amministrativo da citare. Verifica: Normattiva, nella prossima versione. **[DA VERIFICARE]** I tempi pratici di un ricorso urgente. Manca: dati sui tempi delle misure cautelari dei TAR. Verifica: non prevista in questa versione; per il caso concreto serve un avvocato.
 
 **[FATTO]** L'art. 18 TULPS non si applica alle **riunioni elettorali** (ultimo comma).
 
@@ -159,7 +159,7 @@ Le regole principali:
 <!-- dati: atti 4 = L. 146/1990 -->
 **Sanzioni (art. 4):**
 - **[FATTO]** **lavoratori:** sanzioni **disciplinari** proporzionate, **escluso il licenziamento** o mutamenti definitivi del rapporto;
-- **[FATTO]** **sindacati:** sospensione di permessi e contributi sindacali, esclusione dalle trattative fino a due mesi, sanzioni pecuniarie;
+- **[FATTO]** **sindacati:** sospensione di permessi e contributi sindacali, esclusione dalle trattative per un periodo di due mesi, sanzioni pecuniarie;
 - **[FATTO]** **aziende e amministrazioni inadempienti:** sanzioni amministrative.
 - **[FATTO]** Nel testo vigente su Normattiva gli importi sono in euro: per i sindacati, sospensione di permessi e contributi per un ammontare tra **2.500 e 50.000 €**; per dirigenti e responsabili di aziende e amministrazioni, sanzione da **2.500 a 50.000 €** (art. 4, c. 2 e 4).
 
@@ -179,7 +179,7 @@ Le regole principali:
 
 ### 2.3 Nel settore privato non essenziale
 - **[FATTO]** Fuori dai servizi pubblici essenziali **non esiste una legge generale che imponga preavviso, durata massima o prestazioni minime**. Restano i limiti generali indicati dalla Corte costituzionale: rispetto della **libertà di lavoro di chi non aderisce**, non compromettere servizi pubblici o funzioni essenziali, astensione da ogni violenza ([sent. 290/1974](https://www.cortecostituzionale.it/scheda-pronuncia/1974/290), massima D).
-- **[FATTO]** I contratti collettivi possono prevedere clausole di tregua o procedure. La loro violazione ha conseguenze sul piano sindacale e contrattuale, non penale.
+- **[DA VERIFICARE]** I contratti collettivi possono prevedere clausole di tregua o procedure. La loro violazione ha conseguenze sul piano sindacale e contrattuale, non penale. Manca: una norma o una sentenza da citare. Verifica: banca dati della giurisprudenza o parere di un giurista volontario, nella prossima versione.
 - **[DA VERIFICARE]** Sulla legittimità di alcune forme "anomale" di sciopero, come lo sciopero a singhiozzo o a scacchiera, esiste giurisprudenza che non abbiamo ancora ricostruito. Manca: sentenze di riferimento della Corte di cassazione. Verifica: banca dati della giurisprudenza, nella prossima versione.
 - **[Nota redazionale di Bilancia Civica]** Per casi concreti, il riferimento è il sindacato.
 
