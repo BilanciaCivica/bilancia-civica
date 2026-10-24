@@ -126,6 +126,45 @@ th { background: var(--box-nota); }
 .piede p { max-width: none; }
 .piccolo { font-size: .85rem; }
 
+/* Scelte grandi in home e nelle panoramiche (pulsanti senza script) */
+.scelte ul { list-style: none; padding: 0; margin: 1rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: .75rem; }
+.scelte li { margin: 0; max-width: none; }
+.scelte a {
+  display: block; height: 100%; padding: 1rem 1.1rem; border: 2px solid var(--primario); border-radius: 12px;
+  background: var(--box-stato); color: var(--testo); text-decoration: none; font-size: 1.1rem; line-height: 1.35;
+}
+.scelte a strong { display: block; font-size: 1.15rem; color: var(--link); margin-bottom: .25rem; }
+.scelte a:hover, .scelte a:focus-visible { background: var(--carta); }
+.scelte a::after { content: " →"; color: var(--link); font-weight: 700; }
+
+/* «In breve» in cima alle pagine pratiche */
+.box-inbreve { background: var(--box-stato); border-left: 5px solid var(--primario); font-size: 1.05rem; }
+.box-inbreve ul { margin: .4rem 0; }
+.box-risposta { border: 0; padding: 0; margin: .4rem 0 1rem; font-size: 1.2rem; }
+
+/* Dettagli richiudibili (HTML puro) */
+.dettagli { border: 1px solid var(--bordo); border-radius: 10px; margin: 1.2rem 0; background: var(--sfondo); }
+.dettagli > summary { cursor: pointer; padding: .8rem 1.1rem; font-weight: 600; color: var(--link); }
+.dettagli[open] > summary { border-bottom: 1px solid var(--bordo); }
+.dettagli > :not(summary) { margin-left: 1.1rem; margin-right: 1.1rem; }
+.dettagli h3:first-of-type { margin-top: 1rem; }
+
+/* Icone delle etichette (colore + simbolo + testo) */
+.et-fatto::before { content: "✓ "; }
+.et-stima::before { content: "≈ "; }
+.et-interp::before { content: "❝ "; }
+.et-verif::before { content: "? "; }
+
+/* Legenda in fondo alle pagine con etichette */
+.legenda { margin-top: 2rem; padding: .8rem 1.1rem; border-radius: 10px; background: var(--box-nota); font-size: .95rem; }
+.legenda ul { list-style: none; padding: 0; margin: .4rem 0; }
+.legenda li { margin: .35rem 0; }
+.legenda p { margin: .3rem 0; }
+
+/* Piè di pagina: pagine di approfondimento */
+.approfondire { border-bottom: 1px solid var(--bordo); margin-bottom: .8rem; padding-bottom: .4rem; }
+.approfondire p { margin: .35rem 0; }
+
 @media (max-width: 40rem) {
   body { font-size: 1rem; }
   .contenitore { padding-left: .85rem; padding-right: .85rem; }
@@ -135,9 +174,12 @@ th { background: var(--box-nota); }
   .marchio strong { font-size: 1.2rem; }
   .menu a { padding: .3rem .55rem; font-size: .92rem; }
   th, td { padding: .4rem; }
+  .scelte ul { grid-template-columns: 1fr; }
+  .scelte a { font-size: 1.05rem; }
+  .box-risposta { font-size: 1.1rem; }
 }
 @media print {
-  .menu, .sottomenu, .salta { display: none; }
+  .menu, .sottomenu, .salta, .approfondire { display: none; }
   .testata { background: none; color: #000; }
   .testo { border: 0; padding: 0; }
 }

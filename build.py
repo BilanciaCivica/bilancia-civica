@@ -38,21 +38,22 @@ AGGIORNATO = "23/10/2026, ore 23:13 (ora di Roma)"
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
     ("index.html", "contenuti/home.md", "Home", None),
-    ("diritti.html", "contenuti/diritti.md", "Bussola Diritti", "diritti"),
+    ("diritti.html", "contenuti/diritti.md", "I tuoi diritti", "diritti"),
     ("presidio.html", "contenuti/presidio.md", None, "diritti"),
     ("corteo.html", "contenuti/corteo.md", None, "diritti"),
     ("sciopero.html", "contenuti/sciopero.md", None, "diritti"),
     ("decreto.html", "contenuti/decreto.md", "Decreto sicurezza", "diritti"),
     ("esempio.html", "contenuti/esempio.md", None, "diritti"),
-    ("stato.html", "contenuti/stato.md", "Stato degli atti", None),
-    ("impatto.html", "contenuti/impatto.md", "Impatto", None),
-    ("alternative.html", "contenuti/alternative.md", "Alternative", None),
-    ("fonti.html", "contenuti/fonti.md", "Fonti", None),
-    ("metodo.html", "METODOLOGIA.md", "Metodo", None),
-    ("contribuisci.html", "CONTRIBUTING.md", "Contribuisci", None),
+    ("stato.html", "contenuti/stato.md", None, None),
+    ("impatto.html", "contenuti/impatto.md", None, None),
+    ("alternative.html", "contenuti/alternative.md", None, None),
+    ("fonti.html", "contenuti/fonti.md", None, None),
+    ("metodo.html", "METODOLOGIA.md", None, None),
+    ("contribuisci.html", "CONTRIBUTING.md", None, None),
     ("bussola-completa.html", "docs/bussola-diritti.md", None, "documenti"),
     ("analisi-dl-190-2026.html", "docs/analisi-dl-190-2026.md", None, "documenti"),
-    ("chi-siamo.html", "contenuti/chi-siamo.md", None, None),
+    ("glossario.html", "contenuti/glossario.md", "Glossario", None),
+    ("chi-siamo.html", "contenuti/chi-siamo.md", "Chi siamo", None),
     ("note-legali.html", "contenuti/note-legali.md", None, None),
     ("404.html", "contenuti/404.md", None, None),
 ]
@@ -62,7 +63,7 @@ SOTTOMENU_DIRITTI = [
     ("corteo.html", "Corteo"),
     ("sciopero.html", "Sciopero"),
     ("decreto.html", "Decreto sicurezza"),
-    ("esempio.html", "Esempio: corteo e decreto"),
+    ("esempio.html", "Scheda completa: corteo e decreto"),
     ("bussola-completa.html", "Testo completo"),
 ]
 # Link Markdown tra file del repository -> pagine del sito
@@ -87,6 +88,13 @@ def slug(testo: str) -> str:
 ETICHETTE = {
     "FATTO": "fatto", "STIMA": "stima", "INTERPRETAZIONE": "interp",
     "DA VERIFICARE": "verif",
+}
+# Spiegazione in una riga di ogni etichetta (tooltip e legenda in fondo alle pagine)
+SPIEGAZIONE = {
+    "FATTO": "si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale)",
+    "STIMA": "un calcolo su numeri, sempre come intervallo da… a…, con ipotesi dichiarate",
+    "INTERPRETAZIONE": "un'opinione o una lettura, sempre con il nome di chi la esprime",
+    "DA VERIFICARE": "non ancora confermato da una fonte ufficiale: diciamo cosa manca",
 }
 RE_ETICHETTA = re.compile(
     r"\[(FATTO|STIMA|INTERPRETAZIONE|DA VERIFICARE)((?:[ ·,][^\[\]]*)?)\]"
@@ -143,7 +151,7 @@ def inline(testo: str) -> str:
         nome = m.group(1) or m.group(3)
         resto = (m.group(2) or m.group(4) or "")
         return ('<span class="etichetta">'
-                + f'<span class="et et-{ETICHETTE[nome]}">{nome}</span>'
+                + f'<span class="et et-{ETICHETTE[nome]}" title="{nome}: {html.escape(SPIEGAZIONE[nome], quote=True)}">{nome}</span>'
                 + (f'<span class="et-extra">{resto.strip(" ,")}</span>' if resto.strip(" ·,") else "")
                 + "</span>")
 
@@ -236,10 +244,30 @@ def markdown(testo: str, toc: list | None = None) -> str:
             continue
         if s.startswith(":::"):
             tipo = s[3:].strip() or "nota"
+            # Riquadri annidabili: ogni "::: tipo" apre, ogni ":::" chiude
             j = i + 1
-            while j < len(righe) and righe[j].strip() != ":::":
+            profondita = 1
+            while j < len(righe):
+                sj = righe[j].strip()
+                if sj == ":::":
+                    profondita -= 1
+                    if profondita == 0:
+                        break
+                elif sj.startswith(":::"):
+                    profondita += 1
                 j += 1
-            out.append(f'<div class="box box-{html.escape(tipo)}">' + markdown("\n".join(righe[i + 1:j])) + "</div>")
+            interno = markdown("\n".join(righe[i + 1:j]))
+            if tipo.startswith("dettagli"):
+                # Sezione richiudibile in HTML puro (<details>), senza script
+                titolo_det = inline(tipo[len("dettagli"):].strip() or "Dettagli e fonti")
+                out.append(f'<details class="dettagli"><summary>{titolo_det}</summary>{interno}</details>')
+                i = j + 1
+                continue
+            if tipo == "scelte":
+                out.append(f'<nav class="scelte" aria-label="Scegli la tua situazione">{interno}</nav>')
+                i = j + 1
+                continue
+            out.append(f'<div class="box box-{html.escape(tipo)}">' + interno + "</div>")
             i = j + 1
             continue
         m = re.match(r"^(#{1,6})\s+(.*)$", s)
@@ -370,6 +398,10 @@ MODELLO = """<!doctype html>
 </main>
 <footer class="piede">
   <div class="contenitore">
+    <nav class="approfondire" aria-label="Per approfondire e trasparenza">
+      <p><strong>Per approfondire:</strong> <a href="stato.html">Stato degli atti</a> · <a href="analisi-dl-190-2026.html">Analisi del decreto</a> · <a href="bussola-completa.html">Bussola, testo completo</a> · <a href="impatto.html">Simulatore (in sviluppo)</a> · <a href="alternative.html">Alternative (in preparazione)</a></p>
+      <p><strong>Trasparenza:</strong> <a href="fonti.html">Fonti</a> · <a href="metodo.html">Metodo</a> · <a href="{repo}/blob/main/CORREZIONI.md" rel="noopener noreferrer">Registro correzioni</a> · <a href="contribuisci.html">Contribuisci</a></p>
+    </nav>
     <p><strong>Contenuti informativi, non consulenza legale.</strong> Verifica sempre le fonti ufficiali; per un caso concreto rivolgiti a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
     <p>Bilancia Civica è un progetto civico apartitico e open source. Testi aggiornati al {aggiornato}.
     <a href="{repo}/blob/main/LICENSE-TESTI" rel="noopener noreferrer">Testi CC BY-SA 4.0</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" rel="noopener noreferrer">sintesi della licenza</a>) · <a href="{repo}/blob/main/LICENSE" rel="noopener noreferrer">Codice AGPL-3.0</a> · Testi normativi e citazioni di terzi esclusi: vedi <a href="note-legali.html#diritto-dautore-e-licenza">note legali</a>.<br>
@@ -402,6 +434,10 @@ def costruisci() -> list[str]:
             corpo = corpo.replace("<!--INDICE-->", "")
             primo_h2 = corpo.find("<h2")
             corpo = corpo[:primo_h2] + indice + corpo[primo_h2:] if primo_h2 >= 0 else corpo + indice
+        if 'class="et et-' in corpo:
+            corpo += ('<aside class="legenda" aria-label="Come leggere le etichette"><p><strong>Come leggere le etichette</strong></p><ul>'
+                      + "".join(f'<li><span class="et et-{ETICHETTE[n]}">{n}</span> {html.escape(s)}</li>' for n, s in SPIEGAZIONE.items())
+                      + '</ul><p>Alta, Media o Bassa indicano quanto è solida l\'informazione. <a href="glossario.html">Glossario</a> · <a href="metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare">Metodo completo</a></p></aside>')
         titolo = meta.get("titolo", "Bilancia Civica")
         pagina = MODELLO.format(
             csp=CSP,

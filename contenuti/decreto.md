@@ -7,6 +7,16 @@ indice: si
 
 *«Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile»*
 
+::: inbreve
+**In breve**
+
+- È il **decreto sicurezza**: in vigore dal **23 ottobre 2026**. Il Parlamento ha tempo fino al **21 dicembre 2026** per convertirlo in legge, anche con modifiche. [FATTO · Alta]
+- Crea un **nuovo reato** per le violenze di gruppo nelle manifestazioni, che richiede insieme gruppo organizzato, condotta personale violenta, pericolo concreto e danni alle cose. [FATTO · Alta]
+- Allarga il **fermo preventivo** (fino a 12 ore) e introduce regole nuove per i **minorenni dai 14 anni** e sanzioni per i **genitori**. Fermo e divieto di radunarsi possono riguardare anche chi non commette reati, con i presupposti di legge. [FATTO · Alta]
+
+Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sciopero](sciopero.html)
+:::
+
 ## Stato
 
 [FATTO · Alta] Approvato dal CdM il 20/10/2026; pubblicato nella **GU Serie Generale n. 246 del 22/10/2026**; **in vigore dal 23/10/2026** (art. 10). Conversione in legge entro il **21/12/2026** (60 giorni, art. 77 Cost.).

@@ -7,11 +7,26 @@ indice: si
 
 Riunione, manifestazione e sciopero: cosa dice la legge, cosa è protetto, cosa è punibile e cosa sta cambiando. *Aggiornata al 23/10/2026.*
 
+::: inbreve
+**In breve**
+
+- Riunirsi **pacificamente e senz'armi** è un diritto (art. 17 Cost.). In piazza o in strada serve un **preavviso** al questore, che è una comunicazione e non una richiesta di autorizzazione. [FATTO · Alta]
+- La responsabilità penale è **personale**: la sola presenza in un corteo dove altri commettono reati non è reato. [FATTO · Alta]
+- Lo **sciopero** ha regole in più nei servizi pubblici essenziali. Il decreto sicurezza in vigore dal 23 ottobre 2026 riguarda soprattutto le violenze nelle manifestazioni, il fermo preventivo e i minorenni. [FATTO · Alta]
+:::
+
 ::: stato
 **Decreto sicurezza:** [D.L. 22 ottobre 2026, n. 190](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), GU n. 246 del 22/10/2026, **in vigore dal 23/10/2026**; conversione entro il 21/12/2026. Il Parlamento può modificarlo. [FATTO · Alta]
 :::
 
-**Domande pratiche:** [Posso organizzare un presidio?](presidio.html) · [Cosa rischio a un corteo?](corteo.html) · [Il mio sciopero è legittimo?](sciopero.html) · [Cosa prevede il decreto sicurezza?](decreto.html)
+**Vai alla tua situazione:**
+
+::: scelte
+- [**Voglio organizzare un presidio**Posso organizzare un presidio?](presidio.html)
+- [**Vado a un corteo**Cosa rischio a un corteo?](corteo.html)
+- [**Sto per scioperare**Il mio sciopero è legittimo?](sciopero.html)
+- [**Decreto sicurezza**Cosa prevede il decreto sicurezza?](decreto.html)
+:::
 
 ## Riunione e manifestazione
 
