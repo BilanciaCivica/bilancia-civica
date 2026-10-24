@@ -5,7 +5,7 @@ indice: si
 ---
 # Bussola Diritti
 
-Riunione, manifestazione e sciopero: cosa dice la legge, cosa è protetto, cosa è punibile e cosa sta cambiando. *Aggiornata al 23/10/2026.*
+Riunione, manifestazione e sciopero: cosa dice la legge, cosa è protetto, cosa è punibile e cosa sta cambiando. *Aggiornata al 24/10/2026.*
 
 ::: inbreve
 **In breve**
@@ -62,7 +62,7 @@ Il [D.L. 23/2026](https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG
 
 Le irroga il prefetto; non è ammesso il pagamento in misura ridotta. I **semplici partecipanti** non rientrano nella sanzione per mancato preavviso, che riguarda i promotori; non è punibile chi si ritira prima o su ordine dell'autorità. Chi **prende la parola** in una riunione vietata o tenuta violando le prescrizioni rischia la stessa sanzione (art. 18, c. 5, TULPS) [FATTO · Alta].
 
-[DA VERIFICARE] Il testo vigente sanziona anche chi prende la parola in una riunione **non preavvisata** (art. 18, c. 3), ma le sentenze della Corte costituzionale 90/1970 e 11/1979, annotate su Normattiva, avevano dichiarato illegittima quella norma, allora penale. Non è chiaro come si applichino al nuovo illecito amministrativo. Manca: giurisprudenza o circolari sul testo del 2026.
+Il testo vigente dal 25 aprile 2026 sanziona anche chi prende la parola in una riunione **non preavvisata** (art. 18, c. 3). Le sentenze della Corte costituzionale 90/1970 e 11/1979, annotate su Normattiva, avevano dichiarato illegittima la vecchia norma penale per chi prendeva la parola. [DA VERIFICARE] Non è chiaro se quelle sentenze valgano anche per la nuova sanzione amministrativa. Manca: giurisprudenza o circolari sul testo del 2026.
 
 **«Fermo preventivo» già in vigore dal 25/02/2026** [FATTO · Alta]
 
@@ -75,7 +75,7 @@ Le irroga il prefetto; non è ammesso il pagamento in misura ridotta. I **sempli
 
 **Art. 40 Costituzione** [FATTO · Alta] — «Il diritto di sciopero si esercita nell'ambito delle leggi che lo regolano».
 
-- [FATTO · Alta] È nullo il licenziamento, o qualsiasi altro atto che rechi pregiudizio al lavoratore, a causa della sua partecipazione a uno sciopero ([art. 15 L. 300/1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art15)). Nei servizi pubblici essenziali, anche lo sciopero irregolare non può essere punito con il licenziamento (art. 4 L. 146/1990).
+- [FATTO · Alta] È nullo il licenziamento, o qualsiasi altro atto che rechi pregiudizio al lavoratore, a causa della sua partecipazione a uno sciopero ([art. 15 L. 300/1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art15)). Nei servizi pubblici essenziali, anche lo sciopero irregolare non può essere punito con il licenziamento né con cambiamenti definitivi del rapporto (art. 4, c. 1, L. 146/1990).
 - [DA VERIFICARE] Le ore di sciopero non sono retribuite: è un principio costante della giurisprudenza, ma non è scritto in una norma di legge. Manca: una sentenza della Corte di cassazione da citare.
 - [FATTO · Alta] Lo sciopero politico, per esempio contro una legge o una manovra, non è punibile, salvo che sia diretto a sovvertire l'ordinamento costituzionale o a impedire od ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranità popolare (Corte cost. 290/1974, annotata su Normattiva all'[art. 503 c.p.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art503)).
 
@@ -85,10 +85,10 @@ Le irroga il prefetto; non è ammesso il pagamento in misura ridotta. I **sempli
 - **Prestazioni indispensabili** sempre garantite; procedure di raffreddamento prima della proclamazione; intervalli minimi e franchigie di settore.
 - L'azienda informa gli utenti almeno 5 giorni prima.
 - Vigila la [Commissione di garanzia](https://www.cgsse.it), che può invitare a riformulare o differire lo sciopero.
-- Lavoratori: sanzioni disciplinari, **escluso il licenziamento**.
-- **Precettazione** (art. 8): solo per fondato pericolo di pregiudizio grave e imminente; ricorso al TAR entro 7 giorni.
+- Lavoratori: sanzioni disciplinari proporzionate, **escluso il licenziamento** e ogni cambiamento definitivo del rapporto (art. 4, c. 1).
+- **Precettazione** (art. 8): solo per fondato pericolo di pregiudizio grave e imminente; ricorso al TAR entro 7 giorni, che non sospende l'ordinanza (art. 10).
 
-**Privato non essenziale** [FATTO · Alta]: nessun preavviso di legge; limiti generali (niente violenza, rispetto di chi lavora, niente danni agli impianti).
+**Privato non essenziale** [FATTO · Alta]: nessun preavviso di legge; limiti generali indicati dalla Corte costituzionale (niente violenza, rispetto della libertà di lavoro di chi non aderisce, non compromettere servizi pubblici o funzioni essenziali: sent. 290/1974).
 
 **«Fermo» di autonomi** (es. autotrasporto) [FATTO · Media]: non è sciopero in senso stretto; se incide su servizi essenziali si applica l'art. 2-bis L. 146/1990 con **codici di autoregolamentazione** (autotrasporto conto terzi: codice del 20/06/2001). **Bloccare strade** con mezzi o persone è diverso dal fermo e può essere reato (d.lgs. 66/1948).
 
@@ -105,7 +105,7 @@ Calendari: [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi) · 
 - Filmare in luogo pubblico, anche le operazioni di polizia, senza ostacolarle (la diffusione è soggetta al GDPR)
 - Allontanarsi all'ordine di scioglimento — art. 18 TULPS
 
-**⚠️ Illecito amministrativo** (multa, non reato) — vedi [la tabella sopra](#cosa-è-cambiato-nel-2026-già-in-vigore)
+**⚠️ Illecito amministrativo** (sanzione in denaro, non reato) — vedi [la tabella sopra](#cosa-è-cambiato-nel-2026-già-in-vigore)
 
 - Mancato preavviso (promotori), violazione di divieto/prescrizioni o itinerario, mancato scioglimento, turbativa.
 

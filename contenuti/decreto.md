@@ -11,7 +11,7 @@ indice: si
 **In breve**
 
 - È il **decreto sicurezza**: in vigore dal **23 ottobre 2026**. Il Parlamento ha tempo fino al **21 dicembre 2026** per convertirlo in legge, anche con modifiche. [FATTO · Alta]
-- Crea un **nuovo reato** per le violenze di gruppo nelle manifestazioni, che richiede insieme gruppo organizzato, condotta personale violenta, pericolo concreto e danni alle cose. [FATTO · Alta]
+- Crea un **nuovo reato** per le violenze di gruppo nelle manifestazioni. Per chi partecipa servono insieme un gruppo organizzato di almeno 5 persone, l'uso illegittimo o il lancio di oggetti atti a offendere (o il lancio di razzi, petardi o gas urticanti), un pericolo concreto per le persone e danni alle cose. Chi organizza o promuove il gruppo, o incita o istiga a queste condotte, anche online, rischia da 4 a 12 anni anche senza usare violenza di persona (art. 420-bis, terzo comma). [FATTO · Alta]
 - Allarga il **fermo preventivo** (fino a 12 ore) e introduce regole nuove per i **minorenni dai 14 anni** e sanzioni per i **genitori**. Fermo e divieto di radunarsi possono riguardare anche chi non commette reati, con i presupposti di legge. [FATTO · Alta]
 
 Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sciopero](sciopero.html)
@@ -27,16 +27,16 @@ Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sc
 
 [FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
-- **Art. 420-bis c.p. «Violenza organizzata nelle manifestazioni pubbliche»**: punisce chi, in manifestazione, partecipando a un gruppo di **almeno 5 persone** che opera in modo organizzato anche occasionalmente, usa illegittimamente o lancia oggetti atti a offendere, razzi, fuochi artificiali, petardi o gas urticanti, con **concreto pericolo** per le persone **e danni alle cose**. Pena: 2–5 anni e multa di 10.000–20.000 €.
+- **Art. 420-bis c.p. «Violenza organizzata nelle manifestazioni pubbliche»**: punisce chi, in manifestazione, partecipando a un gruppo di **almeno 5 persone** che opera in modo organizzato anche occasionalmente, usa illegittimamente bastoni, mazze o altri oggetti atti a offendere, oppure lancia questi oggetti o razzi, fuochi artificiali, petardi o gas urticanti, con **concreto pericolo** per le persone **e danni alle cose**. Pena: 2–5 anni e multa di 10.000–20.000 €, salvo che il fatto costituisca un reato più grave.
 - Aggravanti (aumento da un terzo alla metà): travisamento; azione contro infrastrutture o beni pubblici.
 - Chi organizza, promuove, incita o istiga, anche online: 4–12 anni.
 - Danneggiamento da parte di un gruppo organizzato di almeno 5 persone (nuovo art. 635.1). In manifestazione, pene aumentate da un terzo alla metà per l'attentato a impianti di pubblica utilità (art. 420 c.p.) e per devastazione e saccheggio, ma solo se riguardano beni in **luoghi di vendita o di deposito**, come negozi e magazzini (art. 419 c.p.). Il secondo comma dell'art. 419 prevedeva già un aumento di pena per devastazione e saccheggio commessi nel corso di manifestazioni ([testo vigente su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art419)).
-- **Flagranza differita** per questi delitti, anche per i minorenni.
-- Lesioni ad agenti: le lesioni a ufficiali o agenti di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.) diventano **procedibili d'ufficio**, cioè senza querela, anche se lievi o lievissime: l'art. 1, c. 5, inserisce "primo comma," dopo "583-quater," nell'elenco dell'art. 582, secondo comma, c.p. che esclude la querela [FATTO · Media: lettura redazionale del testo in GU e dell'art. 582 c.p. vigente su Normattiva; il testo coordinato ufficiale non è ancora disponibile].
-- **Fermo preventivo** (fino a 12 ore) esteso alle operazioni di polizia in luoghi con consistente afflusso di persone (art. 7).
+- **Flagranza differita** per questi delitti, anche per i minorenni: arresto anche dopo il fatto, entro 48 ore dal fatto, se da video o foto emerge in modo inequivocabile il fatto e chi ne è l'autore (art. 382-bis c.p.p.).
+- Lesioni ad agenti: Dal 23 ottobre 2026 le lesioni a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza, nell'atto o a causa delle funzioni, sono **procedibili d'ufficio**, cioè senza querela, anche se non gravi (art. 582, secondo comma, c.p., come modificato dall'art. 1, c. 5, D.L. 190/2026). [FATTO · Alta]
+- **Fermo preventivo** (fino a 12 ore) esteso alle specifiche operazioni di polizia per prevenire reati in luoghi con consistente afflusso di persone, sulla base di elementi di fatto e di un fondato motivo di concreto pericolo per la sicurezza (art. 7).
 - Presunzione di imputabilità dai 14 anni (salvo prova contraria).
-- Avviso orale del questore con **divieto di radunarsi** con persone determinate, fino a 1 anno, anche dai 14 anni.
-- Genitori: 500–1.000 € (1.000–2.000 € se il minore reitera); risarcimenti tramite prefetto o decreto ingiuntivo; applicazione di magistrati per le convalide entro 24 ore dalla richiesta; 500 militari in più a Milano fino al 31/12/2026 (spesa 4.933.831 €), senza funzioni di polizia giudiziaria.
+- Avviso orale del questore con **divieto di radunarsi** con una o più delle persone che hanno tenuto comportamenti intimidatori, di grave molestia o violenti in gruppo di almeno 5, fino a 1 anno, per chi ha determinati precedenti negli ultimi 5 anni; anche dai 14 anni.
+- Genitori: sanzione amministrativa di 500–1.000 € (1.000–2.000 € se il minore reitera), salvo che provino di non aver potuto impedire il fatto; risarcimenti tramite prefetto o decreto ingiuntivo; applicazione di magistrati per le convalide entro 24 ore dalla richiesta; 500 militari in più a Milano fino al 31/12/2026 (spesa 4.933.831 €), che agiscono con le funzioni di agenti di pubblica sicurezza, senza funzioni di polizia giudiziaria (art. 7-bis, c. 3, D.L. 92/2008, richiamato dall'art. 8).
 
 ## Differenze rispetto a comunicato e bozza
 
@@ -44,17 +44,19 @@ Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sc
 
 - Il 420-bis richiede anche **danni alle cose**; bengala e fumogeni non sono nominati. [DA VERIFICARE] Non è chiaro se rientrino tra «razzi» o «fuochi artificiali»: servono giurisprudenza o dossier parlamentari.
 - **Durata del fermo: 12 ore**, per rinvio al comma 1 dell'art. 11-bis D.L. 59/1978. La cifra di 24 ore apparsa sulla stampa non trova riscontro nel testo.
-- Il testo non attribuisce funzioni di polizia giudiziaria ai militari.
+- I militari agiscono con le funzioni di agenti di pubblica sicurezza; il testo non attribuisce loro funzioni di polizia giudiziaria (art. 7-bis, c. 3, D.L. 92/2008, richiamato dall'art. 8).
 
 ## Punto aperto
 
-[DA VERIFICARE] **Fermo dei minori, da che età?** Il comunicato diceva «anche nei confronti dei minorenni»; l'ANSA, «solo se hanno compiuto 16 anni». Il testo in GU non fissa un'età per il nuovo comma 3-ter dell'art. 11-bis D.L. 59/1978, che rinvia al comma 3-bis: questo prevede gli avvisi per il "minore di anni diciotto" senza un'età minima. La clausola "salvo che l'imputato abbia compiuto sedici anni" è aggiunta in fondo all'art. 19, c. 2, DPR 448/1988, subito dopo la frase che esclude per i minorenni la presunzione dell'art. 275, c. 3, secondo periodo, c.p.p. (per alcuni reati gravi si presume adeguata solo la custodia in carcere). Alla lettera riguarda quella presunzione, non il fermo preventivo [INTERPRETAZIONE: lettura redazionale del testo]. La stampa ne dà letture diverse: l'ANSA (21/10) collega i 16 anni al fermo. Manca: dossier parlamentari sull'AC 3159 e prime circolari; resta da chiarire anche se il fermo si applichi ai minori di 14 anni. Verifica: camera.it e Normattiva.
+**Fermo dei minori, da che età?** Il nuovo comma 3-ter dell'art. 11-bis D.L. 59/1978 non fissa un'età minima; per i minori di 18 anni valgono gli avvisi al procuratore presso il tribunale per i minorenni e ai genitori (c. 3-bis). [FATTO · Alta] La soglia dei 16 anni introdotta dal decreto (art. 3) riguarda le misure cautelari per i minorenni (art. 19, c. 2, DPR 448/1988). [FATTO · Alta] Il comunicato del Governo diceva «anche nei confronti dei minorenni»; l'ANSA (21/10) aveva scritto «solo se hanno compiuto 16 anni».
+
+[DA VERIFICARE] Non è chiaro se il fermo possa riguardare i minori di 14 anni. Manca: dossier parlamentari sull'AC 3159 e prime circolari. Verifica: camera.it e Normattiva.
 
 ## Cosa resta fermo
 
 - **Già vigente** [FATTO · Alta]: fermo preventivo per le manifestazioni dal 25/02/2026 (D.L. 23/2026, [L. 54/2026](https://www.gazzettaufficiale.it/eli/id/2026/04/24/26G00078/SG)); il D.L. 190 lo estende.
 - **Irretroattività** [FATTO · Alta]: le nuove norme penali non si applicano a fatti anteriori al 23/10/2026 (art. 25 Cost.).
-- **Chi manifesta pacificamente** [FATTO · Alta]: il 420-bis richiede insieme gruppo organizzato, condotta personale violenta, pericolo concreto e danni alle cose. Fermo e divieto di radunarsi sono misure di controllo che possono riguardare anche chi non commette reati, con i presupposti di legge.
+- **Chi manifesta pacificamente** [FATTO · Alta]: per chi partecipa, il 420-bis richiede insieme gruppo organizzato, uso illegittimo o lancio di oggetti atti a offendere (o lancio di razzi, petardi o gas urticanti), pericolo concreto per le persone e danni alle cose. Chi organizza, promuove, incita o istiga, anche online, è punito anche senza violenza personale (terzo comma). Fermo e divieto di radunarsi sono misure di controllo che possono riguardare anche chi non commette reati, con i presupposti di legge.
 
 ## Posizioni espresse
 

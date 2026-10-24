@@ -35,7 +35,7 @@ descrizione: Voglio organizzare un presidio: serve un permesso? Preavviso al que
 ## Cosa rischi
 
 - **Niente preavviso**: sanzione amministrativa da 1.000 a 10.000 € per chi promuove la riunione (art. 18, terzo comma, TULPS). L'obbligo di preavviso è dei promotori: chi si limita a partecipare non rientra in questa sanzione. [FATTO · Media: lettura redazionale del testo vigente su Normattiva]
-- Il testo prevede la stessa sanzione per chi **prende la parola** in una riunione senza preavviso, ma due sentenze della Corte costituzionale (90/1970 e 11/1979) hanno dichiarato illegittima questa parte quando era una norma penale. [DA VERIFICARE] Come si applichino oggi alla sanzione amministrativa. Manca: giurisprudenza o circolari sul testo del 2026.
+- Il testo vigente dal 25 aprile 2026 punisce con la stessa sanzione anche chi **prende la parola** in una riunione senza preavviso. Le sentenze della Corte costituzionale 90/1970 e 11/1979 avevano dichiarato illegittima la vecchia norma penale per chi prendeva la parola, sapendo o non sapendo che il preavviso mancava. [DA VERIFICARE] Non è chiaro se quelle sentenze valgano anche per la nuova sanzione amministrativa. Manca: giurisprudenza o circolari sul testo del 2026.
 - **Divieto o prescrizioni non rispettati**: sanzione amministrativa da 1.000 a 12.000 € (art. 18, quinto comma, TULPS). [FATTO · Alta]
 - Le sanzioni le applica il **prefetto** e non si possono pagare in misura ridotta (art. 18 TULPS, ultimi commi). [FATTO · Alta]
 

@@ -1,7 +1,7 @@
 # Bilancia Civica · Bussola Diritti
 ### Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando
 
-> **Aggiornato al 23/10/2026, ore 20:01 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
+> **Aggiornato al 24/10/2026, ore 10:13 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
 > Ultima verifica in Gazzetta Ufficiale: Serie Generale **n. 246 del 22/10/2026**, che contiene il **D.L. 22 ottobre 2026, n. 190** (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
@@ -67,7 +67,7 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 
 **Il preavviso è una comunicazione, non una richiesta di autorizzazione.**
 - **[FATTO]** Lo dice il testo dell'art. 17 Cost.: per la Costituzione la riunione è un diritto, e l'autorità può solo vietarla per "comprovati motivi di sicurezza o di incolumità pubblica".
-- **[FATTO]** La Corte costituzionale ha distinto l'onere del preavviso, che grava sui promotori, dal potere di vietare la riunione, che richiede motivi comprovati di sicurezza o incolumità pubblica, preavviso o no. La [sent. 11/1979](https://www.cortecostituzionale.it/scheda-pronuncia/1979/11) lo ricorda richiamando la [sent. 90/1970](https://www.cortecostituzionale.it/scheda-pronuncia/1970/90).
+- **[FATTO]** La Corte costituzionale ([sent. 90/1970](https://www.cortecostituzionale.it/scheda-pronuncia/1970/90)) ha chiarito che il preavviso è un onere dei soli promotori, non un'autorizzazione, e che chi partecipa a una riunione non preavvisata non commette illecito. Il divieto di una riunione richiede invece comprovati motivi di sicurezza o incolumità pubblica (art. 17, terzo comma, Cost.).
 - **[FATTO]** Giuridicamente il presupposto resta il preavviso, non un'autorizzazione (art. 17 Cost.; sentenze citate sopra).
 - **[DA VERIFICARE]** Nella prassi molte Questure rispondono al preavviso con prescrizioni su orari e percorsi, e dopo l'incontro si parla spesso di "manifestazione autorizzata". Manca: una fonte documentale sulla prassi. Verifica: circolari del Ministero dell'interno e provvedimenti pubblicati dalle Questure.
 
@@ -106,8 +106,8 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 
 ### 1.6 Volto coperto e oggetti (art. 5 L. 152/1975; L. 110/1975)
 - **[FATTO]** L'[art. 5 della L. 152/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-05-22;152) vieta l'uso di **caschi protettivi o di qualunque altro mezzo che renda difficoltoso il riconoscimento** della persona in luogo pubblico o aperto al pubblico senza giustificato motivo. **In occasione di manifestazioni** in luogo pubblico o aperto al pubblico il divieto è assoluto, tranne per quelle di carattere sportivo che lo comportino. È un **reato** (contravvenzione). Le pene vanno verificate nel testo vigente.
-- **[FATTO]** Il [D.L. 23/2026](https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG) usa il travisamento come aggravante della sanzione per chi turba una riunione (§1.4). Il D.L. 190/2026 lo usa come aggravante del nuovo art. 420-bis c.p. (§5).
-- **[FATTO]** Portare fuori casa, senza giustificato motivo, **strumenti atti a offendere** è reato (art. 4 [L. 110/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110)). Il D.L. 23/2026 ha inasprito la disciplina sulle lame.
+- **[FATTO]** Il [D.L. 23/2026](https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG) usa il travisamento come aggravante della sanzione per chi turba una riunione (§1.4). Il nuovo art. 420-bis c.p. (D.L. 190/2026) aumenta la pena se il fatto è commesso da persone travisate o comunque con modalità che rendono difficile l'identificazione (secondo comma, lett. a; §5).
+- **[FATTO]** Portare fuori casa, senza giustificato motivo, **strumenti atti a offendere** è reato (art. 4 [L. 110/1975](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110)). Il D.L. 23/2026 (art. 1) ha introdotto la reclusione da sei mesi a tre anni per chi porta senza giustificato motivo lame affilate o appuntite più lunghe di 8 cm.
 
 ### 1.7 Misure di polizia già in vigore prima del nuovo decreto
 - **[FATTO] "Fermo preventivo" nelle manifestazioni.** Il D.L. 23/2026 ha introdotto l'**art. 11-bis del [D.L. 59/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59)**, in vigore dal 25/02/2026 e confermato dalla L. 54/2026. Durante i servizi d'ordine pubblico per manifestazioni, in presenza di un attuale pericolo per l'ordine e la sicurezza pubblica, la polizia può **accompagnare negli uffici e trattenere fino a 12 ore** le persone per cui, sulla base di **elementi di fatto**, ci sia fondato motivo di ritenere che pongano in essere condotte di concreto pericolo per il pacifico svolgimento della manifestazione. Gli elementi di fatto possono essere il possesso di determinati oggetti, oppure precedenti o segnalazioni per reati violenti commessi in manifestazioni negli ultimi cinque anni.
@@ -169,7 +169,7 @@ Le regole principali:
 - il [calendario della Commissione di garanzia](https://www.cgsse.it/calendario-scioperi).
 
 ### 2.3 Nel settore privato non essenziale
-- **[FATTO]** Fuori dai servizi pubblici essenziali **non esiste una legge generale che imponga preavviso, durata massima o prestazioni minime**. Restano i limiti generali indicati dalla giurisprudenza: niente violenza, rispetto della **libertà di lavoro di chi non aderisce**, nessun danno agli impianti oltre il normale effetto dell'astensione ([sent. 290/1974](https://www.cortecostituzionale.it/scheda-pronuncia/1974/290), massima D).
+- **[FATTO]** Fuori dai servizi pubblici essenziali **non esiste una legge generale che imponga preavviso, durata massima o prestazioni minime**. Restano i limiti generali indicati dalla Corte costituzionale: rispetto della **libertà di lavoro di chi non aderisce**, non compromettere servizi pubblici o funzioni essenziali, astensione da ogni violenza ([sent. 290/1974](https://www.cortecostituzionale.it/scheda-pronuncia/1974/290), massima D).
 - **[FATTO]** I contratti collettivi possono prevedere clausole di tregua o procedure. La loro violazione ha conseguenze sul piano sindacale e contrattuale, non penale.
 - **[DA VERIFICARE]** Sulla legittimità di alcune forme "anomale" di sciopero, come lo sciopero a singhiozzo o a scacchiera, esiste giurisprudenza che non abbiamo ancora ricostruito. Manca: sentenze di riferimento della Corte di cassazione. Verifica: banca dati della giurisprudenza, nella prossima versione.
 - **[Nota redazionale di Bilancia Civica]** Per casi concreti, chiedi al sindacato.
@@ -212,7 +212,7 @@ Le regole principali:
 | Documentare con foto e video ciò che accade in luogo pubblico, comprese le operazioni di polizia (vedi FAQ 6.4) | art. 21 Cost. (con i limiti sulla diffusione dei dati personali) |
 | Allontanarsi quando arriva l'ordine di scioglimento | art. 18 TULPS (non punibilità di chi si ritira) |
 
-### ⚠️ Illecito amministrativo (multa, non reato)
+### ⚠️ Illecito amministrativo (sanzione in denaro, non reato)
 | Condotta | Norma | Sanzione |
 |---|---|---|
 | Promuovere una riunione in luogo pubblico senza preavviso, anche via social o chat | art. 18 TULPS (mod. D.L. 23/2026) | 1.000–10.000 € |
@@ -226,7 +226,7 @@ Le regole principali:
 |---|---|---|
 | **Violenza o minaccia a pubblico ufficiale** per costringerlo a compiere od omettere un atto | [art. 336 c.p.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398) | |
 | **Resistenza a pubblico ufficiale** con violenza o minaccia mentre compie un atto d'ufficio | art. 337 c.p. | **[DA VERIFICARE]** La giurisprudenza distinguerebbe la mera resistenza passiva (per esempio non muoversi) dall'opposizione attiva con violenza o minaccia. Manca: citazione di sentenze specifiche della Cassazione. Verifica: banca dati della giurisprudenza o parere di un giurista volontario. Il confine dipende comunque dal caso. |
-| **Lesioni** a ufficiali o agenti di polizia in servizio | art. 583-quater c.p. | Il D.L. 190/2026 le rende **procedibili d'ufficio** anche se lievi o lievissime (FATTO · Media, §5.2) |
+| **Lesioni** a ufficiali o agenti di polizia in servizio | art. 583-quater c.p. | Dal 23/10/2026 il D.L. 190/2026 le rende **procedibili d'ufficio** anche se non gravi (FATTO · Alta, §5.2) |
 | **Danneggiamento** (con violenza o minaccia, o in occasione di manifestazioni in luogo pubblico) | art. 635 c.p. | Il D.L. 190/2026 prevede l'aggravante del gruppo organizzato di almeno 5 persone (art. 635.1) |
 | **Devastazione e saccheggio** | art. 419 c.p. | Reato molto grave. Il D.L. 190/2026 aumenta la pena se commesso in manifestazioni su beni in luoghi di vendita o deposito |
 | **Blocco stradale o ferroviario con il proprio corpo** | [art. 1-bis d.lgs. 66/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66), come modificato dall'art. 14 D.L. 48/2025 ([L. 80/2025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-09;80)) | **[FATTO]** Da illecito amministrativo è tornato **reato**: reclusione fino a 1 mese o multa fino a 300 €; **da 6 mesi a 2 anni se commesso da più persone riunite**. Ostruire la strada con **oggetti** è un delitto più grave (art. 1 d.lgs. 66/1948). **[FATTO]** La Procura di Torino ha sollevato una questione di legittimità costituzionale sul comma relativo alle "più persone riunite", per contrasto con gli artt. 17, 40, 3, 27 e 77 Cost. ([memoria PM, pubblicata su giurisprudenzapenale.com](https://www.giurisprudenzapenale.com/wp-content/uploads/2026/06/26-10835-MEMORIA-PM-2.pdf)). **[DA VERIFICARE]** Non risulta ancora una decisione della Corte costituzionale. |
@@ -234,7 +234,7 @@ Le regole principali:
 | **Travisamento** (volto coperto) in manifestazione | art. 5 L. 152/1975 | Contravvenzione |
 | **Porto di oggetti atti a offendere** senza giustificato motivo | art. 4 L. 110/1975 | |
 | **Lancio di petardi, razzi, fumogeni, accensioni pericolose** | art. 703 c.p. (accensioni ed esplosioni pericolose) e norme speciali | Con il nuovo art. 420-bis (§5), il lancio in gruppo organizzato con pericolo concreto per le persone **e danni alle cose** è **delitto con 2–5 anni** (dal 23/10/2026) |
-| **Radunata sediziosa; grida e manifestazioni sediziose** | artt. 655 e 654 c.p. | Multa dell'art. 654 aggiornata dal D.L. 23/2026 (400–2.400 €) |
+| **Radunata sediziosa; grida e manifestazioni sediziose** | artt. 655 e 654 c.p. | Art. 654: sanzione amministrativa pecuniaria (se il fatto non è reato) portata a 400–2.400 € dal D.L. 23/2026 |
 | **Nuovo:** **violenza organizzata nelle manifestazioni pubbliche** | **art. 420-bis c.p.** (D.L. 190/2026, **in vigore dal 23/10/2026**) | Vedi §5 |
 
 **[FATTO] Il nodo "se altri commettono violenze".**
@@ -263,24 +263,24 @@ Le regole principali:
 | Lesioni nel corso delle condotte | Pene delle lesioni aumentate da un terzo alla metà | art. 1, c. 4 |
 | Danneggiamento di gruppo | Nuovo art. 635.1 c.p.: aumento da un terzo alla metà se il danneggiamento è commesso da un **gruppo organizzato, anche occasionalmente, di almeno 5 persone** | art. 1, c. 6 |
 | Devastazione e saccheggio; attentato a impianti di pubblica utilità | Pene aumentate da un terzo alla metà se commessi nel corso di manifestazioni (artt. 419 e 420 c.p.); per devastazione e saccheggio solo se riguardano beni in **luoghi di vendita o di deposito** (il secondo comma dell'art. 419 prevedeva già un aumento di pena per i fatti commessi nel corso di manifestazioni) | art. 1, c. 2–3 |
-| **Arresto in flagranza differita** | L'art. 382-bis c.p.p. (arresto anche **dopo** il fatto, sulla base di documentazione video o fotografica) si applica anche agli artt. 419, 420, 420-bis e 635.1 c.p. e, per i minorenni, tramite il nuovo art. 16, c. 1-bis, DPR 448/1988 | artt. 2 e 3 |
-| **Lesioni agli agenti** | Modificato l'art. 582, secondo comma, c.p.: le lesioni a ufficiali o agenti di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.) diventano **procedibili d'ufficio**, cioè senza querela, anche se lievi o lievissime. **[FATTO · Media: lettura redazionale del testo in GU e dell'art. 582 c.p. vigente su Normattiva; il testo coordinato ufficiale non è ancora disponibile]** | art. 1, c. 5 |
+| **Arresto in flagranza differita** | L'art. 382-bis c.p.p. (arresto anche **dopo** il fatto, entro 48 ore, se da documentazione video o fotografica emerge in modo inequivocabile il fatto e chi ne è l'autore) si applica anche agli artt. 419, 420, 420-bis e 635.1 c.p. e, per i minorenni, tramite il nuovo art. 16, c. 1-bis, DPR 448/1988 | artt. 2 e 3 |
+| **Lesioni agli agenti** | Modificato l'art. 582, secondo comma, c.p.: dal 23 ottobre 2026 le lesioni a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza, nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.), sono **procedibili d'ufficio**, cioè senza querela, anche se non gravi. **[FATTO · Alta]** | art. 1, c. 5 |
 | **Fermo preventivo esteso** | L'accompagnamento e trattenimento **fino a 12 ore** già previsto per le manifestazioni (art. 11-bis D.L. 59/1978, §1.7) si estende alle **operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone**, verso chi, sulla base di circostanze concrete ed elementi di fatto (oggetti posseduti, precedenti o segnalazioni negli ultimi 5 anni per determinati delitti), si ritiene ponga in essere condotte di concreto pericolo per la sicurezza. Restano la notizia al PM e gli avvisi per i minori (commi 2, 3 e 3-bis) | art. 7 (nuovo c. 3-ter art. 11-bis D.L. 59/1978) |
 | **Presunzione di imputabilità dai 14 anni** | Per i minori dai 14 anni la capacità di intendere e di volere **si presume fino a prova contraria**. Resta la diminuzione di pena per i minori | art. 1, c. 1 (art. 98 c.p.); art. 3 |
 | Misure cautelari per i minorenni | Custodia cautelare estesa agli artt. 420-bis e 635.1; all'art. 19 DPR 448/1988 aggiunta la clausola "salvo che l'imputato abbia compiuto sedici anni", subito dopo la frase che esclude per i minorenni la presunzione dell'art. 275, c. 3, secondo periodo, c.p.p. **[DA VERIFICARE]** L'effetto concreto della clausola. Manca: dossier dei Servizi studi sull'AC 3159. Verifica: camera.it | art. 3 |
 | Sanzioni ai genitori | Se un minore, anche non imputabile, partecipa a determinati reati: sanzione amministrativa per chi esercita la responsabilità genitoriale **da 500 a 1.000 €** (**da 1.000 a 2.000 €** se il minore reitera), salvo prova di non aver potuto impedire il fatto. Il Prefetto può ordinare il risarcimento dei danni a beni pubblici. I privati danneggiati possono ottenerlo con **decreto ingiuntivo** | art. 5 |
-| **Divieto di radunarsi** (avviso orale del questore) | Divieto di radunarsi con una o più persone determinate, in luoghi specificamente individuati e anche per fasce orarie, **fino a 1 anno**, anche per i minori dai 14 anni. Presupposti: comportamenti intimidatori, di grave molestia o violenti tenuti da **5 o più persone** in luogo pubblico **e**, nei 5 anni precedenti, provvedimenti di prevenzione o una condanna (anche non definitiva) per delitti contro la persona o il patrimonio commessi in luogo pubblico | art. 6 (nuovo c. 5-bis art. 3 d.lgs. 159/2011) |
+| **Divieto di radunarsi** (avviso orale del questore) | Divieto di radunarsi con una o più delle stesse persone, in luoghi specificamente individuati e anche per fasce orarie, **fino a 1 anno**, anche per i minori dai 14 anni. Presupposti: comportamenti intimidatori, di grave molestia o violenti tenuti da **5 o più persone** in luogo pubblico **e**, nei 5 anni precedenti, provvedimenti di prevenzione o una condanna (anche non definitiva) per delitti contro la persona o il patrimonio commessi in luogo pubblico | art. 6 (nuovo c. 5-bis art. 3 d.lgs. 159/2011) |
 | Magistrati per le convalide | Applicazione di magistrati entro 24 ore dalla richiesta, senza attendere il parere del consiglio giudiziario, in caso di molti arresti in flagranza | art. 4 |
-| Militari a Milano | +500 unità di "Strade sicure" fino al 31/12/2026; spesa autorizzata 4.933.831 €. Nessuna funzione di polizia giudiziaria attribuita | art. 8 |
+| Militari a Milano | +500 unità di "Strade sicure" fino al 31/12/2026; spesa autorizzata 4.933.831 €. I militari agiscono con le funzioni di agenti di pubblica sicurezza (art. 7-bis, c. 3, D.L. 92/2008); nessuna funzione di polizia giudiziaria | art. 8 |
 
 ### 5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto
 - **[FATTO] Danni alle cose.** Nel testo in GU il 420-bis richiede, oltre al concreto pericolo per le persone, che siano **cagionati danni alle cose**. Il comunicato e la bozza non lo prevedevano.
 - **[FATTO] Oggetti.** Nel testo in GU non compaiono "bengala" né strumenti per fumo o gas visibile, presenti nella bozza. **[DA VERIFICARE]** Se bengala e fumogeni rientrino tra "razzi" o "fuochi artificiali". Manca: giurisprudenza o dossier parlamentari. Verifica: dossier dei Servizi studi sul ddl di conversione.
 - **[FATTO] Durata del fermo: 12 ore, non 24.** Il nuovo comma 3-ter rinvia al trattenimento del comma 1 dell'art. 11-bis, che ha il limite di **12 ore**. L'unico termine di 24 ore nel decreto riguarda l'applicazione dei magistrati (art. 4). La cifra di 24 ore riportata da [L'Espresso (20/10)](https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418) **non trova riscontro** nel testo; non ne ipotizziamo l'origine.
-- **[DA VERIFICARE] Fermo preventivo dei minori: da che età?**
+- **Fermo preventivo dei minori: da che età?**
   - Il comunicato diceva "anche nei confronti dei minorenni"; secondo [ANSA (21/10)](https://www.ansa.it/sito/notizie/cronaca/2026/10/21/decreto-sicurezza-fermo-preventivo-e-un-nuovo-reato-ecco-le-misure_88341630-e337-409b-9e6e-9e921af23b41.html) "solo se hanno compiuto 16 anni".
-  - Il testo in GU (art. 7) **non fissa un'età** e rinvia al comma 3-bis, che regola gli avvisi per il "minore di anni diciotto" senza un'età minima. La clausola dei "sedici anni" compare solo nell'art. 3, sulle misure cautelari, dopo la frase sulla presunzione dell'art. 275, c. 3, c.p.p.: alla lettera riguarda quella presunzione **[INTERPRETAZIONE: lettura redazionale]**.
-  - Manca: dossier dei Servizi studi sull'AC 3159 o circolari; da chiarire anche l'applicazione ai minori di 14 anni. Verifica: camera.it e Normattiva.
+  - **[FATTO]** Il testo in GU (art. 7) **non fissa un'età minima** e rinvia al comma 3-bis, che regola gli avvisi per il "minore di anni diciotto". La soglia dei "sedici anni" introdotta dall'art. 3 riguarda le misure cautelari per i minorenni (art. 19, c. 2, DPR 448/1988).
+  - **[DA VERIFICARE]** Non è chiaro se il fermo possa riguardare i minori di 14 anni. Manca: dossier dei Servizi studi sull'AC 3159 o circolari. Verifica: camera.it e Normattiva.
 - **[FATTO] Il nome del reato.** Nel testo il nome è "**violenza organizzata** nelle manifestazioni pubbliche". "Partecipazione violenta a una manifestazione" è la formula usata da politici e media.
 - **[FATTO] Poteri dei militari.** Il testo in GU **non** attribuisce funzioni di polizia giudiziaria ai militari. Sulle ragioni esistono versioni diverse: secondo L'Espresso sono stati tolti dopo interlocuzioni con il Quirinale; il ministro Piantedosi ha negato uno "stop" del Colle.
 
@@ -288,9 +288,11 @@ Le regole principali:
 - **[FATTO]** La partecipazione pacifica e senz'armi resta tutelata dall'**art. 17 Cost.**, che un decreto-legge non può modificare.
 - **[FATTO]** Il nuovo art. 420-bis richiede **contemporaneamente**:
   1. la **partecipazione a un gruppo** di almeno 5 persone **organizzato**, anche occasionalmente;
-  2. una **condotta personale** di utilizzo illegittimo o di **lancio** di oggetti atti a offendere o di artifici pericolosi;
+  2. una **condotta personale** di utilizzo illegittimo o di **lancio** di oggetti atti a offendere, oppure di lancio di razzi, fuochi artificiali, petardi o gas urticanti;
   3. un **pericolo concreto** per l'incolumità delle persone;
   4. **danni alle cose**.
+
+  Per chi **organizza o promuove** il gruppo, o **incita o istiga** a queste condotte, anche online, non serve una condotta violenta personale: reclusione da 4 a 12 anni (terzo comma).
 
   Chi sfila, grida slogan, espone cartelli o fa un sit-in **non rientra** in questa descrizione.
 - **[FATTO]** Due misure possono però toccare **anche chi non commette violenze**, come **controlli e restrizioni**, non come reati:
@@ -329,7 +331,7 @@ Le regole principali:
 
 **Norme:** art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958.
 
-**Attenzione online:** dal 25/02/2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può renderti "promotore".
+**Attenzione online:** dal 25/02/2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può renderti "promotore" **[INTERPRETAZIONE · Media: lettura redazionale dell'art. 18, terzo comma, TULPS]**.
 
 **Cosa cambia col decreto:** sul preavviso **nulla**. Il D.L. 190/2026 non tocca l'art. 18 TULPS.
 
@@ -365,13 +367,13 @@ Le regole principali:
 **Norme:** artt. 17, 27 Cost.; artt. 20-24 TULPS; art. 349 c.p.p.; art. 11-bis D.L. 59/1978; art. 5 L. 152/1975; art. 4 L. 110/1975.
 
 **Cosa cambia col decreto (D.L. 190/2026, dal 23/10/2026):**
-- **Nuovo reato** se, in un gruppo organizzato di almeno 5 persone, usi o lanci oggetti atti a offendere o artifici pericolosi creando pericolo concreto per le persone **e** causando danni alle cose: **2–5 anni + 10.000–20.000 €**, di più se sei travisato.
-- **Arresto anche dopo il fatto** (flagranza differita) sulla base di video, per questo reato e per danneggiamento di gruppo, devastazione e saccheggio, attentato a impianti di pubblica utilità.
-- **Fermo preventivo esteso** anche fuori dai cortei, durante operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone, verso chi è ritenuto pericoloso sulla base di elementi di fatto.
+- **Nuovo reato** se, in un gruppo organizzato di almeno 5 persone, usi illegittimamente o lanci oggetti atti a offendere, oppure lanci razzi, fuochi artificiali, petardi o gas urticanti, creando pericolo concreto per le persone **e** causando danni alle cose: **2–5 anni + 10.000–20.000 €**, di più se sei travisato.
+- **Arresto anche dopo il fatto** (flagranza differita), entro 48 ore dal fatto, se da video o foto emerge in modo inequivocabile il fatto e chi ne è l'autore, per questo reato e per danneggiamento di gruppo, devastazione e saccheggio, attentato a impianti di pubblica utilità.
+- **Fermo preventivo esteso** anche fuori dai cortei, durante specifiche operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone, verso chi è ritenuto un concreto pericolo per la sicurezza sulla base di elementi di fatto (per esempio oggetti vietati, precedenti o segnalazioni degli ultimi 5 anni).
 - Per i **14-17enni**:
   - presunzione di imputabilità;
   - il divieto di radunarsi (che vale per tutti, con i presupposti di legge) può riguardare anche loro;
-  - età minima per il fermo preventivo: il testo in GU non la fissa espressamente; **[DA VERIFICARE]** (vedi §5.3).
+  - età minima per il fermo preventivo: il nuovo comma non la fissa **[FATTO]**; resta **[DA VERIFICARE]** l'applicazione ai minori di 14 anni (vedi §5.3).
 
 ### 6.3 "Il mio sciopero è legittimo?"
 **Risposta breve:** dipende da **chi sei** (dipendente o autonomo) e dal **settore**. Per un lavoratore dipendente aderire a uno sciopero regolarmente proclamato è un diritto. Nei **servizi pubblici essenziali** lo sciopero deve rispettare le regole della L. 146/1990.
@@ -387,12 +389,12 @@ Le regole principali:
 
 Controlla gli scioperi proclamati sul [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi) e sul [calendario della Commissione](https://www.cgsse.it/calendario-scioperi).
 
-**Nel privato non essenziale:** non ci sono preavvisi di legge. Restano i limiti generali: niente violenza, rispetto di chi lavora, niente danni agli impianti.
+**Nel privato non essenziale:** non ci sono preavvisi di legge. Restano i limiti generali: niente violenza, rispetto della libertà di lavoro di chi non aderisce, non compromettere servizi pubblici o funzioni essenziali (Corte cost. 290/1974).
 
 **Sciopero "politico"** (contro una legge o una manovra): non punibile, salvo che miri a sovvertire l'ordinamento costituzionale o a impedire od ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranità popolare (Corte cost. 290/1974).
 
 **Conseguenze se lo sciopero è irregolare:**
-- **per il singolo lavoratore:** sanzioni **disciplinari** proporzionate, **mai il licenziamento** (art. 4 L. 146/1990);
+- **per il singolo lavoratore:** sanzioni **disciplinari** proporzionate, escluse quelle che fanno cessare il rapporto (come il licenziamento) o lo cambiano in modo definitivo (art. 4, c. 1, L. 146/1990);
 - **per il sindacato:** sanzioni a suo carico.
 
 **Esempi del periodo** (fonte: [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi)):
@@ -477,7 +479,7 @@ Controlla gli scioperi proclamati sul [prospetto MIT](https://scioperi.mit.gov.i
 |---|---|---|---|
 | 1 | Pubblicazione in GU del decreto | **Chiuso**: D.L. 190/2026, GU n. 246 del 22/10/2026, in vigore dal 23/10 | — |
 | 2 | Numero del ddl di conversione e modifiche parlamentari | **Numero chiuso**: AC 3159, assegnato alla II Commissione della Camera il 22/10/2026. Modifiche: da seguire | camera.it, fino al 21/12/2026 |
-| 3 | Età minima per il fermo preventivo dei minori | Il testo in GU non la fissa espressamente | Testo coordinato su Normattiva; dossier parlamentari |
+| 3 | Età minima per il fermo preventivo dei minori | Il comma 3-ter non fissa un'età minima (FATTO). Aperto: applicazione ai minori di 14 anni | Testo coordinato su Normattiva; dossier parlamentari |
 | 4 | Durata del fermo (12 o 24 ore) | **Chiuso**: 12 ore (rinvio al c. 1 dell'art. 11-bis) | — |
 | 4a | Bengala e fumogeni nel 420-bis | Da verificare (la procedibilità d'ufficio delle lesioni agli agenti è chiarita in §5.2) | Dossier dei Servizi studi sull'AC 3159 |
 | 5 | Importi in euro delle sanzioni della L. 146/1990 (artt. 4 e 9) | **Chiuso**: importi in euro nel testo vigente su Normattiva (§2.2) | — |

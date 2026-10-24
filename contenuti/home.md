@@ -20,7 +20,7 @@ descrizione: Presidi, cortei, scioperi e decreto sicurezza: cosa puoi fare, cosa
 ::: stato
 **Novità: decreto sicurezza in vigore dal 23 ottobre 2026.** È il [decreto-legge 22 ottobre 2026, n. 190](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG). Il Parlamento ha tempo fino al **21 dicembre 2026** per convertirlo in legge, anche con modifiche; se non lo fa, il decreto perde efficacia fin dall'inizio. [FATTO · Alta]
 
-- Nasce un **nuovo reato** per le violenze di gruppo nelle manifestazioni: richiede insieme gruppo organizzato, condotta personale violenta, pericolo concreto e danni alle cose. Chi manifesta pacificamente non lo commette.
+- Nasce un **nuovo reato** per le violenze di gruppo nelle manifestazioni: per chi partecipa richiede insieme un gruppo organizzato di almeno 5 persone, l'uso illegittimo o il lancio di oggetti atti a offendere (o il lancio di razzi, petardi o gas urticanti), un pericolo concreto per le persone e danni alle cose. Chi organizza o promuove il gruppo, o incita o istiga a queste condotte, anche online, rischia da 4 a 12 anni anche senza usare violenza di persona (art. 420-bis, terzo comma). Chi manifesta pacificamente non lo commette.
 - Si allarga il **fermo preventivo** (fino a 12 ore), una misura di controllo che può riguardare anche chi non commette reati, se ci sono i presupposti di legge.
 - Le nuove norme penali non valgono per fatti precedenti al 23 ottobre 2026.
 

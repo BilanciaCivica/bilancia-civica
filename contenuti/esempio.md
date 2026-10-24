@@ -36,18 +36,18 @@ Questa pagina è una **scheda completa di esempio**: mostra in un solo posto eti
 
 [FATTO · Alta, testo in GU]
 
-- Nuovo delitto di **violenza organizzata nelle manifestazioni pubbliche** (art. 420-bis c.p.): servono insieme un gruppo di almeno 5 persone organizzato anche occasionalmente, l'uso o il lancio di oggetti atti a offendere o artifici pericolosi, un **pericolo concreto** per le persone e **danni alle cose**. Pena: 2–5 anni e multa 10.000–20.000 €, aumentata per chi agisce travisato.
+- Nuovo delitto di **violenza organizzata nelle manifestazioni pubbliche** (art. 420-bis c.p.): servono insieme un gruppo di almeno 5 persone organizzato anche occasionalmente, l'uso illegittimo o il lancio di oggetti atti a offendere, oppure il lancio di razzi, fuochi artificiali, petardi o gas urticanti, un **pericolo concreto** per le persone e **danni alle cose**. Pena: 2–5 anni e multa 10.000–20.000 €, aumentata per chi agisce travisato.
 - Chi **organizza, promuove o istiga** il gruppo, anche online: 4–12 anni.
 - Aggravante per danneggiamento da gruppo organizzato. In manifestazione, pene aumentate da un terzo alla metà per l'attentato a impianti di pubblica utilità (art. 420 c.p.) e per devastazione e saccheggio, ma solo se riguardano beni in **luoghi di vendita o di deposito**, come negozi e magazzini (art. 419 c.p.; il secondo comma prevedeva già un aumento di pena per i fatti commessi nel corso di manifestazioni).
-- Arresto in **flagranza differita** (anche dopo il fatto, sulla base di video) per questi delitti, anche per i minorenni.
-- Lesioni ad agenti di polizia nell'esercizio delle funzioni: procedibili d'ufficio, senza querela, anche se lievi [FATTO · Media: lettura redazionale dell'art. 1, c. 5, e dell'art. 582 c.p. vigente; testo coordinato ufficiale non ancora disponibile].
-- Fermo preventivo (fino a 12 ore) esteso alle operazioni in luoghi con consistente afflusso di persone.
+- Arresto in **flagranza differita** per questi delitti, anche per i minorenni: anche dopo il fatto, entro 48 ore dal fatto, se da video o foto emerge in modo inequivocabile il fatto e chi ne è l'autore (art. 382-bis c.p.p.).
+- Lesioni ad agenti: Dal 23 ottobre 2026 le lesioni a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza, nell'atto o a causa delle funzioni, sono **procedibili d'ufficio**, cioè senza querela, anche se non gravi (art. 582, secondo comma, c.p., come modificato dall'art. 1, c. 5, D.L. 190/2026). [FATTO · Alta]
+- Fermo preventivo (fino a 12 ore) esteso alle specifiche operazioni di polizia per prevenire reati in luoghi con consistente afflusso di persone, sulla base di elementi di fatto e di un fondato motivo di concreto pericolo per la sicurezza.
 
 ## 4. Punti da verificare
 
 [DA VERIFICARE]
 
-- **Minori e fermo preventivo:** il testo in GU non fissa un'età per il nuovo comma; l'ANSA aveva scritto «solo se hanno compiuto 16 anni», ma nel testo la clausola dei 16 anni riguarda le misure cautelari (art. 19 DPR 448/1988). Per il divieto di radunarsi il testo indica i 14 anni. Manca: dossier parlamentari sull'AC 3159 o circolari. Verifica: camera.it e Normattiva.
+- **Minori e fermo preventivo:** non è chiaro se il fermo possa riguardare i minori di 14 anni. Il nuovo comma non fissa un'età minima e la soglia dei 16 anni introdotta dal decreto riguarda le misure cautelari per i minorenni (art. 19, c. 2, DPR 448/1988) [FATTO · Alta]; l'ANSA aveva scritto «solo se hanno compiuto 16 anni». Per il divieto di radunarsi il testo indica i 14 anni. Manca: dossier parlamentari sull'AC 3159 o circolari. Verifica: camera.it e Normattiva.
 - Come verranno applicate le formule «gruppo che opera in modo organizzato anche occasionalmente» e «luoghi con consistente afflusso»: mancano modifiche in conversione, circolari e prime decisioni dei giudici. Verifica: monitoraggio fino al 21/12/2026.
 
 ## 5. Irretroattività

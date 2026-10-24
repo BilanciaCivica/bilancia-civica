@@ -1,7 +1,7 @@
 # Bilancia Civica — Analisi del D.L. 190/2026 e scheda autotrasporto (v0.2)
 ### *Ogni decreto, pesato sulla tua vita*
 
-> **Aggiornato al 23/10/2026, ore 20:01 (ora di Roma, CEST)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)). Estratto dal documento di progetto v0.2: contiene l'analisi del decreto sicurezza (§2), la scheda parametri sugli aiuti all'autotrasporto (§3) e le fonti consultate. Regole ed etichette: [METODOLOGIA.md](../METODOLOGIA.md) (§1). La numerazione delle sezioni è quella del documento originale.
+> **Aggiornato al 24/10/2026, ore 10:13 (ora di Roma, CEST)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)). Estratto dal documento di progetto v0.2: contiene l'analisi del decreto sicurezza (§2), la scheda parametri sugli aiuti all'autotrasporto (§3) e le fonti consultate. Regole ed etichette: [METODOLOGIA.md](../METODOLOGIA.md) (§1). La numerazione delle sezioni è quella del documento originale.
 
 > ⚠️ **Avvertenza.** Questo documento fornisce **informazione, non consulenza legale**. Le schede si basano su fonti pubbliche alla data indicata; norme e testi possono cambiare (in particolare un decreto-legge in corso di conversione). Per un caso concreto rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela.
 
@@ -37,15 +37,15 @@ Tutte le righe sono **FATTO, certezza Alta**, fonte: [testo in GU](https://www.g
 | 1, c. 4 | Lesioni | Se le condotte causano lesioni, le pene degli artt. 582, 583, 583-quater e 583-quinquies c.p. sono aumentate da un terzo alla metà. |
 | 1, c. 2–3 | Devastazione e saccheggio (art. 419), attentato a impianti di pubblica utilità (art. 420) | Pena aumentata da un terzo alla metà se il fatto è commesso nel corso di manifestazioni in luogo pubblico o aperto al pubblico (per l'art. 419: solo se riguarda beni in luoghi di vendita o di deposito). |
 | 1, c. 6 | Nuovo art. 635.1 c.p. "Danneggiamento commesso da un gruppo organizzato" | Danneggiamento (art. 635, commi 1–3) commesso da un gruppo organizzato, anche occasionalmente, di almeno cinque persone: pena aumentata da un terzo alla metà. |
-| 1, c. 5 | Lesioni agli agenti | Modifica dell'art. 582, secondo comma, c.p. (inserite le parole "primo comma," dopo "583-quater,"). Effetto: le lesioni a ufficiali o agenti di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.) diventano **procedibili d'ufficio**, cioè senza querela, anche se lievi o lievissime. È l'effetto annunciato dal [comunicato CdM](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884). [FATTO · Media: lettura redazionale del testo in GU e dell'art. 582 c.p. vigente su Normattiva; il testo coordinato ufficiale non è ancora disponibile] |
+| 1, c. 5 | Lesioni agli agenti | Modifica dell'art. 582, secondo comma, c.p. (inserite le parole "primo comma," dopo "583-quater,"). Effetto: dal 23 ottobre 2026 le lesioni a un ufficiale o agente di polizia giudiziaria o di pubblica sicurezza, nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.), sono **procedibili d'ufficio**, cioè senza querela, anche se non gravi. È l'effetto annunciato dal [comunicato CdM](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884). [FATTO · Alta] |
 | 1, c. 1; 3, c. 1 lett. a | **Presunzione di imputabilità dei minori di 14–17 anni** | All'art. 98 c.p.: la capacità di intendere e di volere del minore "si presume fino a prova contraria". Adeguato l'art. 9 del DPR 448/1988 (processo minorile). |
 | 2; 3, c. 1 lett. b | **Arresto in flagranza differita** | L'art. 382-bis c.p.p. si applica anche ai delitti degli artt. 419, 420, 420-bis e 635.1 c.p.; esteso ai minorenni (nuovo comma 1-bis dell'art. 16 DPR 448/1988). |
-| 3, c. 1 lett. c–d | Misure cautelari per i minorenni | All'art. 19, c. 2, DPR 448/1988 aggiunta la clausola "salvo che l'imputato abbia compiuto sedici anni"; all'art. 23, c. 1, la custodia cautelare è estesa agli artt. 420-bis e 635.1. La clausola è aggiunta subito dopo la frase che esclude per i minorenni la presunzione dell'art. 275, c. 3, secondo periodo, c.p.p. (per alcuni reati gravi si presume adeguata solo la custodia in carcere): alla lettera riguarda quella presunzione [INTERPRETAZIONE: lettura redazionale]. [DA VERIFICARE] L'effetto concreto sui sedicenni, su cui la stampa dà letture diverse. Manca: dossier dei Servizi studi sull'AC 3159. Verifica: camera.it. |
+| 3, c. 1 lett. c–d | Misure cautelari per i minorenni | All'art. 19, c. 2, DPR 448/1988 aggiunta la clausola "salvo che l'imputato abbia compiuto sedici anni"; all'art. 23, c. 1, la custodia cautelare è estesa agli artt. 420-bis e 635.1. La clausola è aggiunta subito dopo la frase che esclude per i minorenni la presunzione dell'art. 275, c. 3, secondo periodo, c.p.p. (per alcuni reati gravi si presume adeguata solo la custodia in carcere). [FATTO · Alta] [DA VERIFICARE] L'effetto concreto sui sedicenni, su cui la stampa dà letture diverse. Manca: dossier dei Servizi studi sull'AC 3159. Verifica: camera.it. |
 | 4 | Magistrati per le convalide | In caso di eventi di ordine pubblico con un numero rilevante di arresti in flagranza, l'applicazione di magistrati è disposta **entro 24 ore** dalla richiesta, senza attendere il parere del consiglio giudiziario. |
 | 5 | Sanzioni ai genitori e risarcimento | Se un minore, anche non imputabile, partecipa a determinati reati (art. 10, c. 6-quater, D.L. 14/2017 o artt. 419, 420, 420-bis, 635.1 c.p.), all'esercente la responsabilità genitoriale si applica una sanzione amministrativa **da 500 a 1.000 €**, **da 1.000 a 2.000 €** se il minore reitera, salvo prova di non aver potuto impedire il fatto. Il **prefetto** può ordinare il risarcimento dei danni a beni pubblici (opposizione entro 40 giorni). I privati danneggiati possono chiedere un **decreto ingiuntivo**, provvisoriamente esecutivo. |
 | 6 | **Divieto di radunarsi** (avviso orale del questore, nuovo c. 5-bis art. 3 d.lgs. 159/2011) | Quando **cinque o più persone**, anche in gruppo, in luogo pubblico tengono comportamenti intimidatori, di grave molestia o violenti, il questore può disporre l'avviso orale con **divieto di radunarsi** con una o più di quelle persone in luoghi specificamente individuati, anche per fasce orarie, verso chi nei 5 anni precedenti ha già ricevuto provvedimenti di prevenzione (art. 2 o 3 d.lgs. 159/2011, o artt. 10, 13 e 13-bis D.L. 14/2017) o una condanna, anche non definitiva, per delitti contro la persona o il patrimonio commessi in luogo pubblico. Durata **massima 1 anno**; applicabile anche ai minori **dai 14 anni**. |
 | 7 | **Estensione del fermo preventivo** (nuovo c. 3-ter art. 11-bis D.L. 59/1978) | Accompagnamento e trattenimento negli uffici di polizia anche durante **operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone**, verso chi, sulla base di specifiche e concrete circostanze ed elementi di fatto (oggetti posseduti, precedenti o segnalazioni negli ultimi 5 anni per delitti non colposi contro persona o patrimonio, stupefacenti, art. 420-bis, armi), si ha fondato motivo di ritenere ponga in essere condotte di concreto pericolo per la sicurezza. Si applicano i commi 2, 3 e 3-bis dello stesso articolo (notizia al PM; avvisi per i minori). Il limite di durata è quello del comma 1 (**12 ore**). |
-| 8 | **500 militari a Milano** | Fino al **31/12/2026** il contingente "Strade sicure" (art. 1, c. 625, L. 207/2024) è aumentato di **500 unità** per Milano; si applica l'art. 7-bis, commi 1–3, D.L. 92/2008. Spesa autorizzata: **4.933.831 € per il 2026**. Acquisti con procedure di somma urgenza. Il testo **non attribuisce** funzioni di polizia giudiziaria ai militari. |
+| 8 | **500 militari a Milano** | Fino al **31/12/2026** il contingente "Strade sicure" (art. 1, c. 625, L. 207/2024) è aumentato di **500 unità** per Milano; si applica l'art. 7-bis, commi 1–3, D.L. 92/2008. Spesa autorizzata: **4.933.831 € per il 2026**. Acquisti con procedure di somma urgenza. Il testo **non attribuisce** funzioni di polizia giudiziaria ai militari, che agiscono con le funzioni di agenti di pubblica sicurezza (art. 7-bis, c. 3, D.L. 92/2008). |
 | 9–10 | Invarianza finanziaria; entrata in vigore | Nessun nuovo onere oltre l'art. 8; in vigore il giorno dopo la pubblicazione. |
 
 ### 2.2 Discrepanze tra fonti (chiuse o aperte dopo la GU)
@@ -57,7 +57,7 @@ Tutte le righe sono **FATTO, certezza Alta**, fonte: [testo in GU](https://www.g
 | Soglia del gruppo | DIRE: "superiore a 5" | "almeno cinque persone" | **Chiuso** |
 | Natura della sanzione pecuniaria | Corriere: "sanzione amministrativa fino a 20 mila euro" | **Multa** (pena) 10.000–20.000 € | **Chiuso**: è pena, non sanzione amministrativa |
 | Mezzo di organizzazione | DIRE: "mediante piattaforme social" | "anche mediante strumenti informatici o telematici" | **Chiuso** |
-| Fermo preventivo dei minori | Comunicato: "anche nei confronti dei minorenni"; ANSA: solo dai **16 anni** | L'art. 7 non fissa un'età e rinvia al c. 3-bis, che prevede gli avvisi per il "minore di anni diciotto" senza un'età minima. La clausola "sedici anni" compare solo nell'art. 3 (misure cautelari, art. 19 DPR 448/1988) | **[DA VERIFICARE]** Manca: dossier dei Servizi studi sull'AC 3159 o circolari; da chiarire anche l'applicazione ai minori di 14 anni. Verifica: camera.it e Normattiva. |
+| Fermo preventivo dei minori | Comunicato: "anche nei confronti dei minorenni"; ANSA: solo dai **16 anni** | L'art. 7 non fissa un'età minima e rinvia al c. 3-bis, che prevede gli avvisi per il "minore di anni diciotto" (FATTO · Alta). La soglia dei "sedici anni" introdotta dall'art. 3 riguarda le misure cautelari per i minorenni (art. 19, c. 2, DPR 448/1988) (FATTO · Alta) | **[DA VERIFICARE]** Applicazione ai minori di 14 anni. Manca: dossier dei Servizi studi sull'AC 3159 o circolari. Verifica: camera.it e Normattiva. |
 | **Durata del fermo: 12 o 24 ore** | Comunicato CdM e bozza: **12 ore**; [L'Espresso, 20/10](https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418): **24 ore** | Il c. 3-ter rinvia al trattenimento del c. 1 (**12 ore**). Nel decreto l'unico termine di 24 ore riguarda l'applicazione dei magistrati (art. 4) | **Chiuso**: 12 ore. L'origine della cifra di 24 ore **non è nota** e non viene ipotizzata. |
 | Numero di articoli | ANSA: 8 articoli | 10 articoli | **Chiuso** |
 | Spesa per i militari | ANSA: 4,7 mln € | 4.933.831 € | **Chiuso**: prevale la GU |
@@ -75,7 +75,7 @@ Ogni riga riporta il **principio** (FATTO: testo costituzionale), il **punto di 
 | **21** – pensiero | Libertà di manifestare il pensiero con ogni mezzo. | Pena 4–12 anni per chi organizza, promuove, "incita o istiga", anche online. | Bonelli: sproporzione tra 4–12 anni per chi promuove online e 2–5 per chi usa materialmente gli oggetti. Commento tecnico di P. Salvatore: l'uso di social o messaggistica "non può assumere autonomo significato incriminante" senza la finalizzazione alle violenze ([circolazione-stradale.it](https://www.circolazione-stradale.it/Focus/Focus-2026/20261021-Decreto-sicurezza-ottobre-2026)). | Governo: colpire chi organizza e promuove gruppi violenti anche con strumenti telematici (CdM; [videomessaggio Meloni](https://www.governo.it/it/node/32888)). |
 | **25** – legalità, determinatezza, irretroattività | Nessuno è punito se non in forza di una legge in vigore prima del fatto; la norma penale deve essere determinata. | Determinatezza di "gruppo organizzato anche occasionalmente"; non applicabilità a fatti anteriori al 23/10/2026. | Unione Camere Penali (pres. Francesco Petrelli): "strappo" ai principi "di proporzionalità e di determinatezza" ([ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/10/21/penalisti-il-nuovo-decreto-sicurezza-e-inutile-e-lesivo-dei-diritti_aad4edf0-f971-444b-a62c-f8390db3520e.html)). | Commento tecnico di P. Salvatore: il requisito del "concreto pericolo per l'incolumità" e la soglia di 5 persone delimitano l'area penale, pur restando il nodo della determinatezza ([circolazione-stradale.it](https://www.circolazione-stradale.it/Focus/Focus-2026/20261021-Decreto-sicurezza-ottobre-2026)). |
 | **27** – responsabilità personale; funzione rieducativa | La responsabilità penale è personale; le pene tendono alla rieducazione. | Partecipazione al gruppo rispetto alla condotta individuale; presunzione di imputabilità dei 14–17enni; sanzioni ai genitori. | Bonelli: presunzione di imputabilità "a forte rischio di incostituzionalità" rispetto agli artt. 27 e 31 e alla Convenzione ONU sui diritti del fanciullo. Petrelli (UCPI): "criminalizzazione della devianza minorile". | Governo: resta la diminuzione di pena per i minori; presunzione superabile con prova contraria (CdM). Meloni: "se chi rompe è minorenne pagano i suoi genitori" (ANSA). Molteni e Ostellari (Lega): "chi rompe paga" ([Rainews](https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html)). |
-| **13** – libertà personale | Restrizioni solo per atto motivato dell'autorità giudiziaria; in casi eccezionali di necessità e urgenza previsti dalla legge, l'autorità di PS può adottare provvedimenti provvisori da comunicare entro 48 ore al giudice. | Estensione del fermo preventivo (max 12 ore) ai luoghi affollati. | Antigone (gennaio 2026, sul pacchetto precedente): fermi fino a 12 ore "senza controllo dell'autorità giudiziaria" ([Antigone](https://www.antigone.it/news/3620-pacchetto-sicurezza-antigone-un-nuovo-e-grave-attacco-allo-stato-di-diritto-non-sono-questi-i-provvedimenti-che-portano-benefici-sulla-sicurezza)). ANM (8/10/2026, su AS 1990): rilievi sul fermo di polizia ([La Magistratura](https://lamagistratura.it/procedura-penale/nuovo-ddl-sicurezza-lanm-in-audizione-al-senato/)). Analisi di T. Perrella ([Sistema Penale](https://www.sistemapenale.it/it/scheda/perrella-il-nuovo-fermo-preventivo-di-polizia-sicurezza-pubblica-diritti-fondamentali-e-prospettive-di-riforma)). | Governo: si applica solo sulla base di "elementi concreti" e "restano ferme le garanzie vigenti, comprese le specifiche tutele previste per i minori" (CdM). |
+| **13** – libertà personale | Restrizioni solo per atto motivato dell'autorità giudiziaria; in casi eccezionali di necessità e urgenza previsti dalla legge, l'autorità di PS può adottare provvedimenti provvisori da comunicare entro 48 ore al giudice. | Estensione del fermo preventivo (max 12 ore) alle specifiche operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone, sulla base di elementi di fatto. | Antigone (gennaio 2026, sul pacchetto precedente): fermi fino a 12 ore "senza controllo dell'autorità giudiziaria" ([Antigone](https://www.antigone.it/news/3620-pacchetto-sicurezza-antigone-un-nuovo-e-grave-attacco-allo-stato-di-diritto-non-sono-questi-i-provvedimenti-che-portano-benefici-sulla-sicurezza)). ANM (8/10/2026, su AS 1990): rilievi sul fermo di polizia ([La Magistratura](https://lamagistratura.it/procedura-penale/nuovo-ddl-sicurezza-lanm-in-audizione-al-senato/)). Analisi di T. Perrella ([Sistema Penale](https://www.sistemapenale.it/it/scheda/perrella-il-nuovo-fermo-preventivo-di-polizia-sicurezza-pubblica-diritti-fondamentali-e-prospettive-di-riforma)). | Governo: si applica solo sulla base di "elementi concreti" e "restano ferme le garanzie vigenti, comprese le specifiche tutele previste per i minori" (CdM). |
 | **77** – decreto-legge | Solo in casi straordinari di necessità e urgenza; decade se non convertito in 60 giorni. | Misure già contenute in ddl pendenti (AS 1990, AC 3080). | Bonelli e Petrelli: "sviamento del corretto percorso legislativo" perché le norme erano già all'esame del Parlamento. | Governo: urgenza legata ai fatti di Milano del 17–18/10 e al rischio di ripetizione "in altre giornate e contesti" (Piantedosi, ANSA). |
 
 **Posizioni politiche e sociali, attribuite (riportate, non valutate):**
@@ -139,10 +139,10 @@ Fonte importi art. 18 e 24 TULPS: testo coordinato in [GU n. 95 del 24/04/2026](
 | **Travisamento** in manifestazione (caschi o mezzi che rendono difficile il riconoscimento) | Art. 5 L. 152/1975 (contravvenzione) |
 | Porto senza giustificato motivo di oggetti atti a offendere | Art. 4 L. 110/1975 |
 | Violenza o minaccia a pubblico ufficiale; resistenza con violenza o minaccia | Artt. 336, 337 c.p. |
-| Lesioni a ufficiali o agenti di polizia | Art. 583-quater c.p.; **[D.L. 190/2026: procedibilità d'ufficio anche per le lesioni lievi o lievissime (FATTO · Media), §2.1]** |
+| Lesioni a ufficiali o agenti di polizia | Art. 583-quater c.p.; **[D.L. 190/2026: dal 23/10/2026 procedibili d'ufficio anche se non gravi (FATTO · Alta), §2.1]** |
 | Danneggiamento | Art. 635 c.p.; **[D.L. 190/2026: art. 635.1, +1/3–1/2 se gruppo organizzato ≥ 5]** |
 | Devastazione e saccheggio; attentato a impianti di pubblica utilità | Artt. 419, 420 c.p.; **[D.L. 190/2026: aumento se in manifestazione; per l'art. 419 solo su beni in luoghi di vendita o di deposito]** |
-| In un gruppo organizzato di almeno 5 persone, usare o lanciare oggetti atti a offendere, razzi, fuochi artificiali, petardi o gas urticanti, con concreto pericolo per le persone **e** danni alle cose | **[D.L. 190/2026: art. 420-bis, 2–5 anni + multa 10.000–20.000 €]** |
+| In un gruppo organizzato di almeno 5 persone, usare illegittimamente o lanciare oggetti atti a offendere, oppure lanciare razzi, fuochi artificiali, petardi o gas urticanti, con concreto pericolo per le persone **e** danni alle cose | **[D.L. 190/2026: art. 420-bis, 2–5 anni + multa 10.000–20.000 €]** |
 | Interruzione di pubblico servizio | Art. 340 c.p. ([DA VERIFICARE] testo vigente dopo il 2025: verifica su Normattiva multivigente) |
 
 **Resistenza passiva.** [DA VERIFICARE] La Bussola Diritti riporta che la giurisprudenza distingue in genere la mera resistenza passiva (per esempio non muoversi) dall'opposizione attiva con violenza o minaccia, punita dall'art. 337 c.p. Manca: citazione di sentenze specifiche della Corte di cassazione. Verifica: banca dati della giurisprudenza (Italgiure) o parere di un giurista volontario, entro la v0.3. Per questo la v0.2 **non la elenca** tra le condotte protette.
@@ -163,12 +163,12 @@ Nota: le nuove norme **non si applicano a fatti precedenti** all'entrata in vigo
 ---
 ## 3. Scheda parametri: aiuti all'autotrasporto
 
-> Stato: **misure in parte vigenti (credito marzo–agosto 2026) e in parte solo annunciate o in emendamento**. Cifre riportate solo se trovate in fonte; altrimenti "non disponibile".
+> Stato: **credito marzo–agosto 2026 vigente (D.L. 33/2026, integrato dal D.L. 193/2026); credito per le spese 1/9–5/10/2026 previsto dal D.L. 193/2026, in vigore dal 24/10/2026 e da convertire in legge; altre misure solo annunciate**. Cifre riportate solo se trovate in fonte; altrimenti "non disponibile".
 
 ```yaml
 scheda_id: autotrasporto-gasolio-2026
 versione: 0.2
-aggiornato: "2026-10-22T20:31+02:00"   # ora di Roma; contenuto invariato rispetto alla v0.1 salvo etichette
+aggiornato: "2026-10-24T10:10+02:00"   # ora di Roma; aggiornati limite di spesa, D.L. 193/2026 ed emendamento 1.100
 etichetta_generale: FATTO (con discrepanze segnalate)
 
 misura_principale:
@@ -191,12 +191,14 @@ misura_principale:
     c. 2, lett. a) nn. 1 e 3 e lett. b) del d.lgs. 504/1995, e noleggio autobus con
     conducente (L. 218/2003)
   limite_aiuto_di_stato_iniziale: "386,2 milioni di euro (pagina MIT)"
+  limite_testo_vigente_normattiva: "397,6 milioni di euro per il 2026 (art. 3, c. 1, D.L. 33/2026, testo vigente dal 26/09/2026, prima del D.L. 193/2026)"
+  nota_limite: "DA VERIFICARE - differenza con i 386,2 mln della pagina MIT non spiegata nelle fonti lette"
   domande:
     piattaforma: "creditocarburantetrasporto.adm.gov.it (ADM/Sogei, accesso SPID/CIE)"
     apertura: "2026-09-01"
     chiusura_originaria: "2026-09-15 23:59 (MIT)"
-    chiusura_prorogata: "2026-09-20 23:59 (fonti specializzate: PMI.it, FiscoeTasse) - da verificare su atto MIT"
-  utilizzo_credito: "in compensazione entro il 31/12/2026 (PMI.it) - certezza Media"
+    chiusura_prorogata: "2026-09-20 23:59 (comunicato MIT di proroga, pagina MIT) - certezza Alta"
+  utilizzo_credito: "in compensazione entro il 31/12/2026 (art. 3, c. 2, D.L. 33/2026) - certezza Alta"
   riparametrazione: "MIT ha comunicato che le somme richieste superano le risorse e procede a riparametrazione (PMI.it) - certezza Media"
 
 annunci_20_ottobre_2026:   # tavolo in Prefettura a Milano, Salvini e Rixi
@@ -205,25 +207,36 @@ annunci_20_ottobre_2026:   # tavolo in Prefettura a Milano, Salvini e Rixi
   saldo: "entro fine novembre 2026 (Messaggero Marittimo)"
   settembre_ottobre:
     importo: "60 milioni (annuncio)"
-    periodo_nel_testo_normativo: "dal 1/9 al 5/10/2026 (emendamento 1.100 del Governo, vedi sotto)"
+    periodo_nel_testo_normativo: "dal 1/9 al 5/10/2026 (art. 1, c. 2, D.L. 193/2026, vedi sotto)"
     nuova_finestra_domande: "dal 5/11/2026 per 15 giorni (Messaggero Marittimo) - certezza Media"
-    pagamenti: "gennaio-febbraio 2027 (Messaggero Marittimo); credito utilizzabile in compensazione entro il 31/12/2027 (emendamento)"
+    pagamenti: "gennaio-febbraio 2027 (Messaggero Marittimo); credito utilizzabile in compensazione entro il 31/12/2027 (art. 1, c. 2, D.L. 193/2026)"
   cifra_complessiva_circa_1_miliardo: "dichiarazione Rixi; scomposizione non disponibile"
   altre_misure_annunciate:
     - "Sea Modal Shift: circa 104 milioni per annualità 2023/24 e 2025/26 + 50 milioni per 2026/27 (secondo il Comitato trasportatori siciliani, riportato da ANSA) - atto ufficiale non disponibile"
     - "Norma in un prossimo decreto-legge per l'adeguamento automatico delle tariffe al costo del gasolio (associazioni nazionali; Rixi cita il 'modello spagnolo') - testo non disponibile"
     - "Contributi per le Autostrade del mare (comunicato congiunto associazioni) - importo non disponibile"
 
-veicolo_normativo_in_corso:
-  atto: "Emendamento 1.100 del Governo al DL 17 settembre 2026, n. 162 (decreto Carburanti), AC 3106"
+veicolo_normativo:
+  atto: "Decreto-legge 23 ottobre 2026, n. 193 (GU SG n. 247 del 23/10/2026), art. 1"
+  fonte: "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/SG"
+  in_vigore: "2026-10-24"
+  scadenza_conversione: "2026-12-22 (60 giorni dalla pubblicazione)"
   contenuto: >
-    +66,4 mln per le spese marzo-agosto 2026; nuovo limite di 60 mln per le spese
-    1/9-5/10/2026; onere art. 1, c. 5 portato da 21,2 a 126,4 mln
-  fonte: "https://www.uominietrasporti.it/professione/leggi-e-politica/caro-gasolio-il-governo-mette-nero-su-bianco-1264-milioni-ma-il-credito-dimposta-si-ferma-al-5-ottobre/"
-  certezza: "Media (fonte specializzata; testo dell'emendamento non letto direttamente)"
-  stato: "emendamento depositato, NON approvato"
-  iter_ddl_conversione: "AC 3106 in esame in Commissione VI Finanze (camera.it)"
-  scadenza_conversione_DL_162: "16/11/2026 (60 giorni dalla pubblicazione del 17/9; calcolo da verificare sulla data GU)"
+    c. 1: periodo del credito "da marzo ad agosto" 2026; autorizzazione di spesa
+    dell'art. 3 D.L. 33/2026 aumentata di 66,4 mln. c. 2: credito per le spese
+    1/9-5/10/2026 nel limite di 60 mln per il 2026, utilizzabile in compensazione
+    entro il 31/12/2027. c. 4: soppressi i commi 4 e 5 dell'art. 1 e l'art. 4 del
+    D.L. 162/2026. c. 5: oneri di 126,4 mln per il 2026 e 60 mln per il 2027
+    in termini di fabbisogno.
+  risorse_aggiuntive_nette_marzo_agosto: "45,2 mln (comunicato CdM n. 194 del 22/10/2026)"
+  certezza: Alta
+  limite_complessivo_aggiornato: "DA VERIFICARE - testo coordinato non ancora disponibile su Normattiva; nessun totale calcolato da noi"
+
+emendamento_1_100:
+  atto: "Emendamento 1.100 del Governo al DL 17 settembre 2026, n. 162 (decreto Carburanti), AC 3106"
+  stato: "accantonato in Commissione VI Finanze il 21/10/2026"
+  fonte: "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf"
+  certezza: Alta
 
 prossimo_passaggio:
   data: "2026-10-27"
@@ -243,19 +256,19 @@ posizioni:
 
 | Punto | Versione A | Versione B | Nota |
 |---|---|---|---|
-| Importo marzo–agosto | 430 mln "già a bilancio" (Salvini) | ~480 mln (Rixi) | Il limite iniziale sulla pagina MIT è 386,2 mln; **[DA VERIFICARE]** Nessuna fonte ufficiale riporta un totale: la somma aritmetica 386,2 + 66,4 (emendamento) = 452,6 mln è una nota redazionale di Bilancia Civica, non una cifra ufficiale. Nessuna fonte ufficiale trovata che dia 480 mln. Manca: decreto o comunicato MIT/MEF con l'importo definitivo. Verifica: sito MIT dopo l'incontro del 27/10. |
-| Periodo "settembre–ottobre" | Annunci: settembre e ottobre | Emendamento: **1/9–5/10/2026** | Le spese dal 6/10 non risultano coperte dal testo depositato. |
-| Termine domande | Rixi: "fino al 30 di agosto" | MIT: finestra 1–15/9; fonti specializzate: proroga al 20/9 | **[DA VERIFICARE]** Manca: comunicato MIT di proroga. Verifica: sezione news del MIT. |
+| Importo marzo–agosto | 430 mln "già a bilancio" (Salvini) | ~480 mln (Rixi) | Limite nel testo vigente su Normattiva prima del D.L. 193/2026: 397,6 mln; pagina MIT: 386,2 mln. Il D.L. 193/2026 aggiunge 66,4 mln e sopprime l'aumento di 21,2 mln del D.L. 162/2026 (45,2 mln netti secondo il [comunicato CdM n. 194](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912)). **[DA VERIFICARE]** Limite complessivo aggiornato: testo coordinato non ancora disponibile; non pubblichiamo totali calcolati da noi. Nessuna fonte ufficiale trovata che dia 430 o 480 mln. Verifica: Normattiva e sito MIT dopo l'incontro del 27/10. |
+| Periodo "settembre–ottobre" | Annunci: settembre e ottobre | D.L. 193/2026: **1/9–5/10/2026** | Le spese dal 6/10 non risultano coperte dal testo del D.L. 193/2026. |
+| Termine domande | Rixi: "fino al 30 di agosto" | MIT: finestra 1–15/9, poi prorogata al 20/9 | **Chiuso**: la proroga al 20/9/2026 è nel comunicato pubblicato sulla pagina MIT. |
 | "Fondi 2025" | Fedralog: "somme del 2025" | Base normativa trovata: D.L. 33/2026, spese 2026 | Possibile riferimento ad altre misure (es. Sea Modal Shift 2023–2026 o rimborsi accise): **non chiarito**. |
 
 ### 3.2 Limiti
-- Il testo dell'emendamento 1.100 non è stato letto direttamente (fonte: Uomini e Trasporti).
+- Il testo dell'emendamento 1.100 non è stato letto direttamente; l'emendamento è stato accantonato il 21/10/2026 e le misure per l'autotrasporto sono ora nel D.L. 193/2026, letto in Gazzetta Ufficiale.
 - Le cifre 306 mln (prima tranche), 480 mln e "1 miliardo" provengono da dichiarazioni o da stampa, non da un atto MIT/MEF.
 - Il rimborso trimestrale delle accise sul gasolio commerciale (misura strutturale, d.lgs. 504/1995) non è stato ricostruito per il 2026: **non disponibile**.
 
 ### 3.3 Cosa manca
 - Comunicato o decreto MIT con l'importo definitivo e la riparametrazione per marzo–agosto.
-- Testo ufficiale dell'emendamento 1.100 (bollettino della Commissione VI Camera).
+- Testo coordinato dell'art. 3 D.L. 33/2026 dopo il D.L. 193/2026 (limite complessivo aggiornato) e iter di conversione del D.L. 193/2026.
 - Atti sul Sea Modal Shift 2023–2027 e sulle Autostrade del mare.
 - Bozza della norma sull'adeguamento automatico delle tariffe.
 - Esito dell'incontro del 27/10/2026.
@@ -266,7 +279,7 @@ posizioni:
 - Fonti da interrogare nella v0.3, nell'ordine:
   1. **[Agenzia delle Entrate](https://www.agenziaentrate.gov.it)**: risoluzione istitutiva del codice tributo per l'utilizzo del credito in F24 e relative istruzioni. [DA VERIFICARE] Manca: numero e data della risoluzione. Verifica: ricerca nella sezione "Normativa e prassi".
   2. **[RNA – Registro nazionale degli aiuti di Stato](https://www.rna.gov.it)**: registrazione della misura e degli aiuti concessi (aggregati per misura; **niente nomi di persone fisiche**, §1.11). [DA VERIFICARE] Manca: codice della misura (CAR). Il sito non ha risposto dai nostri sistemi il 22/10/2026; nuova prova entro il 27/10.
-  3. **[MEF](https://www.mef.gov.it)**: stanziamenti e coperture (relazioni tecniche RGS dei D.L. 33/2026 e 162/2026).
+  3. **[MEF](https://www.mef.gov.it)**: stanziamenti e coperture (relazioni tecniche RGS dei D.L. 33/2026, 162/2026 e 193/2026).
   4. MIT e ADM per bandi, piattaforma e riparametrazione (già citati nella scheda).
 
 ---
@@ -284,6 +297,10 @@ Fonti primarie e tecniche
 - [Gazzetta Ufficiale – Serie Generale, ultimi 30 giorni](https://www.gazzettaufficiale.it/30giorni/serie_generale)
 - [Legge 24 aprile 2026, n. 54 (conversione D.L. 23/2026) – Normattiva](https://www.normattiva.it/atto/caricaDettaglioAtto?atto.articolo.numero=0&atto.articolo.sottoArticolo=1&atto.articolo.sottoArticolo1=0&atto.codiceRedazionale=26G00078&atto.dataPubblicazioneGazzetta=2026-04-24&qId=)
 - [MIT – Piattaforma credito d'imposta autotrasporto marzo–agosto 2026](https://www.mit.gov.it/documentazione/piattaforma-credito-dimposta-favore-imprese-di-autotrasporto-ristoro-maggiore-spesa)
+- [D.L. 18 marzo 2026, n. 33, art. 3 – Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-18;33~art3)
+- [Decreto-legge 23 ottobre 2026, n. 193 – Gazzetta Ufficiale, SG n. 247 del 23/10/2026](https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/SG)
+- [Comunicato CdM n. 194 del 22/10/2026 – governo.it](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912)
+- [Camera, Commissione VI Finanze, bollettino del 21/10/2026 (accantonamento emendamento 1.100)](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf)
 - [MIT – Decreto direttoriale 28/08/2026 n. 301](https://mit.gov.it/normativa/decreto-direttoriale-28-agosto-2026-n-301-modalita-di-attuazione-ristoro-credito-dimposta)
 - [Camera – AC 3106, conversione D.L. 162/2026 (Carburanti)](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)
 

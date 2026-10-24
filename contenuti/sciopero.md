@@ -9,7 +9,7 @@ descrizione: Sto per scioperare: il mio sciopero è in regola? Lista di controll
 
 - Dipende da **chi sei** (dipendente o autonomo) e dal **settore**. [FATTO · Alta]
 - Nei **servizi pubblici essenziali** (per esempio trasporti, sanità, scuola) ci sono regole in più: preavviso di almeno 10 giorni e un servizio minimo da garantire (le «prestazioni indispensabili»). Nel privato non essenziale non c'è un preavviso di legge. [FATTO · Alta]
-- Se lo sciopero è irregolare, il lavoratore rischia sanzioni disciplinari, **mai il licenziamento**. Il decreto sicurezza non cambia queste regole. [FATTO · Alta]
+- Nei servizi pubblici essenziali, chi aderisce a uno sciopero irregolare rischia sanzioni disciplinari proporzionate, escluse quelle che fanno cessare il rapporto di lavoro (come il licenziamento) o lo cambiano in modo definitivo (art. 4, c. 1, L. 146/1990). Il decreto sicurezza non cambia queste regole. [FATTO · Alta]
 :::
 
 ## Cosa puoi fare
@@ -25,11 +25,11 @@ descrizione: Sto per scioperare: il mio sciopero è in regola? Lista di controll
 4. Svolte le procedure di raffreddamento e conciliazione?
 5. Rispettati franchigie e intervalli dagli scioperi precedenti?
 6. Garantite le prestazioni indispensabili? Se sei nei contingenti minimi, **devi lavorare**.
-7. C'è una delibera della Commissione di garanzia o un'ordinanza di **precettazione**? Va rispettata; ricorso al TAR entro 7 giorni.
+7. C'è una delibera della Commissione di garanzia o un'ordinanza di **precettazione**? Va rispettata. Contro l'ordinanza di precettazione si può ricorrere al TAR entro 7 giorni, ma il ricorso non la sospende (art. 10 L. 146/1990).
 
 ## Cosa rischi
 
-- **Se irregolare:** per il lavoratore sanzioni disciplinari, **mai il licenziamento** (art. 4 L. 146/1990).
+- **Se irregolare:** per il lavoratore sanzioni disciplinari proporzionate, escluse quelle che fanno cessare il rapporto (come il licenziamento) o lo cambiano in modo definitivo (art. 4, c. 1, L. 146/1990).
 - Bloccare strade o caselli è diverso e può essere reato (art. 1-bis d.lgs. 66/1948).
 
 ## Cosa cambia con il decreto sicurezza
