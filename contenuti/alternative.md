@@ -4,6 +4,15 @@ descrizione: Il formato con cui Bilancia Civica mette a confronto le opzioni pro
 ---
 # Alternative a confronto
 
+::: inbreve
+**In breve**
+
+- Qui metteremo a confronto 2–3 **opzioni proposte da soggetti identificati** su una stessa misura, con gli stessi criteri.
+- Le prime schede **non sono ancora pronte**: le pubblicheremo solo con fonti sufficienti.
+- Sono opzioni da discutere, **non raccomandazioni**.
+:::
+
+
 ::: attenzione
 **In preparazione.** Le prime schede con alternative documentate (aiuti all'autotrasporto e decreto sicurezza) non sono ancora pronte: le pubblicheremo solo quando ogni opzione avrà fonti sufficienti.
 :::

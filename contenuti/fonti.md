@@ -5,6 +5,15 @@ indice: si
 ---
 # Fonti di Bilancia Civica
 
+::: inbreve
+**In breve**
+
+- Usiamo prima di tutto i **testi ufficiali**: Gazzetta Ufficiale (GU), Normattiva, Camera, Senato, ministeri.
+- Poi organi tecnici, agenzie di stampa, giornali e, solo per le loro posizioni, le fonti di parte.
+- Se due fonti non sono d'accordo, prevale quella più affidabile e **lo diciamo**.
+:::
+
+
 In ordine di affidabilità. Se le fonti non concordano, prevale la più alta e **la discrepanza viene mostrata**.
 
 ## 1. Fonti primarie ufficiali

@@ -27,20 +27,20 @@ descrizione: Voglio organizzare un presidio: serve un permesso? Preavviso al que
 1. Definisci luogo, data, orari ed eventuale percorso.
 2. Preavviso scritto alla Questura competente: promotori e recapiti, luogo, data, orari, finalità, partecipanti stimati, impianti audio, mezzi o gazebo, referente sul posto. [DA VERIFICARE] Moduli e indirizzi PEC variano da Questura a Questura: manca un elenco ufficiale unico; verifica sul sito della tua Questura.
 3. Consegna almeno 3 giorni prima e conserva la prova (ricevuta o PEC).
-4. Rispetta le eventuali **prescrizioni** del questore (indicazioni su tempi, luoghi e percorsi).
+4. Rispetta le eventuali **prescrizioni** del questore (modalità di tempo e di luogo, per esempio il percorso).
 5. Gazebo o palco su suolo pubblico possono richiedere un'autorizzazione del **Comune**, distinta dal preavviso.
 6. Prevedi un servizio d'ordine e un contatto con le forze dell'ordine.
 7. In caso di **divieto**: chiedi le motivazioni scritte e valuta con un avvocato il ricorso al TAR.
 
 ## Cosa rischi
 
-[FATTO · Alta]
-
-- **Niente preavviso**: sanzione da 1.000 a 10.000 € per chi promuove la riunione. Chi si limita a partecipare non rientra in questa sanzione.
-- **Prescrizioni non rispettate**: sanzione amministrativa da 1.000 a 12.000 €.
+- **Niente preavviso**: sanzione amministrativa da 1.000 a 10.000 € per chi promuove la riunione (art. 18, terzo comma, TULPS). L'obbligo di preavviso è dei promotori: chi si limita a partecipare non rientra in questa sanzione. [FATTO · Media: lettura redazionale del testo vigente su Normattiva]
+- Il testo prevede la stessa sanzione per chi **prende la parola** in una riunione senza preavviso, ma due sentenze della Corte costituzionale (90/1970 e 11/1979) hanno dichiarato illegittima questa parte quando era una norma penale. [DA VERIFICARE] Come si applichino oggi alla sanzione amministrativa. Manca: giurisprudenza o circolari sul testo del 2026.
+- **Divieto o prescrizioni non rispettati**: sanzione amministrativa da 1.000 a 12.000 € (art. 18, quinto comma, TULPS). [FATTO · Alta]
+- Le sanzioni le applica il **prefetto** e non si possono pagare in misura ridotta (art. 18 TULPS, ultimi commi). [FATTO · Alta]
 
 ::: attenzione
-**Online:** dal 2026 la sanzione per mancato preavviso (1.000–10.000 €) vale anche per chi **promuove** la riunione via social, chat o gruppi chiusi. [FATTO · Alta]
+**Online:** dal 25 febbraio 2026 (D.L. 23/2026) la sanzione per mancato preavviso (1.000–10.000 €) vale anche per chi **promuove** la riunione via social, chat o gruppi chiusi. [FATTO · Alta]
 :::
 
 ## Cosa cambia con il decreto sicurezza

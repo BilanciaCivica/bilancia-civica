@@ -4,6 +4,15 @@ descrizione: Come funzionerà il simulatore d'impatto di Bilancia Civica: interv
 ---
 # Simulatore d'impatto
 
+::: inbreve
+**In breve**
+
+- Il simulatore **non è ancora attivo**: questa pagina spiega come funzionerà.
+- Mostrerà l'effetto di una misura su una situazione tipo, sempre come **intervallo** (da… a…), con ipotesi e fonti.
+- **Nessun dato salvato** e tutte le domande facoltative.
+:::
+
+
 ::: attenzione
 **In sviluppo.** Il simulatore non è ancora disponibile. Questa pagina descrive come funzionerà e con quali regole. Non mostriamo stime finché il metodo e i dati non sono stati verificati.
 :::

@@ -5,6 +5,15 @@ indice: si
 ---
 # Note legali e privacy
 
+::: inbreve
+**In breve**
+
+- I contenuti sono **informazione, non consulenza legale**: per un caso concreto rivolgiti a un professionista.
+- Il sito **non usa cookie**, non traccia e non raccoglie dati.
+- I testi originali sono in licenza CC BY-SA 4.0, il codice in licenza AGPL-3.0.
+:::
+
+
 ## Contenuti informativi, non consulenza legale
 
 I contenuti di Bilancia Civica hanno solo **scopo informativo e divulgativo**. Non sono consulenza legale, fiscale o di altro tipo e non sostituiscono il parere di un professionista.

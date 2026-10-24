@@ -33,7 +33,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "23/10/2026, ore 23:13 (ora di Roma)"
+AGGIORNATO = "24/10/2026, ore 09:46 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -414,6 +414,75 @@ MODELLO = """<!doctype html>
 """
 
 
+# "In breve" per i documenti del repository (senza front matter): inserito solo nel sito,
+# cosi' i file Markdown restano leggibili anche su GitHub.
+INBREVE_DOC = {
+    "docs/bussola-diritti.md": """- Riunirsi pacificamente e senz'armi, manifestare e scioperare sono diritti della Costituzione (artt. 17, 21 e 40). [FATTO · Alta]
+- Questa è la versione completa, con tutte le norme e le fonti: per una lettura veloce parti da [I tuoi diritti](diritti.html).
+- Il decreto sicurezza in vigore dal 23 ottobre 2026 è spiegato nel capitolo 5. Le parole tecniche sono nel [glossario](glossario.html).""",
+    "docs/analisi-dl-190-2026.md": """- Analisi tecnica, articolo per articolo, del decreto sicurezza (decreto-legge n. 190 del 22 ottobre 2026) e scheda sugli aiuti all'autotrasporto. [FATTO · Alta]
+- Per una sintesi semplice parti da [Decreto sicurezza](decreto.html); le parole tecniche sono nel [glossario](glossario.html).
+- Revisione da parte di un giurista e di un economista indipendenti: **da fare**.""",
+    "METODOLOGIA.md": """- Ogni affermazione ha un'etichetta (FATTO, STIMA, INTERPRETAZIONE, DA VERIFICARE) e un livello di certezza.
+- Prima vengono le fonti ufficiali; le stime sono solo numeri, sempre come intervallo.
+- Stessi criteri per tutti gli schieramenti, diritto di replica e correzioni pubbliche.""",
+    "CONTRIBUTING.md": """- Chiunque può proporre correzioni con una segnalazione o una proposta di modifica su GitHub.
+- Niente numeri inventati, sempre la fonte, le quattro etichette e nessun dato personale.""",
+}
+
+MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
+        "agosto", "settembre", "ottobre", "novembre", "dicembre"]
+SIGLE = [  # (forma nel testo, spiegazione) - solo la prima occorrenza per pagina
+    ("D.L.", "decreto-legge"), ("d.lgs.", "decreto legislativo"), ("DPR", "decreto del Presidente della Repubblica"),
+    ("c.p.p.", "codice di procedura penale"), ("c.p.", "codice penale"), ("Cost.", "Costituzione"),
+    ("TULPS", "Testo unico delle leggi di pubblica sicurezza"), ("GU", "Gazzetta Ufficiale"),
+    ("PM", "pubblico ministero"), ("TAR", "Tribunale amministrativo regionale"), ("CdM", "Consiglio dei ministri"),
+    ("AC", "Atto Camera (numero del disegno di legge alla Camera)"), ("UPB", "Ufficio parlamentare di bilancio"),
+    ("RGS", "Ragioneria Generale dello Stato"), ("MIT", "Ministero delle infrastrutture e dei trasporti"),
+    ("MEF", "Ministero dell'economia e delle finanze"), ("ISTAT", "Istituto nazionale di statistica"),
+    ("UE", "Unione europea"), ("L.", "legge"),
+]
+_NO_TESTO = {"a", "h1", "h2", "h3", "h4", "h5", "h6", "code", "pre", "abbr", "summary", "title"}
+
+
+def rifinisci(corpo: str) -> str:
+    """Nel solo testo visibile: date gg/mm/aaaa per esteso e prima occorrenza delle sigle in <abbr>."""
+    viste: set = set()
+    pila: list = []
+    out = []
+    for pezzo in re.split(r"(<[^>]+>)", corpo):
+        if pezzo.startswith("<"):
+            m = re.match(r"<(/?)([a-zA-Z0-9]+)", pezzo)
+            if m:
+                nome = m.group(2).lower()
+                if m.group(1):
+                    if nome in pila:
+                        while pila and pila.pop() != nome:
+                            pass
+                elif nome in _NO_TESTO and not pezzo.endswith("/>"):
+                    pila.append(nome)
+            out.append(pezzo)
+            continue
+        if "code" in pila or "pre" in pila:
+            out.append(pezzo)
+            continue
+        pezzo = re.sub(r"(?<![\d/])(\d{1,2})/(\d{1,2})/(\d{4})(?![\d/])",
+                       lambda m: f"{int(m.group(1))} {MESI[int(m.group(2)) - 1]} {m.group(3)}"
+                       if 1 <= int(m.group(2)) <= 12 and 1 <= int(m.group(1)) <= 31 else m.group(0), pezzo)
+        if not any(x in pila for x in ("a", "h1", "h2", "h3", "h4", "h5", "h6", "code", "pre", "abbr", "summary")):
+            for sigla, spieg in SIGLE:
+                if sigla in viste:
+                    continue
+                pat = r"(?<![\w.])" + re.escape(sigla) + (r"(?= \d)" if sigla == "L." else r"(?![\w])")
+                m = re.search(pat, pezzo)
+                if m:
+                    viste.add(sigla)
+                    pezzo = (pezzo[:m.start()] + f'<abbr title="{html.escape(spieg)}">{sigla}</abbr>'
+                             + pezzo[m.end():])
+        out.append(pezzo)
+    return "".join(out)
+
+
 def costruisci() -> list[str]:
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -424,8 +493,18 @@ def costruisci() -> list[str]:
     scritte = []
     for out, sorgente, _, gruppo in PAGINE:
         meta, testo = leggi(sorgente)
+        if sorgente in INBREVE_DOC:
+            m = re.search(r"^#\s+.+\n(?:###\s+.+\n)?", testo, re.M)
+            blocco = "\n::: inbreve\n**In breve**\n\n" + INBREVE_DOC[sorgente] + "\n:::\n\n"
+            if m:
+                # il sottotitolo "###" subito dopo il titolo diventa un paragrafo (niente salto h1 -> h3)
+                testa = re.sub(r"^###\s+(.+)$", lambda s: "*" + s.group(1).strip("* ") + "*", m.group(0), flags=re.M)
+                testo = testa + blocco + testo[m.end():]
+            else:
+                testo = blocco + testo
         toc: list = []
         corpo = markdown(testo, toc)
+        corpo = rifinisci(corpo)
         corpo = re.sub(r'((?:<div class="box box-funzione">.*?</div>\s*)+)',
                        lambda m: '<div class="griglia">' + m.group(1) + "</div>", corpo, flags=re.S)
         if meta.get("indice") == "si" and toc:

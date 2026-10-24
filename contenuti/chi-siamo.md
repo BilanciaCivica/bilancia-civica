@@ -4,6 +4,15 @@ descrizione: Che cos'è Bilancia Civica, chi la gestisce e come segnalare un err
 ---
 # Chi siamo e contatti
 
+::: inbreve
+**In breve**
+
+- Bilancia Civica è un progetto **volontario, apartitico e open source**, senza pubblicità.
+- Per segnalare un errore o chiedere una rettifica si apre una **segnalazione pubblica su GitHub**.
+- Non scrivere dati personali nelle segnalazioni: sono visibili a tutti.
+:::
+
+
 ## Il progetto
 
 Bilancia Civica è un progetto civico **apartitico** e **open source** che spiega in modo semplice che cosa cambia con leggi e decreti, quali diritti restano garantiti e quali alternative sono state proposte, sempre con le fonti.

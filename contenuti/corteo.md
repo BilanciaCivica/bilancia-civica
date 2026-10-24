@@ -41,19 +41,22 @@ descrizione: Vado a un corteo: cosa posso fare, cosa rischio e cosa cambia con i
 
 [FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
-- **Nuovo reato** per chi, in un gruppo di almeno 5 persone, usa o lancia oggetti pericolosi mettendo in pericolo le persone e danneggiando le cose: da 2 a 5 anni e da 10.000 a 20.000 €.
-- **Arresto anche dopo il fatto**, sulla base di video, per questo reato e per danneggiamento di gruppo, devastazione e saccheggio.
+- **Nuovo reato** per chi, in un gruppo di almeno 5 persone che agisce in modo organizzato (anche solo per l'occasione), usa bastoni, mazze o altri oggetti atti a offendere, oppure lancia oggetti, razzi, petardi o gas urticanti, causando un pericolo concreto per le persone **e** danni alle cose: reclusione da 2 a 5 anni e multa da 10.000 a 20.000 €.
+- **Arresto anche dopo il fatto** (entro 48 ore), sulla base di video o foto, per questo reato e per danneggiamento di gruppo, devastazione e saccheggio, attentato a impianti di pubblica utilità.
 - **Fermo preventivo** anche fuori dai cortei, nei luoghi con molta gente («consistente afflusso di persone»).
-- **Minorenni (14–17 anni)** e **genitori**: nuove regole e sanzioni.
+- **Ragazzi tra 14 e 17 anni**: si presume che siano capaci di intendere e di volere, salvo prova contraria.
+- **Divieto di radunarsi** fino a 1 anno, deciso dal questore, per chi ha già avuto misure di prevenzione o condanne: può riguardare anche i ragazzi dai 14 anni.
+- **Genitori**: multa se un figlio minorenne partecipa a determinati reati.
 - [DA VERIFICARE] Da che **età** si applica il fermo preventivo: il testo non lo dice.
 
 ::: dettagli Testo preciso delle novità e cosa manca
 [FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
 - Nuovo reato di violenza organizzata (gruppo ≥ 5, uso o lancio di oggetti pericolosi, pericolo concreto per le persone **e** danni alle cose): 2–5 anni e 10.000–20.000 €, pena aumentata per chi agisce travisato.
-- Arresto in **flagranza differita** (anche dopo il fatto, sulla base di video) per questo reato e per danneggiamento di gruppo, devastazione, saccheggio.
+- Arresto in **flagranza differita** (anche dopo il fatto, sulla base di video o foto, entro 48 ore) per questo reato e per danneggiamento di gruppo, devastazione e saccheggio, attentato a impianti di pubblica utilità (artt. 419, 420, 420-bis, 635.1 c.p.; art. 2 D.L. 190/2026).
 - Fermo preventivo (fino a 12 ore) esteso, anche fuori dai cortei, alle operazioni di polizia di prevenzione in luoghi con **consistente afflusso di persone**, verso chi si ritiene pericoloso sulla base di circostanze concrete ed elementi di fatto (per esempio oggetti posseduti, precedenti o segnalazioni negli ultimi 5 anni per determinati reati).
-- Per chi ha tra 14 e 17 anni: presunzione di imputabilità e divieto di radunarsi.
+- Per chi ha tra 14 e 17 anni: presunzione di imputabilità, cioè la capacità di intendere e di volere si presume fino a prova contraria (art. 98 c.p., modificato dall'art. 1, c. 1).
+- Divieto di radunarsi (avviso orale del questore, fino a 1 anno) per chi, nei 5 anni precedenti, ha avuto misure di prevenzione o una condanna, anche non definitiva, per delitti contro la persona o il patrimonio commessi in luogo pubblico, quando 5 o più persone tengono comportamenti intimidatori, di grave molestia o violenti. Può essere rivolto anche ai minori dai 14 anni (art. 6, nuovo c. 5-bis art. 3 d.lgs. 159/2011).
 - Sanzioni ai genitori (500–1.000 €, 1.000–2.000 € se il minore reitera) se un minore, **anche non imputabile**, quindi anche sotto i 14 anni, partecipa a determinati reati.
 - [DA VERIFICARE] Età minima per il fermo preventivo: il testo in GU non la fissa, né 14 né 16 anni. Manca: dossier parlamentari sul ddl di conversione (AC 3159) o circolari applicative. Verifica: camera.it e Normattiva.
 

@@ -262,7 +262,7 @@ Le regole principali:
 | Organizzatori e istigatori | Chi **organizza o promuove** il gruppo, oppure **incita o istiga** alle condotte, **anche con strumenti informatici o telematici**: **reclusione da 4 a 12 anni** | art. 1, c. 4 |
 | Lesioni nel corso delle condotte | Pene delle lesioni aumentate da un terzo alla metà | art. 1, c. 4 |
 | Danneggiamento di gruppo | Nuovo art. 635.1 c.p.: aumento da un terzo alla metà se il danneggiamento è commesso da un **gruppo organizzato, anche occasionalmente, di almeno 5 persone** | art. 1, c. 6 |
-| Devastazione e saccheggio; attentato a impianti di pubblica utilità | Pene aumentate da un terzo alla metà se commessi nel corso di manifestazioni (artt. 419 e 420 c.p.); per devastazione e saccheggio solo se riguardano beni in **luoghi di vendita o di deposito** | art. 1, c. 2–3 |
+| Devastazione e saccheggio; attentato a impianti di pubblica utilità | Pene aumentate da un terzo alla metà se commessi nel corso di manifestazioni (artt. 419 e 420 c.p.); per devastazione e saccheggio solo se riguardano beni in **luoghi di vendita o di deposito** (il secondo comma dell'art. 419 prevedeva già un aumento di pena per i fatti commessi nel corso di manifestazioni) | art. 1, c. 2–3 |
 | **Arresto in flagranza differita** | L'art. 382-bis c.p.p. (arresto anche **dopo** il fatto, sulla base di documentazione video o fotografica) si applica anche agli artt. 419, 420, 420-bis e 635.1 c.p. e, per i minorenni, tramite il nuovo art. 16, c. 1-bis, DPR 448/1988 | artt. 2 e 3 |
 | **Lesioni agli agenti** | Modificato l'art. 582, secondo comma, c.p.: le lesioni a ufficiali o agenti di polizia giudiziaria o di pubblica sicurezza nell'atto o a causa delle funzioni (art. 583-quater, primo comma, c.p.) diventano **procedibili d'ufficio**, cioè senza querela, anche se lievi o lievissime. **[FATTO · Media: lettura redazionale del testo in GU e dell'art. 582 c.p. vigente su Normattiva; il testo coordinato ufficiale non è ancora disponibile]** | art. 1, c. 5 |
 | **Fermo preventivo esteso** | L'accompagnamento e trattenimento **fino a 12 ore** già previsto per le manifestazioni (art. 11-bis D.L. 59/1978, §1.7) si estende alle **operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone**, verso chi, sulla base di circostanze concrete ed elementi di fatto (oggetti posseduti, precedenti o segnalazioni negli ultimi 5 anni per determinati delitti), si ritiene ponga in essere condotte di concreto pericolo per la sicurezza. Restano la notizia al PM e gli avvisi per i minori (commi 2, 3 e 3-bis) | art. 7 (nuovo c. 3-ter art. 11-bis D.L. 59/1978) |
@@ -329,7 +329,7 @@ Le regole principali:
 
 **Norme:** art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958.
 
-**Attenzione online:** dal 2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può renderti "promotore".
+**Attenzione online:** dal 25/02/2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può renderti "promotore".
 
 **Cosa cambia col decreto:** sul preavviso **nulla**. Il D.L. 190/2026 non tocca l'art. 18 TULPS.
 
@@ -366,11 +366,11 @@ Le regole principali:
 
 **Cosa cambia col decreto (D.L. 190/2026, dal 23/10/2026):**
 - **Nuovo reato** se, in un gruppo organizzato di almeno 5 persone, usi o lanci oggetti atti a offendere o artifici pericolosi creando pericolo concreto per le persone **e** causando danni alle cose: **2–5 anni + 10.000–20.000 €**, di più se sei travisato.
-- **Arresto anche dopo il fatto** (flagranza differita) sulla base di video, per questo reato e per danneggiamento, devastazione e saccheggio.
+- **Arresto anche dopo il fatto** (flagranza differita) sulla base di video, per questo reato e per danneggiamento di gruppo, devastazione e saccheggio, attentato a impianti di pubblica utilità.
 - **Fermo preventivo esteso** anche fuori dai cortei, durante operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone, verso chi è ritenuto pericoloso sulla base di elementi di fatto.
 - Per i **14-17enni**:
   - presunzione di imputabilità;
-  - divieto di radunarsi;
+  - il divieto di radunarsi (che vale per tutti, con i presupposti di legge) può riguardare anche loro;
   - età minima per il fermo preventivo: il testo in GU non la fissa espressamente; **[DA VERIFICARE]** (vedi §5.3).
 
 ### 6.3 "Il mio sciopero è legittimo?"

@@ -8,7 +8,7 @@ descrizione: Sto per scioperare: il mio sciopero è in regola? Lista di controll
 **In breve**
 
 - Dipende da **chi sei** (dipendente o autonomo) e dal **settore**. [FATTO · Alta]
-- Nei **servizi pubblici essenziali** (per esempio trasporti, sanità, scuola) ci sono regole in più: preavviso di almeno 10 giorni e servizi minimi garantiti. Nel privato non essenziale non c'è un preavviso di legge. [FATTO · Alta]
+- Nei **servizi pubblici essenziali** (per esempio trasporti, sanità, scuola) ci sono regole in più: preavviso di almeno 10 giorni e un servizio minimo da garantire (le «prestazioni indispensabili»). Nel privato non essenziale non c'è un preavviso di legge. [FATTO · Alta]
 - Se lo sciopero è irregolare, il lavoratore rischia sanzioni disciplinari, **mai il licenziamento**. Il decreto sicurezza non cambia queste regole. [FATTO · Alta]
 :::
 

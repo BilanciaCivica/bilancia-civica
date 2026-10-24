@@ -19,4 +19,5 @@
 | 23/10/2026 | Bussola §2.2 | Importi delle sanzioni L. 146/1990 «in lire», DA VERIFICARE | Importi in euro del testo vigente (artt. 4 e 9) | Testo vigente verificato su Normattiva | Verifica dei fatti redazionale |
 | 23/10/2026 | Analisi §2.3 e fonti | Citazione di Elly Schlein con link ANSA che non la contiene | Parole testuali dal sito del Partito democratico (18/10/2026) | Link che reindirizza a un altro articolo | Verifica dei fatti redazionale |
 | 23/10/2026 | Analisi fonti; Bussola §3 | Link ANSA duplicati o con titolo errato | Unificati e corretti con titolo e indirizzo attuali | Indirizzi ANSA cambiati | Verifica dei fatti redazionale |
-
+| 24/10/2026 | Corteo; Bussola FAQ 6.2 | Flagranza differita indicata per il nuovo reato, danneggiamento, devastazione e saccheggio | Aggiunto l'attentato a impianti di pubblica utilità (art. 420 c.p.), che l'art. 2 D.L. 190/2026 include | Elenco incompleto | Verifica dei fatti redazionale |
+| 24/10/2026 | Corteo; Bussola FAQ 6.2 | Per i 14–17enni «presunzione di imputabilità e divieto di radunarsi» | La presunzione riguarda i 14–17enni (art. 1, c. 1); il divieto di radunarsi vale per chiunque abbia i presupposti e può essere rivolto anche ai minori dai 14 anni (art. 6) | Sintesi che attribuiva il divieto ai soli minori | Verifica dei fatti redazionale |
