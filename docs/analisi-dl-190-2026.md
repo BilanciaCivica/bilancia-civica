@@ -27,6 +27,7 @@
 
 ### 2.1 Le misure, articolo per articolo (testo in GU)
 
+<!-- dati: intestazione -->
 Tutte le righe sono **FATTO, certezza Alta**, fonte: [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG). Le differenze rispetto a comunicato e bozza sono in §2.2.
 
 | Art. | Misura | Contenuto (testo in GU) |

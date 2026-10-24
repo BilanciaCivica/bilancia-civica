@@ -9,6 +9,7 @@ Diritti, decreti e soldi pubblici: che cosa cambia per te, con le fonti.
 - **Segnalazioni:** https://github.com/BilanciaCivica/bilancia-civica/issues (richieste di rettifica: https://github.com/BilanciaCivica/bilancia-civica/issues/new?template=rettifica.md)
 - **Chi siamo e contatti:** https://bilanciacivica.github.io/bilancia-civica/chi-siamo.html
 - **Note legali e privacy:** https://bilanciacivica.github.io/bilancia-civica/note-legali.html
+- **Dati aperti (JSON):** https://bilanciacivica.github.io/bilancia-civica/dati.html (documentazione: [DATI.md](DATI.md))
 
 Bilancia Civica è un progetto civico **apartitico** e **open source** che spiega in modo
 semplice tre cose:
@@ -41,6 +42,19 @@ Ogni affermazione importante porta un'etichetta e un livello di certezza (Alta /
 
 Il metodo completo è in [METODOLOGIA.md](METODOLOGIA.md).
 
+## Dati aperti (JSON)
+
+Le stesse affermazioni sono pubblicate anche come file JSON, generati da `build.py` a partire dagli
+stessi testi delle pagine:
+
+- [`dati/indice.json`](https://bilanciacivica.github.io/bilancia-civica/dati/indice.json) – versione, data, licenza, conteggi ed elenco dei file;
+- [`dati/affermazioni.json`](https://bilanciacivica.github.io/bilancia-civica/dati/affermazioni.json) – ogni affermazione con id stabile, testo, etichetta, certezza, tema, riferimenti normativi, fonti e link al punto della pagina;
+- [`dati/fonti.json`](https://bilanciacivica.github.io/bilancia-civica/dati/fonti.json) – le fonti, senza doppioni;
+- [`dati/schema-affermazioni.json`](https://bilanciacivica.github.io/bilancia-civica/dati/schema-affermazioni.json) – lo schema (JSON Schema 2020-12).
+
+Campi, regole di lettura, stabilità degli id e licenza sono descritti in [DATI.md](DATI.md).
+Contenuti informativi, non consulenza legale.
+
 ## Struttura del repository
 
 ```
@@ -51,6 +65,9 @@ METODOLOGIA.md    metodo, etichette, fonti, registro correzioni
 CONTRIBUTING.md   come contribuire
 CORREZIONI.md     registro pubblico delle correzioni
 build.py          generatore del sito (solo libreria standard Python)
+dati.py           estrazione delle affermazioni per i dati aperti (usato da build.py)
+dati/             schema JSON dei dati aperti
+DATI.md           documentazione dei dati aperti (JSON)
 .github/          modelli per le segnalazioni (rettifica, errore)
 LICENSE           GNU AGPL-3.0 (codice)
 LICENSE-TESTI     CC BY-SA 4.0 (testi originali)
@@ -71,7 +88,7 @@ ed è esclusa dal controllo di versione (`.gitignore`): non va inserita nel ramo
 ## Pubblicare su GitHub Pages
 
 Il sito si pubblica **da un ramo `gh-pages`** che contiene **solo** il risultato di `build.py`,
-cioè il contenuto di `_site/` (le pagine HTML, `style.css`, `favicon.svg` e il file `.nojekyll`).
+cioè il contenuto di `_site/` (le pagine HTML, `style.css`, `favicon.svg`, la cartella `dati/` con i file JSON e il file `.nojekyll`).
 Non serve nessun workflow di GitHub Actions.
 
 Il ramo `main` **non** va usato come sorgente di Pages: GitHub mostrerebbe i file Markdown
@@ -100,6 +117,10 @@ Prima di pubblicare:
 - aggiorna `AGGIORNATO` in `build.py` (la data mostrata nel piè di pagina) e le date nelle pagine modificate;
 - se il repository ha un nome diverso da `bilancia-civica`, aggiorna `REPO_URL` in `build.py`.
 
+## Novità
+
+- **24/10/2026** – Dati aperti: le affermazioni del sito sono disponibili in formato JSON (`dati/`), con la pagina [Dati aperti](https://bilanciacivica.github.io/bilancia-civica/dati.html) e la documentazione in [DATI.md](DATI.md). Il testo delle affermazioni non cambia: nei file Markdown sono state aggiunte solo direttive invisibili (commenti `<!-- dati: … -->`) e, nell'HTML, un'ancora `id` per ogni affermazione. Nuovi link alla pagina dei dati nel piè di pagina e in «Chi siamo».
+
 ## Contribuire e segnalare errori
 
 Gli errori si segnalano aprendo una **segnalazione** (*issue*) su GitHub (https://github.com/BilanciaCivica/bilancia-civica/issues): indica la pagina, il testo da correggere,
@@ -112,8 +133,8 @@ Stato: **da fare**.
 
 ## Licenza
 
-- **Codice** (`build.py`, `static/`): **GNU Affero General Public License v3.0**, vedi [LICENSE](LICENSE).
-- **Testi originali** (`contenuti/`, `docs/`, `METODOLOGIA.md`, `CORREZIONI.md` e i testi del sito): **Creative Commons Attribuzione – Condividi allo stesso modo 4.0** (CC BY-SA 4.0), vedi [LICENSE-TESTI](LICENSE-TESTI) e la [sintesi in italiano](https://creativecommons.org/licenses/by-sa/4.0/deed.it).
+- **Codice** (`build.py`, `dati.py`, `static/`): **GNU Affero General Public License v3.0**, vedi [LICENSE](LICENSE).
+- **Testi originali** (`contenuti/`, `docs/`, `METODOLOGIA.md`, `CORREZIONI.md`, i testi del sito e i dati aperti in `dati/`): **Creative Commons Attribuzione – Condividi allo stesso modo 4.0** (CC BY-SA 4.0), vedi [LICENSE-TESTI](LICENSE-TESTI) e la [sintesi in italiano](https://creativecommons.org/licenses/by-sa/4.0/deed.it).
 - **Esclusi:** i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941).
 
 Attribuzione suggerita: *Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0*.

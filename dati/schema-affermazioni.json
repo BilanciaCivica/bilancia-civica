@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bilanciacivica.github.io/bilancia-civica/dati/schema-affermazioni.json",
+  "title": "Bilancia Civica: affermazioni etichettate",
+  "description": "Schema di affermazioni.json. Contenuti informativi, non consulenza legale. Documentazione: https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["versione_schema", "generato_il", "licenza", "avvertenza", "schema", "totale", "affermazioni"],
+  "properties": {
+    "versione_schema": {"type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$"},
+    "generato_il": {"type": "string", "format": "date-time", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}[+-]\\d{2}:\\d{2}$"},
+    "licenza": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["testi", "url", "attribuzione", "esclusioni"],
+      "properties": {
+        "testi": {"const": "CC BY-SA 4.0"},
+        "url": {"type": "string", "format": "uri"},
+        "attribuzione": {"type": "string", "minLength": 1},
+        "esclusioni": {"type": "string", "minLength": 1}
+      }
+    },
+    "avvertenza": {"type": "string", "minLength": 1},
+    "schema": {"type": "string", "format": "uri"},
+    "totale": {"type": "integer", "minimum": 0},
+    "affermazioni": {"type": "array", "items": {"$ref": "#/$defs/affermazione"}}
+  },
+  "$defs": {
+    "affermazione": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "testo", "etichetta", "certezza", "nota_etichetta", "etichetta_ereditata", "contesto",
+                   "tema", "pagina", "riferimenti_normativi", "fonti", "senza_fonte_collegata", "data_aggiornamento"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^[a-z0-9-]+-[0-9a-f]{10}(-[0-9]+)?$",
+               "description": "Pagina + impronta del testo normalizzato: resta uguale finché il testo e l'etichetta non cambiano."},
+        "testo": {"type": "string", "minLength": 1, "description": "Il testo dell'affermazione come appare sul sito, senza l'etichetta."},
+        "etichetta": {"enum": ["FATTO", "STIMA", "INTERPRETAZIONE", "DA VERIFICARE"]},
+        "certezza": {"enum": ["Alta", "Media", "Bassa", null]},
+        "nota_etichetta": {"type": ["string", "null"], "description": "Precisazione scritta accanto all'etichetta (es. «lettura redazionale…»)."},
+        "etichetta_ereditata": {"type": "boolean", "description": "true se l'etichetta è scritta una volta sola sopra (o sotto) un elenco o una tabella e vale per tutte le voci."},
+        "contesto": {"type": ["string", "null"], "description": "Testo vicino utile a capire l'affermazione (intestazione, riga di tabella, frase senza etichetta propria). Non è etichettato."},
+        "tema": {"enum": ["presidi", "cortei", "sciopero", "decreto-sicurezza", "autotrasporto", "legge-di-bilancio", "generale"]},
+        "pagina": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["url", "titolo", "sezione"],
+          "properties": {
+            "url": {"type": "string", "format": "uri", "pattern": "^https://bilanciacivica\\.github\\.io/bilancia-civica/[a-z0-9-]+\\.html#af-[a-z0-9-]+$"},
+            "titolo": {"type": "string", "minLength": 1},
+            "sezione": {"type": ["string", "null"]}
+          }
+        },
+        "riferimenti_normativi": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["citazione", "atto", "articolo"],
+            "properties": {
+              "citazione": {"type": "string", "minLength": 1},
+              "atto": {"type": ["string", "null"]},
+              "articolo": {"type": ["string", "null"]}
+            }
+          }
+        },
+        "fonti": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["titolo", "url", "ufficiale", "origine"],
+            "properties": {
+              "titolo": {"type": "string", "minLength": 1},
+              "url": {"type": "string", "format": "uri", "pattern": "^https?://"},
+              "ufficiale": {"type": "boolean"},
+              "origine": {"enum": ["collegamento nel testo", "riferimento normativo citato"]}
+            }
+          }
+        },
+        "senza_fonte_collegata": {"type": "boolean"},
+        "data_aggiornamento": {"type": "string", "format": "date-time"}
+      }
+    }
+  }
+}

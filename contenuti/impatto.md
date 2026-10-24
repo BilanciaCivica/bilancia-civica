@@ -38,6 +38,7 @@ Per ogni domanda ci sarà sempre la risposta «Preferisco non dirlo».
 
 ## Regole del metodo
 
+<!-- dati: esempio -->
 - [STIMA] si usa **solo per numeri**, sempre con intervallo, ipotesi elencate, dati di partenza con il collegamento alla fonte e metodo riproducibile.
 - Se manca il testo ufficiale di una misura (per esempio perché non è ancora in Gazzetta o è un emendamento non approvato), **non produciamo stime**: mostriamo solo cosa prevede l'annuncio e cosa resta da verificare.
 - Ogni risultato dirà anche **cosa non è incluso** e ricorderà che la stima non sostituisce il calcolo di un commercialista, di un CAF o dell'ente erogatore.

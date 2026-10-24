@@ -14,6 +14,7 @@
 
 Ogni affermazione ha un'etichetta:
 
+<!-- dati: esempio -->
 | Etichetta | Significato |
 |---|---|
 | **[FATTO]** | Lo dice un testo ufficiale (Costituzione, legge, Gazzetta Ufficiale, sentenza, comunicato istituzionale). Il collegamento porta alla fonte. |
@@ -237,6 +238,7 @@ Le regole principali:
 | **Radunata sediziosa; grida e manifestazioni sediziose** | artt. 655 e 654 c.p. | Art. 654: sanzione amministrativa pecuniaria (se il fatto non è reato) portata a 400–2.400 € dal D.L. 23/2026 |
 | **Nuovo:** **violenza organizzata nelle manifestazioni pubbliche** | **art. 420-bis c.p.** (D.L. 190/2026, **in vigore dal 23/10/2026**) | Vedi §5 |
 
+<!-- dati: intestazione -->
 **[FATTO] Il nodo "se altri commettono violenze".**
 - La **sola presenza** in un corteo dove altri commettono reati **non è reato** (art. 27 Cost.).
 - Si risponde penalmente se si **concorre** nel reato altrui (art. 110 c.p.). Per il concorso serve un **contributo** materiale o morale alla condotta, non la semplice vicinanza.
@@ -300,6 +302,7 @@ Le regole principali:
   - il **divieto di radunarsi** richiede presupposti specifici: comportamenti in gruppo e precedenti.
 - **[DA VERIFICARE]** L'effetto pratico dipenderà da come verranno applicate espressioni come "gruppo che opera in modo organizzato anche occasionalmente", "luoghi caratterizzati da un consistente afflusso di persone" e "fondato motivo". Manca: modifiche in sede di conversione, circolari applicative del Ministero dell'interno, prime decisioni dei giudici. Verifica: monitoraggio del ddl di conversione fino al 21/12/2026 e delle prime pronunce. Sul punto esistono letture contrapposte, riportate qui sotto.
 
+<!-- dati: intestazione -->
 **[INTERPRETAZIONE] Le posizioni espresse pubblicamente (riportate, non valutate).** Sono state raccolte il 20–21/10/2026, sul testo approvato dal CdM, prima della pubblicazione in GU.
 
 *Maggioranza e governo*

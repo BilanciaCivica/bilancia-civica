@@ -19,7 +19,7 @@ Bilancia Civica è un progetto civico **apartitico** e **open source** che spieg
 
 - **Volontario e non commerciale.** Il progetto non ha scopo di lucro, non vende servizi e non ospita pubblicità.
 - **Apartitico.** Non riceve finanziamenti da partiti o movimenti politici e non sostiene candidati o liste. Le posizioni politiche sono riportate solo come posizioni, attribuite a chi le ha espresse e con la fonte.
-- **Aperto.** Testi, metodo e codice sono pubblici nel [repository GitHub]({{REPO}}): ogni modifica resta visibile nella cronologia.
+- **Aperto.** Testi, metodo e codice sono pubblici nel [repository GitHub]({{REPO}}): ogni modifica resta visibile nella cronologia. Le affermazioni del sito sono disponibili anche come [dati aperti in formato JSON](dati.html).
 
 ## Chi lo gestisce
 

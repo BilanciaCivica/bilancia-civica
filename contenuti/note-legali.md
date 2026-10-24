@@ -28,6 +28,7 @@ Nei limiti consentiti dalla legge, Bilancia Civica e i suoi manutentori non risp
 
 ## Fatti, stime e interpretazioni
 
+<!-- dati: esempio -->
 Ogni affermazione porta un'etichetta: [FATTO], [STIMA], [INTERPRETAZIONE] o [DA VERIFICARE], con il livello di certezza. Le opinioni e le interpretazioni sono indicate come tali e attribuite a chi le ha espresse. Il significato delle etichette è spiegato nel [Metodo](metodo.html).
 
 ## Persone citate

@@ -28,6 +28,7 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 | Presentazione alle Camere | ✅ AC 3159, presentato alla Camera il 22/10/2026; assegnato alla II Commissione (Giustizia) in sede referente il 22/10/2026 ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)) |
 | Scadenza per la conversione (60 giorni, art. 77 Cost.) | **21/12/2026** |
 
+<!-- dati: intestazione-precedente -->
 [FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, governo.it, camera.it).
 
 Cosa prevede: [Decreto sicurezza](decreto.html) · Testo: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) · [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190)

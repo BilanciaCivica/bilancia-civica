@@ -21,6 +21,7 @@ Per una misura mostriamo 2–3 opzioni proposte da **soggetti identificati** (em
 
 ## Per ogni opzione
 
+<!-- dati: esempio -->
 | Voce | Cosa contiene |
 |---|---|
 | Proposta da | Chi l'ha avanzata, con la fonte |

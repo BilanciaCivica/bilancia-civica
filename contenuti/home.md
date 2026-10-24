@@ -37,6 +37,7 @@ descrizione: Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge, 
 
 Ogni affermazione ha un'**etichetta** e un link alla fonte:
 
+<!-- dati: esempio -->
 | Etichetta | Che cosa vuol dire |
 |---|---|
 | [FATTO] | Si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale). |
@@ -52,6 +53,7 @@ Accanto all'etichetta c'è quanto è solida l'informazione: **Alta**, **Media** 
 
 ## Chi siamo, in breve
 
+<!-- dati: esempio -->
 - **Apartitico.** Stessi criteri per qualunque governo, partito o coalizione. Le opinioni sono sempre attribuite a chi le ha espresse.
 - **Niente numeri inventati.** Se un dato manca scriviamo «non disponibile»; se non è confermato, [DA VERIFICARE].
 - **Niente dati personali.** Nessun cookie, nessun tracciamento. Non aiutiamo a identificare manifestanti, agenti o minori.

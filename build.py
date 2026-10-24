@@ -16,14 +16,21 @@ serve a questi file: titoli, paragrafi, elenchi (anche annidati), tabelle,
 citazioni, blocchi di codice, riquadri ``::: tipo`` e testo in linea
 (grassetto, corsivo, codice, link). Le etichette [FATTO], [STIMA],
 [INTERPRETAZIONE] e [DA VERIFICARE] diventano badge colorati.
+
+Dalle stesse pagine il build ricava anche i dati aperti in ``_site/dati/``
+(affermazioni, fonti, indice e schema JSON): vedi ``dati.py`` e ``DATI.md``.
 """
 from __future__ import annotations
 
 import html
+import json
 import re
 import shutil
 import sys
+from datetime import datetime
 from pathlib import Path
+
+import dati
 
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "_site"
@@ -55,6 +62,7 @@ PAGINE = [
     ("glossario.html", "contenuti/glossario.md", "Glossario", None),
     ("chi-siamo.html", "contenuti/chi-siamo.md", "Chi siamo", None),
     ("note-legali.html", "contenuti/note-legali.md", None, None),
+    ("dati.html", "contenuti/dati.md", None, None),
     ("404.html", "contenuti/404.md", None, None),
 ]
 SOTTOMENU_DIRITTI = [
@@ -69,7 +77,8 @@ SOTTOMENU_DIRITTI = [
 # Link Markdown tra file del repository -> pagine del sito
 MAPPA_LINK = {src: out for out, src, _, _ in PAGINE}
 MAPPA_LINK.update({"LICENSE": REPO_URL + "/blob/main/LICENSE",
-                   "LICENSE-TESTI": REPO_URL + "/blob/main/LICENSE-TESTI", "README.md": "index.html"})
+                   "LICENSE-TESTI": REPO_URL + "/blob/main/LICENSE-TESTI", "README.md": "index.html",
+                   "DATI.md": REPO_URL + "/blob/main/DATI.md"})
 
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "
        "base-uri 'none'; form-action 'none'")
@@ -233,6 +242,8 @@ def markdown(testo: str, toc: list | None = None) -> str:
         r = righe[i]
         s = r.strip()
         if not s or s.startswith("<!--"):
+            if dati.RE_DIRETTIVA.match(s):
+                out.append(s)  # direttiva per i dati aperti: rimossa dopo l'estrazione
             i += 1
             continue
         if s.startswith("```"):
@@ -400,7 +411,7 @@ MODELLO = """<!doctype html>
   <div class="contenitore">
     <nav class="approfondire" aria-label="Per approfondire e trasparenza">
       <p><strong>Per approfondire:</strong> <a href="stato.html">Stato degli atti</a> · <a href="analisi-dl-190-2026.html">Analisi del decreto</a> · <a href="bussola-completa.html">Bussola, testo completo</a> · <a href="impatto.html">Simulatore (in sviluppo)</a> · <a href="alternative.html">Alternative (in preparazione)</a></p>
-      <p><strong>Trasparenza:</strong> <a href="fonti.html">Fonti</a> · <a href="metodo.html">Metodo</a> · <a href="{repo}/blob/main/CORREZIONI.md" rel="noopener noreferrer">Registro correzioni</a> · <a href="contribuisci.html">Contribuisci</a></p>
+      <p><strong>Trasparenza:</strong> <a href="fonti.html">Fonti</a> · <a href="metodo.html">Metodo</a> · <a href="{repo}/blob/main/CORREZIONI.md" rel="noopener noreferrer">Registro correzioni</a> · <a href="contribuisci.html">Contribuisci</a> · <a href="dati.html">Dati aperti (JSON)</a></p>
     </nav>
     <p><strong>Contenuti informativi, non consulenza legale.</strong> Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
     <p>Bilancia Civica è un progetto civico apartitico e open source. Testi aggiornati al {aggiornato}.
@@ -483,6 +494,93 @@ def rifinisci(corpo: str) -> str:
     return "".join(out)
 
 
+def aggiornato_iso() -> str:
+    """AGGIORNATO in formato ISO 8601 con lo scarto orario di Roma (es. 2026-10-24T10:42:00+02:00)."""
+    m = re.match(r"(\d{1,2})/(\d{1,2})/(\d{4}), ore (\d{1,2}):(\d{2})", AGGIORNATO)
+    d = datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)), int(m.group(4)), int(m.group(5)))
+    try:
+        from zoneinfo import ZoneInfo
+        d = d.replace(tzinfo=ZoneInfo("Europe/Rome"))
+    except Exception:  # sistema senza database dei fusi: ora legale/solare approssimata
+        from datetime import timedelta, timezone
+        d = d.replace(tzinfo=timezone(timedelta(hours=2 if 4 <= d.month <= 10 else 1)))
+    return d.isoformat()
+
+
+def scrivi_dati(affermazioni: list, controlli: dict, data_iso: str) -> list[str]:
+    """Scrive _site/dati/: affermazioni, fonti, indice e schema JSON."""
+    cartella = OUT / "dati"
+    cartella.mkdir()
+    licenza = {
+        "testi": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
+        "attribuzione": "Bilancia Civica – " + dati.BASE_SITO + " – CC BY-SA 4.0",
+        "esclusioni": ("Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto "
+                       "d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi "
+                       "autori (art. 70 L. 633/1941)."),
+    }
+    avvertenza = ("Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; "
+                  "per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato "
+                  "o a un'associazione di tutela dei diritti.")
+    testa = {"versione_schema": dati.VERSIONE_SCHEMA, "generato_il": data_iso,
+             "licenza": licenza, "avvertenza": avvertenza}
+    affermazioni = [dati.ordina_campi(a) for a in affermazioni]
+    dati.scrivi_json(cartella / "affermazioni.json", {
+        **testa, "schema": dati.BASE_SITO + "dati/schema-affermazioni.json",
+        "totale": len(affermazioni), "affermazioni": affermazioni})
+    fonti: dict = {}
+    for a in affermazioni:
+        for f in a["fonti"]:
+            voce = fonti.setdefault(f["url"], {"url": f["url"], "titoli": set(), "ufficiale": f["ufficiale"],
+                                               "dominio": f["url"].split("/")[2], "affermazioni": []})
+            voce["titoli"].add(f["titolo"])
+            voce["affermazioni"].append(a["id"])
+    elenco_fonti = []
+    for url in sorted(fonti):
+        v = fonti[url]
+        titoli = sorted(v.pop("titoli"))
+        elenco_fonti.append({"url": v["url"], "titolo": titoli[0], "altri_titoli": titoli[1:],
+                             "ufficiale": v["ufficiale"], "dominio": v["dominio"],
+                             "affermazioni": sorted(set(v["affermazioni"]))})
+    dati.scrivi_json(cartella / "fonti.json", {**testa, "totale": len(elenco_fonti), "fonti": elenco_fonti})
+    shutil.copy(ROOT / "dati" / "schema-affermazioni.json", cartella / "schema-affermazioni.json")
+    per_etichetta = {e: sum(1 for a in affermazioni if a["etichetta"] == e) for e in dati.ETICHETTE_VALIDE}
+    per_tema = {t: sum(1 for a in affermazioni if a["tema"] == t) for t in dati.TEMI}
+    per_pagina = {}
+    for a in affermazioni:
+        pag = a["pagina"]["url"][len(dati.BASE_SITO):].split("#")[0]
+        per_pagina[pag] = per_pagina.get(pag, 0) + 1
+    file_dati = [
+        {"nome": "affermazioni.json", "url": dati.BASE_SITO + "dati/affermazioni.json",
+         "descrizione": "Tutte le affermazioni etichettate del sito, con etichetta, certezza, riferimenti normativi e fonti."},
+        {"nome": "fonti.json", "url": dati.BASE_SITO + "dati/fonti.json",
+         "descrizione": "Elenco senza doppioni delle fonti collegate alle affermazioni."},
+        {"nome": "schema-affermazioni.json", "url": dati.BASE_SITO + "dati/schema-affermazioni.json",
+         "descrizione": "Schema JSON (draft 2020-12) di affermazioni.json."},
+        {"nome": "indice.json", "url": dati.BASE_SITO + "dati/indice.json", "descrizione": "Questo file."},
+    ]
+    dati.scrivi_json(cartella / "indice.json", {
+        "progetto": "Bilancia Civica", "sito": dati.BASE_SITO, "repository": REPO_URL,
+        "documentazione": REPO_URL + "/blob/main/DATI.md", **testa,
+        "testi_aggiornati_al": AGGIORNATO,
+        "nota_generato_il": ("Coincide con la data di aggiornamento dei testi: due generazioni dagli stessi "
+                             "testi producono file identici."),
+        "etichette": {e: dati_spiegazione(e) for e in dati.ETICHETTE_VALIDE},
+        "conteggi": {"affermazioni": len(affermazioni), "per_etichetta": per_etichetta, "per_tema": per_tema,
+                     "per_pagina": per_pagina, "fonti": len(elenco_fonti),
+                     "fonti_ufficiali": sum(1 for f in elenco_fonti if f["ufficiale"]),
+                     "affermazioni_senza_fonte_collegata": sum(1 for a in affermazioni if a["senza_fonte_collegata"])},
+        "controllo_estrazione": controlli,
+        "file": file_dati,
+        "segnalazioni": REPO_URL + "/issues",
+    })
+    return ["dati/" + f["nome"] for f in file_dati]
+
+
+def dati_spiegazione(nome: str) -> str:
+    return SPIEGAZIONE[nome]
+
+
 def costruisci() -> list[str]:
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -491,6 +589,10 @@ def costruisci() -> list[str]:
         shutil.copy(f, OUT / f.name)
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
     scritte = []
+    data_iso = aggiornato_iso()
+    tutte_affermazioni: list = []
+    controlli: dict = {}
+    id_usati: set = set()
     for out, sorgente, _, gruppo in PAGINE:
         meta, testo = leggi(sorgente)
         if sorgente in INBREVE_DOC:
@@ -507,6 +609,11 @@ def costruisci() -> list[str]:
         corpo = rifinisci(corpo)
         corpo = re.sub(r'((?:<div class="box box-funzione">.*?</div>\s*)+)',
                        lambda m: '<div class="griglia">' + m.group(1) + "</div>", corpo, flags=re.S)
+        titolo = meta.get("titolo", "Bilancia Civica")
+        corpo, affermazioni, controllo = dati.estrai(corpo, out, titolo, data_iso, id_usati)
+        tutte_affermazioni += affermazioni
+        if controllo["badge"]:
+            controlli[out] = controllo
         if meta.get("indice") == "si" and toc:
             indice = ('<nav class="indice" aria-label="In questa pagina"><p><strong>In questa pagina</strong></p><ul>'
                       + "".join(f'<li><a href="#{a}">{t}</a></li>' for a, t in toc) + "</ul></nav>")
@@ -517,7 +624,6 @@ def costruisci() -> list[str]:
             corpo += ('<aside class="legenda" aria-label="Come leggere le etichette"><p><strong>Come leggere le etichette</strong></p><ul>'
                       + "".join(f'<li><span class="et et-{ETICHETTE[n]}">{n}</span> {html.escape(s)}</li>' for n, s in SPIEGAZIONE.items())
                       + '</ul><p>Alta, Media o Bassa indicano quanto è solida l\'informazione. <a href="glossario.html">Glossario</a> · <a href="metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare">Metodo completo</a></p></aside>')
-        titolo = meta.get("titolo", "Bilancia Civica")
         pagina = MODELLO.format(
             csp=CSP,
             titolo_pagina=html.escape(titolo if out == "index.html" else f"{titolo} · Bilancia Civica"),
@@ -531,6 +637,7 @@ def costruisci() -> list[str]:
         )
         (OUT / out).write_text(pagina, encoding="utf-8")
         scritte.append(out)
+    scritte += scrivi_dati(tutte_affermazioni, controlli, data_iso)
     return scritte
 
 

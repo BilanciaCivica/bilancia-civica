@@ -55,6 +55,7 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 
 ## Le etichette
 
+<!-- dati: esempio -->
 - [FATTO] — si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale).
 - [STIMA] — un calcolo su numeri, sempre come intervallo «da… a…», con le ipotesi dichiarate.
 - [INTERPRETAZIONE] — un'opinione o una lettura, sempre con il nome di chi la esprime.
