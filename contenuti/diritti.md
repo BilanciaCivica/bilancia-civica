@@ -19,13 +19,13 @@ Riunione, manifestazione e sciopero: cosa dice la legge, cosa è protetto, cosa 
 **Decreto sicurezza:** [D.L. 22 ottobre 2026, n. 190](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), GU n. 246 del 22/10/2026, **in vigore dal 23/10/2026**; conversione entro il 21/12/2026. Il Parlamento può modificarlo. [FATTO · Alta]
 :::
 
-**Vai alla tua situazione:**
+**Le schede pratiche:**
 
 ::: scelte
-- [**Voglio organizzare un presidio**Posso organizzare un presidio?](presidio.html)
-- [**Vado a un corteo**Cosa rischio a un corteo?](corteo.html)
-- [**Sto per scioperare**Il mio sciopero è legittimo?](sciopero.html)
-- [**Decreto sicurezza**Cosa prevede il decreto sicurezza?](decreto.html)
+- [**Presidi: cosa dice la legge**Preavviso al questore, prescrizioni e sanzioni](presidio.html)
+- [**Cortei: diritti, limiti e cosa cambia**Cosa è consentito e cosa è punibile](corteo.html)
+- [**Sciopero: regole e tutele**Quando uno sciopero è in regola](sciopero.html)
+- [**Decreto sicurezza (D.L. 190/2026)**Cosa prevede il decreto](decreto.html)
 :::
 
 ## Riunione e manifestazione
@@ -127,11 +127,11 @@ Calendari: [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi) · 
 ## Domande frequenti
 
 - **Serve un'autorizzazione per un presidio?** No, in luogo pubblico serve un **preavviso** al questore 3 giorni prima. → [Presidio](presidio.html)
-- **Cosa rischio a un corteo?** Se partecipi pacificamente, nessun illecito. Contano le condotte personali. → [Corteo](corteo.html)
-- **Il mio sciopero è legittimo?** Dipende da settore e regole. → [Sciopero](sciopero.html)
+- **Cosa si rischia a un corteo?** Chi partecipa pacificamente non commette illeciti. Contano le condotte personali. → [Corteo](corteo.html)
+- **Quando uno sciopero è legittimo?** Dipende da settore e regole. → [Sciopero](sciopero.html)
 - **Il nuovo decreto è in vigore?** Dal 23/10/2026: è il D.L. 190/2026, pubblicato in GU il 22/10. [FATTO · Alta] → [Decreto sicurezza](decreto.html)
 - **Le nuove norme valgono per fatti precedenti, come quelli di Milano del 17–18/10?** No: una norma penale nuova non si applica a fatti precedenti (art. 25 Cost., art. 2 c.p.). [FATTO · Alta]
-- **Posso filmare la polizia?** In generale sì, senza ostacolare le operazioni; per pubblicare valgono le regole sulla protezione dei dati personali. Bilancia Civica non aiuta a identificare manifestanti o agenti.
+- **Si può filmare la polizia?** In generale sì, senza ostacolare le operazioni; per pubblicare valgono le regole sulla protezione dei dati personali. Bilancia Civica non aiuta a identificare manifestanti o agenti.
 
 Per un approfondimento con tutte le norme e le FAQ estese: [Bussola Diritti, testo completo](bussola-completa.html).
 

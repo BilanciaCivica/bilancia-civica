@@ -33,12 +33,12 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "24/10/2026, ore 10:13 (ora di Roma)"
+AGGIORNATO = "24/10/2026, ore 10:42 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
     ("index.html", "contenuti/home.md", "Home", None),
-    ("diritti.html", "contenuti/diritti.md", "I tuoi diritti", "diritti"),
+    ("diritti.html", "contenuti/diritti.md", "Diritti e regole", "diritti"),
     ("presidio.html", "contenuti/presidio.md", None, "diritti"),
     ("corteo.html", "contenuti/corteo.md", None, "diritti"),
     ("sciopero.html", "contenuti/sciopero.md", None, "diritti"),
@@ -264,7 +264,7 @@ def markdown(testo: str, toc: list | None = None) -> str:
                 i = j + 1
                 continue
             if tipo == "scelte":
-                out.append(f'<nav class="scelte" aria-label="Scegli la tua situazione">{interno}</nav>')
+                out.append(f'<nav class="scelte" aria-label="Scegli un argomento">{interno}</nav>')
                 i = j + 1
                 continue
             out.append(f'<div class="box box-{html.escape(tipo)}">' + interno + "</div>")
@@ -326,7 +326,7 @@ def markdown(testo: str, toc: list | None = None) -> str:
 # Pagine
 # ---------------------------------------------------------------------------
 def leggi(sorgente: str) -> tuple[dict, str]:
-    testo = (ROOT / sorgente).read_text(encoding="utf-8").replace("{{REPO}}", REPO_URL)
+    testo = (ROOT / sorgente).read_text(encoding="utf-8").replace("{{REPO}}", REPO_URL).replace("{{AGGIORNATO}}", AGGIORNATO)
     meta: dict = {}
     if testo.startswith("---\n"):
         fine = testo.index("\n---\n", 4)
@@ -402,7 +402,7 @@ MODELLO = """<!doctype html>
       <p><strong>Per approfondire:</strong> <a href="stato.html">Stato degli atti</a> · <a href="analisi-dl-190-2026.html">Analisi del decreto</a> · <a href="bussola-completa.html">Bussola, testo completo</a> · <a href="impatto.html">Simulatore (in sviluppo)</a> · <a href="alternative.html">Alternative (in preparazione)</a></p>
       <p><strong>Trasparenza:</strong> <a href="fonti.html">Fonti</a> · <a href="metodo.html">Metodo</a> · <a href="{repo}/blob/main/CORREZIONI.md" rel="noopener noreferrer">Registro correzioni</a> · <a href="contribuisci.html">Contribuisci</a></p>
     </nav>
-    <p><strong>Contenuti informativi, non consulenza legale.</strong> Verifica sempre le fonti ufficiali; per un caso concreto rivolgiti a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
+    <p><strong>Contenuti informativi, non consulenza legale.</strong> Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti. <a href="note-legali.html">Note legali e privacy</a> · <a href="chi-siamo.html">Chi siamo e contatti</a></p>
     <p>Bilancia Civica è un progetto civico apartitico e open source. Testi aggiornati al {aggiornato}.
     <a href="{repo}/blob/main/LICENSE-TESTI" rel="noopener noreferrer">Testi CC BY-SA 4.0</a> (<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.it" rel="noopener noreferrer">sintesi della licenza</a>) · <a href="{repo}/blob/main/LICENSE" rel="noopener noreferrer">Codice AGPL-3.0</a> · Testi normativi e citazioni di terzi esclusi: vedi <a href="note-legali.html#diritto-dautore-e-licenza">note legali</a>.<br>
     Hai trovato un errore? <a href="{repo}/issues" rel="noopener noreferrer">Segnalalo su GitHub</a> · <a href="{repo}" rel="noopener noreferrer">Codice sorgente</a> · <a href="metodo.html">Metodo</a></p>
@@ -418,7 +418,7 @@ MODELLO = """<!doctype html>
 # cosi' i file Markdown restano leggibili anche su GitHub.
 INBREVE_DOC = {
     "docs/bussola-diritti.md": """- Riunirsi pacificamente e senz'armi, manifestare e scioperare sono diritti della Costituzione (artt. 17, 21 e 40). [FATTO · Alta]
-- Questa è la versione completa, con tutte le norme e le fonti: per una lettura veloce parti da [I tuoi diritti](diritti.html).
+- Questa è la versione completa, con tutte le norme e le fonti: per una lettura veloce c'è la panoramica [Diritti e regole](diritti.html).
 - Il decreto sicurezza in vigore dal 23 ottobre 2026 è spiegato nel capitolo 5. Le parole tecniche sono nel [glossario](glossario.html).""",
     "docs/analisi-dl-190-2026.md": """- Analisi tecnica, articolo per articolo, del decreto sicurezza (decreto-legge n. 190 del 22 ottobre 2026) e scheda sugli aiuti all'autotrasporto. [FATTO · Alta]
 - Per una sintesi semplice parti da [Decreto sicurezza](decreto.html); le parole tecniche sono nel [glossario](glossario.html).

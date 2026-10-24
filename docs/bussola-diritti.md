@@ -6,7 +6,7 @@
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
 > ⚠️ **Avviso importante: questa è informazione giuridica generale, non consulenza legale.**
-> Le norme si applicano sempre ai fatti concreti, e i fatti contano. Per un caso concreto (un preavviso da presentare, un fermo, una denuncia, una sanzione, uno sciopero da proclamare) **rivolgiti a un avvocato** oppure a sportelli legali gratuiti, associazioni per i diritti civili, patronati o al tuo **sindacato**. Se sei stato fermato o denunciato, hai diritto a un difensore: nominane uno di fiducia, altrimenti ti verrà assegnato un difensore d'ufficio.
+> Le norme si applicano sempre ai fatti concreti, e i fatti contano. Per un caso concreto (un preavviso da presentare, un fermo, una denuncia, una sanzione, uno sciopero da proclamare) **è opportuno rivolgersi a un avvocato** oppure a sportelli legali gratuiti, associazioni per i diritti civili, patronati o al tuo **sindacato**. Se sei stato fermato o denunciato, hai diritto a un difensore: nominane uno di fiducia, altrimenti ti verrà assegnato un difensore d'ufficio.
 
 ---
 
@@ -172,7 +172,7 @@ Le regole principali:
 - **[FATTO]** Fuori dai servizi pubblici essenziali **non esiste una legge generale che imponga preavviso, durata massima o prestazioni minime**. Restano i limiti generali indicati dalla Corte costituzionale: rispetto della **libertà di lavoro di chi non aderisce**, non compromettere servizi pubblici o funzioni essenziali, astensione da ogni violenza ([sent. 290/1974](https://www.cortecostituzionale.it/scheda-pronuncia/1974/290), massima D).
 - **[FATTO]** I contratti collettivi possono prevedere clausole di tregua o procedure. La loro violazione ha conseguenze sul piano sindacale e contrattuale, non penale.
 - **[DA VERIFICARE]** Sulla legittimità di alcune forme "anomale" di sciopero, come lo sciopero a singhiozzo o a scacchiera, esiste giurisprudenza che non abbiamo ancora ricostruito. Manca: sentenze di riferimento della Corte di cassazione. Verifica: banca dati della giurisprudenza, nella prossima versione.
-- **[Nota redazionale di Bilancia Civica]** Per casi concreti, chiedi al sindacato.
+- **[Nota redazionale di Bilancia Civica]** Per casi concreti, il riferimento è il sindacato.
 
 ---
 
@@ -315,59 +315,59 @@ Le regole principali:
 
 ## 6. Domande frequenti (FAQ)
 
-> Ogni risposta riporta la situazione al 23/10/2026, ore 20:01 (ora di Roma). "Col decreto" si riferisce al **D.L. 22 ottobre 2026, n. 190**, pubblicato in GU il 22/10 e **in vigore dal 23/10/2026**, salvo modifiche in sede di conversione (entro il 21/12/2026).
+> Ogni risposta riporta la situazione al 24/10/2026, ore 10:13 (ora di Roma). "Col decreto" si riferisce al **D.L. 22 ottobre 2026, n. 190**, pubblicato in GU il 22/10 e **in vigore dal 23/10/2026**, salvo modifiche in sede di conversione (entro il 21/12/2026).
 
-### 6.1 "Posso organizzare un presidio?"
-**Risposta breve:** **sì**. È un diritto costituzionale. Se il presidio è **in luogo pubblico** (piazza, strada), devi **dare preavviso al questore almeno 3 giorni prima**. In una sala o in un luogo aperto al pubblico non serve.
+### 6.1 "Si può organizzare un presidio?"
+**Risposta breve:** **sì**. È un diritto costituzionale. Se il presidio è **in luogo pubblico** (piazza, strada), i promotori devono **dare preavviso al questore almeno 3 giorni prima**. In una sala o in un luogo aperto al pubblico non serve.
 
-**Passi pratici** [Nota redazionale di Bilancia Civica, salvo dove indicata una norma]:
-1. Decidi luogo, data, orario d'inizio e fine e, se c'è un corteo, il **percorso**.
-2. Prepara il preavviso scritto indirizzato alla **Questura** competente per territorio. Indica i dati dei promotori (nome, recapito), luogo, data e orario, finalità, numero stimato di partecipanti, eventuale uso di impianti audio, mezzi o gazebo, e un referente presente sul posto. **[DA VERIFICARE]** Molte Questure hanno moduli e indirizzi PEC propri: controlla sul sito della tua Questura.
-3. Consegnalo **almeno 3 giorni prima** e conserva la prova (ricevuta, PEC).
-4. Spesso la Questura convoca i promotori per concordare le **prescrizioni** (percorso, orari). Rispettale: violarle comporta sanzioni fino a 12.000 €.
+**Passaggi previsti** [Nota redazionale di Bilancia Civica, salvo dove indicata una norma]:
+1. Si decidono luogo, data, orario d'inizio e fine e, se c'è un corteo, il **percorso**.
+2. Il preavviso scritto va indirizzato alla **Questura** competente per territorio e indica i dati dei promotori (nome, recapito), luogo, data e orario, finalità, numero stimato di partecipanti, eventuale uso di impianti audio, mezzi o gazebo, e un referente presente sul posto. **[DA VERIFICARE]** Molte Questure hanno moduli e indirizzi PEC propri: il riferimento è il sito della Questura competente.
+3. Va consegnato **almeno 3 giorni prima**; è utile conservarne la prova (ricevuta, PEC).
+4. Spesso la Questura convoca i promotori per concordare le **prescrizioni** (percorso, orari). Violarle comporta sanzioni fino a 12.000 €.
 5. Se serve occupare suolo pubblico con strutture (gazebo, palco), può essere necessaria un'autorizzazione del **Comune**, che è un atto diverso dal preavviso.
-6. Organizza un **servizio d'ordine** interno e prevedi un punto di contatto con le forze dell'ordine.
-7. Se arriva un **divieto**, chiedi le motivazioni scritte e valuta con un avvocato un ricorso al TAR.
+6. Di solito si prevedono un **servizio d'ordine** interno e un punto di contatto con le forze dell'ordine.
+7. Se arriva un **divieto**, si possono chiedere le motivazioni scritte e valutare con un avvocato un ricorso al TAR.
 
 **Norme:** art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958.
 
-**Attenzione online:** dal 25/02/2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può renderti "promotore" **[INTERPRETAZIONE · Media: lettura redazionale dell'art. 18, terzo comma, TULPS]**.
+**Attenzione online:** dal 25/02/2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può rendere "promotore" chi lo lancia **[INTERPRETAZIONE · Media: lettura redazionale dell'art. 18, terzo comma, TULPS]**.
 
 **Cosa cambia col decreto:** sul preavviso **nulla**. Il D.L. 190/2026 non tocca l'art. 18 TULPS.
 
-### 6.2 "Cosa rischio se partecipo a un corteo?"
-**Risposta breve:** se partecipi **pacificamente e senz'armi**, **non commetti alcun illecito**, anche se il corteo è molto critico. Rischi concreti nascono se: (a) commetti tu stesso una condotta vietata (tabella §4); (b) non ti allontani dopo l'ordine di scioglimento; (c) vieni sottoposto a controlli, come identificazione o, in certi casi, fermo preventivo.
+### 6.2 "Cosa si rischia partecipando a un corteo?"
+**Risposta breve:** chi partecipa **pacificamente e senz'armi** **non commette alcun illecito**, anche se il corteo è molto critico. Rischi concreti nascono se: (a) si commette personalmente una condotta vietata (tabella §4); (b) non ci si allontana dopo l'ordine di scioglimento; (c) si è sottoposti a controlli, come identificazione o, in certi casi, fermo preventivo.
 
 **Se altri commettono violenze:**
 - La **responsabilità penale è personale** (art. 27 Cost.): **la sola presenza non è reato**.
 - Si risponde solo se si dà un contributo al reato altrui (concorso, art. 110 c.p.).
-- **[Nota redazionale di Bilancia Civica]** Allontanati dal gruppo che commette violenze. Se viene dato l'ordine di scioglimento, **allontanati**: chi si ritira non è punibile per il mancato scioglimento.
+- **[Nota redazionale di Bilancia Civica]** È utile allontanarsi dal gruppo che commette violenze. Se viene dato l'ordine di scioglimento, ci si deve **allontanare**: chi si ritira non è punibile per il mancato scioglimento.
 
 **Identificazione e documenti:**
 - Non esiste un obbligo generale di portare con sé un documento.
 - Esiste però l'obbligo di **dare le proprie generalità** a un pubblico ufficiale che le chiede: rifiutarsi è reato (art. 651 c.p.), darle false è più grave.
-- Se rifiuti di dare le generalità, o se si ha motivo di ritenerle false, puoi essere **accompagnato** negli uffici per il tempo strettamente necessario, **non oltre 24 ore**, con notizia immediata al PM (art. 11 D.L. 59/1978). Durante le indagini, per indagati e testimoni, il limite è di **12 ore**, o 24 con avviso al PM nei casi più complessi (art. 349, c. 4, c.p.p.).
-- **[Nota redazionale di Bilancia Civica]** Porta un documento d'identità.
+- Chi rifiuta di dare le generalità, o le cui generalità si ha motivo di ritenere false, può essere **accompagnato** negli uffici per il tempo strettamente necessario, **non oltre 24 ore**, con notizia immediata al PM (art. 11 D.L. 59/1978). Durante le indagini, per indagati e testimoni, il limite è di **12 ore**, o 24 con avviso al PM nei casi più complessi (art. 349, c. 4, c.p.p.).
+- **[Nota redazionale di Bilancia Civica]** È utile avere con sé un documento d'identità.
 
 **Fermo preventivo (in vigore dal 25/02/2026):**
-- Durante le manifestazioni, con un pericolo attuale per l'ordine pubblico, puoi essere trattenuto **fino a 12 ore** se ci sono **elementi di fatto** a tuo carico, come oggetti atti a offendere o precedenti per violenze in manifestazioni negli ultimi cinque anni.
+- Durante le manifestazioni, con un pericolo attuale per l'ordine pubblico, una persona può essere trattenuta **fino a 12 ore** se ci sono **elementi di fatto** a suo carico, come oggetti atti a offendere o precedenti per violenze in manifestazioni negli ultimi cinque anni.
 - Il **PM** deve essere avvisato subito e ordina il rilascio se mancano i presupposti.
-- Se sei minorenne, vengono avvisati i tuoi genitori.
+- Se la persona è minorenne, vengono avvisati i genitori.
 
 **Cosa portare e cosa no** [Nota redazionale di Bilancia Civica, basata sulle norme citate in §1.6]:
 - **Sì:** documento, telefono carico, acqua, il numero di un avvocato o dello sportello legale.
 - **No:** oggetti che possano essere considerati atti a offendere (anche coltellini), caschi o mezzi per coprire il volto senza giustificato motivo, petardi o fumogeni.
 
-**Se vieni fermato** [Nota redazionale di Bilancia Civica; la resistenza con violenza o minaccia è reato, art. 337 c.p.]:
-- resta calmo e non opporre resistenza fisica, perché anche la resistenza è reato;
-- chiedi il motivo e di poter avvisare un familiare e un **avvocato**;
-- non firmare verbali che non hai letto o capito;
-- annota ora e luogo.
+**In caso di fermo** [Nota redazionale di Bilancia Civica; la resistenza con violenza o minaccia è reato, art. 337 c.p.]:
+- la resistenza fisica va evitata, perché la resistenza con violenza o minaccia è reato;
+- si può chiedere il motivo e di poter avvisare un familiare e un **avvocato**;
+- è meglio non firmare verbali che non si sono letti o capiti;
+- è utile annotare ora e luogo.
 
 **Norme:** artt. 17, 27 Cost.; artt. 20-24 TULPS; art. 349 c.p.p.; art. 11-bis D.L. 59/1978; art. 5 L. 152/1975; art. 4 L. 110/1975.
 
 **Cosa cambia col decreto (D.L. 190/2026, dal 23/10/2026):**
-- **Nuovo reato** se, in un gruppo organizzato di almeno 5 persone, usi illegittimamente o lanci oggetti atti a offendere, oppure lanci razzi, fuochi artificiali, petardi o gas urticanti, creando pericolo concreto per le persone **e** causando danni alle cose: **2–5 anni + 10.000–20.000 €**, di più se sei travisato.
+- **Nuovo reato** per chi, in un gruppo organizzato di almeno 5 persone, usa illegittimamente o lancia oggetti atti a offendere, oppure lancia razzi, fuochi artificiali, petardi o gas urticanti, creando pericolo concreto per le persone **e** causando danni alle cose: **2–5 anni + 10.000–20.000 €**, di più per chi è travisato.
 - **Arresto anche dopo il fatto** (flagranza differita), entro 48 ore dal fatto, se da video o foto emerge in modo inequivocabile il fatto e chi ne è l'autore, per questo reato e per danneggiamento di gruppo, devastazione e saccheggio, attentato a impianti di pubblica utilità.
 - **Fermo preventivo esteso** anche fuori dai cortei, durante specifiche operazioni di polizia di prevenzione in luoghi con consistente afflusso di persone, verso chi è ritenuto un concreto pericolo per la sicurezza sulla base di elementi di fatto (per esempio oggetti vietati, precedenti o segnalazioni degli ultimi 5 anni).
 - Per i **14-17enni**:
@@ -375,19 +375,19 @@ Le regole principali:
   - il divieto di radunarsi (che vale per tutti, con i presupposti di legge) può riguardare anche loro;
   - età minima per il fermo preventivo: il nuovo comma non la fissa **[FATTO]**; resta **[DA VERIFICARE]** l'applicazione ai minori di 14 anni (vedi §5.3).
 
-### 6.3 "Il mio sciopero è legittimo?"
-**Risposta breve:** dipende da **chi sei** (dipendente o autonomo) e dal **settore**. Per un lavoratore dipendente aderire a uno sciopero regolarmente proclamato è un diritto. Nei **servizi pubblici essenziali** lo sciopero deve rispettare le regole della L. 146/1990.
+### 6.3 "Quando uno sciopero è legittimo?"
+**Risposta breve:** dipende dalla **posizione** (dipendente o autonomo) e dal **settore**. Per un lavoratore dipendente aderire a uno sciopero regolarmente proclamato è un diritto. Nei **servizi pubblici essenziali** lo sciopero deve rispettare le regole della L. 146/1990.
 
 **Lista di controllo (servizi pubblici essenziali):**
 1. Lo sciopero è stato **proclamato** da un soggetto collettivo (sindacato o coalizione)?
-2. È stato rispettato il **preavviso di almeno 10 giorni**, o quello più lungo previsto dal tuo settore?
+2. È stato rispettato il **preavviso di almeno 10 giorni**, o quello più lungo previsto dal settore?
 3. Sono indicate **durata, modalità e motivazioni**?
 4. Si sono svolte le procedure di **raffreddamento e conciliazione**?
 5. Si rispettano **franchigie** e **intervalli minimi** dagli scioperi precedenti?
-6. Sono garantite le **prestazioni indispensabili**? Se sei inserito nei contingenti minimi, **devi lavorare**.
+6. Sono garantite le **prestazioni indispensabili**? Chi è inserito nei contingenti minimi **deve lavorare**.
 7. La Commissione di garanzia ha emesso una **delibera di invito** a riformulare o differire? C'è un'**ordinanza di precettazione**?
 
-Controlla gli scioperi proclamati sul [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi) e sul [calendario della Commissione](https://www.cgsse.it/calendario-scioperi).
+Gli scioperi proclamati sono elencati sul [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi) e sul [calendario della Commissione](https://www.cgsse.it/calendario-scioperi).
 
 **Nel privato non essenziale:** non ci sono preavvisi di legge. Restano i limiti generali: niente violenza, rispetto della libertà di lavoro di chi non aderisce, non compromettere servizi pubblici o funzioni essenziali (Corte cost. 290/1974).
 
@@ -406,18 +406,18 @@ Controlla gli scioperi proclamati sul [prospetto MIT](https://scioperi.mit.gov.i
 
 **Cosa cambia col decreto:** **nulla di diretto** sul diritto di sciopero. Il D.L. 190/2026 non modifica la L. 146/1990. Le norme sulle manifestazioni si applicano anche ai cortei che accompagnano gli scioperi.
 
-### 6.4 "Posso filmare la polizia durante una manifestazione?"
+### 6.4 "Si può filmare la polizia durante una manifestazione?"
 **Risposta breve:** **in generale sì**. Non esiste una norma che vieti di riprendere in luogo pubblico operazioni di polizia che si svolgono davanti a tutti. Riprendere è una forma di manifestazione del pensiero e di documentazione.
 
 **Limiti:**
 - **[FATTO]** la **diffusione** di immagini di persone identificabili, agenti o manifestanti, è soggetta alla normativa sulla protezione dei dati personali (GDPR e Codice privacy). Per la diffusione a fini giornalistici valgono regole specifiche;
-- **[FATTO]** non devi **ostacolare** le operazioni: interferire fisicamente può integrare reati o illeciti (§4);
-- **[Nota redazionale di Bilancia Civica]** se ricevi un ordine specifico di allontanarti, per esempio da un'area di intervento, rispettalo e contestalo eventualmente in seguito.
+- **[FATTO]** le operazioni non vanno **ostacolate**: interferire fisicamente può integrare reati o illeciti (§4);
+- **[Nota redazionale di Bilancia Civica]** un ordine specifico di allontanarsi, per esempio da un'area di intervento, va rispettato ed eventualmente contestato in seguito.
 
 **Consigli pratici** [Nota redazionale di Bilancia Civica]:
-- riprendi da distanza di sicurezza;
-- conserva i file originali, utili come prova anche a tua difesa;
-- prima di pubblicare, valuta se oscurare i volti di chi non è coinvolto, specialmente se si tratta di minori.
+- riprendere da distanza di sicurezza;
+- conservare i file originali, utili anche come prova a propria difesa;
+- prima di pubblicare, valutare se oscurare i volti di chi non è coinvolto, specialmente se si tratta di minori.
 
 **Bilancia Civica non aiuta a identificare singoli manifestanti o agenti.**
 
@@ -430,8 +430,8 @@ Controlla gli scioperi proclamati sul [prospetto MIT](https://scioperi.mit.gov.i
 - **I semplici partecipanti non rischiano la sanzione per il mancato preavviso**, salvo che non rispettino un **ordine di scioglimento** (2.000–20.000 €) o commettano altri illeciti.
 
 **Passi pratici** [Nota redazionale di Bilancia Civica]:
-- se ti trovi in una manifestazione non preavvisata e arrivano gli inviti a sciogliersi, **allontanati**;
-- se sei un organizzatore, il preavviso tardivo è comunque meglio di nessun preavviso.
+- in una manifestazione non preavvisata, se arrivano gli inviti a sciogliersi, ci si deve **allontanare**;
+- per gli organizzatori, il preavviso tardivo è comunque meglio di nessun preavviso.
 - **[DA VERIFICARE]** Gli effetti concreti di un preavviso tardivo. Manca: norma o giurisprudenza specifica. Verifica: testo vigente dell'art. 18 TULPS; per il caso concreto, un legale.
 
 **Norme:** art. 17 Cost.; artt. 18, 20-24 TULPS (testo vigente dopo D.L. 23/2026).
@@ -454,16 +454,16 @@ Controlla gli scioperi proclamati sul [prospetto MIT](https://scioperi.mit.gov.i
 
 **Precettazione:** anche i fermi degli autonomi possono essere oggetto di ordinanza ex art. 8 L. 146/1990 (vedi 6.7).
 
-### 6.7 "Posso essere precettato?"
-**Risposta breve:** sì, **se lavori in un servizio pubblico essenziale** (o sei un autonomo la cui astensione incide su di esso).
+### 6.7 "Chi può essere precettato?"
+**Risposta breve:** chi **lavora in un servizio pubblico essenziale**, e anche un autonomo la cui astensione incide su di esso.
 - **Quando:** se c'è un fondato pericolo di **pregiudizio grave e imminente** ai diritti della persona.
 - **Chi decide:** il **Presidente del Consiglio o un Ministro delegato** per i conflitti nazionali, il **Prefetto** per quelli locali.
 - **Procedura:** dopo un invito a desistere e un tentativo di conciliazione.
 - **Cosa può disporre l'ordinanza:** rinviare lo sciopero, **ridurne la durata** o imporre servizi minimi.
 - **Tempi:** di norma almeno 48 ore prima.
 
-**Se ricevi un'ordinanza:**
-- l'ordinanza va **rispettata** anche se la contesti: il ricorso al **TAR entro 7 giorni** non la sospende automaticamente;
+**In caso di ordinanza:**
+- l'ordinanza va **rispettata** anche se contestata: il ricorso al **TAR entro 7 giorni** non la sospende automaticamente;
 - chi non la osserva rischia una **sanzione amministrativa per ogni giorno** di inosservanza;
 - il ricorso può essere presentato dal sindacato, dall'azienda o dal singolo lavoratore interessato.
 

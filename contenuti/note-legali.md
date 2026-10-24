@@ -8,7 +8,7 @@ indice: si
 ::: inbreve
 **In breve**
 
-- I contenuti sono **informazione, non consulenza legale**: per un caso concreto rivolgiti a un professionista.
+- I contenuti sono **informazione, non consulenza legale**: per un caso concreto è opportuno rivolgersi a un professionista.
 - Il sito **non usa cookie**, non traccia e non raccoglie dati.
 - I testi originali sono in licenza CC BY-SA 4.0, il codice in licenza AGPL-3.0.
 :::
@@ -20,7 +20,7 @@ I contenuti di Bilancia Civica hanno solo **scopo informativo e divulgativo**. N
 
 - Possono contenere **errori** o essere **superati** da norme, sentenze o atti successivi alla data di aggiornamento indicata in ogni pagina.
 - Prima di decidere, verifica sempre i testi sulle fonti ufficiali, in particolare la [Gazzetta Ufficiale](https://www.gazzettaufficiale.it) e [Normattiva](https://www.normattiva.it).
-- Per un caso concreto rivolgiti a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.
+- Per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.
 
 ## Limiti di responsabilità
 
