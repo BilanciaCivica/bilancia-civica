@@ -16,6 +16,7 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 - **Gazzetta Ufficiale (GU)** — dove vengono pubblicati leggi e decreti; fa fede per la data di entrata in vigore. [gazzettaufficiale.it](https://www.gazzettaufficiale.it)
 - **Normattiva** — il sito pubblico con i testi delle leggi in vigore e le loro versioni nel tempo. [normattiva.it](https://www.normattiva.it)
 - **c.p. e c.p.p.** — codice penale e codice di procedura penale. «Art. 337 c.p.» vuol dire articolo 337 del codice penale.
+- **c.p.a.** — codice del processo amministrativo (allegato 1 al d.lgs. 104/2010): regola i ricorsi al TAR. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)
 - **TULPS** — Testo unico delle leggi di pubblica sicurezza (regio decreto 18 giugno 1931, n. 773). L'art. 18 regola il preavviso delle riunioni in luogo pubblico. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)
 - **L.** e **d.lgs.** — legge e decreto legislativo. «L. 146/1990» vuol dire legge n. 146 del 1990.
 
@@ -42,7 +43,7 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 - **Procedibile d'ufficio** — il reato viene perseguito anche senza **querela**, cioè senza che la persona offesa lo chieda.
 - **Imputabile** — chi può essere ritenuto penalmente responsabile perché capace di intendere e di volere. Chi ha tra 14 e 17 anni è imputabile se aveva questa capacità (art. 98 c.p.); dal 23 ottobre 2026 la capacità si presume fino a prova contraria (art. 1, c. 1, D.L. 190/2026). Sotto i 14 anni non si è imputabili (art. 97 c.p.).
 - **PM (pubblico ministero)** — il magistrato che dirige le indagini (art. 327 c.p.p.). Per esempio, riceve subito la notizia di un fermo preventivo e ordina il rilascio se mancano le condizioni (art. 11-bis D.L. 59/1978).
-- **TAR** — Tribunale amministrativo regionale: il giudice a cui si può fare ricorso, per esempio contro il divieto di una riunione o una precettazione.
+- **TAR** — Tribunale amministrativo regionale: il giudice a cui si può fare ricorso, per esempio contro il divieto o le prescrizioni del questore per una riunione, entro 60 giorni ([artt. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art29) e [41 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art41)), o contro una precettazione, entro 7 giorni (art. 10 L. 146/1990).
 
 ## Sciopero
 

@@ -125,6 +125,7 @@ Prima di pubblicare:
 
 ## Novità
 
+- **25/10/2026** – Ricorso al TAR contro il divieto o le prescrizioni del questore: norme collegate su Normattiva (art. 113 Cost.; artt. 7, 22, 29, 41 e 56 del codice del processo amministrativo) e stessa formula in Diritti, Presidio, glossario e Bussola; dettagli in [CORREZIONI.md](CORREZIONI.md).
 - **25/10/2026** – Bussola: una formula sulle sanzioni ai sindacati riportata al testo dell'art. 4 L. 146/1990 e due affermazioni senza fonte primaria passate da FATTO a DA VERIFICARE; dettagli in [CORREZIONI.md](CORREZIONI.md).
 - **24/10/2026** – Fonti: aggiunti link alle fonti primarie (Normattiva, Gazzetta Ufficiale, Camera, Governo, Commissione di garanzia, MIT) in 74 affermazioni che ne erano prive; il testo delle affermazioni non cambia, tranne due etichette di intestazione che ora indicano anche il «testo in GU». Nuova direttiva invisibile `<!-- dati: atti … -->` che indica a quale atto si riferiscono gli articoli citati senza nome dell'atto (schema dei dati 1.0.1). Nuovo [server MCP](mcp/README.md) in sola lettura per i dati aperti.
 - **24/10/2026** – Dati aperti: le affermazioni del sito sono disponibili in formato JSON (`dati/`), con la pagina [Dati aperti](https://bilanciacivica.github.io/bilancia-civica/dati.html) e la documentazione in [DATI.md](DATI.md). Il testo delle affermazioni non cambia: nei file Markdown sono state aggiunte solo direttive invisibili (commenti `<!-- dati: … -->`) e, nell'HTML, un'ancora `id` per ogni affermazione. Nuovi link alla pagina dei dati nel piè di pagina e in «Chi siamo».

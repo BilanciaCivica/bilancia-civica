@@ -78,6 +78,8 @@ ATTI = {
     "d.lgs. 66/1948": ("D.lgs. 22 gennaio 1948, n. 66", NIR + "decreto.legislativo:1948-01-22;66"),
     "d.lgs. 159/2011": ("D.lgs. 6 settembre 2011, n. 159 (Codice antimafia e misure di prevenzione)",
                         NIR + "decreto.legislativo:2011-09-06;159"),
+    "Codice del processo amministrativo": ("Codice del processo amministrativo (d.lgs. 104/2010, allegato 1)",
+                                           NIR + "decreto.legislativo:2010-07-02;104"),
     "DPR 448/1988": ("DPR 22 settembre 1988, n. 448 (processo penale minorile)",
                      NIR + "decreto.del.presidente.della.repubblica:1988-09-22;448"),
 }
@@ -247,7 +249,8 @@ _MESE = r"(?:gennaio|febbraio|marzo|aprile|maggio|giugno|luglio|agosto|settembre
 RE_ATTI = [
     (re.compile(r"\bCost(?:ituzione|\.)"), lambda m: "Costituzione"),
     (re.compile(r"\bc\.p\.p\."), lambda m: "Codice di procedura penale"),
-    (re.compile(r"\bc\.p\.(?!p)"), lambda m: "Codice penale"),
+    (re.compile(r"\bc\.p\.a\."), lambda m: "Codice del processo amministrativo"),
+    (re.compile(r"\bc\.p\.(?![pa])"), lambda m: "Codice penale"),
     (re.compile(r"\bTULPS\b"), lambda m: "TULPS"),
     (re.compile(r"\b(?:D\.L\.|decreto-legge)\s+(?:n\.\s*)?" + _N + "/" + _ANNO), lambda m: f"D.L. {m.group(1)}/{m.group(2)}"),
     (re.compile(r"\b(?:D\.L\.|decreto-legge)\s+\d{1,2}\s+" + _MESE + r"\s+" + _ANNO + r",\s*n\.\s*" + _N),

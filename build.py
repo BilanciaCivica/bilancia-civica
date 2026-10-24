@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "25/10/2026, ore 00:30 (ora di Roma)"
+AGGIORNATO = "25/10/2026, ore 00:40 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -445,7 +445,8 @@ MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 SIGLE = [  # (forma nel testo, spiegazione) - solo la prima occorrenza per pagina
     ("D.L.", "decreto-legge"), ("d.lgs.", "decreto legislativo"), ("DPR", "decreto del Presidente della Repubblica"),
-    ("c.p.p.", "codice di procedura penale"), ("c.p.", "codice penale"), ("Cost.", "Costituzione"),
+    ("c.p.p.", "codice di procedura penale"), ("c.p.a.", "codice del processo amministrativo"),
+    ("c.p.", "codice penale"), ("Cost.", "Costituzione"),
     ("TULPS", "Testo unico delle leggi di pubblica sicurezza"), ("GU", "Gazzetta Ufficiale"),
     ("PM", "pubblico ministero"), ("TAR", "Tribunale amministrativo regionale"), ("CdM", "Consiglio dei ministri"),
     ("AC", "Atto Camera (numero del disegno di legge alla Camera)"), ("UPB", "Ufficio parlamentare di bilancio"),

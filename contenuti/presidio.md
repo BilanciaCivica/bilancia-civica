@@ -30,7 +30,7 @@ descrizione: Presidi: serve un permesso? Preavviso al questore, passaggi previst
 4. Le eventuali **prescrizioni** del questore vanno rispettate (modalità di tempo e di luogo, per esempio il percorso).
 5. Gazebo o palco su suolo pubblico possono richiedere un'autorizzazione del **Comune**, distinta dal preavviso.
 6. Di solito si prevedono un servizio d'ordine e un contatto con le forze dell'ordine.
-7. In caso di **divieto** si possono chiedere le motivazioni scritte e valutare con un avvocato il ricorso al TAR.
+7. Contro un **divieto** si può ricorrere al TAR: il ricorso va notificato entro 60 giorni dalla notifica, dalla comunicazione o dalla piena conoscenza del divieto ([artt. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art29) e [41 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art41)); nei casi di estrema gravità e urgenza si possono chiedere misure cautelari provvisorie ([art. 56 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art56)). [FATTO · Alta] Si possono chiedere le motivazioni scritte e valutare il ricorso con un avvocato.
 
 ## Cosa si rischia
 

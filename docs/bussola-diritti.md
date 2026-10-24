@@ -1,7 +1,7 @@
 # Bilancia Civica · Bussola Diritti
 ### Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando
 
-> **Aggiornato al 25/10/2026, ore 00:30 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
+> **Aggiornato al 25/10/2026, ore 00:40 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
 > Ultima verifica in Gazzetta Ufficiale: Serie Generale **n. 246 del 22/10/2026**, che contiene il **D.L. 22 ottobre 2026, n. 190** (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
@@ -77,7 +77,7 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 **Il questore può:**
 - **[FATTO]** **vietare** la riunione (art. 18 TULPS). Dopo l'entrata in vigore della Costituzione, il divieto è legittimo solo per **comprovati motivi di sicurezza o incolumità pubblica**. Il testo del TULPS menziona anche "moralità" e "sanità pubblica". **[DA VERIFICARE]** Che questi motivi vadano letti alla luce dell'art. 17 Cost., e quindi ridotti a sicurezza e incolumità pubblica, è una lettura diffusa di cui non abbiamo ancora una fonte citabile. Manca: un'opera di dottrina o una sentenza costituzionale specifica. Verifica: ricerca nelle pronunce della Corte costituzionale sull'art. 18 TULPS;
 - **[FATTO]** [**prescrivere modalità di tempo e di luogo**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18), come orario, percorso o piazza alternativa.
-- **[DA VERIFICARE]** Contro il divieto o le prescrizioni ci si può rivolgere al giudice amministrativo (TAR). Manca: la norma del codice del processo amministrativo da citare. Verifica: Normattiva, nella prossima versione. **[DA VERIFICARE]** I tempi pratici di un ricorso urgente. Manca: dati sui tempi delle misure cautelari dei TAR. Verifica: non prevista in questa versione; per il caso concreto serve un avvocato.
+- **[FATTO]** Contro il divieto o le prescrizioni ci si può rivolgere al giudice amministrativo (TAR): contro gli atti della pubblica amministrazione è sempre ammessa la tutela giurisdizionale ([art. 113 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art113)) e le domande si introducono con ricorso al tribunale amministrativo regionale competente ([artt. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art7) e [41 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art41)). Il ricorso per l'annullamento va notificato entro 60 giorni dalla notifica, dalla comunicazione o dalla piena conoscenza dell'atto ([artt. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art29) e [41 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art41)); di regola serve un avvocato ([art. 22 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art22)). In caso di estrema gravità e urgenza si possono chiedere al presidente del TAR misure cautelari provvisorie ([art. 56 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art56)). **[DA VERIFICARE]** I tempi pratici di un ricorso urgente. Manca: dati sui tempi delle misure cautelari dei TAR. Verifica: non prevista in questa versione; per il caso concreto serve un avvocato.
 
 **[FATTO]** L'art. 18 TULPS non si applica alle **riunioni elettorali** (ultimo comma).
 
@@ -342,9 +342,9 @@ Le regole principali:
 4. Spesso la Questura convoca i promotori per concordare le **prescrizioni** (percorso, orari). Violarle comporta sanzioni fino a 12.000 €.
 5. Se serve occupare suolo pubblico con strutture (gazebo, palco), può essere necessaria un'autorizzazione del **Comune**, che è un atto diverso dal preavviso.
 6. Di solito si prevedono un **servizio d'ordine** interno e un punto di contatto con le forze dell'ordine.
-7. Se arriva un **divieto**, si possono chiedere le motivazioni scritte e valutare con un avvocato un ricorso al TAR.
+7. Contro un **divieto** si può ricorrere al TAR: il ricorso va notificato entro 60 giorni dalla notifica, dalla comunicazione o dalla piena conoscenza del divieto ([artt. 29](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art29) e [41 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art41)); nei casi di estrema gravità e urgenza si possono chiedere misure cautelari provvisorie ([art. 56 c.p.a.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104:2~art56)) **[FATTO]**. Si possono chiedere le motivazioni scritte e valutare il ricorso con un avvocato.
 
-**Norme:** art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958.
+**Norme:** art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958; per il ricorso al TAR, artt. 29, 41 e 56 c.p.a.
 
 **Attenzione online:** dal 25/02/2026 [la sanzione per mancato preavviso](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18) (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può rendere "promotore" chi lo lancia **[INTERPRETAZIONE · Media: lettura redazionale dell'art. 18, terzo comma, TULPS]**.
 
