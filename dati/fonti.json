@@ -1,5 +1,5 @@
 {
-  "versione_schema": "1.0.0",
+  "versione_schema": "1.0.1",
   "generato_il": "2026-10-24T10:42:00+02:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 50,
+  "totale": 61,
   "fonti": [
     {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
@@ -18,6 +18,16 @@
       "dominio": "documenti.camera.it",
       "affermazioni": [
         "stato-827e98a830"
+      ]
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+      "titolo": "GDPR",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "eur-lex.europa.eu",
+      "affermazioni": [
+        "bussola-completa-0b215667be"
       ]
     },
     {
@@ -32,12 +42,17 @@
     },
     {
       "url": "https://scioperi.mit.gov.it/mit2/public/scioperi",
-      "titolo": "prospetto scioperi del Ministero delle infrastrutture e dei trasporti",
-      "altri_titoli": [],
+      "titolo": "prospetto MIT",
+      "altri_titoli": [
+        "prospetto scioperi del Ministero delle infrastrutture e dei trasporti"
+      ],
       "ufficiale": true,
       "dominio": "scioperi.mit.gov.it",
       "affermazioni": [
-        "bussola-completa-1400898a4b"
+        "bussola-completa-1073289aa2",
+        "bussola-completa-1400898a4b",
+        "bussola-completa-7430bc2e53",
+        "bussola-completa-e7dddd4e66"
       ]
     },
     {
@@ -87,24 +102,43 @@
     },
     {
       "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
-      "titolo": "scheda della Camera",
-      "altri_titoli": [],
+      "titolo": "camera.it",
+      "altri_titoli": [
+        "scheda della Camera"
+      ],
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
+        "bussola-completa-cfb68428f4",
         "bussola-completa-e516417bb8",
+        "decreto-1b852a69d2",
         "decreto-e516417bb8",
-        "stato-8ee76a0280"
+        "stato-0fec9cf14b",
+        "stato-48de1a4681",
+        "stato-7dc7b67df9",
+        "stato-8ee76a0280",
+        "stato-92ef125c46",
+        "stato-bf08471979"
       ]
     },
     {
       "url": "https://www.cgsse.it",
       "titolo": "Commissione di garanzia",
-      "altri_titoli": [],
+      "altri_titoli": [
+        "cgsse.it",
+        "sito della Commissione"
+      ],
       "ufficiale": true,
       "dominio": "www.cgsse.it",
       "affermazioni": [
-        "diritti-037f52515e"
+        "bussola-completa-1200ecf3e3",
+        "bussola-completa-4b2695cb08",
+        "bussola-completa-6e707c1eae",
+        "bussola-completa-db04a1d9e6",
+        "bussola-completa-e376e808f2",
+        "bussola-completa-e7dddd4e66",
+        "diritti-037f52515e",
+        "sciopero-1f35ae5387"
       ]
     },
     {
@@ -260,12 +294,21 @@
     },
     {
       "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
-      "titolo": "D.L. 22 ottobre 2026, n. 190",
+      "titolo": "420-bis",
       "altri_titoli": [
+        "D.L. 22 ottobre 2026, n. 190",
         "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
         "GU Serie Generale n. 246 del 22 ottobre 2026",
         "GU – testo",
+        "Gazzetta Ufficiale",
+        "decreto sicurezza",
         "decreto-legge 22 ottobre 2026, n. 190",
+        "divieto di radunarsi",
+        "fermo preventivo",
+        "nuovo art. 420-bis",
+        "nuovo comma",
+        "nuovo reato",
+        "testo",
         "testo in GU"
       ],
       "ufficiale": true,
@@ -283,6 +326,7 @@
         "analisi-dl-190-2026-953a16840a",
         "analisi-dl-190-2026-a7f28386cd",
         "analisi-dl-190-2026-ada495c189",
+        "analisi-dl-190-2026-aeb3d15d31",
         "analisi-dl-190-2026-bd90accac7",
         "analisi-dl-190-2026-c322a1afb7",
         "analisi-dl-190-2026-c367aa3f7b",
@@ -291,8 +335,25 @@
         "analisi-dl-190-2026-f684f7a633",
         "analisi-dl-190-2026-f89a30089b",
         "analisi-dl-190-2026-face9da946",
+        "bussola-completa-01eecc3b30",
+        "bussola-completa-07839e6c20",
+        "bussola-completa-0edb96b0dc",
+        "bussola-completa-151fda765f",
         "bussola-completa-23e02a4289",
+        "bussola-completa-343ad923da",
+        "bussola-completa-35a0e96220",
+        "bussola-completa-4f497cf046",
+        "bussola-completa-5f0a042a86",
+        "bussola-completa-6c2a60e066",
+        "bussola-completa-6d76ac282f",
+        "bussola-completa-6fef678fe3",
+        "bussola-completa-9b48beda88",
+        "bussola-completa-a71562d2bc",
         "bussola-completa-d2a4cfa1b9",
+        "bussola-completa-d8ae8c2dbe",
+        "bussola-completa-e8e5403e5d",
+        "bussola-completa-ebc8b49c4e",
+        "bussola-completa-f31f7ac6c5",
         "corteo-062650a960",
         "corteo-0e89e14b0d",
         "corteo-2e0579d8fd",
@@ -304,6 +365,7 @@
         "corteo-7ad6c539c7",
         "corteo-7c2cafcb63",
         "corteo-9e411f20b6",
+        "corteo-a1d81b85d5",
         "corteo-b42394152d",
         "corteo-c4a446ea09",
         "corteo-d2d0488a37",
@@ -311,26 +373,48 @@
         "corteo-f629bf05b6",
         "corteo-fa3f302c35",
         "decreto-0183f494cf",
+        "decreto-10a59bd435",
+        "decreto-1b0b433470",
         "decreto-28744ff846",
         "decreto-373c09522e",
         "decreto-3a9defde8e",
         "decreto-3b5d1651ea",
         "decreto-3e3e73de5c",
+        "decreto-5b51b8452b",
         "decreto-629f560f61",
         "decreto-68a945fc41",
+        "decreto-693cf7f6ed",
         "decreto-8108273dbd",
+        "decreto-91036faddf",
+        "decreto-9e411f20b6",
+        "decreto-d75672a500",
         "decreto-dbf87e9a01",
+        "decreto-e2a812fbcf",
+        "decreto-f94853ca6a",
         "diritti-1a23b8a6bc",
         "diritti-41510d76c8",
+        "diritti-9e4d1a164d",
         "diritti-ad81c5d70a",
+        "esempio-0ea50d4b64",
+        "esempio-48b94ac23d",
+        "esempio-5bc1ef9586",
+        "esempio-67c03be378",
         "esempio-6e28135029",
         "esempio-8108273dbd",
+        "esempio-8a1d8b87c8",
+        "esempio-cd66f963f2",
         "esempio-de998e6fc3",
         "home-b94d95c585",
         "presidio-1d2483c03a",
+        "presidio-a97cdb537f",
         "sciopero-fd10932766",
+        "stato-0fec9cf14b",
         "stato-3d6a12bf48",
-        "stato-7dc7b67df9"
+        "stato-48de1a4681",
+        "stato-7dc7b67df9",
+        "stato-8ee76a0280",
+        "stato-92ef125c46",
+        "stato-bf08471979"
       ]
     },
     {
@@ -364,11 +448,14 @@
     },
     {
       "url": "https://www.governo.it/it/archivio-consiglio-dei-ministri",
-      "titolo": "archivio del Consiglio dei ministri",
-      "altri_titoli": [],
+      "titolo": "Consiglio dei ministri",
+      "altri_titoli": [
+        "archivio del Consiglio dei ministri"
+      ],
       "ufficiale": true,
       "dominio": "www.governo.it",
       "affermazioni": [
+        "stato-012637ece2",
         "stato-e422957c95"
       ]
     },
@@ -378,7 +465,8 @@
       "altri_titoli": [
         "comunicato CdM",
         "comunicato CdM n. 193",
-        "comunicato n. 193"
+        "comunicato n. 193",
+        "governo.it"
       ],
       "ufficiale": true,
       "dominio": "www.governo.it",
@@ -386,7 +474,12 @@
         "analisi-dl-190-2026-face9da946",
         "bussola-completa-23e02a4289",
         "esempio-2d79a35496",
-        "stato-92ef125c46"
+        "stato-0fec9cf14b",
+        "stato-48de1a4681",
+        "stato-7dc7b67df9",
+        "stato-8ee76a0280",
+        "stato-92ef125c46",
+        "stato-bf08471979"
       ]
     },
     {
@@ -411,6 +504,7 @@
       "dominio": "www.lespresso.it",
       "affermazioni": [
         "bussola-completa-01eecc3b30",
+        "bussola-completa-151fda765f",
         "bussola-completa-1de4350476",
         "decreto-c78b18d332",
         "esempio-51e4272a6c"
@@ -418,12 +512,15 @@
     },
     {
       "url": "https://www.mit.gov.it/documentazione/piattaforma-credito-dimposta-favore-imprese-di-autotrasporto-ristoro-maggiore-spesa",
-      "titolo": "pagina MIT",
-      "altri_titoli": [],
+      "titolo": "Riparametrazione in corso",
+      "altri_titoli": [
+        "pagina MIT"
+      ],
       "ufficiale": true,
       "dominio": "www.mit.gov.it",
       "affermazioni": [
-        "stato-9b6b004320"
+        "stato-9b6b004320",
+        "stato-fe690c7ab1"
       ]
     },
     {
@@ -444,8 +541,10 @@
         "bussola-completa-6efd70b3d5",
         "bussola-completa-725c20b8e0",
         "bussola-completa-7f90feba16",
+        "bussola-completa-81d0763d27",
         "bussola-completa-82e2460761",
         "bussola-completa-b3e56c1569",
+        "bussola-completa-b5173f5a3f",
         "bussola-completa-b82d243e4c",
         "bussola-completa-dced647128",
         "corteo-0cdde9881a",
@@ -465,6 +564,49 @@
         "esempio-d53dbb1a51",
         "presidio-af9a350a8b",
         "stato-bf08471979"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17",
+      "titolo": "nessun preavviso",
+      "altri_titoli": [
+        "non è un'autorizzazione",
+        "pacificamente e senz'armi",
+        "riunirsi pacificamente e senz'armi"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "corteo-427d8fa9a0",
+        "corteo-933d860b9b",
+        "esempio-b8eea2c7e2",
+        "presidio-c34cd30e7b",
+        "presidio-face12d16c"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27",
+      "titolo": "condotta personale",
+      "altri_titoli": [
+        "personale",
+        "responsabilità penale personale"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "corteo-cb6010a5c4",
+        "diritti-da45ab5d35",
+        "esempio-b8eea2c7e2"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art40",
+      "titolo": "diritto",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-cb18ddc686"
       ]
     },
     {
@@ -513,6 +655,7 @@
       "affermazioni": [
         "analisi-dl-190-2026-641e01b9a5",
         "analisi-dl-190-2026-d18a1f0ba5",
+        "bussola-completa-01eecc3b30",
         "bussola-completa-530a414f4e",
         "bussola-completa-6606bb5fee",
         "corteo-65bc1c4b5f",
@@ -532,6 +675,28 @@
       "affermazioni": [
         "bussola-completa-530a414f4e",
         "diritti-f5f5ab2f9d"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59~art11bis",
+      "titolo": "Immediata notizia al PM",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "diritti-420bbe0237"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92",
+      "titolo": "D.L. 23 maggio 2008, n. 92",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-5456ee97ae",
+        "decreto-5b51b8452b",
+        "decreto-dbf87e9a01"
       ]
     },
     {
@@ -563,7 +728,9 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "analisi-dl-190-2026-f89a30089b",
-        "bussola-completa-23e02a4289"
+        "bussola-completa-23e02a4289",
+        "bussola-completa-cfb68428f4",
+        "decreto-1b852a69d2"
       ]
     },
     {
@@ -572,16 +739,38 @@
       "altri_titoli": [
         "D.lgs. 22 gennaio 1948, n. 66",
         "art. 1-bis d.lgs. 66/1948",
-        "d.lgs. 66/1948"
+        "d.lgs. 66/1948",
+        "può costituire reato"
       ],
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "analisi-dl-190-2026-4c098198b8",
+        "bussola-completa-9e53241494",
         "bussola-completa-a06350cd7c",
         "bussola-completa-e90b453ca8",
         "diritti-62a3a66d64",
         "diritti-abc708952c"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196",
+      "titolo": "Codice privacy",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-0b215667be"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art136",
+      "titolo": "regole specifiche",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-0b215667be"
       ]
     },
     {
@@ -664,23 +853,51 @@
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
       "titolo": "L. 12 giugno 1990, n. 146",
       "altri_titoli": [
-        "L. 146/1990"
+        "L. 146/1990",
+        "servizi pubblici essenziali",
+        "settore"
       ],
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "bussola-completa-0ecfceb384",
+        "bussola-completa-1200ecf3e3",
+        "bussola-completa-2b6995f560",
+        "bussola-completa-40ac8ec6af",
+        "bussola-completa-6e707c1eae",
+        "bussola-completa-765459d838",
+        "bussola-completa-8163e906b1",
+        "bussola-completa-825704140b",
+        "bussola-completa-a25bd9780d",
+        "bussola-completa-bcc8eef9c1",
+        "bussola-completa-d65245d533",
+        "bussola-completa-e376e808f2",
+        "bussola-completa-e6c7b48792",
+        "bussola-completa-f1db47e3cc",
+        "bussola-completa-fbf967be34",
         "diritti-037f52515e",
         "diritti-5e9842ab6c",
         "diritti-623b8445c3",
         "diritti-62a3a66d64",
         "diritti-8b1cb6b776",
         "diritti-90f57c2311",
+        "diritti-9e4d1a164d",
         "diritti-e59e4e0f1c",
         "diritti-f84bffee24",
         "sciopero-7b689b8aeb",
+        "sciopero-d21c1dfa89",
         "sciopero-fbff9633f3",
         "sciopero-fd10932766"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146~art2",
+      "titolo": "preavviso di almeno 10 giorni",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "sciopero-fd352c8c4c"
       ]
     },
     {
@@ -711,7 +928,10 @@
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
+        "analisi-dl-190-2026-32e6cb2371",
+        "analisi-dl-190-2026-3f0f6e5167",
         "analisi-dl-190-2026-461e07ba1b",
+        "analisi-dl-190-2026-641e01b9a5",
         "analisi-dl-190-2026-6e6784e9de",
         "analisi-dl-190-2026-75e234c1dd",
         "analisi-dl-190-2026-a7f28386cd",
@@ -723,17 +943,23 @@
         "bussola-completa-07839e6c20",
         "bussola-completa-1d0b5bc4fb",
         "bussola-completa-31c9fddbe5",
+        "bussola-completa-343ad923da",
         "bussola-completa-530a414f4e",
+        "bussola-completa-5f0a042a86",
+        "bussola-completa-6d76ac282f",
         "bussola-completa-72615418a0",
         "bussola-completa-7833271bfe",
+        "bussola-completa-9b48beda88",
         "bussola-completa-a6a9ccdfec",
         "bussola-completa-d2a4cfa1b9",
+        "bussola-completa-d8ae8c2dbe",
         "corteo-0cdde9881a",
         "corteo-2e0579d8fd",
         "corteo-9066d07a17",
         "corteo-c4a446ea09",
         "decreto-0183f494cf",
         "decreto-3e3e73de5c",
+        "decreto-693cf7f6ed",
         "decreto-8108273dbd",
         "diritti-1a23b8a6bc",
         "diritti-290831fa3b",
@@ -748,6 +974,16 @@
         "esempio-67c03be378",
         "esempio-8108273dbd",
         "esempio-d53dbb1a51"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art337",
+      "titolo": "reati",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-ad7b0721a6"
       ]
     },
     {
@@ -784,6 +1020,7 @@
         "bussola-completa-10efb6614c",
         "bussola-completa-2ae7f10051",
         "bussola-completa-3162c760e3",
+        "bussola-completa-3c54c2176f",
         "bussola-completa-42c2677d4e",
         "bussola-completa-42fa3040e9",
         "bussola-completa-45a5588211",
@@ -806,6 +1043,7 @@
         "diritti-7f04d3a1af",
         "diritti-80e1f5dd0e",
         "diritti-830561f579",
+        "diritti-8ffa5cd44f",
         "diritti-bdc5ec4599",
         "diritti-cbd378e67c",
         "diritti-e5c8edb71a",
@@ -820,6 +1058,31 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+      "titolo": "Prefetto",
+      "altri_titoli": [
+        "avvisare il questore almeno 3 giorni prima",
+        "chi si ritira non è punibile",
+        "la sanzione per mancato preavviso",
+        "preavviso dei promotori",
+        "prescrivere modalità di tempo e di luogo",
+        "promotori",
+        "testo vigente su Normattiva"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bussola-completa-123c65a7c1",
+        "bussola-completa-713a294ee5",
+        "bussola-completa-af1a412316",
+        "bussola-completa-c2cc16d6d7",
+        "bussola-completa-e0ff6b5ab7",
+        "corteo-6fc0ade84a",
+        "esempio-b8eea2c7e2",
+        "presidio-abc0d7d83d"
+      ]
+    },
+    {
       "url": "https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html",
       "titolo": "Rainews",
       "altri_titoli": [
@@ -828,7 +1091,9 @@
       "ufficiale": false,
       "dominio": "www.rainews.it",
       "affermazioni": [
+        "bussola-completa-0daae66e50",
         "bussola-completa-36eefef2d6",
+        "bussola-completa-afcc1aa99a",
         "decreto-c78b18d332"
       ]
     },

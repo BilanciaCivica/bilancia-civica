@@ -3,7 +3,7 @@
   "sito": "https://bilanciacivica.github.io/bilancia-civica/",
   "repository": "https://github.com/BilanciaCivica/bilancia-civica",
   "documentazione": "https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
-  "versione_schema": "1.0.0",
+  "versione_schema": "1.0.1",
   "generato_il": "2026-10-24T10:42:00+02:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
@@ -49,9 +49,9 @@
       "bussola-completa.html": 119,
       "analisi-dl-190-2026.html": 29
     },
-    "fonti": 50,
-    "fonti_ufficiali": 43,
-    "affermazioni_senza_fonte_collegata": 90
+    "fonti": 61,
+    "fonti_ufficiali": 54,
+    "affermazioni_senza_fonte_collegata": 16
   },
   "controllo_estrazione": {
     "index.html": {

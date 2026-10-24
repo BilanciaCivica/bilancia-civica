@@ -1,5 +1,5 @@
 {
-  "versione_schema": "1.0.0",
+  "versione_schema": "1.0.1",
   "generato_il": "2026-10-24T10:42:00+02:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
@@ -90,8 +90,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "personale",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -109,8 +116,21 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "servizi pubblici essenziali",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "decreto sicurezza",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -908,7 +928,7 @@
         },
         {
           "citazione": "art. 18",
-          "atto": null,
+          "atto": "TULPS",
           "articolo": "18"
         }
       ],
@@ -922,6 +942,12 @@
         {
           "titolo": "Corte costituzionale, sentenza n. 90/1970",
           "url": "https://www.cortecostituzionale.it/scheda-pronuncia/1970/90",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "Testo unico delle leggi di pubblica sicurezza (R.D. 773/1931)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -987,8 +1013,15 @@
         "sezione": "Cosa è cambiato nel 2026 (già in vigore)"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Immediata notizia al PM",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59~art11bis",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -1579,14 +1612,14 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 1",
+          "atto": "d.lgs. 66/1948",
+          "articolo": "1"
+        },
+        {
           "citazione": "art. 1-bis d.lgs. 66/1948",
           "atto": "d.lgs. 66/1948",
           "articolo": "1-bis"
-        },
-        {
-          "citazione": "art. 1",
-          "atto": null,
-          "articolo": "1"
         }
       ],
       "fonti": [
@@ -1893,8 +1926,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "avvisare il questore almeno 3 giorni prima",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -1912,8 +1952,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "decreto sicurezza",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -1963,8 +2010,15 @@
         "sezione": "Cosa è consentito"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nessun preavviso",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -1982,8 +2036,15 @@
         "sezione": "Cosa è consentito"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "non è un'autorizzazione",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -2234,8 +2295,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "pacificamente e senz'armi",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -2253,8 +2321,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "condotta personale",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -2272,8 +2347,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "decreto sicurezza",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -2291,8 +2373,15 @@
         "sezione": "Cosa è consentito"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "pacificamente e senz'armi",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -2310,8 +2399,15 @@
         "sezione": "Cosa è consentito"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "chi si ritira non è punibile",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -2865,7 +2961,7 @@
         },
         {
           "citazione": "art. 1",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "1"
         }
       ],
@@ -2902,14 +2998,14 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 6",
+          "atto": "D.L. 190/2026",
+          "articolo": "6"
+        },
+        {
           "citazione": "art. 3 d.lgs. 159/2011",
           "atto": "d.lgs. 159/2011",
           "articolo": "3"
-        },
-        {
-          "citazione": "art. 6",
-          "atto": null,
-          "articolo": "6"
         }
       ],
       "fonti": [
@@ -2997,14 +3093,14 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 3",
+          "atto": "D.L. 190/2026",
+          "articolo": "3"
+        },
+        {
           "citazione": "art. 19, c. 2, DPR 448/1988",
           "atto": "DPR 448/1988",
           "articolo": "19"
-        },
-        {
-          "citazione": "art. 3",
-          "atto": null,
-          "articolo": "3"
         }
       ],
       "fonti": [
@@ -3065,8 +3161,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "settore",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3084,8 +3187,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "preavviso di almeno 10 giorni",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3210,8 +3320,15 @@
         "sezione": "Lavoratori autonomi: il fermo dell'autotrasporto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "cgsse.it",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3229,8 +3346,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "decreto sicurezza",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3250,12 +3374,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 420-bis",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420-bis"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nuovo reato",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3273,8 +3410,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "fermo preventivo",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3299,7 +3443,7 @@
         },
         {
           "citazione": "art. 10",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "10"
         }
       ],
@@ -3307,6 +3451,12 @@
         {
           "titolo": "Costituzione della Repubblica italiana",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -3456,13 +3606,8 @@
           "articolo": "420"
         },
         {
-          "citazione": "art. 419",
-          "atto": null,
-          "articolo": "419"
-        },
-        {
           "citazione": "art. 635.1",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "635.1"
         }
       ],
@@ -3587,7 +3732,7 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 7",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "7"
         }
       ],
@@ -3670,14 +3815,14 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 8",
+          "atto": "D.L. 190/2026",
+          "articolo": "8"
+        },
+        {
           "citazione": "art. 7-bis, c. 3, D.L. 92/2008",
           "atto": "D.L. 92/2008",
           "articolo": "7-bis"
-        },
-        {
-          "citazione": "art. 8",
-          "atto": null,
-          "articolo": "8"
         }
       ],
       "fonti": [
@@ -3686,6 +3831,12 @@
           "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 23 maggio 2008, n. 92",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
@@ -3706,8 +3857,15 @@
         "sezione": "Differenze rispetto a comunicato e bozza"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3715,7 +3873,7 @@
       "testo": "Durata del fermo: 12 ore, per rinvio al comma 1 dell'art. 11-bis D.L. 59/1978. La cifra di 24 ore apparsa sulla stampa non trova riscontro nel testo.",
       "etichetta": "FATTO",
       "certezza": "Alta",
-      "nota_etichetta": null,
+      "nota_etichetta": "testo in GU",
       "etichetta_ereditata": true,
       "contesto": "[FATTO · Alta]",
       "tema": "decreto-sicurezza",
@@ -3733,6 +3891,12 @@
       ],
       "fonti": [
         {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "D.L. 21 marzo 1978, n. 59",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59",
           "ufficiale": true,
@@ -3747,7 +3911,7 @@
       "testo": "I militari agiscono con le funzioni di agenti di pubblica sicurezza; il testo non attribuisce loro funzioni di polizia giudiziaria (art. 7-bis, c. 3, D.L. 92/2008, richiamato dall'art. 8).",
       "etichetta": "FATTO",
       "certezza": "Alta",
-      "nota_etichetta": null,
+      "nota_etichetta": "testo in GU",
       "etichetta_ereditata": true,
       "contesto": "[FATTO · Alta]",
       "tema": "decreto-sicurezza",
@@ -3758,18 +3922,31 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 8",
+          "atto": "D.L. 190/2026",
+          "articolo": "8"
+        },
+        {
           "citazione": "art. 7-bis, c. 3, D.L. 92/2008",
           "atto": "D.L. 92/2008",
           "articolo": "7-bis"
-        },
-        {
-          "citazione": "art. 8",
-          "atto": null,
-          "articolo": "8"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 23 maggio 2008, n. 92",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3820,20 +3997,26 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 3",
+          "atto": "D.L. 190/2026",
+          "articolo": "3"
+        },
+        {
           "citazione": "art. 19, c. 2, DPR 448/1988",
           "atto": "DPR 448/1988",
           "articolo": "19"
-        },
-        {
-          "citazione": "art. 3",
-          "atto": null,
-          "articolo": "3"
         }
       ],
       "fonti": [
         {
           "titolo": "DPR 22 settembre 1988, n. 448 (processo penale minorile)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -3856,8 +4039,21 @@
         "sezione": "Punto aperto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -3950,8 +4146,15 @@
         "sezione": "Cosa resta fermo"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "420-bis",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4078,8 +4281,27 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "riunirsi pacificamente e senz'armi",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "preavviso dei promotori",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "responsabilità penale personale",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4097,8 +4319,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "fermo preventivo",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4354,6 +4583,12 @@
       ],
       "fonti": [
         {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "Codice penale (R.D. 1398/1930)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
           "ufficiale": true,
@@ -4378,8 +4613,15 @@
         "sezione": "3. Cosa cambia"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4409,6 +4651,12 @@
         }
       ],
       "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
         {
           "titolo": "Codice penale (R.D. 1398/1930)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
@@ -4441,6 +4689,12 @@
         }
       ],
       "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
         {
           "titolo": "Codice di procedura penale (DPR 447/1988)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447",
@@ -4479,14 +4733,14 @@
       ],
       "fonti": [
         {
-          "titolo": "Codice penale (R.D. 1398/1930)",
-          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
-          "origine": "riferimento normativo citato"
+          "origine": "collegamento nel testo"
         },
         {
-          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
-          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -4509,8 +4763,15 @@
         "sezione": "3. Cosa cambia"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4749,8 +5010,15 @@
         "sezione": null
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Consiglio dei ministri",
+          "url": "https://www.governo.it/it/archivio-consiglio-dei-ministri",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4774,6 +5042,18 @@
           "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
         }
       ],
       "senza_fonte_collegata": false,
@@ -4794,8 +5074,27 @@
         "sezione": "Decreto sicurezza — D.L. 22 ottobre 2026, n. 190"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "governo.it",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4817,6 +5116,18 @@
         {
           "titolo": "GU Serie Generale n. 246 del 22 ottobre 2026",
           "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "governo.it",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
           "ufficiale": true,
           "origine": "collegamento nel testo"
         }
@@ -4841,12 +5152,31 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 10",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "10"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "governo.it",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -4868,6 +5198,18 @@
         {
           "titolo": "scheda della Camera",
           "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "governo.it",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
           "ufficiale": true,
           "origine": "collegamento nel testo"
         }
@@ -4898,6 +5240,24 @@
       ],
       "fonti": [
         {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "governo.it",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "Costituzione della Repubblica italiana",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
           "ufficiale": true,
@@ -4925,11 +5285,6 @@
         {
           "citazione": "art. 3 D.L. 18 marzo 2026, n. 33",
           "atto": "D.L. 33/2026",
-          "articolo": "3"
-        },
-        {
-          "citazione": "art. 3",
-          "atto": null,
           "articolo": "3"
         }
       ],
@@ -4977,13 +5332,8 @@
           "articolo": "1"
         },
         {
-          "citazione": "D.L. 193/2026",
-          "atto": "D.L. 193/2026",
-          "articolo": null
-        },
-        {
           "citazione": "art. 1",
-          "atto": null,
+          "atto": "D.L. 193/2026",
           "articolo": "1"
         }
       ],
@@ -5019,8 +5369,15 @@
         "sezione": "Aiuti all'autotrasporto — credito d'imposta gasolio 2026"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Riparametrazione in corso",
+          "url": "https://www.mit.gov.it/documentazione/piattaforma-credito-dimposta-favore-imprese-di-autotrasporto-ristoro-maggiore-spesa",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -5318,12 +5675,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 21",
-          "atto": null,
+          "atto": "Costituzione",
           "articolo": "21"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -5343,12 +5707,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 27",
-          "atto": null,
+          "atto": "Costituzione",
           "articolo": "27"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -5410,13 +5781,8 @@
       },
       "riferimenti_normativi": [
         {
-          "citazione": "R.D. 773/1931",
-          "atto": "TULPS",
-          "articolo": null
-        },
-        {
           "citazione": "art. 18",
-          "atto": null,
+          "atto": "TULPS",
           "articolo": "18"
         }
       ],
@@ -5658,8 +6024,15 @@
         "sezione": "1.3 Il preavviso al questore (art. 18 TULPS)"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "prescrivere modalità di tempo e di luogo",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6136,8 +6509,15 @@
         "sezione": "1.4 Sanzioni per il mancato preavviso: cosa è cambiato nel 2026"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Prefetto",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6155,8 +6535,15 @@
         "sezione": "1.4 Sanzioni per il mancato preavviso: cosa è cambiato nel 2026"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "promotori",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6218,7 +6605,7 @@
         },
         {
           "citazione": "art. 18",
-          "atto": null,
+          "atto": "TULPS",
           "articolo": "18"
         }
       ],
@@ -6234,6 +6621,12 @@
           "url": "https://www.cortecostituzionale.it/scheda-pronuncia/1979/11",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Testo unico delle leggi di pubblica sicurezza (R.D. 773/1931)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
@@ -6254,8 +6647,15 @@
         "sezione": "1.4 Sanzioni per il mancato preavviso: cosa è cambiato nel 2026"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo vigente su Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6306,13 +6706,8 @@
       },
       "riferimenti_normativi": [
         {
-          "citazione": "TULPS",
-          "atto": "TULPS",
-          "articolo": null
-        },
-        {
           "citazione": "artt. 22",
-          "atto": null,
+          "atto": "TULPS",
           "articolo": "22"
         }
       ],
@@ -6348,13 +6743,8 @@
           "articolo": null
         },
         {
-          "citazione": "TULPS",
-          "atto": "TULPS",
-          "articolo": null
-        },
-        {
           "citazione": "art. 24",
-          "atto": null,
+          "atto": "TULPS",
           "articolo": "24"
         }
       ],
@@ -6751,8 +7141,15 @@
         "sezione": "2.1 Il principio"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "diritto",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art40",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6877,19 +7274,14 @@
       },
       "riferimenti_normativi": [
         {
-          "citazione": "L. 146/1990",
+          "citazione": "art. 1",
           "atto": "L. 146/1990",
-          "articolo": null
+          "articolo": "1"
         },
         {
           "citazione": "L. 83/2000",
           "atto": "L. 83/2000",
           "articolo": null
-        },
-        {
-          "citazione": "art. 1",
-          "atto": null,
-          "articolo": "1"
         }
       ],
       "fonti": [
@@ -6926,12 +7318,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "artt. 12",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "12"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "cgsse.it",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6951,12 +7356,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "artt. 12",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "12"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "cgsse.it",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -6976,12 +7394,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "artt. 12",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "12"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "cgsse.it",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7001,12 +7432,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 4",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "4"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7026,12 +7464,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 4",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "4"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7051,12 +7496,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 4",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "4"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7076,12 +7528,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 4",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "4"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7101,12 +7560,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7126,12 +7592,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7151,12 +7624,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7176,12 +7656,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7201,12 +7688,19 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7226,17 +7720,24 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         },
         {
           "citazione": "art. 9",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "9"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7256,17 +7757,24 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "8"
         },
         {
           "citazione": "art. 10",
-          "atto": null,
+          "atto": "L. 146/1990",
           "articolo": "10"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7536,8 +8044,15 @@
         "sezione": "3. Sciopero, fermo, serrata: le differenze"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "sito della Commissione",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7581,8 +8096,15 @@
         "sezione": "3. Sciopero, fermo, serrata: le differenze"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "cgsse.it",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7600,8 +8122,15 @@
         "sezione": "3. Sciopero, fermo, serrata: le differenze"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "può costituire reato",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -7936,7 +8465,7 @@
         },
         {
           "citazione": "art. 10",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "10"
         }
       ],
@@ -7944,6 +8473,12 @@
         {
           "titolo": "Costituzione della Repubblica italiana",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -8024,8 +8559,15 @@
         "sezione": "5.1 Stato: pubblicato in Gazzetta Ufficiale, in vigore dal 23 ottobre 2026"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8055,7 +8597,7 @@
         },
         {
           "citazione": "art. 1",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "1"
         }
       ],
@@ -8063,6 +8605,12 @@
         {
           "titolo": "Codice penale (R.D. 1398/1930)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -8091,24 +8639,24 @@
           "articolo": "275"
         },
         {
-          "citazione": "art. 19 DPR 448/1988",
-          "atto": "DPR 448/1988",
-          "articolo": "19"
-        },
-        {
-          "citazione": "art. 3",
-          "atto": null,
-          "articolo": "3"
-        },
-        {
           "citazione": "artt. 420-bis e 635.1",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420-bis"
         },
         {
           "citazione": "artt. 420-bis e 635.1",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "635.1"
+        },
+        {
+          "citazione": "art. 3",
+          "atto": "D.L. 190/2026",
+          "articolo": "3"
+        },
+        {
+          "citazione": "art. 19 DPR 448/1988",
+          "atto": "DPR 448/1988",
+          "articolo": "19"
         }
       ],
       "fonti": [
@@ -8121,6 +8669,18 @@
         {
           "titolo": "DPR 22 settembre 1988, n. 448 (processo penale minorile)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -8143,8 +8703,15 @@
         "sezione": "5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8162,8 +8729,15 @@
         "sezione": "5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8202,12 +8776,12 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 4",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "4"
         },
         {
           "citazione": "art. 11-bis",
-          "atto": null,
+          "atto": "D.L. 59/1978",
           "articolo": "11-bis"
         }
       ],
@@ -8217,6 +8791,18 @@
           "url": "https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418",
           "ufficiale": false,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 21 marzo 1978, n. 59",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
@@ -8238,25 +8824,31 @@
       },
       "riferimenti_normativi": [
         {
-          "citazione": "art. 19, c. 2, DPR 448/1988",
-          "atto": "DPR 448/1988",
-          "articolo": "19"
-        },
-        {
           "citazione": "art. 3",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "3"
         },
         {
           "citazione": "art. 7",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "7"
+        },
+        {
+          "citazione": "art. 19, c. 2, DPR 448/1988",
+          "atto": "DPR 448/1988",
+          "articolo": "19"
         }
       ],
       "fonti": [
         {
           "titolo": "DPR 22 settembre 1988, n. 448 (processo penale minorile)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -8279,8 +8871,21 @@
         "sezione": "5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8298,8 +8903,15 @@
         "sezione": "5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8317,8 +8929,21 @@
         "sezione": "5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "testo in GU",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L'Espresso",
+          "url": "https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418",
+          "ufficiale": false,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8370,12 +8995,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 420-bis",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420-bis"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nuovo art. 420-bis",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8395,12 +9033,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 420-bis",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420-bis"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nuovo art. 420-bis",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8420,12 +9071,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 420-bis",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420-bis"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nuovo art. 420-bis",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8445,12 +9109,25 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 420-bis",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420-bis"
         }
       ],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nuovo art. 420-bis",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8468,8 +9145,15 @@
         "sezione": "5.4 Cosa cambia per chi partecipa pacificamente"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "fermo preventivo",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8487,8 +9171,15 @@
         "sezione": "5.4 Cosa cambia per chi partecipa pacificamente"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "divieto di radunarsi",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8577,8 +9268,15 @@
         "sezione": "5.4 Cosa cambia per chi partecipa pacificamente"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Rainews",
+          "url": "https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html",
+          "ufficiale": false,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8622,8 +9320,15 @@
         "sezione": "5.4 Cosa cambia per chi partecipa pacificamente"
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "Rainews",
+          "url": "https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html",
+          "ufficiale": false,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8660,8 +9365,15 @@
         "sezione": "6.1 \"Si può organizzare un presidio?\""
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "la sanzione per mancato preavviso",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8679,8 +9391,15 @@
         "sezione": "6.2 \"Cosa si rischia partecipando a un corteo?\""
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "nuovo comma",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8717,8 +9436,15 @@
         "sezione": "6.3 \"Quando uno sciopero è legittimo?\""
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "prospetto MIT",
+          "url": "https://scioperi.mit.gov.it/mit2/public/scioperi",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8742,6 +9468,12 @@
           "url": "https://www.ansa.it/sito/notizie/politica/2026/10/17/landini-in-piazza-a-roma-sciopero-generale-il-20-novembre_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
           "ufficiale": false,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "prospetto MIT",
+          "url": "https://scioperi.mit.gov.it/mit2/public/scioperi",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
         }
       ],
       "senza_fonte_collegata": false,
@@ -8762,8 +9494,21 @@
         "sezione": "6.3 \"Quando uno sciopero è legittimo?\""
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "cgsse.it",
+          "url": "https://www.cgsse.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "prospetto MIT",
+          "url": "https://scioperi.mit.gov.it/mit2/public/scioperi",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8781,8 +9526,27 @@
         "sezione": "6.4 \"Si può filmare la polizia durante una manifestazione?\""
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "GDPR",
+          "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice privacy",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "regole specifiche",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art136",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -8800,8 +9564,15 @@
         "sezione": "6.4 \"Si può filmare la polizia durante una manifestazione?\""
       },
       "riferimenti_normativi": [],
-      "fonti": [],
-      "senza_fonte_collegata": true,
+      "fonti": [
+        {
+          "titolo": "reati",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art337",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
       "data_aggiornamento": "2026-10-24T10:42:00+02:00"
     },
     {
@@ -9132,12 +9903,12 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 419",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "419"
         },
         {
           "citazione": "art. 420",
-          "atto": null,
+          "atto": "Codice penale",
           "articolo": "420"
         }
       ],
@@ -9147,6 +9918,12 @@
           "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
@@ -9168,14 +9945,14 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 635",
+          "atto": "Codice penale",
+          "articolo": "635"
+        },
+        {
           "citazione": "art. 635.1 c.p.",
           "atto": "Codice penale",
           "articolo": "635.1"
-        },
-        {
-          "citazione": "art. 635",
-          "atto": null,
-          "articolo": "635"
         }
       ],
       "fonti": [
@@ -9389,24 +10166,24 @@
           "articolo": "275"
         },
         {
+          "citazione": "artt. 420-bis e 635.1",
+          "atto": "Codice penale",
+          "articolo": "420-bis"
+        },
+        {
+          "citazione": "artt. 420-bis e 635.1",
+          "atto": "Codice penale",
+          "articolo": "635.1"
+        },
+        {
           "citazione": "art. 19, c. 2, DPR 448/1988",
           "atto": "DPR 448/1988",
           "articolo": "19"
         },
         {
           "citazione": "art. 23",
-          "atto": null,
+          "atto": "DPR 448/1988",
           "articolo": "23"
-        },
-        {
-          "citazione": "artt. 420-bis e 635.1",
-          "atto": null,
-          "articolo": "420-bis"
-        },
-        {
-          "citazione": "artt. 420-bis e 635.1",
-          "atto": null,
-          "articolo": "635.1"
         }
       ],
       "fonti": [
@@ -9425,6 +10202,12 @@
         {
           "titolo": "DPR 22 settembre 1988, n. 448 (processo penale minorile)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -9616,14 +10399,14 @@
       },
       "riferimenti_normativi": [
         {
+          "citazione": "art. 420-bis",
+          "atto": "Codice penale",
+          "articolo": "420-bis"
+        },
+        {
           "citazione": "art. 11-bis D.L. 59/1978",
           "atto": "D.L. 59/1978",
           "articolo": "11-bis"
-        },
-        {
-          "citazione": "art. 420-bis",
-          "atto": null,
-          "articolo": "420-bis"
         }
       ],
       "fonti": [
@@ -9636,6 +10419,12 @@
         {
           "titolo": "D.L. 21 marzo 1978, n. 59",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
@@ -9675,6 +10464,12 @@
           "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 23 maggio 2008, n. 92",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
@@ -9697,7 +10492,7 @@
       "riferimenti_normativi": [
         {
           "citazione": "art. 8",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "8"
         }
       ],
@@ -9747,25 +10542,31 @@
       },
       "riferimenti_normativi": [
         {
-          "citazione": "art. 19, c. 2, DPR 448/1988",
-          "atto": "DPR 448/1988",
-          "articolo": "19"
-        },
-        {
           "citazione": "art. 3",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "3"
         },
         {
           "citazione": "art. 7",
-          "atto": null,
+          "atto": "D.L. 190/2026",
           "articolo": "7"
+        },
+        {
+          "citazione": "art. 19, c. 2, DPR 448/1988",
+          "atto": "DPR 448/1988",
+          "articolo": "19"
         }
       ],
       "fonti": [
         {
           "titolo": "DPR 22 settembre 1988, n. 448 (processo penale minorile)",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;448",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 22 ottobre 2026, n. 190 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
           "ufficiale": true,
           "origine": "riferimento normativo citato"
         }
