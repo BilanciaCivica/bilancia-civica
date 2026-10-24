@@ -8,8 +8,8 @@ descrizione: Presidi: serve un permesso? Preavviso al questore, passaggi previst
 **In breve**
 
 - Riunirsi pacificamente e senz'armi, anche in un presidio, è un diritto costituzionale (art. 17 Cost.). [FATTO · Alta]
-- In piazza o in strada i promotori devono **avvisare il questore almeno 3 giorni prima**: è una comunicazione, **non una richiesta di permesso**. [FATTO · Alta]
-- Il decreto sicurezza del 23 ottobre 2026 **non cambia** queste regole. [FATTO · Alta]
+- In piazza o in strada i promotori devono [**avvisare il questore almeno 3 giorni prima**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18): è una comunicazione, **non una richiesta di permesso**. [FATTO · Alta]
+- Il [decreto sicurezza](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) del 23 ottobre 2026 **non cambia** queste regole. [FATTO · Alta]
 :::
 
 ## Cosa è consentito
@@ -17,8 +17,8 @@ descrizione: Presidi: serve un permesso? Preavviso al questore, passaggi previst
 [FATTO · Alta]
 
 - In **luogo pubblico** (piazza, strada, parco): preavviso dei promotori al **questore** almeno **3 giorni prima** (art. 18 TULPS).
-- In sala o luogo aperto al pubblico: nessun preavviso.
-- Il preavviso **non è un'autorizzazione**.
+- In sala o luogo aperto al pubblico: [nessun preavviso](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17).
+- Il preavviso [**non è un'autorizzazione**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17).
 
 ### Passaggi previsti
 

@@ -7,17 +7,17 @@ descrizione: Cortei: cosa è consentito, cosa è punibile e cosa cambia con il d
 ::: inbreve
 **In breve**
 
-- Chi partecipa **pacificamente e senz'armi** non commette illeciti, anche se il corteo è molto critico. [FATTO · Alta]
-- La sola presenza dove altri commettono violenze **non è reato**: conta la condotta personale. [FATTO · Alta]
-- Dal **23 ottobre 2026** il decreto sicurezza aggiunge un nuovo reato per le violenze di gruppo, che chi manifesta pacificamente non commette, e allarga il fermo preventivo, che invece può riguardare anche chi non commette reati, se ci sono i presupposti di legge. [FATTO · Alta]
+- Chi partecipa [**pacificamente e senz'armi**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17) non commette illeciti, anche se il corteo è molto critico. [FATTO · Alta]
+- La sola presenza dove altri commettono violenze **non è reato**: conta la [condotta personale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27). [FATTO · Alta]
+- Dal **23 ottobre 2026** il [decreto sicurezza](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) aggiunge un nuovo reato per le violenze di gruppo, che chi manifesta pacificamente non commette, e allarga il fermo preventivo, che invece può riguardare anche chi non commette reati, se ci sono i presupposti di legge. [FATTO · Alta]
 :::
 
 ## Cosa è consentito
 
 [FATTO · Alta]
 
-- Partecipare **pacificamente e senz'armi**, anche a un corteo molto critico.
-- Allontanarsi se arriva l'**ordine di scioglimento**: chi si ritira non è punibile.
+- Partecipare [**pacificamente e senz'armi**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17), anche a un corteo molto critico.
+- Allontanarsi se arriva l'**ordine di scioglimento**: [chi si ritira non è punibile](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18).
 
 ::: nota
 **Nota redazionale di Bilancia Civica** (indicazioni pratiche, non consulenza): è utile avere con sé un documento d'identità e allontanarsi da chi commette violenze. In caso di fermo, la resistenza con violenza o minaccia è reato (art. 337 c.p.); si può chiedere il motivo e di avvisare un familiare e un **avvocato**; è meglio non firmare ciò che non si è letto o capito e annotare ora e luogo.
@@ -50,6 +50,7 @@ descrizione: Cortei: cosa è consentito, cosa è punibile e cosa cambia con il d
 - **Età per il fermo preventivo**: il nuovo comma non fissa un'età minima. [FATTO · Alta] La soglia dei 16 anni introdotta dal decreto riguarda le misure cautelari per i minorenni (art. 19 DPR 448/1988).
 
 ::: dettagli Testo preciso delle novità e cosa manca
+<!-- dati: atti 1, 3, 6 = D.L. 190/2026 -->
 [FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
 - Nuovo reato di violenza organizzata (gruppo ≥ 5, uso illegittimo o lancio di oggetti atti a offendere o lancio di razzi, petardi o gas urticanti, pericolo concreto per le persone **e** danni alle cose): 2–5 anni e 10.000–20.000 €, pena aumentata per chi agisce travisato; 4–12 anni per chi organizza, promuove, incita o istiga, anche online.

@@ -27,6 +27,7 @@
 
 ### 2.1 Le misure, articolo per articolo (testo in GU)
 
+<!-- dati: atti 419, 420, 420-bis, 635, 635.1 = Codice penale; 23 = DPR 448/1988; 8 = D.L. 190/2026 -->
 <!-- dati: intestazione -->
 Tutte le righe sono **FATTO, certezza Alta**, fonte: [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG). Le differenze rispetto a comunicato e bozza sono in §2.2.
 
@@ -51,6 +52,7 @@ Tutte le righe sono **FATTO, certezza Alta**, fonte: [testo in GU](https://www.g
 
 ### 2.2 Discrepanze tra fonti (chiuse o aperte dopo la GU)
 
+<!-- dati: atti 3, 7 = D.L. 190/2026 -->
 | Punto | Comunicato / bozza / stampa | Testo in GU | Stato |
 |---|---|---|---|
 | Requisito di danno nel 420-bis | Comunicato CdM e bozza: basta il "concreto pericolo per l'incolumità delle persone" | Servono **sia** il concreto pericolo per le persone **sia** "danni alle cose" | **Chiuso** dalla GU: requisito cumulativo |

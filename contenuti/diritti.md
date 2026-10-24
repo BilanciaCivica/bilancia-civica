@@ -11,8 +11,8 @@ Riunione, manifestazione e sciopero: cosa dice la legge, cosa è protetto, cosa 
 **In breve**
 
 - Riunirsi **pacificamente e senz'armi** è un diritto (art. 17 Cost.). In piazza o in strada serve un **preavviso** al questore, che è una comunicazione e non una richiesta di autorizzazione. [FATTO · Alta]
-- La responsabilità penale è **personale**: la sola presenza in un corteo dove altri commettono reati non è reato. [FATTO · Alta]
-- Lo **sciopero** ha regole in più nei servizi pubblici essenziali. Il decreto sicurezza in vigore dal 23 ottobre 2026 riguarda soprattutto le violenze nelle manifestazioni, il fermo preventivo e i minorenni. [FATTO · Alta]
+- La responsabilità penale è [**personale**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27): la sola presenza in un corteo dove altri commettono reati non è reato. [FATTO · Alta]
+- Lo **sciopero** ha regole in più nei [servizi pubblici essenziali](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146). Il [decreto sicurezza](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) in vigore dal 23 ottobre 2026 riguarda soprattutto le violenze nelle manifestazioni, il fermo preventivo e i minorenni. [FATTO · Alta]
 :::
 
 ::: stato
@@ -62,12 +62,13 @@ Il [D.L. 23/2026](https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG
 
 Le irroga il prefetto; non è ammesso il pagamento in misura ridotta. I **semplici partecipanti** non rientrano nella sanzione per mancato preavviso, che riguarda i promotori; non è punibile chi si ritira prima o su ordine dell'autorità. Chi **prende la parola** in una riunione vietata o tenuta violando le prescrizioni rischia la stessa sanzione (art. 18, c. 5, TULPS) [FATTO · Alta].
 
+<!-- dati: atti 18 = TULPS -->
 Il testo vigente dal 25 aprile 2026 sanziona anche chi prende la parola in una riunione **non preavvisata** (art. 18, c. 3). Le sentenze della Corte costituzionale 90/1970 e 11/1979, annotate su Normattiva, avevano dichiarato illegittima la vecchia norma penale per chi prendeva la parola. [DA VERIFICARE] Non è chiaro se quelle sentenze valgano anche per la nuova sanzione amministrativa. Manca: giurisprudenza o circolari sul testo del 2026.
 
 **«Fermo preventivo» già in vigore dal 25/02/2026** [FATTO · Alta]
 
 - Art. 11-bis [D.L. 59/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59), introdotto dal D.L. 23/2026: durante i servizi d'ordine pubblico per manifestazioni, con pericolo attuale, accompagnamento e trattenimento negli uffici **fino a 12 ore** di chi, sulla base di **elementi di fatto** (oggetti posseduti, precedenti per violenze in manifestazioni negli ultimi 5 anni), si ritiene ponga in essere condotte di concreto pericolo.
-- **Immediata notizia al PM**, che ordina il rilascio se mancano i presupposti; per i minori, avviso al procuratore minorile e ai genitori.
+- [**Immediata notizia al PM**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59~art11bis), che ordina il rilascio se mancano i presupposti; per i minori, avviso al procuratore minorile e ai genitori.
 
 **Identificazione** [FATTO · Alta]: obbligo di dare le proprie generalità a un pubblico ufficiale (art. 651 c.p.). Chi rifiuta di dichiararle, o dà generalità o documenti che si ha motivo di ritenere falsi, può essere accompagnato negli uffici di polizia e trattenuto per il tempo strettamente necessario all'identificazione, **non oltre 24 ore**, con notizia immediata al PM ([art. 11 D.L. 59/1978](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1978-03-21;59~art11)). Durante le indagini, per l'indagato e per chi può riferire sui fatti, il limite è di **12 ore**, o 24 con avviso al PM se l'identificazione è particolarmente complessa o serve un interprete o l'autorità consolare ([art. 349, c. 4, c.p.p.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.presidente.repubblica:1988-09-22;447~art349)).
 
@@ -109,6 +110,7 @@ Calendari: [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi) · 
 
 - Mancato preavviso (promotori), violazione di divieto/prescrizioni o itinerario, mancato scioglimento, turbativa.
 
+<!-- dati: atti 1 = d.lgs. 66/1948 -->
 **❌ Reato** — norme già vigenti [FATTO · Alta]
 
 - Violenza o minaccia a pubblico ufficiale, resistenza — artt. 336, 337 c.p.

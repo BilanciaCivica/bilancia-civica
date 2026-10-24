@@ -10,21 +10,25 @@ indice: si
 ::: inbreve
 **In breve**
 
-- È il **decreto sicurezza**: in vigore dal **23 ottobre 2026**. Il Parlamento ha tempo fino al **21 dicembre 2026** per convertirlo in legge, anche con modifiche. [FATTO · Alta]
-- Crea un **nuovo reato** per le violenze di gruppo nelle manifestazioni. Per chi partecipa servono insieme un gruppo organizzato di almeno 5 persone, l'uso illegittimo o il lancio di oggetti atti a offendere (o il lancio di razzi, petardi o gas urticanti), un pericolo concreto per le persone e danni alle cose. Chi organizza o promuove il gruppo, o incita o istiga a queste condotte, anche online, rischia da 4 a 12 anni anche senza usare violenza di persona (art. 420-bis, terzo comma). [FATTO · Alta]
-- Allarga il **fermo preventivo** (fino a 12 ore) e introduce regole nuove per i **minorenni dai 14 anni** e sanzioni per i **genitori**. Fermo e divieto di radunarsi possono riguardare anche chi non commette reati, con i presupposti di legge. [FATTO · Alta]
+<!-- dati: atti 420-bis = Codice penale -->
+
+- È il [**decreto sicurezza**](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG): in vigore dal **23 ottobre 2026**. Il Parlamento ha tempo fino al **21 dicembre 2026** per convertirlo in legge, anche con modifiche. [FATTO · Alta]
+- Crea un [**nuovo reato**](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) per le violenze di gruppo nelle manifestazioni. Per chi partecipa servono insieme un gruppo organizzato di almeno 5 persone, l'uso illegittimo o il lancio di oggetti atti a offendere (o il lancio di razzi, petardi o gas urticanti), un pericolo concreto per le persone e danni alle cose. Chi organizza o promuove il gruppo, o incita o istiga a queste condotte, anche online, rischia da 4 a 12 anni anche senza usare violenza di persona (art. 420-bis, terzo comma). [FATTO · Alta]
+- Allarga il [**fermo preventivo**](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) (fino a 12 ore) e introduce regole nuove per i **minorenni dai 14 anni** e sanzioni per i **genitori**. Fermo e divieto di radunarsi possono riguardare anche chi non commette reati, con i presupposti di legge. [FATTO · Alta]
 
 Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sciopero](sciopero.html)
 :::
 
 ## Stato
 
+<!-- dati: atti 10 = D.L. 190/2026 -->
 [FATTO · Alta] Approvato dal CdM il 20/10/2026; pubblicato nella **GU Serie Generale n. 246 del 22/10/2026**; **in vigore dal 23/10/2026** (art. 10). Conversione in legge entro il **21/12/2026** (60 giorni, art. 77 Cost.).
 
 [FATTO · Alta] Il disegno di legge di conversione è l'**AC 3159**, presentato alla Camera il 22/10/2026 e assegnato lo stesso giorno alla II Commissione (Giustizia) in sede referente ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)).
 
 ## Misure
 
+<!-- dati: atti 419, 635.1 = Codice penale; 7, 8 = D.L. 190/2026 -->
 [FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
 - **Art. 420-bis c.p. «Violenza organizzata nelle manifestazioni pubbliche»**: punisce chi, in manifestazione, partecipando a un gruppo di **almeno 5 persone** che opera in modo organizzato anche occasionalmente, usa illegittimamente bastoni, mazze o altri oggetti atti a offendere, oppure lancia questi oggetti o razzi, fuochi artificiali, petardi o gas urticanti, con **concreto pericolo** per le persone **e danni alle cose**. Pena: 2–5 anni e multa di 10.000–20.000 €, salvo che il fatto costituisca un reato più grave.
@@ -40,7 +44,8 @@ Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sc
 
 ## Differenze rispetto a comunicato e bozza
 
-[FATTO · Alta]
+<!-- dati: atti 8 = D.L. 190/2026 -->
+[FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
 - Il 420-bis richiede anche **danni alle cose**; bengala e fumogeni non sono nominati. [DA VERIFICARE] Non è chiaro se rientrino tra «razzi» o «fuochi artificiali»: servono giurisprudenza o dossier parlamentari.
 - **Durata del fermo: 12 ore**, per rinvio al comma 1 dell'art. 11-bis D.L. 59/1978. La cifra di 24 ore apparsa sulla stampa non trova riscontro nel testo.
@@ -48,15 +53,16 @@ Cosa vuol dire per te: [presidio](presidio.html) · [corteo](corteo.html) · [sc
 
 ## Punto aperto
 
+<!-- dati: atti 3 = D.L. 190/2026 -->
 **Fermo dei minori, da che età?** Il nuovo comma 3-ter dell'art. 11-bis D.L. 59/1978 non fissa un'età minima; per i minori di 18 anni valgono gli avvisi al procuratore presso il tribunale per i minorenni e ai genitori (c. 3-bis). [FATTO · Alta] La soglia dei 16 anni introdotta dal decreto (art. 3) riguarda le misure cautelari per i minorenni (art. 19, c. 2, DPR 448/1988). [FATTO · Alta] Il comunicato del Governo diceva «anche nei confronti dei minorenni»; l'ANSA (21/10) aveva scritto «solo se hanno compiuto 16 anni».
 
-[DA VERIFICARE] Non è chiaro se il fermo possa riguardare i minori di 14 anni. Manca: dossier parlamentari sull'AC 3159 e prime circolari. Verifica: camera.it e Normattiva.
+[DA VERIFICARE] Non è chiaro se il fermo possa riguardare i minori di 14 anni. Manca: dossier parlamentari sull'AC 3159 e prime circolari. Verifica: [camera.it](https://www.camera.it/leg19/126?leg=19&idDocumento=3159) e [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190).
 
 ## Cosa resta fermo
 
 - **Già vigente** [FATTO · Alta]: fermo preventivo per le manifestazioni dal 25/02/2026 (D.L. 23/2026, [L. 54/2026](https://www.gazzettaufficiale.it/eli/id/2026/04/24/26G00078/SG)); il D.L. 190 lo estende.
 - **Irretroattività** [FATTO · Alta]: le nuove norme penali non si applicano a fatti anteriori al 23/10/2026 (art. 25 Cost.).
-- **Chi manifesta pacificamente** [FATTO · Alta]: per chi partecipa, il 420-bis richiede insieme gruppo organizzato, uso illegittimo o lancio di oggetti atti a offendere (o lancio di razzi, petardi o gas urticanti), pericolo concreto per le persone e danni alle cose. Chi organizza, promuove, incita o istiga, anche online, è punito anche senza violenza personale (terzo comma). Fermo e divieto di radunarsi sono misure di controllo che possono riguardare anche chi non commette reati, con i presupposti di legge.
+- **Chi manifesta pacificamente** [FATTO · Alta]: per chi partecipa, il [420-bis](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) richiede insieme gruppo organizzato, uso illegittimo o lancio di oggetti atti a offendere (o lancio di razzi, petardi o gas urticanti), pericolo concreto per le persone e danni alle cose. Chi organizza, promuove, incita o istiga, anche online, è punito anche senza violenza personale (terzo comma). Fermo e divieto di radunarsi sono misure di controllo che possono riguardare anche chi non commette reati, con i presupposti di legge.
 
 ## Posizioni espresse
 

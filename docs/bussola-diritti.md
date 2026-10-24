@@ -49,6 +49,7 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 - per le riunioni, **anche in luogo aperto al pubblico**, **non è richiesto preavviso**;
 - per le riunioni **in luogo pubblico** deve essere dato **preavviso alle autorità**, che possono **vietarle soltanto per comprovati motivi di sicurezza o di incolumità pubblica**.
 
+<!-- dati: atti 21, 27 = Costituzione -->
 **[FATTO]** Altre norme costituzionali collegate:
 - **art. 21:** tutti hanno diritto di manifestare liberamente il proprio pensiero con la parola, lo scritto e ogni altro mezzo di diffusione;
 - **art. 27:** **la responsabilità penale è personale** (comma 1) e l'imputato non è considerato colpevole fino alla condanna definitiva (comma 2).
@@ -64,6 +65,7 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 **[FATTO]** La [sentenza della Corte costituzionale n. 27/1958](https://www.cortecostituzionale.it/scheda-pronuncia/1958/27) ha dichiarato illegittimo l'art. 18 TULPS nella parte in cui imponeva il preavviso anche per le riunioni in luogo aperto al pubblico. L'obbligo resta solo per quelle **in luogo pubblico**.
 
 ### 1.3 Il preavviso al questore (art. 18 TULPS)
+<!-- dati: atti 18 = TULPS -->
 **[FATTO]** L'art. 18 del [Testo unico delle leggi di pubblica sicurezza (R.D. 773/1931, "TULPS")](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) prevede che **i promotori** di una riunione in luogo pubblico ne diano avviso al **questore almeno tre giorni prima**.
 
 **Il preavviso è una comunicazione, non una richiesta di autorizzazione.**
@@ -74,7 +76,7 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 
 **Il questore può:**
 - **[FATTO]** **vietare** la riunione (art. 18 TULPS). Dopo l'entrata in vigore della Costituzione, il divieto è legittimo solo per **comprovati motivi di sicurezza o incolumità pubblica**. Il testo del TULPS menziona anche "moralità" e "sanità pubblica". **[DA VERIFICARE]** Che questi motivi vadano letti alla luce dell'art. 17 Cost., e quindi ridotti a sicurezza e incolumità pubblica, è una lettura diffusa di cui non abbiamo ancora una fonte citabile. Manca: un'opera di dottrina o una sentenza costituzionale specifica. Verifica: ricerca nelle pronunce della Corte costituzionale sull'art. 18 TULPS;
-- **[FATTO]** **prescrivere modalità di tempo e di luogo**, come orario, percorso o piazza alternativa.
+- **[FATTO]** [**prescrivere modalità di tempo e di luogo**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18), come orario, percorso o piazza alternativa.
 - **[FATTO]** Contro il divieto o le prescrizioni ci si può rivolgere al giudice amministrativo (TAR). **[DA VERIFICARE]** I tempi pratici di un ricorso urgente. Manca: dati sui tempi delle misure cautelari dei TAR. Verifica: non prevista in questa versione; per il caso concreto serve un avvocato.
 
 **[FATTO]** L'art. 18 TULPS non si applica alle **riunioni elettorali** (ultimo comma).
@@ -91,14 +93,16 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 | Chi **turba il pacifico svolgimento** di una riunione o il relativo servizio d'ordine (salvo che sia reato) | **da 500 a 3.000 €**, oppure **da 2.000 a 10.000 €** se lo fa con volto travisato o in possesso degli oggetti indicati dall'art. 5-bis L. 152/1975 |
 | Recidiva (reiterazione nel biennio, o tre violazioni in cinque anni) | aumento da un terzo alla metà |
 
-**[FATTO]** Le sanzioni sono irrogate dal **Prefetto** e non è ammesso il pagamento in misura ridotta.
+**[FATTO]** Le sanzioni sono irrogate dal [**Prefetto**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18) e non è ammesso il pagamento in misura ridotta.
 
-**[FATTO]** Chi si limita a **partecipare** a una riunione non preavvisata non rientra nella sanzione per mancato preavviso, che riguarda i **promotori**. Il discorso cambia per chi non rispetta un divieto o una prescrizione, o non si allontana dopo l'ordine di scioglimento (vedi §1.5).
+**[FATTO]** Chi si limita a **partecipare** a una riunione non preavvisata non rientra nella sanzione per mancato preavviso, che riguarda i [**promotori**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18). Il discorso cambia per chi non rispetta un divieto o una prescrizione, o non si allontana dopo l'ordine di scioglimento (vedi §1.5).
+<!-- dati: atti 18 = TULPS -->
 - **[FATTO]** Chi **prende la parola** in una riunione **vietata** o tenuta violando le prescrizioni rischia la stessa sanzione di chi viola il divieto (art. 18, c. 5, TULPS).
 - **[FATTO]** Le sentenze [90/1970](https://www.cortecostituzionale.it/scheda-pronuncia/1970/90) e [11/1979](https://www.cortecostituzionale.it/scheda-pronuncia/1979/11), annotate su Normattiva all'art. 18, hanno dichiarato illegittima la punizione di chi **prende la parola** in una riunione non preavvisata (c. 3), anche se sa che il preavviso manca.
-- **[DA VERIFICARE]** Il testo vigente su Normattiva conserva nel c. 3 la frase su chi prende la parola, ora con "la medesima sanzione" amministrativa, e riporta in nota le due sentenze. Non è chiaro come quelle pronunce, rese sulla norma penale, si applichino al nuovo illecito amministrativo. Manca: giurisprudenza o circolari sul testo del 2026.
+- **[DA VERIFICARE]** Il [testo vigente su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18) conserva nel c. 3 la frase su chi prende la parola, ora con "la medesima sanzione" amministrativa, e riporta in nota le due sentenze. Non è chiaro come quelle pronunce, rese sulla norma penale, si applichino al nuovo illecito amministrativo. Manca: giurisprudenza o circolari sul testo del 2026.
 
 ### 1.5 Scioglimento della riunione (artt. 20-24 TULPS)
+<!-- dati: atti 22, 24 = TULPS -->
 **[FATTO]** La procedura prevista dal TULPS è questa:
 - **art. 20:** riunioni e assembramenti in luogo pubblico o aperto al pubblico **possono essere sciolti** se vi avvengono manifestazioni o grida sediziose o lesive del prestigio dell'autorità, se possono mettere in pericolo l'ordine pubblico o la sicurezza dei cittadini, oppure se vi vengono **commessi delitti**;
 - **artt. 22-23:** prima viene rivolto un **invito a sciogliersi**. Se l'invito non ha effetto, segue l'**ordine formale**, preceduto da **intimazioni**. La legge prevede tre intimazioni, ciascuna preceduta da uno squillo di tromba o da un segnale equivalente. **[DA VERIFICARE]** Le modalità esatte vanno controllate nel testo vigente su Normattiva;
@@ -123,12 +127,13 @@ Regola di metodo: **i testi in Gazzetta Ufficiale sono la fonte che prevale.** B
 
 ### 2.1 Il principio
 **[FATTO]** Art. 40 Cost.: **"Il diritto di sciopero si esercita nell'ambito delle leggi che lo regolano."**
-- **[FATTO]** Lo sciopero è un diritto dei **lavoratori**: è l'astensione collettiva dal lavoro per tutelare un interesse comune.
+- **[FATTO]** Lo sciopero è un [diritto](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art40) dei **lavoratori**: è l'astensione collettiva dal lavoro per tutelare un interesse comune.
 - **[FATTO]** È nullo il licenziamento, o qualsiasi altro atto che rechi pregiudizio al lavoratore, a causa della sua partecipazione a uno sciopero ([art. 15 L. 300/1970](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-05-20;300~art15)).
 - **[DA VERIFICARE]** Le ore di sciopero non sono retribuite: è un principio costante della giurisprudenza, ma non è scritto in una norma di legge. Manca: una sentenza della Corte di cassazione da citare.
 - **[FATTO]** **Sciopero politico.** La stessa [sent. 290/1974](https://www.cortecostituzionale.it/scheda-pronuncia/1974/290) ha dichiarato illegittimo l'art. 503 c.p. nella parte in cui puniva lo sciopero politico, **salvo** quello diretto a sovvertire l'ordinamento costituzionale o a impedire od ostacolare il libero esercizio dei poteri legittimi nei quali si esprime la sovranità popolare (nota su Normattiva all'[art. 503 c.p.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art503)). Uno sciopero contro una manovra, il carovita o una legge, cioè per sollecitare i poteri pubblici, **non è penalmente punibile** in quanto tale.
 
 ### 2.2 Nei servizi pubblici essenziali: la L. 146/1990 (modificata dalla L. 83/2000)
+<!-- dati: atti 1 = L. 146/1990 -->
 **[FATTO]** La [L. 146/1990](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146), riformata dalla [L. 83/2000](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-04-11;83), bilancia lo sciopero con i diritti della persona (vita, salute, libertà e sicurezza, circolazione, assistenza e previdenza, istruzione, comunicazione). Si applica a servizi come **sanità, trasporti pubblici (ferroviari, aerei, urbani ed extraurbani, marittimi verso le isole), igiene e rifiuti, energia, giustizia, scuola, poste e telecomunicazioni, informazione radiotelevisiva pubblica** (art. 1).
 
 Le regole principali:
@@ -145,17 +150,20 @@ Le regole principali:
 | **Revoca tardiva** | la revoca spontanea dopo l'informazione all'utenza, senza accordo o richiesta delle autorità, è "forma sleale di azione sindacale" | art. 2, c. 6 |
 | **Eccezioni** | preavviso e durata **non** si applicano agli scioperi in difesa dell'ordine costituzionale o di protesta per gravi eventi lesivi dell'incolumità e della sicurezza dei lavoratori | art. 2, c. 7 |
 
+<!-- dati: atti 12 = L. 146/1990 -->
 **La Commissione di garanzia** (artt. 12-13, sito [cgsse.it](https://www.cgsse.it)):
 - **[FATTO]** valuta gli accordi;
 - **[FATTO]** segnala le irregolarità (preavviso, durata, franchigie, intervalli) e può **invitare a riformulare o differire** lo sciopero;
 - **[FATTO]** apre procedimenti di valutazione e delibera le **sanzioni**.
 
+<!-- dati: atti 4 = L. 146/1990 -->
 **Sanzioni (art. 4):**
 - **[FATTO]** **lavoratori:** sanzioni **disciplinari** proporzionate, **escluso il licenziamento** o mutamenti definitivi del rapporto;
 - **[FATTO]** **sindacati:** sospensione di permessi e contributi sindacali, esclusione dalle trattative fino a due mesi, sanzioni pecuniarie;
 - **[FATTO]** **aziende e amministrazioni inadempienti:** sanzioni amministrative.
 - **[FATTO]** Nel testo vigente su Normattiva gli importi sono in euro: per i sindacati, sospensione di permessi e contributi per un ammontare tra **2.500 e 50.000 €**; per dirigenti e responsabili di aziende e amministrazioni, sanzione da **2.500 a 50.000 €** (art. 4, c. 2 e 4).
 
+<!-- dati: atti 8, 9, 10 = L. 146/1990 -->
 **Precettazione (art. 8):**
 - **[FATTO] Presupposto:** il **fondato pericolo di un pregiudizio grave e imminente** ai diritti della persona.
 - **[FATTO] Chi la dispone:** il **Presidente del Consiglio o un Ministro delegato** se il conflitto è nazionale o interregionale, altrimenti il **Prefetto**. Interviene su segnalazione della Commissione oppure, in caso di necessità e urgenza, di propria iniziativa informando la Commissione.
@@ -191,10 +199,10 @@ Le regole principali:
 - **periodi di franchigia:** tra gli altri dal 20/12 al 6/01, le settimane prima e dopo Pasqua e dal 10 al 20/08;
 - **servizi da garantire:** per esempio prodotti per ospedali, farmacie e scuole, latte a giorni alterni, carburante alla rete nella misura del 50%.
 
-- **[DA VERIFICARE]** Non sappiamo se il codice abbia avuto aggiornamenti successivi, né se si applichi alle sigle non firmatarie. Va controllato sul sito della Commissione, che il 21/10/2026 non era raggiungibile dai nostri sistemi.
+- **[DA VERIFICARE]** Non sappiamo se il codice abbia avuto aggiornamenti successivi, né se si applichi alle sigle non firmatarie. Va controllato sul [sito della Commissione](https://www.cgsse.it), che il 21/10/2026 non era raggiungibile dai nostri sistemi.
 - **[FATTO]** I fermi dell'autotrasporto di ottobre 2026 in Sicilia, Calabria e Campania sono iniziative di imprese e associazioni di categoria. In Sicilia il fermo è stato revocato il 20/10, in Calabria e in Campania prosegue almeno fino al 27/10 ([ANSA, 20/10/2026](https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html)).
-- **[DA VERIFICARE]** Non abbiamo trovato delibere della Commissione su questi fermi. Manca: accesso al sito della Commissione. Verifica: delibere su cgsse.it, appena raggiungibile.
-- **[FATTO]** **Bloccare le strade** con i mezzi o con il corpo è una condotta diversa dal fermo, cioè dal non far circolare i propri mezzi, e può costituire reato (vedi §4).
+- **[DA VERIFICARE]** Non abbiamo trovato delibere della Commissione su questi fermi. Manca: accesso al sito della Commissione. Verifica: delibere su [cgsse.it](https://www.cgsse.it), appena raggiungibile.
+- **[FATTO]** **Bloccare le strade** con i mezzi o con il corpo è una condotta diversa dal fermo, cioè dal non far circolare i propri mezzi, e [può costituire reato](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66) (vedi §4).
 
 ---
 
@@ -249,14 +257,16 @@ Le regole principali:
 ## 5. Il nuovo decreto sicurezza: D.L. 22 ottobre 2026, n. 190
 
 ### 5.1 Stato: **pubblicato in Gazzetta Ufficiale, in vigore dal 23/10/2026**
+<!-- dati: atti 10 = D.L. 190/2026 -->
 - **[FATTO]** Il decreto approvato dal **Consiglio dei ministri del 20/10/2026** ([Comunicato CdM n. 193](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884)) è stato pubblicato come **decreto-legge 22 ottobre 2026, n. 190**, "Disposizioni urgenti in materia di sicurezza pubblica e contrasto alla criminalità minorile", nella **GU Serie Generale n. 246 del 22/10/2026** ([testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG); [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190)). Verifica del 22/10/2026, ore 20:20 (ora di Roma).
 - **[FATTO]** **Entra in vigore il 23/10/2026**, il giorno dopo la pubblicazione (art. 10). Le norme penali nuove **non si applicano a fatti commessi prima** (art. 25 Cost.).
 - **[FATTO]** Il Parlamento ha **60 giorni** per convertirlo in legge, anche con modifiche: **entro il 21/12/2026** (art. 77 Cost.; calcolo sulla data di GU). Se non viene convertito, perde efficacia fin dall'inizio.
 - **[FATTO]** Il disegno di legge di conversione è l'**AC 3159**, presentato alla Camera il 22/10/2026 e assegnato lo stesso giorno alla II Commissione (Giustizia) in sede referente ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)).
-- **[FATTO]** Il testo in GU ha **10 articoli**. Alcuni punti differiscono dalla bozza circolata il 20–21/10: li segnaliamo in §5.3. **Da qui in avanti la fonte è il testo in GU**, non più la bozza.
+- **[FATTO]** Il [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) ha **10 articoli**. Alcuni punti differiscono dalla bozza circolata il 20–21/10: li segnaliamo in §5.3. **Da qui in avanti la fonte è il testo in GU**, non più la bozza.
 
 ### 5.2 Cosa prevede (testo in GU)
 
+<!-- dati: atti 1, 3 = D.L. 190/2026; 420-bis, 635.1 = Codice penale -->
 | Misura | Contenuto | Articolo del D.L. 190/2026 |
 |---|---|---|
 | **Nuovo reato: "violenza organizzata nelle manifestazioni pubbliche" (art. 420-bis c.p.)** | Punisce chi, nel corso di manifestazioni in luogo pubblico o aperto al pubblico, **partecipando a un gruppo di almeno 5 persone che opera in modo organizzato, anche occasionalmente**, **utilizza illegittimamente** bastoni, mazze, oggetti contundenti o comunque atti a offendere, **oppure lancia** questi oggetti o razzi, fuochi artificiali, petardi, strumenti che nebulizzano gas urticanti, **determinando un concreto pericolo per l'incolumità delle persone e cagionando altresì danni alle cose**. Pena: **reclusione da 2 a 5 anni e multa da 10.000 a 20.000 €** (salvo che il fatto costituisca reato più grave) | art. 1, c. 4 |
@@ -276,19 +286,21 @@ Le regole principali:
 | Militari a Milano | +500 unità di "Strade sicure" fino al 31/12/2026; spesa autorizzata 4.933.831 €. I militari agiscono con le funzioni di agenti di pubblica sicurezza (art. 7-bis, c. 3, D.L. 92/2008); nessuna funzione di polizia giudiziaria | art. 8 |
 
 ### 5.3 Cosa è cambiato rispetto alla bozza, e cosa resta incerto
-- **[FATTO] Danni alle cose.** Nel testo in GU il 420-bis richiede, oltre al concreto pericolo per le persone, che siano **cagionati danni alle cose**. Il comunicato e la bozza non lo prevedevano.
-- **[FATTO] Oggetti.** Nel testo in GU non compaiono "bengala" né strumenti per fumo o gas visibile, presenti nella bozza. **[DA VERIFICARE]** Se bengala e fumogeni rientrino tra "razzi" o "fuochi artificiali". Manca: giurisprudenza o dossier parlamentari. Verifica: dossier dei Servizi studi sul ddl di conversione.
+<!-- dati: atti 3, 4, 7 = D.L. 190/2026; 11-bis = D.L. 59/1978 -->
+- **[FATTO] Danni alle cose.** Nel [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) il 420-bis richiede, oltre al concreto pericolo per le persone, che siano **cagionati danni alle cose**. Il comunicato e la bozza non lo prevedevano.
+- **[FATTO] Oggetti.** Nel [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) non compaiono "bengala" né strumenti per fumo o gas visibile, presenti nella bozza. **[DA VERIFICARE]** Se bengala e fumogeni rientrino tra "razzi" o "fuochi artificiali". Manca: giurisprudenza o dossier parlamentari. Verifica: dossier dei Servizi studi sul ddl di conversione.
 - **[FATTO] Durata del fermo: 12 ore, non 24.** Il nuovo comma 3-ter rinvia al trattenimento del comma 1 dell'art. 11-bis, che ha il limite di **12 ore**. L'unico termine di 24 ore nel decreto riguarda l'applicazione dei magistrati (art. 4). La cifra di 24 ore riportata da [L'Espresso (20/10)](https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418) **non trova riscontro** nel testo; non ne ipotizziamo l'origine.
 - **Fermo preventivo dei minori: da che età?**
   - Il comunicato diceva "anche nei confronti dei minorenni"; secondo [ANSA (21/10)](https://www.ansa.it/sito/notizie/cronaca/2026/10/21/decreto-sicurezza-fermo-preventivo-e-un-nuovo-reato-ecco-le-misure_88341630-e337-409b-9e6e-9e921af23b41.html) "solo se hanno compiuto 16 anni".
   - **[FATTO]** Il testo in GU (art. 7) **non fissa un'età minima** e rinvia al comma 3-bis, che regola gli avvisi per il "minore di anni diciotto". La soglia dei "sedici anni" introdotta dall'art. 3 riguarda le misure cautelari per i minorenni (art. 19, c. 2, DPR 448/1988).
-  - **[DA VERIFICARE]** Non è chiaro se il fermo possa riguardare i minori di 14 anni. Manca: dossier dei Servizi studi sull'AC 3159 o circolari. Verifica: camera.it e Normattiva.
-- **[FATTO] Il nome del reato.** Nel testo il nome è "**violenza organizzata** nelle manifestazioni pubbliche". "Partecipazione violenta a una manifestazione" è la formula usata da politici e media.
-- **[FATTO] Poteri dei militari.** Il testo in GU **non** attribuisce funzioni di polizia giudiziaria ai militari. Sulle ragioni esistono versioni diverse: secondo L'Espresso sono stati tolti dopo interlocuzioni con il Quirinale; il ministro Piantedosi ha negato uno "stop" del Colle.
+  - **[DA VERIFICARE]** Non è chiaro se il fermo possa riguardare i minori di 14 anni. Manca: dossier dei Servizi studi sull'AC 3159 o circolari. Verifica: [camera.it](https://www.camera.it/leg19/126?leg=19&idDocumento=3159) e [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190).
+- **[FATTO] Il nome del reato.** Nel [testo](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) il nome è "**violenza organizzata** nelle manifestazioni pubbliche". "Partecipazione violenta a una manifestazione" è la formula usata da politici e media.
+- **[FATTO] Poteri dei militari.** Il [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) **non** attribuisce funzioni di polizia giudiziaria ai militari. Sulle ragioni esistono versioni diverse: secondo [L'Espresso](https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418) sono stati tolti dopo interlocuzioni con il Quirinale; il ministro Piantedosi ha negato uno "stop" del Colle.
 
 ### 5.4 Cosa cambia per chi partecipa pacificamente
 - **[FATTO]** La partecipazione pacifica e senz'armi resta tutelata dall'**art. 17 Cost.**, che un decreto-legge non può modificare.
-- **[FATTO]** Il nuovo art. 420-bis richiede **contemporaneamente**:
+<!-- dati: atti 420-bis = Codice penale -->
+- **[FATTO]** Il [nuovo art. 420-bis](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) richiede **contemporaneamente**:
   1. la **partecipazione a un gruppo** di almeno 5 persone **organizzato**, anche occasionalmente;
   2. una **condotta personale** di utilizzo illegittimo o di **lancio** di oggetti atti a offendere, oppure di lancio di razzi, fuochi artificiali, petardi o gas urticanti;
   3. un **pericolo concreto** per l'incolumità delle persone;
@@ -298,8 +310,8 @@ Le regole principali:
 
   Chi sfila, grida slogan, espone cartelli o fa un sit-in **non rientra** in questa descrizione.
 - **[FATTO]** Due misure possono però toccare **anche chi non commette violenze**, come **controlli e restrizioni**, non come reati:
-  - il **fermo preventivo** si basa su un giudizio di pericolosità fondato su **elementi di fatto**, come oggetti posseduti o precedenti, ed è sottoposto al controllo del PM;
-  - il **divieto di radunarsi** richiede presupposti specifici: comportamenti in gruppo e precedenti.
+  - il [**fermo preventivo**](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) si basa su un giudizio di pericolosità fondato su **elementi di fatto**, come oggetti posseduti o precedenti, ed è sottoposto al controllo del PM;
+  - il [**divieto di radunarsi**](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) richiede presupposti specifici: comportamenti in gruppo e precedenti.
 - **[DA VERIFICARE]** L'effetto pratico dipenderà da come verranno applicate espressioni come "gruppo che opera in modo organizzato anche occasionalmente", "luoghi caratterizzati da un consistente afflusso di persone" e "fondato motivo". Manca: modifiche in sede di conversione, circolari applicative del Ministero dell'interno, prime decisioni dei giudici. Verifica: monitoraggio del ddl di conversione fino al 21/12/2026 e delle prime pronunce. Sul punto esistono letture contrapposte, riportate qui sotto.
 
 <!-- dati: intestazione -->
@@ -308,11 +320,11 @@ Le regole principali:
 *Maggioranza e governo*
 - **Giorgia Meloni** (Presidente del Consiglio): "Manifestare è un diritto, mettere a ferro e fuoco città no" ([L'Espresso, 20/10/2026](https://www.lespresso.it/c/politica/2026/10/20/nuovo-decreto-sicurezza-cosa-prevede-militari-milano-fermo-preventivo-nuovo-reato-manifestazione-violenta/65418)).
 - **Antonio Tajani** (Forza Italia): il governo ha dato "una risposta forte a chi pensa di mettere a ferro e fuoco le nostre città" ([Rainews, 20/10/2026](https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html)).
-- **Nicola Molteni e Andrea Ostellari** (Lega, sottosegretari all'Interno e alla Giustizia): "una risposta ferma e risoluta agli episodi di criminalità e teppismo […] chi rompe paga" (Rainews, ibid.).
+- **Nicola Molteni e Andrea Ostellari** (Lega, sottosegretari all'Interno e alla Giustizia): "una risposta ferma e risoluta agli episodi di criminalità e teppismo […] chi rompe paga" ([Rainews](https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html), ibid.).
 
 *Critiche: opposizioni e avvocatura*
 - **Francesco Petrelli** (presidente dell'Unione Camere Penali): il decreto "configura certamente un ulteriore strappo alle garanzie e ai diritti della persona ed ai principi costituzionali di proporzionalità e di determinatezza". Contesta anche l'uso del decreto per norme già all'esame del Parlamento, come quella sull'imputabilità dei minori ([ANSA, 21/10/2026](https://www.ansa.it/sito/notizie/cronaca/2026/10/21/penalisti-il-nuovo-decreto-sicurezza-e-inutile-e-lesivo-dei-diritti_aad4edf0-f971-444b-a62c-f8390db3520e.html)).
-- **Opposizioni (PD, Più Europa):** Chiara Braga, Igor Taruffi e Riccardo Magi criticano la scelta di "decreti punitivi" anziché interventi strutturali. Beatrice Lorenzin (PD) chiede un "decreto concretezza" e ricorda le tensioni economiche, dagli autotrasportatori agli agricoltori (Rainews, ibid.; sintesi della testata).
+- **Opposizioni (PD, Più Europa):** Chiara Braga, Igor Taruffi e Riccardo Magi criticano la scelta di "decreti punitivi" anziché interventi strutturali. Beatrice Lorenzin (PD) chiede un "decreto concretezza" e ricorda le tensioni economiche, dagli autotrasportatori agli agricoltori ([Rainews](https://www.rainews.it/articoli/2026/10/scontro-totale-sul-decreto-sicurezza-esulta-la-maggioranza-durissimo-attacco-delle-opposizioni-ac3cc578-5678-4ebf-a64c-9fcdcafb548d.html), ibid.; sintesi della testata).
 
 ---
 
@@ -334,7 +346,7 @@ Le regole principali:
 
 **Norme:** art. 17 Cost.; art. 18 TULPS (come modificato dal D.L. 23/2026 / L. 54/2026); Corte cost. 27/1958.
 
-**Attenzione online:** dal 25/02/2026 la sanzione per mancato preavviso (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può rendere "promotore" chi lo lancia **[INTERPRETAZIONE · Media: lettura redazionale dell'art. 18, terzo comma, TULPS]**.
+**Attenzione online:** dal 25/02/2026 [la sanzione per mancato preavviso](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18) (1.000–10.000 €) si applica anche a chi **promuove** la riunione **via social, chat o gruppi chiusi**. Lanciare un appello a una piazza senza preavviso può rendere "promotore" chi lo lancia **[INTERPRETAZIONE · Media: lettura redazionale dell'art. 18, terzo comma, TULPS]**.
 
 **Cosa cambia col decreto:** sul preavviso **nulla**. Il D.L. 190/2026 non tocca l'art. 18 TULPS.
 
@@ -376,7 +388,7 @@ Le regole principali:
 - Per i **14-17enni**:
   - presunzione di imputabilità;
   - il divieto di radunarsi (che vale per tutti, con i presupposti di legge) può riguardare anche loro;
-  - età minima per il fermo preventivo: il nuovo comma non la fissa **[FATTO]**; resta **[DA VERIFICARE]** l'applicazione ai minori di 14 anni (vedi §5.3).
+  - età minima per il fermo preventivo: il [nuovo comma](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) non la fissa **[FATTO]**; resta **[DA VERIFICARE]** l'applicazione ai minori di 14 anni (vedi §5.3).
 
 ### 6.3 "Quando uno sciopero è legittimo?"
 **Risposta breve:** dipende dalla **posizione** (dipendente o autonomo) e dal **settore**. Per un lavoratore dipendente aderire a uno sciopero regolarmente proclamato è un diritto. Nei **servizi pubblici essenziali** lo sciopero deve rispettare le regole della L. 146/1990.
@@ -403,7 +415,7 @@ Gli scioperi proclamati sono elencati sul [prospetto MIT](https://scioperi.mit.g
 **Esempi del periodo** (fonte: [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi)):
 - **[FATTO]** sciopero generale USB del **30/10/2026**, con adesioni di altre sigle di base;
 - **[FATTO]** sciopero generale CGIL annunciato per il **20/11/2026** ([ANSA](https://www.ansa.it/sito/notizie/politica/2026/10/17/landini-in-piazza-a-roma-sciopero-generale-il-20-novembre_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html)).
-- **[DA VERIFICARE]** Eventuali delibere della Commissione su questi scioperi. Manca: consultazione delle delibere. Verifica: cgsse.it e prospetto MIT, prima della data.
+- **[DA VERIFICARE]** Eventuali delibere della Commissione su questi scioperi. Manca: consultazione delle delibere. Verifica: [cgsse.it](https://www.cgsse.it) e prospetto MIT, prima della data.
 
 **Norme:** art. 40 Cost.; L. 146/1990 artt. 1, 2, 4, 8, 13; L. 83/2000.
 
@@ -413,8 +425,8 @@ Gli scioperi proclamati sono elencati sul [prospetto MIT](https://scioperi.mit.g
 **Risposta breve:** **in generale sì**. Non esiste una norma che vieti di riprendere in luogo pubblico operazioni di polizia che si svolgono davanti a tutti. Riprendere è una forma di manifestazione del pensiero e di documentazione.
 
 **Limiti:**
-- **[FATTO]** la **diffusione** di immagini di persone identificabili, agenti o manifestanti, è soggetta alla normativa sulla protezione dei dati personali (GDPR e Codice privacy). Per la diffusione a fini giornalistici valgono regole specifiche;
-- **[FATTO]** le operazioni non vanno **ostacolate**: interferire fisicamente può integrare reati o illeciti (§4);
+- **[FATTO]** la **diffusione** di immagini di persone identificabili, agenti o manifestanti, è soggetta alla normativa sulla protezione dei dati personali ([GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj) e [Codice privacy](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196)). Per la diffusione a fini giornalistici valgono [regole specifiche](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196~art136);
+- **[FATTO]** le operazioni non vanno **ostacolate**: interferire fisicamente può integrare [reati](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398~art337) o illeciti (§4);
 - **[Nota redazionale di Bilancia Civica]** un ordine specifico di allontanarsi, per esempio da un'area di intervento, va rispettato ed eventualmente contestato in seguito.
 
 **Consigli pratici** [Nota redazionale di Bilancia Civica]:

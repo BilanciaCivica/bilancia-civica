@@ -42,10 +42,12 @@ I file vengono generati da `build.py` insieme alle pagine HTML (`python3 build.p
 
 ### Fonti
 
-- `origine: "collegamento nel testo"`: il link compare nella frase o nell'etichetta sul sito.
+- `origine: "collegamento nel testo"`: il link compare nella frase o nell'etichetta sul sito, oppure
+  nell'intestazione o nella frase di introduzione dell'elenco o della tabella che contiene la voce.
 - `origine: "riferimento normativo citato"`: il link non compare nella frase, ma la frase cita un atto
   (per esempio «art. 17 Cost.») e il link porta al testo ufficiale di quell'atto su Normattiva,
-  Gazzetta Ufficiale o sito della Corte costituzionale.
+  Gazzetta Ufficiale o sito della Corte costituzionale. Se la frase cita solo l'articolo («art. 7») e
+  l'atto è chiaro dal contesto della pagina, l'atto è indicato da una direttiva `atti` (vedi sotto).
 - `ufficiale: true` indica i siti istituzionali (Gazzetta Ufficiale, Normattiva, Parlamento, Governo,
   ministeri, Corte costituzionale, altre amministrazioni pubbliche). Gli articoli di giornale e i siti
   di associazioni hanno `ufficiale: false`.
@@ -84,9 +86,17 @@ invisibile sul sito e rimossa dall'HTML pubblicato:
 | `<!-- dati: esempio -->` | Il blocco seguente usa le etichette solo come esempio: è escluso |
 | `<!-- dati: intestazione -->` | L'etichetta del blocco seguente vale per tutti i blocchi successivi, fino al prossimo titolo o separatore |
 | `<!-- dati: intestazione-precedente -->` | L'etichetta del blocco seguente vale per l'elenco o la tabella che lo precede |
+| `<!-- dati: atti D.L. 190/2026 -->` | Nel blocco seguente gli articoli citati senza atto sono di quell'atto |
+| `<!-- dati: atti 419, 635.1 = Codice penale; 7 = D.L. 190/2026 -->` | Come sopra, articolo per articolo |
 
-La generazione si ferma con un errore se trova una direttiva sconosciuta, un'etichetta non valida o
-un'etichetta isolata senza testo. In `indice.json`, `controllo_estrazione` riporta per ogni pagina il
+Si possono scrivere più direttive di seguito: valgono tutte per il blocco seguente. Se il blocco è una
+frase di introduzione senza etichetta che finisce con «:», la direttiva `atti` vale per l'elenco che
+segue. La direttiva `atti` assegna l'atto solo agli articoli che ne sono privi e non cambia il testo;
+accetta solo atti con un testo ufficiale collegato.
+
+La generazione si ferma con un errore se trova una direttiva sconosciuta, un'etichetta non valida,
+un'etichetta isolata senza testo, oppure una direttiva `atti` con un atto sconosciuto o con un articolo
+che il blocco non cita. In `indice.json`, `controllo_estrazione` riporta per ogni pagina il
 numero di etichette trovate nell'HTML, quante sono esempi, quante sono intestazioni e quante
 affermazioni sono state estratte: le etichette nell'HTML sono sempre uguali alla somma di affermazioni
 con etichetta propria, intestazioni ed esempi.

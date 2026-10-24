@@ -16,6 +16,12 @@ Direttive facoltative nei file Markdown (righe di commento, invisibili sul sito)
                                           al prossimo titolo o separatore
     <!-- dati: intestazione-precedente --> come sopra, ma per l'elenco o la tabella
                                           che precede
+    <!-- dati: atti D.L. 190/2026 -->     nel blocco seguente gli articoli citati senza
+                                          atto («art. 7») sono di quell'atto
+    <!-- dati: atti 419, 635.1 = Codice penale; 7, 8 = D.L. 190/2026 -->
+                                          come sopra, articolo per articolo
+Si può scrivere più di una direttiva di seguito (per esempio «atti» e poi
+«intestazione-precedente»): valgono tutte per il blocco seguente.
 """
 from __future__ import annotations
 
@@ -27,11 +33,13 @@ import unicodedata
 from html.parser import HTMLParser
 from urllib.parse import urlsplit
 
-VERSIONE_SCHEMA = "1.0.0"
+VERSIONE_SCHEMA = "1.0.1"
 BASE_SITO = "https://bilanciacivica.github.io/bilancia-civica/"
 ETICHETTE_VALIDE = ("FATTO", "STIMA", "INTERPRETAZIONE", "DA VERIFICARE")
-RE_DIRETTIVA = re.compile(r"^<!--\s*dati:\s*([a-z-]+)\s*-->$")
-DIRETTIVE = ("esempio", "intestazione", "intestazione-precedente")
+RE_DIRETTIVA = re.compile(r"^<!--\s*dati:\s*([a-z-]+)(?:\s+([^<>]*?))?\s*-->$")
+RE_DIRETTIVA_COMMENTO = re.compile(r"^dati:\s*([a-z-]+)(?:\s+([^<>]*?))?\s*$")
+RE_DIRETTIVA_RIMUOVI = re.compile(r"<!--\s*dati:\s*[a-z-]+(?:\s+[^<>]*?)?\s*-->\n?")
+DIRETTIVE = ("esempio", "intestazione", "intestazione-precedente", "atti")
 
 # Siti istituzionali: una fonte su questi domini è marcata "ufficiale".
 DOMINI_UFFICIALI = (
@@ -59,6 +67,7 @@ ATTI = {
     "L. 54/2026": ("L. 24 aprile 2026, n. 54 (testo in Gazzetta Ufficiale)",
                    "https://www.gazzettaufficiale.it/eli/id/2026/04/24/26G00078/SG"),
     "D.L. 59/1978": ("D.L. 21 marzo 1978, n. 59", NIR + "decreto.legge:1978-03-21;59"),
+    "D.L. 92/2008": ("D.L. 23 maggio 2008, n. 92", NIR + "decreto.legge:2008-05-23;92"),
     "D.L. 33/2026": ("D.L. 18 marzo 2026, n. 33", NIR + "decreto.legge:2026-03-18;33"),
     "L. 146/1990": ("L. 12 giugno 1990, n. 146", NIR + "legge:1990-06-12;146"),
     "L. 300/1970": ("L. 20 maggio 1970, n. 300 (Statuto dei lavoratori)", NIR + "legge:1970-05-20;300"),
@@ -306,18 +315,8 @@ def riferimenti(testo: str, contesto: str | None = None) -> list:
         numeri = [(m.group(1), m.group(2))] + re.findall(r"(\d{1,4})/(\d{4})", m.group(3) or "")
         for n, a in numeri:
             rif.append({"citazione": _norm(m.group(0)), "atto": f"Corte cost. {int(n)}/{a}", "articolo": None})
-    # dedup stabile
-    visti, out = set(), []
-    for r in rif:
-        k = (r["atto"], r["articolo"])
-        if k in visti:
-            continue
-        visti.add(k)
-        out.append(r)
-    # un atto senza articolo è superfluo se lo stesso atto compare con un articolo
-    con_art = {r["atto"] for r in out if r["articolo"]}
-    out = [r for r in out if r["articolo"] or r["atto"] not in con_art]
-    return sorted(out, key=lambda r: ((r["atto"] or "~"), _chiave_art(r["articolo"])))
+    # dedup stabile; un atto senza articolo è superfluo se lo stesso atto compare con un articolo
+    return _ordina_rif(rif)
 
 
 def _chiave_art(a):
@@ -342,6 +341,64 @@ def _url_atto(atto: str | None):
 def ufficiale(url: str) -> bool:
     host = (urlsplit(url).hostname or "").lower()
     return any(host == d or host.endswith("." + d) for d in DOMINI_UFFICIALI)
+
+
+def mappa_atti(argomento: str | None, pagina: str = "") -> dict:
+    """Legge l'argomento della direttiva «atti»: «D.L. 190/2026» (tutti gli articoli senza atto)
+    oppure «419, 635.1 = Codice penale; 7 = D.L. 190/2026» (articolo per articolo)."""
+    mappa: dict = {}
+    for parte in (argomento or "").split(";"):
+        parte = parte.strip()
+        if not parte:
+            continue
+        if "=" in parte:
+            articoli, atto = (x.strip() for x in parte.split("=", 1))
+            chiavi = [a.strip() for a in articoli.split(",") if a.strip()]
+        else:
+            atto, chiavi = parte, ["*"]
+        if _url_atto(atto) is None:
+            raise ValueError(f"{pagina}: direttiva atti con atto sconosciuto {atto!r}")
+        for k in chiavi:
+            if k in mappa and mappa[k] != atto:
+                raise ValueError(f"{pagina}: direttiva atti con articolo ripetuto {k!r}")
+            mappa[k] = atto
+    if not mappa:
+        raise ValueError(f"{pagina}: direttiva atti senza argomento")
+    return mappa
+
+
+def _ordina_rif(rif: list) -> list:
+    visti, out = set(), []
+    for r in rif:
+        k = (r["atto"], r["articolo"])
+        if k not in visti:
+            visti.add(k)
+            out.append(r)
+    con_art = {r["atto"] for r in out if r["articolo"]}
+    out = [r for r in out if r["articolo"] or r["atto"] not in con_art]
+    return sorted(out, key=lambda r: ((r["atto"] or "~"), _chiave_art(r["articolo"])))
+
+
+def applica_atti(a: dict, mappa: dict) -> set:
+    """Assegna l'atto agli articoli citati senza atto; aggiunge il testo ufficiale tra le fonti.
+    Ritorna le chiavi della mappa usate."""
+    usate = set()
+    for r in a["riferimenti_normativi"]:
+        if r["atto"] is None and r["articolo"]:
+            k = r["articolo"] if r["articolo"] in mappa else ("*" if "*" in mappa else None)
+            if k is not None:
+                r["atto"] = mappa[k]
+                usate.add(k)
+    if usate:
+        a["riferimenti_normativi"] = _ordina_rif(a["riferimenti_normativi"])
+        viste = {f["url"] for f in a["fonti"]}
+        for r in a["riferimenti_normativi"]:
+            u = _url_atto(r["atto"])
+            if u and u[1] not in viste:
+                viste.add(u[1])
+                a["fonti"].append({"titolo": u[0], "url": u[1], "ufficiale": True,
+                                   "origine": "riferimento normativo citato"})
+    return usate
 
 
 # ---------------------------------------------------------------------------
@@ -410,16 +467,26 @@ class Estrattore:
         figli = [f for f in nodo.figli if f.tag != "#text" or f.attrs["v"].strip()]
         elementi = [f for f in figli if f.tag not in ("#text", "#comment")]
         direttiva = None
+        atti = None  # direttiva «atti»: atto degli articoli citati senza atto nel blocco seguente
         consumati: set = set()
         precedente = None
         introduzione = None  # paragrafo senza etichetta che finisce con «:» e introduce un elenco
+        link_introduzione: list = []
         for f in figli:
             if f.tag == "#comment":
-                m = re.match(r"^dati:\s*([a-z-]+)$", f.attrs["v"])
+                m = RE_DIRETTIVA_COMMENTO.match(f.attrs["v"].strip())
                 if m:
-                    direttiva = m.group(1)
-                    if direttiva not in DIRETTIVE:
-                        raise ValueError(f"{self.pagina}: direttiva sconosciuta {direttiva!r}")
+                    nome, argomento = m.group(1), m.group(2)
+                    if nome not in DIRETTIVE:
+                        raise ValueError(f"{self.pagina}: direttiva sconosciuta {nome!r}")
+                    if nome == "atti":
+                        if atti is not None:
+                            raise ValueError(f"{self.pagina}: due direttive atti di seguito")
+                        atti = mappa_atti(argomento, self.pagina)
+                    else:
+                        if argomento:
+                            raise ValueError(f"{self.pagina}: la direttiva {nome!r} non ha argomenti")
+                        direttiva = nome
                 continue
             if f.tag == "#text":
                 continue
@@ -428,6 +495,7 @@ class Estrattore:
                 continue
             i = elementi.index(f)
             successivo = elementi[i + 1] if i + 1 < len(elementi) else None
+            gia = {id(a) for a in self.affermazioni}
             if direttiva == "esempio":
                 self.badge_esempio += len(_badge_in(f))
             elif direttiva == "intestazione":
@@ -448,14 +516,25 @@ class Estrattore:
                 self._intestazione(f, [precedente], ereditata)
             else:
                 if f.tag in ("ul", "ol") and introduzione and not ereditata:
-                    usato = self.elemento(f, successivo, {"badge": None, "contesto": introduzione, "link": []})
+                    usato = self.elemento(f, successivo, {"badge": None, "contesto": introduzione,
+                                                          "link": link_introduzione})
                 else:
                     usato = self.elemento(f, successivo, ereditata)
                 if usato is not None:
                     consumati.add(id(usato))
-            introduzione = None
+            introduzione, link_introduzione = None, []
             if f.tag == "p" and not _badge_in(f) and _norm(_testo(f)).endswith(":"):
                 introduzione = _norm(_testo(f))
+                link_introduzione = _link_in(f)
+            nuove = [a for a in self.affermazioni if id(a) not in gia]
+            if atti is not None and (nuove or not introduzione):
+                usate = set()
+                for a in nuove:
+                    usate |= applica_atti(a, atti)
+                if set(atti) - usate:
+                    raise ValueError(f"{self.pagina}: direttiva atti non usata per {sorted(set(atti) - usate)}")
+                atti = None
+            # un paragrafo di introduzione senza etichetta passa la direttiva «atti» all'elenco che segue
             direttiva = None
             precedente = f
 
@@ -575,6 +654,7 @@ class Estrattore:
             prima_cella = _norm(_testo(celle[0])) if celle else None
         eredita = ereditata if (ereditata and ereditata.get("badge")) else None
         intro = ereditata["contesto"] if (ereditata and not ereditata.get("badge")) else None
+        link_intro = ereditata.get("link", []) if (ereditata and not ereditata.get("badge")) else []
         if not badge:
             if eredita:
                 if _ha_nota(b):
@@ -632,7 +712,7 @@ class Estrattore:
             for sopra in ((eredita or {}).get("contesto"), intro):
                 if sopra:
                     ctx = _norm(sopra + (" " + ctx if ctx else ""))
-            self._nuova(testo, bd, bd["nodo"], link + (eredita["link"] if eredita else []), ctx)
+            self._nuova(testo, bd, bd["nodo"], link + (eredita["link"] if eredita else []) + link_intro, ctx)
         return None
 
 
@@ -695,7 +775,7 @@ def estrai(corpo: str, pagina: str, titolo: str, aggiornato_iso: str, usati: set
         afferm.append(a)
     for pos, ident in sorted(inserimenti, reverse=True):
         corpo = corpo[:pos] + f' id="af-{ident}"' + corpo[pos:]
-    corpo = re.sub(r"<!--\s*dati:\s*[a-z-]+\s*-->\n?", "", corpo)
+    corpo = RE_DIRETTIVA_RIMUOVI.sub("", corpo)
     totale_badge = len(re.findall(r'<span(?: id="[^"]*")? class="etichetta"', corpo))
     controllo = {"badge": totale_badge, "esempio": e.badge_esempio, "intestazione": e.badge_intestazione,
                  "affermazioni": len(afferm)}

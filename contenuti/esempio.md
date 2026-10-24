@@ -10,8 +10,8 @@ descrizione: Esempio di scheda completa di Bilancia Civica: il D.L. 190/2026 e c
 **In breve**
 
 - Dal 23 ottobre 2026 è in vigore il decreto sicurezza (decreto-legge n. 190/2026). [FATTO · Alta]
-- Le regole di base del corteo non cambiano: diritto di riunirsi pacificamente e senz'armi, preavviso dei promotori, responsabilità penale personale. [FATTO · Alta]
-- Cambiano le conseguenze per chi commette violenze in gruppo e si allargano alcune misure di controllo (fermo preventivo, divieto di radunarsi), che possono riguardare anche chi non commette reati, con i presupposti di legge. [FATTO · Alta]
+- Le regole di base del corteo non cambiano: diritto di [riunirsi pacificamente e senz'armi](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art17), [preavviso dei promotori](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art18), [responsabilità penale personale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art27). [FATTO · Alta]
+- Cambiano le conseguenze per chi commette violenze in gruppo e si allargano alcune misure di controllo ([fermo preventivo](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), [divieto di radunarsi](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)), che possono riguardare anche chi non commette reati, con i presupposti di legge. [FATTO · Alta]
 
 Questa pagina è una **scheda completa di esempio**: mostra in un solo posto etichette, fonti, punti da verificare e posizioni attribuite. Le stesse informazioni, divise per situazione, sono in [corteo](corteo.html) e [decreto sicurezza](decreto.html).
 :::
@@ -34,7 +34,7 @@ Questa pagina è una **scheda completa di esempio**: mostra in un solo posto eti
 
 ## 3. Cosa cambia
 
-[FATTO · Alta, testo in GU]
+[FATTO · Alta, [testo in GU](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG)]
 
 - Nuovo delitto di **violenza organizzata nelle manifestazioni pubbliche** (art. 420-bis c.p.): servono insieme un gruppo di almeno 5 persone organizzato anche occasionalmente, l'uso illegittimo o il lancio di oggetti atti a offendere, oppure il lancio di razzi, fuochi artificiali, petardi o gas urticanti, un **pericolo concreto** per le persone e **danni alle cose**. Pena: 2–5 anni e multa 10.000–20.000 €, aumentata per chi agisce travisato.
 - Chi **organizza, promuove o istiga** il gruppo, anche online: 4–12 anni.

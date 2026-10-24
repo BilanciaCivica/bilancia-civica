@@ -7,8 +7,8 @@ descrizione: Sciopero: quando è in regola. Lista di controllo per i servizi pub
 ::: inbreve
 **In breve**
 
-- Le regole dipendono dalla **posizione** (dipendente o autonomo) e dal **settore**. [FATTO · Alta]
-- Nei **servizi pubblici essenziali** (per esempio trasporti, sanità, scuola) ci sono regole in più: preavviso di almeno 10 giorni e un servizio minimo da garantire (le «prestazioni indispensabili»). Nel privato non essenziale non c'è un preavviso di legge. [FATTO · Alta]
+- Le regole dipendono dalla **posizione** (dipendente o autonomo) e dal [**settore**](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146). [FATTO · Alta]
+- Nei **servizi pubblici essenziali** (per esempio trasporti, sanità, scuola) ci sono regole in più: [preavviso di almeno 10 giorni](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146~art2) e un servizio minimo da garantire (le «prestazioni indispensabili»). Nel privato non essenziale non c'è un preavviso di legge. [FATTO · Alta]
 - Nei servizi pubblici essenziali, chi aderisce a uno sciopero irregolare rischia sanzioni disciplinari proporzionate, escluse quelle che fanno cessare il rapporto di lavoro (come il licenziamento) o lo cambiano in modo definitivo (art. 4, c. 1, L. 146/1990). Il decreto sicurezza non cambia queste regole. [FATTO · Alta]
 :::
 
@@ -40,7 +40,7 @@ descrizione: Sciopero: quando è in regola. Lista di controllo per i servizi pub
 
 [FATTO · Media] Astensione di autonomi (art. 2-bis L. 146/1990) con codice di autoregolamentazione: preavviso di 15–25 giorni secondo il tipo di fermo, durata massima 5 giorni, franchigie, servizi garantiti.
 
-[DA VERIFICARE] Aggiornamenti del codice dopo il 2001: manca la consultazione del sito della Commissione (non raggiungibile il 21 e 22 ottobre 2026); verifica su cgsse.it.
+[DA VERIFICARE] Aggiornamenti del codice dopo il 2001: manca la consultazione del sito della Commissione (non raggiungibile il 21 e 22 ottobre 2026); verifica su [cgsse.it](https://www.cgsse.it).
 
 ## Calendari degli scioperi
 
