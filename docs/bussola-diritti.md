@@ -1,7 +1,7 @@
 # Bilancia Civica · Bussola Diritti
 ### Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando
 
-> **Aggiornato al 27/10/2026, ore 18:56 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
+> **Aggiornato al 27/10/2026, ore 19:16 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
 > Ultima verifica in Gazzetta Ufficiale: Serie Generale **n. 246 del 22/10/2026**, che contiene il **D.L. 22 ottobre 2026, n. 190** (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
@@ -416,7 +416,8 @@ Gli scioperi proclamati sono elencati sul [prospetto MIT](https://scioperi.mit.g
 - **[FATTO]** sciopero generale USB del **30/10/2026**, con adesioni di altre sigle di base;
 - **[FATTO]** sciopero generale CGIL annunciato per il **20/11/2026** ([ANSA](https://www.ansa.it/sito/notizie/politica/2026/10/17/landini-in-piazza-a-roma-sciopero-generale-il-20-novembre_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html)).
 - **[FATTO · Alta]** Con la [delibera n. 26/320 del 22/10/2026](https://www.cgsse.it/sites/default/files/2026-10/gen_320_2026.pdf) la Commissione di garanzia ha segnalato al Ministro delle infrastrutture e dei trasporti, ai sensi dell'art. 13, c. 1, lett. f, L. 146/1990, il «fondato pericolo di pregiudizio grave ed imminente» alla libertà di circolazione per lo sciopero generale USB del 30/10, che non ha escluso i settori dei trasporti in franchigia dal 30/10 al 5/11 per la commemorazione dei defunti.
-- **[DA VERIFICARE]** Un'eventuale ordinanza di precettazione (art. 8 L. 146/1990) per lo sciopero del 30/10 ed eventuali delibere della Commissione sullo sciopero del 20/11. Manca: un'ordinanza o una delibera pubblicata su fonte primaria. Verifica: sito del MIT, prospetto MIT e [cgsse.it](https://www.cgsse.it), prima delle date.
+- **[FATTO · Alta]** Il 27/10/2026 la Commissione di garanzia ha inviato alla CGIL un'indicazione immediata (art. 13, c. 1, lett. d, L. 146/1990) sullo sciopero generale del 20/11 ([testo](https://www.cgsse.it/sites/default/files/2026-10/gen_1283_2026.pdf)). Vi segnala la violazione della regola della rarefazione oggettiva, per altri scioperi già proclamati, e della franchigia elettorale, per le elezioni del 15–16/11 (suppletive alla Camera nel collegio di Chieti; Comuni di Calvi Risorta e Stefanaconi), e invita a escludere i settori e il personale interessati. Un'indicazione analoga riguarda lo sciopero di USB Pubblico Impiego dello stesso giorno.
+- **[DA VERIFICARE]** Se i sindacati si adeguano. Un'eventuale ordinanza di precettazione (art. 8 L. 146/1990) per lo sciopero del 30/10. Verifica: sito del MIT, prospetto MIT e [cgsse.it](https://www.cgsse.it/attivita/interventi-preventivi).
 
 **Norme:** art. 40 Cost.; L. 146/1990 artt. 1, 2, 4, 8, 13; L. 83/2000.
 
