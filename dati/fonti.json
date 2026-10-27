@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-27T18:56:00+01:00",
+  "generato_il": "2026-10-27T19:16:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 69,
+  "totale": 71,
   "fonti": [
     {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
@@ -51,9 +51,10 @@
       "affermazioni": [
         "bussola-completa-1073289aa2",
         "bussola-completa-1400898a4b",
-        "bussola-completa-4ffebbf6fc",
         "bussola-completa-7430bc2e53",
-        "bussola-completa-ddfc6f9fac"
+        "bussola-completa-ddbfb9d071",
+        "bussola-completa-ddfc6f9fac",
+        "bussola-completa-f77ab8f08a"
       ]
     },
     {
@@ -134,12 +135,21 @@
       "affermazioni": [
         "bussola-completa-1200ecf3e3",
         "bussola-completa-4b2695cb08",
-        "bussola-completa-4ffebbf6fc",
         "bussola-completa-6e707c1eae",
         "bussola-completa-db04a1d9e6",
         "bussola-completa-e376e808f2",
         "diritti-037f52515e",
         "sciopero-1f35ae5387"
+      ]
+    },
+    {
+      "url": "https://www.cgsse.it/attivita/interventi-preventivi",
+      "titolo": "cgsse.it",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.cgsse.it",
+      "affermazioni": [
+        "bussola-completa-f77ab8f08a"
       ]
     },
     {
@@ -150,6 +160,16 @@
       "dominio": "www.cgsse.it",
       "affermazioni": [
         "bussola-completa-4da086e225"
+      ]
+    },
+    {
+      "url": "https://www.cgsse.it/sites/default/files/2026-10/gen_1283_2026.pdf",
+      "titolo": "testo",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.cgsse.it",
+      "affermazioni": [
+        "bussola-completa-ddbfb9d071"
       ]
     },
     {
@@ -965,7 +985,6 @@
         "bussola-completa-1200ecf3e3",
         "bussola-completa-2b6995f560",
         "bussola-completa-40ac8ec6af",
-        "bussola-completa-4ffebbf6fc",
         "bussola-completa-6e707c1eae",
         "bussola-completa-765459d838",
         "bussola-completa-8163e906b1",
@@ -973,10 +992,12 @@
         "bussola-completa-a25bd9780d",
         "bussola-completa-aa306b8685",
         "bussola-completa-d65245d533",
+        "bussola-completa-ddbfb9d071",
         "bussola-completa-ddfc6f9fac",
         "bussola-completa-e376e808f2",
         "bussola-completa-e6c7b48792",
         "bussola-completa-f1db47e3cc",
+        "bussola-completa-f77ab8f08a",
         "bussola-completa-fbf967be34",
         "diritti-037f52515e",
         "diritti-5e9842ab6c",
