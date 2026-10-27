@@ -4,14 +4,14 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 ---
 # Stato degli atti seguiti
 
-*Situazione verificata al 24/10/2026, ore 10:13 (ora di Roma). Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
+*Situazione verificata al 27/10/2026, ore 18:56 (ora di Roma) per il decreto sicurezza e la legge di bilancio; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
 
 ::: inbreve
 **In breve**
 
 - **Decreto sicurezza** (decreto-legge n. 190 del 22 ottobre 2026): in vigore dal 23 ottobre 2026; il Parlamento deve convertirlo in legge entro il **21 dicembre 2026**, altrimenti perde efficacia dall'inizio. [FATTO · Alta]
 - **Aiuti all'autotrasporto**: il credito d'imposta per le spese di marzo–agosto 2026 ha una base di legge (art. 3 D.L. 33/2026). Per le spese dal 1° settembre al 5 ottobre 2026 lo prevede ora il decreto-legge n. 193 del 23 ottobre 2026, in vigore dal 24 ottobre e da convertire in legge entro il 22 dicembre 2026. [FATTO · Alta]
-- **Legge di bilancio 2027**: al 24 ottobre 2026 non risulta approvata dal [Consiglio dei ministri](https://www.governo.it/it/archivio-consiglio-dei-ministri), quindi nessuna stima. [FATTO · Media: verifica sui comunicati di governo.it]
+- **Legge di bilancio 2027**: al 27 ottobre 2026 non risulta approvata dal [Consiglio dei ministri](https://www.governo.it/it/archivio-consiglio-dei-ministri) (ultima riunione in archivio: n. 194 del 22/10/2026), quindi nessuna stima. [FATTO · Media: verifica sui comunicati di governo.it]
 :::
 
 

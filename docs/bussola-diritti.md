@@ -1,7 +1,7 @@
 # Bilancia Civica · Bussola Diritti
 ### Riunione, manifestazione e sciopero: cosa dice la legge, cosa è punibile, cosa sta cambiando
 
-> **Aggiornato al 25/10/2026, ore 00:35 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
+> **Aggiornato al 27/10/2026, ore 18:56 (ora di Roma)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)).
 > Ultima verifica in Gazzetta Ufficiale: Serie Generale **n. 246 del 22/10/2026**, che contiene il **D.L. 22 ottobre 2026, n. 190** (il nuovo decreto sicurezza, in vigore dal 23/10/2026; vedi §5).
 > Etichette allineate alla metodologia v0.2 di Bilancia Civica (quattro etichette ufficiali).
 
@@ -238,7 +238,7 @@ Le regole principali:
 | **Lesioni** a ufficiali o agenti di polizia in servizio | art. 583-quater c.p. | Dal 23/10/2026 il D.L. 190/2026 le rende **procedibili d'ufficio** anche se non gravi (FATTO · Alta, §5.2) |
 | **Danneggiamento** (con violenza o minaccia, o in occasione di manifestazioni in luogo pubblico) | art. 635 c.p. | Il D.L. 190/2026 prevede l'aggravante del gruppo organizzato di almeno 5 persone (art. 635.1) |
 | **Devastazione e saccheggio** | art. 419 c.p. | Reato molto grave. Il D.L. 190/2026 aumenta la pena se commesso in manifestazioni su beni in luoghi di vendita o deposito |
-| **Blocco stradale o ferroviario con il proprio corpo** | [art. 1-bis d.lgs. 66/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66), come modificato dall'art. 14 D.L. 48/2025 ([L. 80/2025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-09;80)) | **[FATTO]** Da illecito amministrativo è tornato **reato**: reclusione fino a 1 mese o multa fino a 300 €; **da 6 mesi a 2 anni se commesso da più persone riunite**. Ostruire la strada con **oggetti** è un delitto più grave (art. 1 d.lgs. 66/1948). **[FATTO]** La Procura di Torino ha sollevato una questione di legittimità costituzionale sul comma relativo alle "più persone riunite", per contrasto con gli artt. 17, 40, 3, 27 e 77 Cost. ([memoria PM, pubblicata su giurisprudenzapenale.com](https://www.giurisprudenzapenale.com/wp-content/uploads/2026/06/26-10835-MEMORIA-PM-2.pdf)). **[DA VERIFICARE]** Non risulta ancora una decisione della Corte costituzionale. |
+| **Blocco stradale o ferroviario con il proprio corpo** | [art. 1-bis d.lgs. 66/1948](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-01-22;66), come modificato dall'art. 14 D.L. 48/2025 ([L. 80/2025](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-09;80)) | **[FATTO]** Da illecito amministrativo è tornato **reato**: reclusione fino a 1 mese o multa fino a 300 €; **da 6 mesi a 2 anni se commesso da più persone riunite**. Ostruire la strada con **oggetti** è un delitto più grave (art. 1 d.lgs. 66/1948). **[FATTO]** Con una memoria del 20/05/2026 la Procura di Torino ha chiesto al giudice di sollevare una questione di legittimità costituzionale sul comma relativo alle "più persone riunite", per contrasto con gli artt. 17, 40, 3, 27 e 77 Cost. ([memoria PM, pubblicata su giurisprudenzapenale.com](https://www.giurisprudenzapenale.com/wp-content/uploads/2026/06/26-10835-MEMORIA-PM-2.pdf)). **[DA VERIFICARE]** Non risulta un'ordinanza di rimessione né una decisione della Corte costituzionale. |
 | **Interruzione di pubblico servizio** | art. 340 c.p. | **[DA VERIFICARE]** Manca: testo vigente dopo le modifiche del 2025. Verifica: Normattiva multivigente |
 | **Travisamento** (volto coperto) in manifestazione | art. 5 L. 152/1975 | Contravvenzione |
 | **Porto di oggetti atti a offendere** senza giustificato motivo | art. 4 L. 110/1975 | |
@@ -415,7 +415,8 @@ Gli scioperi proclamati sono elencati sul [prospetto MIT](https://scioperi.mit.g
 **Esempi del periodo** (fonte: [prospetto MIT](https://scioperi.mit.gov.it/mit2/public/scioperi)):
 - **[FATTO]** sciopero generale USB del **30/10/2026**, con adesioni di altre sigle di base;
 - **[FATTO]** sciopero generale CGIL annunciato per il **20/11/2026** ([ANSA](https://www.ansa.it/sito/notizie/politica/2026/10/17/landini-in-piazza-a-roma-sciopero-generale-il-20-novembre_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html)).
-- **[DA VERIFICARE]** Eventuali delibere della Commissione su questi scioperi. Manca: consultazione delle delibere. Verifica: [cgsse.it](https://www.cgsse.it) e prospetto MIT, prima della data.
+- **[FATTO · Alta]** Con la [delibera n. 26/320 del 22/10/2026](https://www.cgsse.it/sites/default/files/2026-10/gen_320_2026.pdf) la Commissione di garanzia ha segnalato al Ministro delle infrastrutture e dei trasporti, ai sensi dell'art. 13, c. 1, lett. f, L. 146/1990, il «fondato pericolo di pregiudizio grave ed imminente» alla libertà di circolazione per lo sciopero generale USB del 30/10, che non ha escluso i settori dei trasporti in franchigia dal 30/10 al 5/11 per la commemorazione dei defunti.
+- **[DA VERIFICARE]** Un'eventuale ordinanza di precettazione (art. 8 L. 146/1990) per lo sciopero del 30/10 ed eventuali delibere della Commissione sullo sciopero del 20/11. Manca: un'ordinanza o una delibera pubblicata su fonte primaria. Verifica: sito del MIT, prospetto MIT e [cgsse.it](https://www.cgsse.it), prima delle date.
 
 **Norme:** art. 40 Cost.; L. 146/1990 artt. 1, 2, 4, 8, 13; L. 83/2000.
 
@@ -499,7 +500,7 @@ Gli scioperi proclamati sono elencati sul [prospetto MIT](https://scioperi.mit.g
 | 4a | Bengala e fumogeni nel 420-bis | Da verificare (la procedibilità d'ufficio delle lesioni agli agenti è chiarita in §5.2) | Dossier dei Servizi studi sull'AC 3159 |
 | 5 | Importi in euro delle sanzioni della L. 146/1990 (artt. 4 e 9) | **Chiuso**: importi in euro nel testo vigente su Normattiva (§2.2) | — |
 | 6 | Testo vigente dell'art. 340 c.p. e dell'art. 635 c.p. dopo il 2025 | Non verificato in questa versione | Normattiva multivigente |
-| 7 | Questione di costituzionalità sull'art. 1-bis d.lgs. 66/1948 (blocco stradale) | Sollevata (Procura di Torino), decisione non trovata | Sito della Corte costituzionale |
+| 7 | Questione di costituzionalità sull'art. 1-bis d.lgs. 66/1948 (blocco stradale) | La Procura di Torino ha chiesto al giudice di sollevarla (memoria del 20/05/2026); ordinanza di rimessione e decisione della Corte non trovate | Sito della Corte costituzionale e GU 1ª serie speciale |
 | 8 | Codice di autoregolamentazione dell'autotrasporto: aggiornamenti successivi al 2001 | Non verificato (sito CGSSE non raggiungibile il 21/10) | cgsse.it |
 | 9 | Coordinamento tra le sentenze 90/1970 e 11/1979 e il nuovo testo dell'art. 18 TULPS | Da approfondire | Testo vigente e dottrina |
 | 10 | Modalità esatte delle intimazioni (artt. 22-23 TULPS) | Da verificare sul testo vigente | Normattiva |
