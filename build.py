@@ -80,6 +80,68 @@ MAPPA_LINK.update({"LICENSE": REPO_URL + "/blob/main/LICENSE",
                    "LICENSE-TESTI": REPO_URL + "/blob/main/LICENSE-TESTI", "README.md": "index.html",
                    "DATI.md": REPO_URL + "/blob/main/DATI.md"})
 
+# Titolo (<title>) e descrizione per motori di ricerca e anteprime dei link, pagina per pagina.
+# Dicono solo di cosa parla la pagina: nessuna affermazione nuova. Il titolo dei dati aperti
+# (affermazioni.json, campo pagina.titolo) resta quello dell'intestazione del file sorgente.
+SEO = {
+    "index.html": ("Decreto sicurezza: cosa cambia · Bilancia Civica",
+                   "Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge e cosa cambia, spiegato in modo semplice e con le fonti ufficiali."),
+    "diritti.html": ("Diritto di manifestare e di sciopero · Bilancia Civica",
+                     "Diritto di manifestare, riunione e sciopero: le regole di legge, cosa è protetto, cosa è punibile e cosa cambia con il decreto sicurezza."),
+    "presidio.html": ("Presidio: preavviso al questore e regole · Bilancia Civica",
+                      "Organizzare un presidio: serve un permesso? Il preavviso al questore, i passaggi previsti e le sanzioni, spiegati in breve e con le fonti."),
+    "corteo.html": ("Corteo: regole e cosa cambia · Bilancia Civica",
+                    "Regole per i cortei: cosa è consentito, cosa è punibile e cosa cambia con il decreto sicurezza (D.L. 190/2026), in breve e con le fonti."),
+    "sciopero.html": ("Sciopero: regole e precettazione · Bilancia Civica",
+                      "Regole dello sciopero: preavviso, servizi pubblici essenziali, settore privato, precettazione e fermo dell'autotrasporto, con le fonti."),
+    "decreto.html": ("Decreto sicurezza D.L. 190/2026 · Bilancia Civica",
+                     "Decreto sicurezza (D.L. 190/2026), cosa cambia: le misure punto per punto, lo stato della conversione e i punti aperti, con le fonti."),
+    "esempio.html": ("Corteo e decreto sicurezza: la scheda · Bilancia Civica",
+                     "Scheda completa: cosa cambia con il decreto sicurezza (D.L. 190/2026) per chi partecipa a un corteo, con etichette e fonti ufficiali."),
+    "stato.html": ("Decreto sicurezza: a che punto è · Bilancia Civica",
+                   "A che punto sono gli atti seguiti: conversione in legge del decreto sicurezza (D.L. 190/2026) e aiuti all'autotrasporto, con le fonti."),
+    "impatto.html": ("Simulatore d'impatto (in sviluppo) · Bilancia Civica",
+                     "Come funzionerà il simulatore d'impatto di Bilancia Civica: risultati come intervalli, ipotesi dichiarate e nessun dato salvato."),
+    "alternative.html": ("Alternative a confronto · Bilancia Civica",
+                         "Il formato con cui Bilancia Civica metterà a confronto le diverse opzioni proposte su una misura. Pagina in preparazione."),
+    "fonti.html": ("Fonti: leggi, sentenze, atti · Bilancia Civica",
+                   "Da dove vengono le informazioni di Bilancia Civica: Gazzetta Ufficiale, Normattiva, sentenze e atti ufficiali, in ordine di affidabilità."),
+    "metodo.html": ("Metodo: come verifichiamo · Bilancia Civica",
+                    "Come lavora Bilancia Civica: le etichette FATTO, STIMA, INTERPRETAZIONE e DA VERIFICARE, le fonti, le stime e il registro delle correzioni."),
+    "contribuisci.html": ("Contribuire e segnalare errori · Bilancia Civica",
+                          "Come contribuire a Bilancia Civica: segnalare un errore, proporre una fonte o una correzione su GitHub, con le regole da seguire."),
+    "bussola-completa.html": ("Bussola Diritti, testo completo · Bilancia Civica",
+                              "Riunione, manifestazione e sciopero: la versione completa della Bussola Diritti, con tutte le norme, le domande frequenti e le fonti."),
+    "analisi-dl-190-2026.html": ("Analisi del decreto sicurezza · Bilancia Civica",
+                                 "Analisi tecnica, articolo per articolo, del decreto sicurezza (D.L. 190/2026) e scheda sugli aiuti all'autotrasporto, con le fonti."),
+    "glossario.html": ("Glossario: parole di legge · Bilancia Civica",
+                       "Le parole difficili spiegate in una o due frasi: decreto-legge, conversione, questore, preavviso, precettazione, fermo preventivo e altre."),
+    "chi-siamo.html": ("Chi siamo e contatti · Bilancia Civica",
+                       "Che cos'è Bilancia Civica, progetto civico apartitico e open source: chi lo gestisce e come segnalare un errore o chiedere una rettifica."),
+    "note-legali.html": ("Note legali e privacy · Bilancia Civica",
+                         "Note legali di Bilancia Civica: natura dei contenuti, limiti di responsabilità, diritto d'autore, licenze dei testi e del codice, privacy."),
+    "dati.html": ("Dati aperti in JSON · Bilancia Civica",
+                  "Le affermazioni di Bilancia Civica in formato JSON, con etichetta, certezza, articoli di legge citati e fonti. Licenza CC BY-SA 4.0."),
+    "404.html": ("Pagina non trovata · Bilancia Civica",
+                 "La pagina che cerchi non esiste o è stata spostata. Riparti dalla home, da Diritti e regole, dal Decreto sicurezza o dal Glossario."),
+}
+# Immagine per le anteprime dei link (Open Graph), 1200x630, in static/.
+OG_IMMAGINE = "og-bilancia-civica.png"
+OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sicurezza: presidi, cortei, "
+          "scioperi. Con le fonti.")
+
+# «Ultime novità» in home: al massimo 3 voci, solo aggiornamenti già pubblicati sul sito.
+# (data gg/mm/aaaa, testo, link interno). Sono inserite dopo l'estrazione dei dati aperti,
+# quindi non diventano affermazioni in affermazioni.json.
+NOVITA = [
+    ("27/10/2026", "Sciopero generale del 20 novembre: aggiunta l'indicazione immediata della Commissione di garanzia alla CGIL.",
+     "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
+    ("27/10/2026", "Corteo: corretta la frase sull'arresto dopo il fatto sulla base di video o foto.",
+     "corteo.html"),
+    ("27/10/2026", "Stato degli atti: verifica del decreto sicurezza aggiornata al 27 ottobre.",
+     "stato.html"),
+]
+
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "
        "base-uri 'none'; form-action 'none'")
 
@@ -383,6 +445,7 @@ MODELLO = """<!doctype html>
 <meta name="referrer" content="no-referrer">
 <title>{titolo_pagina}</title>
 <meta name="description" content="{descrizione}">
+{meta_social}
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -582,6 +645,69 @@ def dati_spiegazione(nome: str) -> str:
     return SPIEGAZIONE[nome]
 
 
+def meta_social(out: str, titolo: str, descrizione: str) -> str:
+    """Canonical, Open Graph e Twitter card (letti dai servizi che mostrano l'anteprima dei link)."""
+    e = lambda t: html.escape(t, quote=True)
+    url = dati.BASE_SITO + ("" if out == "index.html" else out)
+    righe = []
+    if out == "404.html":
+        righe.append('<meta name="robots" content="noindex">')
+    else:
+        righe.append(f'<link rel="canonical" href="{e(url)}">')
+    righe += [
+        '<meta property="og:type" content="website">',
+        '<meta property="og:site_name" content="Bilancia Civica">',
+        '<meta property="og:locale" content="it_IT">',
+        f'<meta property="og:title" content="{e(titolo)}">',
+        f'<meta property="og:description" content="{e(descrizione)}">',
+    ]
+    if out != "404.html":
+        righe.append(f'<meta property="og:url" content="{e(url)}">')
+    righe += [
+        f'<meta property="og:image" content="{e(dati.BASE_SITO + OG_IMMAGINE)}">',
+        '<meta property="og:image:type" content="image/png">',
+        '<meta property="og:image:width" content="1200">',
+        '<meta property="og:image:height" content="630">',
+        f'<meta property="og:image:alt" content="{e(OG_ALT)}">',
+        '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:image:alt" content="{e(OG_ALT)}">',
+    ]
+    return "\n".join(righe)
+
+
+def blocco_novita() -> str:
+    """Riquadro «Ultime novità» della home (HTML statico, nessuno script)."""
+    if not NOVITA:
+        return ""
+    voci = []
+    for data, testo, link in NOVITA[:3]:
+        g, m, a = (int(x) for x in data.split("/"))
+        voci.append(f'<li><time datetime="{a:04d}-{m:02d}-{g:02d}">{g} {MESI[m - 1]} {a}</time> · '
+                    f'<a href="{html.escape(link, quote=True)}">{html.escape(testo)}</a></li>')
+    return ('<section class="novita" aria-labelledby="ultime-novita"><h2 id="ultime-novita">Ultime novità</h2><ul>'
+            + "".join(voci) + f'</ul><p><a href="{REPO_URL}/blob/main/CORREZIONI.md" rel="noopener noreferrer">'
+            'Tutte le correzioni nel registro</a></p></section>\n')
+
+
+def scrivi_sitemap(pagine: list[str]) -> None:
+    """sitemap.xml (tutte le pagine pubbliche tranne 404, senza lastmod: la build resta deterministica) e robots.txt."""
+    righe = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for out in pagine:
+        if out == "404.html" or not out.endswith(".html"):
+            continue
+        url = dati.BASE_SITO + ("" if out == "index.html" else out)
+        righe.append(f"  <url><loc>{html.escape(url, quote=False)}</loc></url>")
+    righe.append("</urlset>")
+    (OUT / "sitemap.xml").write_text("\n".join(righe) + "\n", encoding="utf-8")
+    (OUT / "robots.txt").write_text(
+        "# Bilancia Civica: tutte le pagine sono pubbliche.\n"
+        "# Nota: i motori di ricerca leggono solo il robots.txt alla radice del dominio\n"
+        "# (https://bilanciacivica.github.io/robots.txt); la sitemap si invia in Google Search Console.\n"
+        "User-agent: *\nAllow: /\n\n"
+        f"Sitemap: {dati.BASE_SITO}sitemap.xml\n", encoding="utf-8")
+
+
 def costruisci() -> list[str]:
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -625,10 +751,17 @@ def costruisci() -> list[str]:
             corpo += ('<aside class="legenda" aria-label="Come leggere le etichette"><p><strong>Come leggere le etichette</strong></p><ul>'
                       + "".join(f'<li><span class="et et-{ETICHETTE[n]}">{n}</span> {html.escape(s)}</li>' for n, s in SPIEGAZIONE.items())
                       + '</ul><p>Alta, Media o Bassa indicano quanto è solida l\'informazione. <a href="glossario.html">Glossario</a> · <a href="metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare">Metodo completo</a></p></aside>')
+        if out == "index.html":
+            marcatore = '<h2 id="cosa-vuoi-capire">'
+            if marcatore not in corpo:
+                raise ValueError("home: manca il titolo «Cosa vuoi capire?» per le Ultime novità")
+            corpo = corpo.replace(marcatore, blocco_novita() + marcatore, 1)
+        titolo_seo, descr_seo = SEO[out]
         pagina = MODELLO.format(
             csp=CSP,
-            titolo_pagina=html.escape(titolo if out == "index.html" else f"{titolo} · Bilancia Civica"),
-            descrizione=html.escape(meta.get("descrizione", "Bilancia Civica: strumento civico apartitico e open source che spiega leggi e decreti con fonti verificabili.")),
+            titolo_pagina=html.escape(titolo_seo),
+            descrizione=html.escape(descr_seo),
+            meta_social=meta_social(out, titolo_seo, descr_seo),
             classe_body=' class="home"' if out == "index.html" else "",
             menu=menu(out, gruppo),
             sottomenu=sottomenu(out) if gruppo == "diritti" or out == "bussola-completa.html" else "",
@@ -638,7 +771,9 @@ def costruisci() -> list[str]:
         )
         (OUT / out).write_text(pagina, encoding="utf-8")
         scritte.append(out)
+    scrivi_sitemap(scritte)
     scritte += scrivi_dati(tutte_affermazioni, controlli, data_iso)
+    scritte += ["sitemap.xml", "robots.txt"]
     return scritte
 
 
