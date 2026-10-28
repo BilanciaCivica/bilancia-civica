@@ -188,3 +188,11 @@ abbr[title]{text-decoration:underline dotted;text-underline-offset:.15em;cursor:
   .menu a, .sottomenu a { min-height: 44px; display: inline-flex; align-items: center; }
   .approfondire a, .legenda a { display: inline-block; padding: .4rem 0; }
 }
+
+/* Ultime novità (home) */
+.novita { margin: 1.1rem 0; padding: .7rem 1.1rem; border: 1px solid var(--bordo); border-radius: 10px; background: var(--box-nota); }
+.novita h2 { font-size: 1.05rem; margin: 0 0 .35rem; padding: 0; border: 0; }
+.novita ul { margin: 0; padding-left: 1.1rem; }
+.novita li { margin: .2rem 0; }
+.novita time { font-weight: 600; white-space: nowrap; }
+.novita p { margin: .4rem 0 0; font-size: .93rem; }
