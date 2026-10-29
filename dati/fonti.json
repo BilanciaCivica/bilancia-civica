@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-29T18:35:00+01:00",
+  "generato_il": "2026-10-29T18:39:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -44,16 +44,17 @@
       "url": "https://scioperi.mit.gov.it/mit2/public/scioperi",
       "titolo": "prospetto MIT",
       "altri_titoli": [
-        "prospetto scioperi del Ministero delle infrastrutture e dei trasporti"
+        "prospetto scioperi del Ministero delle infrastrutture e dei trasporti",
+        "prospetto ufficiale del MIT"
       ],
       "ufficiale": true,
       "dominio": "scioperi.mit.gov.it",
       "affermazioni": [
         "bussola-completa-1073289aa2",
         "bussola-completa-1400898a4b",
+        "bussola-completa-2f69977915",
         "bussola-completa-7430bc2e53",
-        "bussola-completa-868bac7965",
-        "bussola-completa-92fb4cd1ac",
+        "bussola-completa-9bd93eabcd",
         "bussola-completa-c5d0966426",
         "bussola-completa-ddbfb9d071",
         "bussola-completa-ddfc6f9fac"
@@ -991,8 +992,7 @@
         "bussola-completa-765459d838",
         "bussola-completa-8163e906b1",
         "bussola-completa-825704140b",
-        "bussola-completa-868bac7965",
-        "bussola-completa-92fb4cd1ac",
+        "bussola-completa-9bd93eabcd",
         "bussola-completa-a25bd9780d",
         "bussola-completa-aa306b8685",
         "bussola-completa-d65245d533",
@@ -1254,7 +1254,7 @@
       "ufficiale": false,
       "dominio": "www.trentinotrasporti.it",
       "affermazioni": [
-        "bussola-completa-868bac7965"
+        "bussola-completa-9bd93eabcd"
       ]
     }
   ]

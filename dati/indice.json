@@ -4,7 +4,7 @@
   "repository": "https://github.com/BilanciaCivica/bilancia-civica",
   "documentazione": "https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-29T18:35:00+01:00",
+  "generato_il": "2026-10-29T18:39:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -12,7 +12,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "testi_aggiornati_al": "29/10/2026, ore 18:35 (ora di Roma)",
+  "testi_aggiornati_al": "29/10/2026, ore 18:39 (ora di Roma)",
   "nota_generato_il": "Coincide con la data di aggiornamento dei testi: due generazioni dagli stessi testi producono file identici.",
   "etichette": {
     "FATTO": "si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale)",
