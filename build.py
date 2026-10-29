@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "27/10/2026, ore 19:16 (ora di Roma)"
+AGGIORNATO = "29/10/2026, ore 18:35 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -89,11 +89,11 @@ SEO = {
     "diritti.html": ("Diritto di manifestare e di sciopero · Bilancia Civica",
                      "Diritto di manifestare, riunione e sciopero: le regole di legge, cosa è protetto, cosa è punibile e cosa cambia con il decreto sicurezza."),
     "presidio.html": ("Presidio: preavviso al questore e regole · Bilancia Civica",
-                      "Organizzare un presidio: serve un permesso? Il preavviso al questore, i passaggi previsti e le sanzioni, spiegati in breve e con le fonti."),
+                      "Organizzare un presidio: non serve un permesso ma un preavviso al questore. I passaggi previsti e le sanzioni, spiegati in breve e con le fonti."),
     "corteo.html": ("Corteo: regole e cosa cambia · Bilancia Civica",
                     "Regole per i cortei: cosa è consentito, cosa è punibile e cosa cambia con il decreto sicurezza (D.L. 190/2026), in breve e con le fonti."),
     "sciopero.html": ("Sciopero: regole e precettazione · Bilancia Civica",
-                      "Regole dello sciopero: preavviso, servizi pubblici essenziali, settore privato, precettazione e fermo dell'autotrasporto, con le fonti."),
+                      "Regole dello sciopero: preavviso, servizi pubblici essenziali, settore privato, precettazione e fermi dei servizi di autotrasporto, con le fonti."),
     "decreto.html": ("Decreto sicurezza D.L. 190/2026 · Bilancia Civica",
                      "Decreto sicurezza (D.L. 190/2026), cosa cambia: le misure punto per punto, lo stato della conversione e i punti aperti, con le fonti."),
     "esempio.html": ("Corteo e decreto sicurezza: la scheda · Bilancia Civica",
@@ -134,12 +134,12 @@ OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sic
 # (data gg/mm/aaaa, testo, link interno). Sono inserite dopo l'estrazione dei dati aperti,
 # quindi non diventano affermazioni in affermazioni.json.
 NOVITA = [
+    ("29/10/2026", "Sciopero del 30 ottobre: aggiunta l'ordinanza del Ministero dei trasporti che rinvia lo sciopero in alcuni settori dei trasporti.",
+     "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
     ("27/10/2026", "Sciopero generale del 20 novembre: aggiunta l'indicazione immediata della Commissione di garanzia alla CGIL.",
      "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
     ("27/10/2026", "Corteo: corretta la frase sull'arresto dopo il fatto sulla base di video o foto.",
      "corteo.html"),
-    ("27/10/2026", "Stato degli atti: verifica del decreto sicurezza aggiornata al 27 ottobre.",
-     "stato.html"),
 ]
 
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "
