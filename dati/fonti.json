@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-29T18:39:00+01:00",
+  "generato_il": "2026-10-29T18:47:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 72,
+  "totale": 75,
   "fonti": [
     {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
@@ -18,6 +18,26 @@
       "dominio": "documenti.camera.it",
       "affermazioni": [
         "stato-827e98a830"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/27/leg.19.bol0754.data20261027.com04.pdf",
+      "titolo": "bollettino della Camera, pag. 90",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "stato-6758557c78"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/28/leg.19.bol0755.data20261028.com02.pdf",
+      "titolo": "bollettino della Camera, pag. 42",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "stato-cc39523147"
       ]
     },
     {
@@ -106,6 +126,16 @@
       ]
     },
     {
+      "url": "https://www.camera.it/leg19/126?idDocumento=3159&leg=19",
+      "titolo": "scheda AC 3159",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "stato-d6f77592bc"
+      ]
+    },
+    {
       "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3159",
       "titolo": "camera.it",
       "altri_titoli": [
@@ -120,10 +150,12 @@
         "decreto-e516417bb8",
         "stato-0fec9cf14b",
         "stato-48de1a4681",
+        "stato-6758557c78",
         "stato-7dc7b67df9",
         "stato-8ee76a0280",
         "stato-92ef125c46",
-        "stato-bf08471979"
+        "stato-bf08471979",
+        "stato-cc39523147"
       ]
     },
     {
@@ -445,10 +477,12 @@
         "stato-0fec9cf14b",
         "stato-3d6a12bf48",
         "stato-48de1a4681",
+        "stato-6758557c78",
         "stato-7dc7b67df9",
         "stato-8ee76a0280",
         "stato-92ef125c46",
-        "stato-bf08471979"
+        "stato-bf08471979",
+        "stato-cc39523147"
       ]
     },
     {
@@ -481,19 +515,6 @@
       ]
     },
     {
-      "url": "https://www.governo.it/it/archivio-consiglio-dei-ministri",
-      "titolo": "Consiglio dei ministri",
-      "altri_titoli": [
-        "archivio del Consiglio dei ministri"
-      ],
-      "ufficiale": true,
-      "dominio": "www.governo.it",
-      "affermazioni": [
-        "stato-e422957c95",
-        "stato-ea7b428ec2"
-      ]
-    },
-    {
       "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
       "titolo": "Comunicato CdM n. 193",
       "altri_titoli": [
@@ -510,10 +531,12 @@
         "esempio-2d79a35496",
         "stato-0fec9cf14b",
         "stato-48de1a4681",
+        "stato-6758557c78",
         "stato-7dc7b67df9",
         "stato-8ee76a0280",
         "stato-92ef125c46",
-        "stato-bf08471979"
+        "stato-bf08471979",
+        "stato-cc39523147"
       ]
     },
     {
@@ -525,6 +548,17 @@
       "affermazioni": [
         "analisi-dl-190-2026-7059eefe64",
         "stato-99631721dd"
+      ]
+    },
+    {
+      "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
+      "titolo": "comunicato n. 195",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.governo.it",
+      "affermazioni": [
+        "stato-e129fbb965",
+        "stato-f498c8afe3"
       ]
     },
     {
