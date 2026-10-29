@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "29/10/2026, ore 18:39 (ora di Roma)"
+AGGIORNATO = "29/10/2026, ore 18:47 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -134,12 +134,12 @@ OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sic
 # (data gg/mm/aaaa, testo, link interno). Sono inserite dopo l'estrazione dei dati aperti,
 # quindi non diventano affermazioni in affermazioni.json.
 NOVITA = [
+    ("29/10/2026", "Stato degli atti: iniziato in Commissione Giustizia l'esame del decreto sicurezza; legge di bilancio approvata dal Consiglio dei ministri.",
+     "stato.html"),
     ("29/10/2026", "Sciopero del 30 ottobre: aggiunta l'ordinanza del Ministero dei trasporti che rinvia lo sciopero in alcuni settori dei trasporti.",
      "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
     ("27/10/2026", "Sciopero generale del 20 novembre: aggiunta l'indicazione immediata della Commissione di garanzia alla CGIL.",
      "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
-    ("27/10/2026", "Corteo: corretta la frase sull'arresto dopo il fatto sulla base di video o foto.",
-     "corteo.html"),
 ]
 
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "

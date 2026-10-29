@@ -4,14 +4,14 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 ---
 # Stato degli atti seguiti
 
-*Situazione verificata al 27/10/2026, ore 18:56 (ora di Roma) per il decreto sicurezza e la legge di bilancio; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
+*Situazione verificata al 29/10/2026, ore 18:46 (ora di Roma) per il decreto sicurezza e la legge di bilancio; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
 
 ::: inbreve
 **In breve**
 
 - **Decreto sicurezza** (decreto-legge n. 190 del 22 ottobre 2026): in vigore dal 23 ottobre 2026; il Parlamento deve convertirlo in legge entro il **21 dicembre 2026**, altrimenti perde efficacia dall'inizio. [FATTO · Alta]
 - **Aiuti all'autotrasporto**: il credito d'imposta per le spese di marzo–agosto 2026 ha una base di legge (art. 3 D.L. 33/2026). Per le spese dal 1° settembre al 5 ottobre 2026 lo prevede ora il decreto-legge n. 193 del 23 ottobre 2026, in vigore dal 24 ottobre e da convertire in legge entro il 22 dicembre 2026. [FATTO · Alta]
-- **Legge di bilancio 2027**: al 27 ottobre 2026 non risulta approvata dal [Consiglio dei ministri](https://www.governo.it/it/archivio-consiglio-dei-ministri) (ultima riunione in archivio: n. 194 del 22/10/2026), quindi nessuna stima. [FATTO · Media: verifica sui comunicati di governo.it]
+- **Legge di bilancio 2027**: il disegno di legge di bilancio 2027-2029 è stato approvato dal Consiglio dei ministri il 28/10/2026 ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta] Al 29/10 non risulta ancora presentato in Parlamento, quindi per ora nessuna stima. [DA VERIFICARE]
 :::
 
 
@@ -26,11 +26,15 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 | Pubblicazione in Gazzetta Ufficiale | ✅ [GU Serie Generale n. 246 del 22/10/2026](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) |
 | Entrata in vigore | ✅ 23/10/2026 (art. 10) |
 | Presentazione alle Camere | ✅ AC 3159, presentato alla Camera il 22/10/2026; assegnato alla II Commissione (Giustizia) in sede referente il 22/10/2026 ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)) |
+| Parere della Commissione IV (Difesa) | ✅ Parere favorevole del 27/10/2026, relatore Comba, sull'art. 8 (militari a Milano) ([bollettino della Camera, pag. 90](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/27/leg.19.bol0754.data20261027.com04.pdf)) [FATTO · Alta] |
+| Esame nella Commissione II (Giustizia) | ✅ Iniziato il 28/10/2026, relatore Ciro Maschio; seguito rinviato ad altra seduta ([bollettino della Camera, pag. 42](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/28/leg.19.bol0755.data20261028.com02.pdf)) [FATTO · Alta] |
 | Scadenza per la conversione (60 giorni, art. 77 Cost.) | **21/12/2026** |
 
 <!-- dati: atti 10 = D.L. 190/2026 -->
 <!-- dati: intestazione-precedente -->
 [FATTO · Alta] per tutte le righe con data (fonti: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), [governo.it](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884), [camera.it](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)).
+
+[DA VERIFICARE] Termine per gli emendamenti e data dell'esame in Aula: non ancora indicati nelle fonti. Verifica sulla [scheda AC 3159](https://www.camera.it/leg19/126?idDocumento=3159&leg=19).
 
 Cosa prevede: [Decreto sicurezza](decreto.html) · Testo: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) · [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190)
 
@@ -49,7 +53,9 @@ Dettaglio, discrepanze e fonti: [scheda autotrasporto nell'analisi v0.2](analisi
 
 ## Legge di bilancio 2027
 
-Al 24/10/2026 non risulta approvata dal Consiglio dei ministri (verifica sull'[archivio del Consiglio dei ministri](https://www.governo.it/it/archivio-consiglio-dei-ministri): l'ultimo comunicato sul bilancio, del 13/10/2026, riguarda il Documento programmatico di bilancio): **nessuna stima**. [FATTO · Media]
+Il 28/10/2026 il Consiglio dei ministri ha approvato il disegno di legge di bilancio di previsione dello Stato per il 2027 e bilancio pluriennale 2027-2029 ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). Secondo il Governo la manovra vale circa 26 miliardi di euro nel 2027 e 27 miliardi nel 2028. [FATTO · Alta: è quanto afferma il Governo]
+
+[DA VERIFICARE] Il testo non è ancora pubblicato, quindi per ora nessuna stima. Numero dell'atto (AC o AS) e Camera da cui parte l'esame.
 
 ::: nota
 **Come seguire gli aggiornamenti.** Il sito non raccoglie iscrizioni né contatti. Per sapere quando questa pagina cambia puoi «seguire» il repository su GitHub (pulsante *Watch*) o consultare la [cronologia delle modifiche]({{REPO}}/commits/main).

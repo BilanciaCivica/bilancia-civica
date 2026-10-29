@@ -50,6 +50,6 @@ Per ogni domanda ci sarà sempre la risposta «Preferisco non dirlo».
 | Credito d'imposta gasolio autotrasporto, marzo–agosto 2026 | Base normativa pubblicata (D.L. 33/2026, decreti attuativi MIT) | **Possibile** solo per le imprese di autotrasporto, come intervallo (riparametrazione in corso) |
 | Credito d'imposta autotrasporto, 1/9–5/10/2026 | Previsto dal D.L. 193/2026, in vigore dal 24/10/2026 e da convertire in legge | **Nessuna stima** per ora |
 | D.L. 190/2026 (decreto sicurezza) | In vigore dal 23/10/2026 | Misure penali e di polizia, senza effetti economici diretti per i cittadini da stimare → [Decreto sicurezza](decreto.html) |
-| Legge di bilancio 2027 | Non ancora approvata dal CdM | **Nessuna stima** |
+| Legge di bilancio 2027 | Disegno di legge approvato dal CdM il 28/10/2026; testo non ancora pubblicato | **Nessuna stima** |
 
 Metodo completo: [Metodo, §1.3 e §1.7](metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare).
