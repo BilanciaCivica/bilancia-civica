@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "29/10/2026, ore 18:47 (ora di Roma)"
+AGGIORNATO = "29/10/2026, ore 19:40 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -52,6 +52,8 @@ PAGINE = [
     ("decreto.html", "contenuti/decreto.md", "Decreto sicurezza", "diritti"),
     ("esempio.html", "contenuti/esempio.md", None, "diritti"),
     ("stato.html", "contenuti/stato.md", None, None),
+    ("bollo-auto.html", "contenuti/bollo-auto.md", None, None),
+    ("bollo-sono-esente.html", "contenuti/bollo-sono-esente.md", None, None),
     ("impatto.html", "contenuti/impatto.md", None, None),
     ("alternative.html", "contenuti/alternative.md", None, None),
     ("fonti.html", "contenuti/fonti.md", None, None),
@@ -84,6 +86,10 @@ MAPPA_LINK.update({"LICENSE": REPO_URL + "/blob/main/LICENSE",
 # Dicono solo di cosa parla la pagina: nessuna affermazione nuova. Il titolo dei dati aperti
 # (affermazioni.json, campo pagina.titolo) resta quello dell'intestazione del file sorgente.
 SEO = {
+    "bollo-auto.html": ("Bollo auto 2027: chi è esente (D.L. 162/2026) · Bilancia Civica",
+                        "Esenzione dal bollo 2027: un solo veicolo per persona, auto a benzina o gasolio fino a 80 kW oppure moto a benzina. Requisiti, più veicoli e punti aperti."),
+    "bollo-sono-esente.html": ("Bollo 2027: sono esente? · Bilancia Civica",
+                               "Cinque domande per capire se il tuo veicolo può rientrare nell'esenzione dal bollo 2027 del D.L. 162/2026. Orientamento, non una risposta ufficiale."),
     "index.html": ("Decreto sicurezza: cosa cambia · Bilancia Civica",
                    "Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge e cosa cambia, spiegato in modo semplice e con le fonti ufficiali."),
     "diritti.html": ("Diritto di manifestare e di sciopero · Bilancia Civica",
@@ -99,7 +105,7 @@ SEO = {
     "esempio.html": ("Corteo e decreto sicurezza: la scheda · Bilancia Civica",
                      "Scheda completa: cosa cambia con il decreto sicurezza (D.L. 190/2026) per chi partecipa a un corteo, con etichette e fonti ufficiali."),
     "stato.html": ("Decreto sicurezza: a che punto è · Bilancia Civica",
-                   "A che punto sono gli atti seguiti: conversione in legge del decreto sicurezza (D.L. 190/2026) e aiuti all'autotrasporto, con le fonti."),
+                   "A che punto sono gli atti seguiti: decreto sicurezza (D.L. 190/2026), aiuti all'autotrasporto, bollo auto (D.L. 162/2026) e legge di bilancio, con le fonti."),
     "impatto.html": ("Simulatore d'impatto (in sviluppo) · Bilancia Civica",
                      "Come funzionerà il simulatore d'impatto di Bilancia Civica: risultati come intervalli, ipotesi dichiarate e nessun dato salvato."),
     "alternative.html": ("Alternative a confronto · Bilancia Civica",
@@ -115,7 +121,7 @@ SEO = {
     "analisi-dl-190-2026.html": ("Analisi del decreto sicurezza · Bilancia Civica",
                                  "Analisi tecnica, articolo per articolo, del decreto sicurezza (D.L. 190/2026) e scheda sugli aiuti all'autotrasporto, con le fonti."),
     "glossario.html": ("Glossario: parole di legge · Bilancia Civica",
-                       "Le parole difficili spiegate in una o due frasi: decreto-legge, conversione, questore, preavviso, precettazione, fermo preventivo e altre."),
+                       "Le parole difficili spiegate in una o due frasi: decreto-legge, conversione, questore, preavviso, precettazione, fermo preventivo, bollo auto e altre."),
     "chi-siamo.html": ("Chi siamo e contatti · Bilancia Civica",
                        "Che cos'è Bilancia Civica, progetto civico apartitico e open source: chi lo gestisce e come segnalare un errore o chiedere una rettifica."),
     "note-legali.html": ("Note legali e privacy · Bilancia Civica",
@@ -134,11 +140,11 @@ OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sic
 # (data gg/mm/aaaa, testo, link interno). Sono inserite dopo l'estrazione dei dati aperti,
 # quindi non diventano affermazioni in affermazioni.json.
 NOVITA = [
+    ("29/10/2026", "Bollo auto 2027: nuova pagina su chi è esente secondo il D.L. 162/2026 e bussola «Sono esente?».",
+     "bollo-auto.html"),
     ("29/10/2026", "Stato degli atti: iniziato in Commissione Giustizia l'esame del decreto sicurezza; legge di bilancio approvata dal Consiglio dei ministri.",
      "stato.html"),
     ("29/10/2026", "Sciopero del 30 ottobre: aggiunta l'ordinanza del Ministero dei trasporti che rinvia lo sciopero in alcuni settori dei trasporti.",
-     "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
-    ("27/10/2026", "Sciopero generale del 20 novembre: aggiunta l'indicazione immediata della Commissione di garanzia alla CGIL.",
      "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
 ]
 

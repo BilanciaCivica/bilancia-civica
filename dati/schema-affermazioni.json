@@ -40,7 +40,7 @@
         "nota_etichetta": {"type": ["string", "null"], "description": "Precisazione scritta accanto all'etichetta (es. «lettura redazionale…»)."},
         "etichetta_ereditata": {"type": "boolean", "description": "true se l'etichetta è scritta una volta sola sopra (o sotto) un elenco o una tabella e vale per tutte le voci."},
         "contesto": {"type": ["string", "null"], "description": "Testo vicino utile a capire l'affermazione (intestazione, riga di tabella, frase senza etichetta propria). Non è etichettato."},
-        "tema": {"enum": ["presidi", "cortei", "sciopero", "decreto-sicurezza", "autotrasporto", "legge-di-bilancio", "generale"]},
+        "tema": {"enum": ["presidi", "cortei", "sciopero", "decreto-sicurezza", "autotrasporto", "legge-di-bilancio", "bollo-auto", "generale"]},
         "pagina": {
           "type": "object",
           "additionalProperties": false,

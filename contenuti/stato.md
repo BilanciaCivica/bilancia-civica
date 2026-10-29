@@ -1,16 +1,17 @@
 ---
 titolo: Stato degli atti seguiti
-descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicurezza D.L. 190/2026 e aiuti all'autotrasporto.
+descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicurezza D.L. 190/2026, aiuti all'autotrasporto, bollo auto 2027 e legge di bilancio 2027.
 ---
 # Stato degli atti seguiti
 
-*Situazione verificata al 29/10/2026, ore 18:46 (ora di Roma) per il decreto sicurezza e la legge di bilancio; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
+*Situazione verificata al 29/10/2026, ore 18:46 (ora di Roma) per il decreto sicurezza, la legge di bilancio e il bollo auto 2027 (D.L. 162/2026); per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
 
 ::: inbreve
 **In breve**
 
 - **Decreto sicurezza** (decreto-legge n. 190 del 22 ottobre 2026): in vigore dal 23 ottobre 2026; il Parlamento deve convertirlo in legge entro il **21 dicembre 2026**, altrimenti perde efficacia dall'inizio. [FATTO · Alta]
 - **Aiuti all'autotrasporto**: il credito d'imposta per le spese di marzo–agosto 2026 ha una base di legge (art. 3 D.L. 33/2026). Per le spese dal 1° settembre al 5 ottobre 2026 lo prevede ora il decreto-legge n. 193 del 23 ottobre 2026, in vigore dal 24 ottobre e da convertire in legge entro il 22 dicembre 2026. [FATTO · Alta]
+- **Bollo auto 2027** (decreto-legge n. 162 del 17 settembre 2026, art. 2): in vigore dal 18 settembre 2026; il Parlamento deve convertirlo in legge entro il **16 novembre 2026**. La Commissione Finanze della Camera ha concluso l'esame il 28 ottobre; mancano i voti dell'Aula della Camera e del Senato. [FATTO · Alta]
 - **Legge di bilancio 2027**: il disegno di legge di bilancio 2027-2029 è stato approvato dal Consiglio dei ministri il 28/10/2026 ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta] Al 29/10 non risulta ancora presentato in Parlamento, quindi per ora nessuna stima. [DA VERIFICARE]
 :::
 
@@ -51,11 +52,33 @@ Cosa prevede: [Decreto sicurezza](decreto.html) · Testo: [Gazzetta Ufficiale](h
 
 Dettaglio, discrepanze e fonti: [scheda autotrasporto nell'analisi v0.2](analisi-dl-190-2026.html#3-scheda-parametri-aiuti-allautotrasporto).
 
+## Bollo auto 2027 — D.L. 17 settembre 2026, n. 162
+
+*«Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonché in materia fiscale»*: l'esenzione dal bollo 2027 è all'art. 2.
+
+| Passo | Stato |
+|---|---|
+| Pubblicazione in Gazzetta Ufficiale | ✅ [GU Serie Generale n. 216 del 17/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG) |
+| Entrata in vigore | ✅ 18/09/2026 |
+| Presentazione alle Camere | ✅ AC 3106, presentato alla Camera il 17/09/2026; assegnato alla VI Commissione (Finanze) il 18/09/2026 ([scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)) |
+| Esame in Commissione | ✅ concluso il 28/10/2026, con modifiche all'art. 2 su Regioni e copertura (non su chi è esente) |
+| Voto dell'Aula della Camera | ⏳ da fare |
+| Esame del Senato | ⏳ da fare |
+| Scadenza per la conversione (60 giorni, art. 77 Cost.) | **16/11/2026** |
+| Decreto MEF con le quote per le Regioni | ⏳ entro il 31/03/2027 (art. 2, c. 5) |
+
+<!-- dati: intestazione-precedente -->
+[FATTO · Alta] per tutte le righe con data (fonti: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG), [camera.it](https://www.camera.it/leg19/126?idDocumento=3106&leg=19), [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)).
+
+Cosa prevede: [Bollo auto 2027: chi è esente](bollo-auto.html) · [Sono esente?](bollo-sono-esente.html)
+
 ## Legge di bilancio 2027
 
 Il 28/10/2026 il Consiglio dei ministri ha approvato il disegno di legge di bilancio di previsione dello Stato per il 2027 e bilancio pluriennale 2027-2029 ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). Secondo il Governo la manovra vale circa 26 miliardi di euro nel 2027 e 27 miliardi nel 2028. [FATTO · Alta: è quanto afferma il Governo]
 
 [DA VERIFICARE] Il testo non è ancora pubblicato, quindi per ora nessuna stima. Numero dell'atto (AC o AS) e Camera da cui parte l'esame.
+
+[DA VERIFICARE] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) annuncia che «diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli». Senza il testo non sappiamo requisiti, decorrenza e costo: **nessuna stima**. Manca: testo del disegno di legge e relazione tecnica. Verifica: camera.it e senato.it dopo la presentazione.
 
 ::: nota
 **Come seguire gli aggiornamenti.** Il sito non raccoglie iscrizioni né contatti. Per sapere quando questa pagina cambia puoi «seguire» il repository su GitHub (pulsante *Watch*) o consultare la [cronologia delle modifiche]({{REPO}}/commits/main).

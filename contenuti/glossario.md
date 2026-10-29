@@ -11,7 +11,7 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 
 - **Costituzione (Cost.)** — la legge fondamentale della Repubblica. «Art. 17 Cost.» vuol dire articolo 17 della Costituzione. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27)
 - **Decreto-legge (D.L.)** — un atto del Governo con forza di legge, ammesso solo in casi straordinari di necessità e d'urgenza. Entra in vigore senza aspettare il voto del Parlamento: il D.L. 190/2026, per esempio, dal giorno dopo la pubblicazione (art. 10). Il Parlamento deve **convertirlo in legge** entro 60 giorni dalla pubblicazione, anche con modifiche; se non lo fa, il decreto perde efficacia fin dall'inizio (art. 77 Cost.).
-- **Conversione in legge** — il voto con cui Camera e Senato trasformano un decreto-legge in legge, eventualmente modificandolo. Si fa con un **disegno di legge (ddl) di conversione**.
+- **Conversione in legge** — il voto con cui Camera e Senato trasformano un decreto-legge in legge, eventualmente modificandolo. Si fa con un **disegno di legge (ddl) di conversione**. Esempio: il D.L. 162/2026 sul bollo auto va convertito entro il 16 novembre 2026.
 - **AC 3159** — il numero con cui la Camera dei deputati identifica il disegno di legge di conversione del decreto sicurezza (AC sta per «Atto Camera»). [Scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)
 - **Gazzetta Ufficiale (GU)** — dove vengono pubblicati leggi e decreti; fa fede per la data di entrata in vigore. [gazzettaufficiale.it](https://www.gazzettaufficiale.it)
 - **Normattiva** — il sito pubblico con i testi delle leggi in vigore e le loro versioni nel tempo. [normattiva.it](https://www.normattiva.it)
@@ -19,6 +19,19 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 - **c.p.a.** — codice del processo amministrativo (allegato 1 al d.lgs. 104/2010): regola i ricorsi al TAR. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-07-02;104)
 - **TULPS** — Testo unico delle leggi di pubblica sicurezza (regio decreto 18 giugno 1931, n. 773). L'art. 18 regola il preavviso delle riunioni in luogo pubblico. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773)
 - **L.** e **d.lgs.** — legge e decreto legislativo. «L. 146/1990» vuol dire legge n. 146 del 1990.
+
+## Bollo auto
+
+- **Tassa automobilistica (bollo auto)** — l'imposta annuale che si paga per possedere un'auto, una moto o un altro veicolo iscritto al PRA, anche se il veicolo non circola. Nata con il DPR 39/1953; dal 1993 il gettito va alle Regioni, che la riscuotono. Si paga con pagoPA. Non è l'assicurazione e non è la tassa sul carburante.
+- **Tassa di circolazione** — il nome che la legge usa per il bollo dei ciclomotori (motorini). Il D.L. 162/2026 la nomina accanto alla tassa automobilistica (art. 2, c. 3).
+- **Superbollo** — un'addizionale di 20 euro per ogni kW oltre 185 kW (art. 23, c. 21, D.L. 98/2011, come riportato nel dossier della Camera sul D.L. 162). Non riguarda l'esenzione 2027, che è solo per le auto fino a 80 kW.
+- **Soggetto passivo** — chi per legge deve pagare un'imposta. Per il bollo è chi risulta dal PRA alla scadenza: il proprietario, oppure l'utilizzatore in leasing, l'usufruttuario o chi compra con riserva di proprietà; per i contratti di noleggio a lungo termine stipulati, rinnovati o avviati dal 2027, l'utilizzatore (art. 5, c. 32, D.L. 953/1982; art. 16 d.lgs. 147/2026).
+- **Persona fisica** — un individuo, a differenza di una «persona giuridica» come una società, un'associazione o un ente pubblico.
+- **kW (kilowatt)** — l'unità con cui si misura la potenza del motore. Il D.L. 162/2026 usa i kW, non i cavalli. Per convertire: 1 kW vale circa 1,36 cavalli (CV), quindi 80 kW sono circa 109 CV.
+- **PRA (Pubblico registro automobilistico)** — il registro, tenuto dall'ACI, che indica a chi è intestato un veicolo. Il bollo si basa su questi dati.
+- **Regione a statuto speciale** — Sicilia, Sardegna, Valle d'Aosta, Friuli-Venezia Giulia e Trentino-Alto Adige (con le Province autonome di Trento e di Bolzano). Hanno più autonomia anche sulle imposte: in alcune il bollo è un tributo proprio, e per l'esenzione 2027 serve un Accordo con lo Stato (art. 2, c. 4, D.L. 162/2026).
+- **Relazione tecnica** — il documento del Governo che accompagna una legge o un decreto e ne stima costi ed effetti sui conti pubblici. Le sue cifre sono stime.
+- **AC 3106** — il disegno di legge di conversione del D.L. 162/2026 alla Camera. [Scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)
 
 ## Manifestare
 

@@ -33,7 +33,7 @@ import unicodedata
 from html.parser import HTMLParser
 from urllib.parse import urlsplit
 
-VERSIONE_SCHEMA = "1.0.1"
+VERSIONE_SCHEMA = "1.0.2"
 BASE_SITO = "https://bilanciacivica.github.io/bilancia-civica/"
 ETICHETTE_VALIDE = ("FATTO", "STIMA", "INTERPRETAZIONE", "DA VERIFICARE")
 RE_DIRETTIVA = re.compile(r"^<!--\s*dati:\s*([a-z-]+)(?:\s+([^<>]*?))?\s*-->$")
@@ -62,6 +62,8 @@ ATTI = {
                       "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG"),
     "D.L. 193/2026": ("D.L. 23 ottobre 2026, n. 193 (testo in Gazzetta Ufficiale)",
                       "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/SG"),
+    "D.L. 162/2026": ("D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+                      "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG"),
     "D.L. 23/2026": ("D.L. 24 febbraio 2026, n. 23 (testo in Gazzetta Ufficiale)",
                      "https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG"),
     "L. 54/2026": ("L. 24 aprile 2026, n. 54 (testo in Gazzetta Ufficiale)",
@@ -74,6 +76,8 @@ ATTI = {
     "L. 152/1975": ("L. 22 maggio 1975, n. 152", NIR + "legge:1975-05-22;152"),
     "L. 110/1975": ("L. 18 aprile 1975, n. 110", NIR + "legge:1975-04-18;110"),
     "L. 83/2000": ("L. 11 aprile 2000, n. 83", NIR + "legge:2000-04-11;83"),
+    "L. 449/1997": ("L. 27 dicembre 1997, n. 449", NIR + "legge:1997-12-27;449"),
+    "L. 388/2000": ("L. 23 dicembre 2000, n. 388", NIR + "legge:2000-12-23;388"),
     "L. 80/2025": ("L. 9 giugno 2025, n. 80", NIR + "legge:2025-06-09;80"),
     "d.lgs. 66/1948": ("D.lgs. 22 gennaio 1948, n. 66", NIR + "decreto.legislativo:1948-01-22;66"),
     "d.lgs. 159/2011": ("D.lgs. 6 settembre 2011, n. 159 (Codice antimafia e misure di prevenzione)",
@@ -88,8 +92,10 @@ ATTI = {
 TEMA_PAGINA = {
     "presidio.html": "presidi", "corteo.html": "cortei", "sciopero.html": "sciopero",
     "decreto.html": "decreto-sicurezza", "esempio.html": "decreto-sicurezza",
+    "bollo-auto.html": "bollo-auto", "bollo-sono-esente.html": "bollo-auto",
 }
 TEMI_PAROLE = [
+    ("bollo-auto", r"bollo auto|tassa automobilistica|D\.L\. 162|n\. 162\b|162/2026|AC 3106"),
     ("autotrasporto", r"autotrasport|credito d.imposta|camionist|gasolio"),
     ("legge-di-bilancio", r"legge di bilancio|manovra 20\d\d|Documento programmatico di bilancio"),
     ("sciopero", r"scioper|L\. 146/1990|precettazion|astensione collettiva"),
@@ -98,7 +104,7 @@ TEMI_PAROLE = [
     ("cortei", r"corte[oi]|manifestaz|scioglimento|fermo preventivo|travisament"),
 ]
 TEMI = ["presidi", "cortei", "sciopero", "decreto-sicurezza", "autotrasporto",
-        "legge-di-bilancio", "generale"]
+        "legge-di-bilancio", "bollo-auto", "generale"]
 
 
 def _norm(testo: str) -> str:

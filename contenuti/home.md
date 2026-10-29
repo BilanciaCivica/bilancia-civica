@@ -28,6 +28,7 @@ descrizione: Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge, 
 - [**Presidi: cosa dice la legge**Preavviso al questore, prescrizioni e sanzioni](presidio.html)
 - [**Cortei: diritti, limiti e cosa cambia**Cosa è consentito e cosa è punibile](corteo.html)
 - [**Sciopero: regole e tutele**Servizi pubblici essenziali, settore privato, autotrasporto](sciopero.html)
+- [**Bollo auto 2027: chi è esente**Auto a benzina o gasolio fino a 80 kW, moto a benzina: requisiti e punti aperti](bollo-auto.html)
 - [**Parole difficili? Glossario**Decreto-legge, questore, preavviso e altre parole](glossario.html)
 :::
 
