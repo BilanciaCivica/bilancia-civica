@@ -1,6 +1,6 @@
 {
-  "versione_schema": "1.0.1",
-  "generato_il": "2026-10-29T18:47:00+01:00",
+  "versione_schema": "1.0.2",
+  "generato_il": "2026-10-29T19:40:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,8 +8,54 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 75,
+  "totale": 94,
   "fonti": [
+    {
+      "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
+      "titolo": "Servizio Bilancio della Camera",
+      "altri_titoli": [
+        "dossier"
+      ],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "bollo-auto-39e301b002",
+        "bollo-auto-94c633051c",
+        "bollo-auto-c63e96be0f",
+        "bollo-auto-d3aa070507",
+        "bollo-auto-ef1d8503df"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/dossier/testi/D26162.htm",
+      "titolo": "dossier della Camera",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "bollo-auto-16dbd67a14"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/21/06/allegato.htm",
+      "titolo": "emendamenti approvati il 21/10",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "bollo-auto-d54a0a3813"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/28/06/allegato.htm",
+      "titolo": "il 28/10",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "bollo-auto-d54a0a3813"
+      ]
+    },
     {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
       "titolo": "bollettino della Camera",
@@ -91,6 +137,16 @@
       ]
     },
     {
+      "url": "https://www.agenziaentrate.gov.it/portale/esenzione-permanente-dal-pagamento-del-bollo",
+      "titolo": "Agenzia delle Entrate",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.agenziaentrate.gov.it",
+      "affermazioni": [
+        "bollo-auto-34b4c172df"
+      ]
+    },
+    {
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
       "titolo": "ANSA, 20 ottobre 2026",
       "altri_titoli": [],
@@ -123,6 +179,36 @@
       "dominio": "www.ansa.it",
       "affermazioni": [
         "bussola-completa-1073289aa2"
+      ]
+    },
+    {
+      "url": "https://www.camera.it",
+      "titolo": "camera.it",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "bollo-auto-fdb564ab54"
+      ]
+    },
+    {
+      "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+      "titolo": "camera.it",
+      "altri_titoli": [
+        "scheda della Camera"
+      ],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "bollo-auto-9f3e9496a5",
+        "stato-0dd13a774f",
+        "stato-15060af6da",
+        "stato-39af3ba53d",
+        "stato-4207b7f2da",
+        "stato-52c47d7a5f",
+        "stato-85b153896e",
+        "stato-9b28107a03",
+        "stato-bf34e4c317"
       ]
     },
     {
@@ -359,6 +445,79 @@
       ]
     },
     {
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+      "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+      "altri_titoli": [
+        "GU Serie Generale n. 216 del 17 settembre 2026",
+        "Gazzetta Ufficiale"
+      ],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-7059eefe64",
+        "bollo-auto-01d46d17f7",
+        "bollo-auto-08d81309cd",
+        "bollo-auto-17b9e858b1",
+        "bollo-auto-1915c13bea",
+        "bollo-auto-1dcab44290",
+        "bollo-auto-258a0cef9a",
+        "bollo-auto-28288490fe",
+        "bollo-auto-2d4956a396",
+        "bollo-auto-2ddbdc4717",
+        "bollo-auto-31997e6204",
+        "bollo-auto-3316b08c90",
+        "bollo-auto-4c46ca3675",
+        "bollo-auto-5671d29b30",
+        "bollo-auto-695e1b4b17",
+        "bollo-auto-6c6adb4d74",
+        "bollo-auto-6d44c2f74b",
+        "bollo-auto-76839caea6",
+        "bollo-auto-7b929b1c1c",
+        "bollo-auto-8b574a7e93",
+        "bollo-auto-8f2cb07981",
+        "bollo-auto-92daa68a5f",
+        "bollo-auto-945503a815",
+        "bollo-auto-9a7198ec4a",
+        "bollo-auto-9bfec84ad1",
+        "bollo-auto-9e0096b367",
+        "bollo-auto-9f3e9496a5",
+        "bollo-auto-a0560a43f6",
+        "bollo-auto-a9987b6e95",
+        "bollo-auto-adc9be7a52",
+        "bollo-auto-bee45f76e1",
+        "bollo-auto-e53bb16fb8",
+        "bollo-auto-e7a943a2b4",
+        "bollo-sono-esente-094aa5f5ed",
+        "bollo-sono-esente-35773a7c81",
+        "bollo-sono-esente-5baceb0724",
+        "bollo-sono-esente-62ecdd9b53",
+        "bollo-sono-esente-6316fad6e3",
+        "bollo-sono-esente-64c87bb9e5",
+        "bollo-sono-esente-77c4a26918",
+        "bollo-sono-esente-ae103c3e1f",
+        "bollo-sono-esente-b3394a3fab",
+        "bollo-sono-esente-c60fbfb1d4",
+        "bollo-sono-esente-d07d9e2f98",
+        "bollo-sono-esente-d35c23eca9",
+        "bollo-sono-esente-d3d2910ebd",
+        "bollo-sono-esente-d642a6ecd4",
+        "bollo-sono-esente-e1b23413b7",
+        "bollo-sono-esente-eb3c20be78",
+        "bollo-sono-esente-ee4f89421b",
+        "stato-0dd13a774f",
+        "stato-15060af6da",
+        "stato-39af3ba53d",
+        "stato-4207b7f2da",
+        "stato-52c47d7a5f",
+        "stato-6c484c9ac9",
+        "stato-827e98a830",
+        "stato-85b153896e",
+        "stato-99631721dd",
+        "stato-9b28107a03",
+        "stato-bf34e4c317"
+      ]
+    },
+    {
       "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG",
       "titolo": "420-bis",
       "altri_titoli": [
@@ -552,11 +711,15 @@
     },
     {
       "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
-      "titolo": "comunicato n. 195",
-      "altri_titoli": [],
+      "titolo": "comunicato del Consiglio dei ministri n. 195",
+      "altri_titoli": [
+        "comunicato n. 195"
+      ],
       "ufficiale": true,
       "dominio": "www.governo.it",
       "affermazioni": [
+        "bollo-auto-77e867c128",
+        "stato-1294f88194",
         "stato-e129fbb965",
         "stato-f498c8afe3"
       ]
@@ -592,12 +755,24 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-11-18;462",
+      "titolo": "DM 18 novembre 1998, n. 462",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-e53bb16fb8"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
       "titolo": "Costituzione della Repubblica italiana",
       "altri_titoli": [],
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
+        "bollo-auto-99f240991b",
+        "bollo-auto-9f3e9496a5",
         "bussola-completa-06b726347c",
         "bussola-completa-0da44c84bc",
         "bussola-completa-0edb96b0dc",
@@ -633,6 +808,7 @@
         "esempio-0e3736fc21",
         "esempio-d53dbb1a51",
         "presidio-af9a350a8b",
+        "stato-52c47d7a5f",
         "stato-bf08471979"
       ]
     },
@@ -771,6 +947,16 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-30;953~art5",
+      "titolo": "art. 5, c. 32, D.L. 953/1982",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-c7818ef53a"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-05-23;92",
       "titolo": "D.L. 23 maggio 2008, n. 92",
       "altri_titoli": [],
@@ -801,6 +987,38 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "stato-9b6b004320"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+      "titolo": "D.L. 162/2026",
+      "altri_titoli": [
+        "Normattiva",
+        "testo vigente su Normattiva"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-1dcab44290",
+        "bollo-auto-76839caea6",
+        "bollo-auto-8f2cb07981",
+        "bollo-auto-9a7198ec4a",
+        "bollo-auto-9bfec84ad1",
+        "bollo-auto-a0560a43f6",
+        "bollo-sono-esente-094aa5f5ed",
+        "bollo-sono-esente-b3394a3fab",
+        "bollo-sono-esente-d3d2910ebd",
+        "bollo-sono-esente-d642a6ecd4",
+        "bollo-sono-esente-e1b23413b7",
+        "bollo-sono-esente-ee4f89421b",
+        "stato-0dd13a774f",
+        "stato-15060af6da",
+        "stato-39af3ba53d",
+        "stato-4207b7f2da",
+        "stato-52c47d7a5f",
+        "stato-85b153896e",
+        "stato-9b28107a03",
+        "stato-bf34e4c317"
       ]
     },
     {
@@ -943,6 +1161,29 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-01-19;10",
+      "titolo": "Testo unico IVA",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-34b4c172df"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-08-07;147",
+      "titolo": "art. 14 d.lgs. 147/2026",
+      "altri_titoli": [
+        "art. 16 d.lgs. 147/2026"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-8b574a7e93",
+        "bollo-auto-c7818ef53a"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.presidente.repubblica:1988-09-22;447~art349",
       "titolo": "art. 349, c. 4, c.p.p.",
       "altri_titoli": [],
@@ -1062,6 +1303,42 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449",
+      "titolo": "L. 27 dicembre 1997, n. 449",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-34b4c172df",
+        "bollo-auto-7b929b1c1c",
+        "bollo-sono-esente-7e1a389930"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art17",
+      "titolo": "art. 17, c. 5, L. 449/1997",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-7b929b1c1c",
+        "bollo-sono-esente-7e1a389930"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art8",
+      "titolo": "art. 8 L. 449/1997",
+      "altri_titoli": [
+        "art. 8, c. 7, L. 449/1997"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-34b4c172df",
+        "bollo-sono-esente-7e1a389930"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-04-11;83",
       "titolo": "L. 83/2000",
       "altri_titoli": [],
@@ -1069,6 +1346,26 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "bussola-completa-0ecfceb384"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388",
+      "titolo": "L. 23 dicembre 2000, n. 388",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-34b4c172df"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388~art30",
+      "titolo": "art. 30, c. 7, L. 388/2000",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "bollo-auto-34b4c172df"
       ]
     },
     {
@@ -1267,6 +1564,16 @@
       "dominio": "www.rna.gov.it",
       "affermazioni": [
         "analisi-dl-190-2026-6b60b621ff"
+      ]
+    },
+    {
+      "url": "https://www.senato.it",
+      "titolo": "senato.it",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.senato.it",
+      "affermazioni": [
+        "bollo-auto-fdb564ab54"
       ]
     },
     {

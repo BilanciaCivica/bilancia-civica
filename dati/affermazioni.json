@@ -1,6 +1,6 @@
 {
-  "versione_schema": "1.0.1",
-  "generato_il": "2026-10-29T18:47:00+01:00",
+  "versione_schema": "1.0.2",
+  "generato_il": "2026-10-29T19:40:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -9,7 +9,7 @@
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
   "schema": "https://bilanciacivica.github.io/bilancia-civica/dati/schema-affermazioni.json",
-  "totale": 317,
+  "totale": 389,
   "affermazioni": [
     {
       "id": "home-b94d95c585",
@@ -41,7 +41,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-bed242ab67",
@@ -73,7 +73,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-da45ab5d35",
@@ -99,7 +99,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-9e4d1a164d",
@@ -131,7 +131,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-41510d76c8",
@@ -163,7 +163,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-80798e52df",
@@ -195,7 +195,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-4d378948de",
@@ -238,7 +238,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-f8eb4dba4e",
@@ -270,7 +270,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-7f04d3a1af",
@@ -302,7 +302,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-830561f579",
@@ -334,7 +334,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-bdc5ec4599",
@@ -377,7 +377,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-b8d89a9aeb",
@@ -476,7 +476,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-7652bcad27",
@@ -508,7 +508,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-fbe4eed8d3",
@@ -540,7 +540,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-89f9aec69c",
@@ -583,7 +583,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-80e1f5dd0e",
@@ -637,7 +637,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-fab4aa2862",
@@ -691,7 +691,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-cbd378e67c",
@@ -745,7 +745,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-3e2b541ff0",
@@ -799,7 +799,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-fc2ff18b6d",
@@ -853,7 +853,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-4259c2f117",
@@ -912,7 +912,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-2a81f5a754",
@@ -966,7 +966,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-e5c8edb71a",
@@ -998,7 +998,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-8ffa5cd44f",
@@ -1052,7 +1052,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-b11fcc34eb",
@@ -1095,7 +1095,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-420bbe0237",
@@ -1121,7 +1121,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-f5f5ab2f9d",
@@ -1187,7 +1187,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-70be1de314",
@@ -1219,7 +1219,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-8b1cb6b776",
@@ -1268,7 +1268,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-0daf5aa13e",
@@ -1287,7 +1287,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-4761dbcb3b",
@@ -1336,7 +1336,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-623b8445c3",
@@ -1368,7 +1368,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-90f57c2311",
@@ -1400,7 +1400,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-e59e4e0f1c",
@@ -1432,7 +1432,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-037f52515e",
@@ -1470,7 +1470,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-5e9842ab6c",
@@ -1502,7 +1502,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-f84bffee24",
@@ -1539,7 +1539,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-07b377bb5b",
@@ -1571,7 +1571,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-62a3a66d64",
@@ -1614,7 +1614,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-290831fa3b",
@@ -1651,7 +1651,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-ee1127054b",
@@ -1693,7 +1693,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-abc708952c",
@@ -1730,7 +1730,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-3536cb2483",
@@ -1762,7 +1762,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-00af22222e",
@@ -1794,7 +1794,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-7b973c495a",
@@ -1831,7 +1831,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-1a23b8a6bc",
@@ -1869,7 +1869,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-60ed094033",
@@ -1901,7 +1901,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-ad81c5d70a",
@@ -1933,7 +1933,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "diritti-c2977d9e08",
@@ -1976,7 +1976,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-af9a350a8b",
@@ -2008,7 +2008,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-abc0d7d83d",
@@ -2034,7 +2034,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-a97cdb537f",
@@ -2060,7 +2060,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-39d8e8129e",
@@ -2092,7 +2092,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-face12d16c",
@@ -2118,7 +2118,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-c34cd30e7b",
@@ -2144,7 +2144,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-cf60ee74d2",
@@ -2163,7 +2163,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-88d48195b3",
@@ -2223,7 +2223,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-a5ac46af53",
@@ -2255,7 +2255,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-8ffa5cd44f",
@@ -2298,7 +2298,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-a6645f07f3",
@@ -2330,7 +2330,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-dc53063eae",
@@ -2362,7 +2362,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-8994094a05",
@@ -2394,7 +2394,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "presidio-1d2483c03a",
@@ -2437,7 +2437,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-427d8fa9a0",
@@ -2463,7 +2463,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-cb6010a5c4",
@@ -2489,7 +2489,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-a1d81b85d5",
@@ -2515,7 +2515,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-933d860b9b",
@@ -2541,7 +2541,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-6fc0ade84a",
@@ -2567,7 +2567,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-8e81fcc128",
@@ -2599,7 +2599,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-ff145f2c49",
@@ -2642,7 +2642,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-65bc1c4b5f",
@@ -2685,7 +2685,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-9066d07a17",
@@ -2717,7 +2717,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-0cdde9881a",
@@ -2760,7 +2760,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-062650a960",
@@ -2792,7 +2792,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-fa3f302c35",
@@ -2818,7 +2818,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-26eb2368f5",
@@ -2856,7 +2856,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-7c2cafcb63",
@@ -2882,7 +2882,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-e4d23787b5",
@@ -2908,7 +2908,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-42ceb54e28",
@@ -2934,7 +2934,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-7ad6c539c7",
@@ -2960,7 +2960,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-2e5dd875ee",
@@ -2998,7 +2998,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-0e89e14b0d",
@@ -3024,7 +3024,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-74c8f128b7",
@@ -3093,7 +3093,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-b42394152d",
@@ -3119,7 +3119,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-2e0579d8fd",
@@ -3162,7 +3162,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-d2d0488a37",
@@ -3205,7 +3205,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-47064edd45",
@@ -3231,7 +3231,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-461f029101",
@@ -3257,7 +3257,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-9e411f20b6",
@@ -3300,7 +3300,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "corteo-f629bf05b6",
@@ -3326,7 +3326,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "sciopero-d21c1dfa89",
@@ -3352,7 +3352,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "sciopero-fd352c8c4c",
@@ -3378,7 +3378,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "sciopero-fbff9633f3",
@@ -3410,7 +3410,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "sciopero-fd10932766",
@@ -3453,7 +3453,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "sciopero-7b689b8aeb",
@@ -3485,7 +3485,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "sciopero-1f35ae5387",
@@ -3511,7 +3511,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-d75672a500",
@@ -3537,7 +3537,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-693cf7f6ed",
@@ -3575,7 +3575,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-e2a812fbcf",
@@ -3601,7 +3601,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-10a59bd435",
@@ -3644,7 +3644,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-e516417bb8",
@@ -3670,7 +3670,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-0183f494cf",
@@ -3708,7 +3708,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-373c09522e",
@@ -3734,7 +3734,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-68a945fc41",
@@ -3760,7 +3760,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-3e3e73de5c",
@@ -3814,7 +3814,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-28744ff846",
@@ -3852,7 +3852,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-8108273dbd",
@@ -3895,7 +3895,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-629f560f61",
@@ -3927,7 +3927,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-3a9defde8e",
@@ -3953,7 +3953,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-3b5d1651ea",
@@ -3979,7 +3979,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-dbf87e9a01",
@@ -4022,7 +4022,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-91036faddf",
@@ -4048,7 +4048,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-1b0b433470",
@@ -4086,7 +4086,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-5b51b8452b",
@@ -4129,7 +4129,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-3d64223348",
@@ -4161,7 +4161,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-9e411f20b6",
@@ -4204,7 +4204,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-1b852a69d2",
@@ -4236,7 +4236,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-e627078c07",
@@ -4279,7 +4279,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-d782532e57",
@@ -4311,7 +4311,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-f94853ca6a",
@@ -4337,7 +4337,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-c78b18d332",
@@ -4369,7 +4369,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-82367cf10f",
@@ -4395,7 +4395,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "decreto-0716da0718",
@@ -4414,7 +4414,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-6e28135029",
@@ -4446,7 +4446,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-b8eea2c7e2",
@@ -4484,7 +4484,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-5bc1ef9586",
@@ -4510,7 +4510,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-2d79a35496",
@@ -4536,7 +4536,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-de998e6fc3",
@@ -4568,7 +4568,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-0e1d6ebb19",
@@ -4611,7 +4611,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-0e3736fc21",
@@ -4643,7 +4643,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-77fe2254ca",
@@ -4686,7 +4686,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-72fe39024a",
@@ -4740,7 +4740,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-67c03be378",
@@ -4778,7 +4778,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-cd66f963f2",
@@ -4804,7 +4804,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-0ea50d4b64",
@@ -4847,7 +4847,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-48b94ac23d",
@@ -4885,7 +4885,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-8108273dbd",
@@ -4928,7 +4928,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-8a1d8b87c8",
@@ -4954,7 +4954,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-86216161a8",
@@ -4986,7 +4986,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-7eb4945924",
@@ -5005,7 +5005,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-d53dbb1a51",
@@ -5048,7 +5048,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-51e4272a6c",
@@ -5074,7 +5074,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "esempio-fa0606c2d0",
@@ -5100,7 +5100,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-3d6a12bf48",
@@ -5132,7 +5132,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-da1388036c",
@@ -5175,7 +5175,39 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-6c484c9ac9",
+      "testo": "Bollo auto 2027 (decreto-legge n. 162 del 17 settembre 2026, art. 2): in vigore dal 18 settembre 2026; il Parlamento deve convertirlo in legge entro il 16 novembre 2026. La Commissione Finanze della Camera ha concluso l'esame il 28 ottobre; mancano i voti dell'Aula della Camera e del Senato.",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-6c484c9ac9",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": null
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-f498c8afe3",
@@ -5201,7 +5233,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-dd19dd16d2",
@@ -5220,7 +5252,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-92ef125c46",
@@ -5258,7 +5290,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-0fec9cf14b",
@@ -5296,7 +5328,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-7dc7b67df9",
@@ -5334,7 +5366,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-48de1a4681",
@@ -5378,7 +5410,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-8ee76a0280",
@@ -5416,7 +5448,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-6758557c78",
@@ -5466,7 +5498,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-cc39523147",
@@ -5510,7 +5542,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-bf08471979",
@@ -5560,7 +5592,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-d6f77592bc",
@@ -5586,7 +5618,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-9b6b004320",
@@ -5630,7 +5662,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-99631721dd",
@@ -5666,6 +5698,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
           "titolo": "D.L. 23 ottobre 2026, n. 193 (testo in Gazzetta Ufficiale)",
           "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/SG",
           "ufficiale": true,
@@ -5673,7 +5711,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-fe690c7ab1",
@@ -5699,7 +5737,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-49cd910211",
@@ -5731,7 +5769,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-827e98a830",
@@ -5760,10 +5798,16 @@
           "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-574dfe7dd5",
@@ -5795,7 +5839,335 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-85b153896e",
+      "testo": "Pubblicazione in Gazzetta Ufficiale — ✅ GU Serie Generale n. 216 del 17 settembre 2026",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-85b153896e",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "GU Serie Generale n. 216 del 17 settembre 2026",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-4207b7f2da",
+      "testo": "Entrata in vigore — ✅ 18 settembre 2026",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-4207b7f2da",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-0dd13a774f",
+      "testo": "Presentazione alle Camere — ✅ AC 3106, presentato alla Camera il 17 settembre 2026; assegnato alla VI Commissione (Finanze) il 18 settembre 2026 (scheda della Camera)",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-0dd13a774f",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "scheda della Camera",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-9b28107a03",
+      "testo": "Esame in Commissione — ✅ concluso il 28 ottobre 2026, con modifiche all'art. 2 su Regioni e copertura (non su chi è esente)",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-9b28107a03",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": null,
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-bf34e4c317",
+      "testo": "Voto dell'Aula della Camera — ⏳ da fare",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-bf34e4c317",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-15060af6da",
+      "testo": "Esame del Senato — ⏳ da fare",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-15060af6da",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-52c47d7a5f",
+      "testo": "Scadenza per la conversione (60 giorni, art. 77 Cost.) — 16 novembre 2026",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-52c47d7a5f",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 77 Cost.",
+          "atto": "Costituzione",
+          "articolo": "77"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-39af3ba53d",
+      "testo": "Decreto MEF con le quote per le Regioni — ⏳ entro il 31 marzo 2027 (art. 2, c. 5)",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, Normattiva).",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-39af3ba53d",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": null,
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-e129fbb965",
@@ -5821,7 +6193,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "stato-22ca4e5806",
@@ -5840,7 +6212,2177 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "stato-1294f88194",
+      "testo": "Il comunicato n. 195 annuncia che «diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli». Senza il testo non sappiamo requisiti, decorrenza e costo: nessuna stima. Manca: testo del disegno di legge e relazione tecnica. Verifica: camera.it e senato.it dopo la presentazione.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "legge-di-bilancio",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-1294f88194",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Legge di bilancio 2027"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "comunicato n. 195",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-9a7198ec4a",
+      "testo": "Per il 2027 non paga il bollo la persona fisica che ne è tenuta al pagamento (soggetto passivo) per un'auto a benzina o gasolio fino a 80 kW, anche ibrida, regolarmente assicurata (art. 2, cc. 1-2, D.L. 162/2026).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-9a7198ec4a",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": null
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, cc. 1-2, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-258a0cef9a",
+      "testo": "L'esenzione vale per un solo veicolo a persona. Chi ha più auto con i requisiti è esente solo per quella con meno kW. Chi non risulta tenuto al bollo per nessuna auto fino a 80 kW può essere esente per una moto o un motorino a benzina (art. 2, cc. 1-3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-258a0cef9a",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": null
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-2d4956a396",
+      "testo": "Riguarda i pagamenti con scadenza ordinaria dal 1° gennaio al 31 dicembre 2027. Il decreto non fissa limiti di reddito né ISEE e non dice se serve una domanda (art. 2, c. 1).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-2d4956a396",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": null
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-9f3e9496a5",
+      "testo": "A che punto è: in vigore dal 18 settembre 2026 (GU Serie Generale n. 216 del 17 settembre 2026). Conversione in legge entro il 16 novembre 2026 (60 giorni, art. 77 Cost.). Il disegno di legge di conversione è l'AC 3106: la Commissione Finanze della Camera ha concluso l'esame il 28 ottobre 2026 e il testo passa all'Aula (scheda della Camera).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-9f3e9496a5",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": null
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 77 Cost.",
+          "atto": "Costituzione",
+          "articolo": "77"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "GU Serie Generale n. 216 del 17 settembre 2026",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "scheda della Camera",
+          "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-8f2cb07981",
+      "testo": "Chi: solo le persone fisiche che nel 2027 risultano tenute a pagare il bollo (in legge: «soggetti passivi»). Società ed enti non rientrano (art. 2, cc. 1-3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": "testo vigente su Normattiva",
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2 D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-8f2cb07981",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi è esente"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "testo vigente su Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-a0560a43f6",
+      "testo": "Quale veicolo: uno solo, e deve essere regolarmente assicurato (art. 2, c. 1).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": "testo vigente su Normattiva",
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2 D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-a0560a43f6",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi è esente"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "testo vigente su Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-9bfec84ad1",
+      "testo": "Auto: alimentate a benzina o gasolio, «anche in combinazione con altra fonte di propulsione», con potenza non superiore a 80 kW (art. 2, c. 2).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": "testo vigente su Normattiva",
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2 D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-9bfec84ad1",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi è esente"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "testo vigente su Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-76839caea6",
+      "testo": "Moto e motorini: alimentati a benzina, anche in combinazione con altra fonte. Il testo non fissa limiti di kW per le moto. L'esenzione spetta solo se la persona non risulta tenuta al bollo (soggetto passivo) per alcuna auto con potenza pari o inferiore a 80 kW (art. 2, c. 3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": "testo vigente su Normattiva",
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2 D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-76839caea6",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi è esente"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "testo vigente su Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-1dcab44290",
+      "testo": "Periodo: i pagamenti il cui termine ordinario cade tra il 1° gennaio e il 31 dicembre 2027 (art. 2, c. 1).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": "testo vigente su Normattiva",
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2 D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-1dcab44290",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi è esente"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "testo vigente su Normattiva",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-5671d29b30",
+      "testo": "Più auto con i requisiti: l'esenzione va all'auto con la potenza più bassa in kW; a parità di kW, a quella con il bollo più basso (c. 2).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-5671d29b30",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "Art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-4c46ca3675",
+      "testo": "Più moto con i requisiti: alla moto con meno kW; a parità di kW, a quella con il bollo più basso (c. 3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-4c46ca3675",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "Art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-17b9e858b1",
+      "testo": "Più motorini con i requisiti: al motorino con la prima immatricolazione più vecchia (c. 3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-17b9e858b1",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "Art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-3316b08c90",
+      "testo": "Auto a benzina o gasolio fino a 80 kW + moto: la moto non è esente; l'esenzione va all'auto (c. 3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-3316b08c90",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "Art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-adc9be7a52",
+      "testo": "Auto oltre 80 kW + moto a benzina: l'auto paga; la moto può essere esente (c. 3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-adc9be7a52",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "Art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-695e1b4b17",
+      "testo": "Chi ha sia una moto sia un motorino con i requisiti: il testo indica il criterio solo tra più moto e tra più motorini, non tra una moto e un motorino. Manca: chiarimento ufficiale. Verifica: testo della legge di conversione e indicazioni della propria Regione.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-695e1b4b17",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "Art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-1915c13bea",
+      "testo": "Chi ha un'auto fino a 80 kW non a benzina o gasolio (per esempio solo elettrica) e una moto o un motorino a benzina: il comma 3 parla di «alcuna autovettura» fino a 80 kW senza distinguere l'alimentazione, mentre il dossier della Camera lo riferisce alle auto già esenti. Non è chiaro se la moto possa essere esente (art. 2, c. 3, D.L. 162/2026). Manca: chiarimento del Ministero dell'economia o delle Regioni. Verifica: indicazioni della propria Regione.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": "Art. 2, cc. 2-3, D.L. 162/2026 [FATTO · Alta]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-1915c13bea",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Se hai più veicoli"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-c7818ef53a",
+      "testo": "Il bollo lo paga chi risulta dal Pubblico registro automobilistico (PRA) alla scadenza: il proprietario oppure, in caso di leasing, usufrutto o acquisto con riserva di proprietà, l'utilizzatore, l'usufruttuario o l'acquirente (art. 5, c. 32, D.L. 953/1982). Per i contratti di noleggio a lungo termine senza conducente stipulati, rinnovati o avviati dal 1° gennaio 2027 paga l'utilizzatore, sulla base del contratto annotato al PRA (art. 16 d.lgs. 147/2026).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-c7818ef53a",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi paga il bollo, in pratica"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 5, c. 32, D.L. 953/1982",
+          "atto": "D.L. 953/1982",
+          "articolo": "5"
+        },
+        {
+          "citazione": "art. 16 d.lgs. 147/2026",
+          "atto": "d.lgs. 147/2026",
+          "articolo": "16"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "art. 5, c. 32, D.L. 953/1982",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1982-12-30;953~art5",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "art. 16 d.lgs. 147/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-08-07;147",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-9e0096b367",
+      "testo": "Poiché il decreto premia chi è «soggetto passivo», una persona fisica con un'auto in leasing, oppure a noleggio a lungo termine con contratto stipulato, rinnovato o avviato dal 1° gennaio 2027, che nel 2027 risulta tenuta al pagamento dovrebbe poter rientrare, se l'auto ha i requisiti. La relazione tecnica del Governo conta anche queste auto (vedi le stime più sotto). Le auto aziendali intestate a una società restano fuori (art. 2, cc. 1-2, D.L. 162/2026).",
+      "etichetta": "INTERPRETAZIONE",
+      "certezza": "Media",
+      "nota_etichetta": "lettura redazionale",
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-9e0096b367",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi paga il bollo, in pratica"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, cc. 1-2, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-a9987b6e95",
+      "testo": "Noleggio a lungo termine con contratto stipulato prima del 2027 e non rinnovato: chi paga il bollo nel 2027 non è stato verificato sulla norma precedente, quindi non sappiamo se l'esenzione dell'art. 2 D.L. 162/2026 possa valere per chi usa l'auto. Manca: verifica sulla norma in vigore prima del d.lgs. 147/2026. Verifica: contratto di noleggio e società di noleggio.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-a9987b6e95",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Chi paga il bollo, in pratica"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2 D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        },
+        {
+          "citazione": "d.lgs. 147/2026",
+          "atto": "d.lgs. 147/2026",
+          "articolo": null
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-2ddbdc4717",
+      "testo": "L'esenzione vale anche nelle Regioni a statuto speciale e nelle Province autonome, «previo Accordo con ciascuna autonomia speciale titolare della tassa automobilistica quale tributo proprio» (art. 2, c. 4).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-2ddbdc4717",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Regioni a statuto speciale e province autonome"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-16dbd67a14",
+      "testo": "Secondo il dossier della Camera, il bollo è un tributo proprio in Sicilia e nelle Province autonome di Trento e Bolzano; in Valle d'Aosta, Sardegna e Friuli-Venezia Giulia è un tributo dello Stato, con una quota del gettito (10/10 in Valle d'Aosta, 7/10 in Sardegna) o senza quota (Friuli-Venezia Giulia).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-16dbd67a14",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Regioni a statuto speciale e province autonome"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "dossier della Camera",
+          "url": "https://documenti.camera.it/leg19/dossier/testi/D26162.htm",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-945503a815",
+      "testo": "Il comma 4 chiede l'Accordo solo dove il bollo è un tributo proprio dell'ente: secondo il dossier, quindi, in Sicilia e nelle Province autonome di Trento e Bolzano. In Valle d'Aosta, Sardegna e Friuli-Venezia Giulia l'esenzione dovrebbe valere senza Accordo (art. 2, c. 4, D.L. 162/2026). Le singole leggi regionali e provinciali non sono state verificate.",
+      "etichetta": "INTERPRETAZIONE",
+      "certezza": "Media",
+      "nota_etichetta": "lettura redazionale",
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-945503a815",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Regioni a statuto speciale e province autonome"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 4, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-28288490fe",
+      "testo": "Chi abita in Sicilia o nelle Province autonome di Trento e Bolzano: l'esenzione dipende da un Accordo (art. 2, c. 4, D.L. 162/2026) che, alle fonti lette, non risulta ancora firmato. Manca: testo degli Accordi. Verifica: sito della propria Regione o Provincia autonoma.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-28288490fe",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Regioni a statuto speciale e province autonome"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 4, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-bee45f76e1",
+      "testo": "Lo Stato trasferisce a Regioni e Province autonome 2.293,5 milioni di euro per il 2027 per compensare il bollo non incassato. La quota di ciascuna è fissata entro il 31 marzo 2027 con decreto del Ministro dell'economia e delle finanze, tenendo conto degli Accordi, sentita la Conferenza Stato-Regioni (art. 2, c. 5).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-bee45f76e1",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Come vengono compensate le Regioni"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-d54a0a3813",
+      "testo": "In Commissione Finanze della Camera sono state approvate tre modifiche all'art. 2. Servono la «previa intesa» in Conferenza (non solo il parere), un riferimento allo Statuto del Trentino-Alto Adige per l'Accordo con Trento e Bolzano e la copertura scritta in cifre: 68,5 milioni per il comma 4 e 2.293,5 milioni per il comma 5 (emendamenti approvati il 21/10 e il 28/10). Non cambiano chi è esente né i requisiti, e valgono solo se il testo è approvato da Camera e Senato.",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-d54a0a3813",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Come vengono compensate le Regioni"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": null,
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "emendamenti approvati il 21/10",
+          "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/21/06/allegato.htm",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "il 28/10",
+          "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/28/06/allegato.htm",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-c63e96be0f",
+      "testo": "Minori entrate per il 2027: 2.362 milioni di euro.",
+      "etichetta": "STIMA",
+      "certezza": "Media",
+      "nota_etichetta": "relazione tecnica del Governo riportata dal Servizio Bilancio della Camera",
+      "etichetta_ereditata": true,
+      "contesto": "[STIMA · Media]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-c63e96be0f",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Quanto vale, secondo il Governo"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Servizio Bilancio della Camera",
+          "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-39e301b002",
+      "testo": "Auto: circa 13,2 milioni di auto esentate, con un bollo medio di 168,4 euro (2.226 milioni), più 11 milioni per auto in leasing o noleggio il cui bollo è pagato da persone fisiche.",
+      "etichetta": "STIMA",
+      "certezza": "Media",
+      "nota_etichetta": "relazione tecnica del Governo riportata dal Servizio Bilancio della Camera",
+      "etichetta_ereditata": true,
+      "contesto": "[STIMA · Media]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-39e301b002",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Quanto vale, secondo il Governo"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Servizio Bilancio della Camera",
+          "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-94c633051c",
+      "testo": "Moto: quasi 2 milioni, con un bollo medio di 59 euro (circa 115,5 milioni), più 9,5 milioni per i motorini.",
+      "etichetta": "STIMA",
+      "certezza": "Media",
+      "nota_etichetta": "relazione tecnica del Governo riportata dal Servizio Bilancio della Camera",
+      "etichetta_ereditata": true,
+      "contesto": "[STIMA · Media]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-94c633051c",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Quanto vale, secondo il Governo"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Servizio Bilancio della Camera",
+          "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-ef1d8503df",
+      "testo": "La differenza tra 2.362 e 2.293,5 milioni (68,5 milioni) è la parte di gettito che spetta allo Stato in Friuli-Venezia Giulia e, per il 30%, in Sardegna.",
+      "etichetta": "STIMA",
+      "certezza": "Media",
+      "nota_etichetta": "relazione tecnica del Governo riportata dal Servizio Bilancio della Camera",
+      "etichetta_ereditata": true,
+      "contesto": "[STIMA · Media]",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-ef1d8503df",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Quanto vale, secondo il Governo"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "Servizio Bilancio della Camera",
+          "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-d3aa070507",
+      "testo": "Il Servizio Bilancio della Camera osserva che la relazione tecnica non riporta tutti i dati intermedi, quindi la stima non si può verificare in modo puntuale (dossier, p. 16).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-d3aa070507",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Quanto vale, secondo il Governo"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "dossier",
+          "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-77e867c128",
+      "testo": "Secondo il Governo, che lo scrive nel comunicato del Consiglio dei ministri n. 195 del 28 ottobre 2026 sul disegno di legge di bilancio 2027: «Diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli».",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": "è quanto afferma il Governo",
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-77e867c128",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Dopo il 2027: cosa è stato annunciato"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "comunicato del Consiglio dei ministri n. 195",
+          "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-fdb564ab54",
+      "testo": "È un annuncio: al 29 ottobre 2026 il testo della legge di bilancio non risulta presentato al Parlamento. Requisiti, decorrenza e costo sono sconosciuti, e il Parlamento può modificarli. Manca: testo del disegno di legge di bilancio 2027 e relazione tecnica. Verifica: camera.it e senato.it dopo la presentazione.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-fdb564ab54",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Dopo il 2027: cosa è stato annunciato"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "camera.it",
+          "url": "https://www.camera.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "senato.it",
+          "url": "https://www.senato.it",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-01d46d17f7",
+      "testo": "Il decreto non dice se l'esenzione è automatica o se serve una domanda (art. 2). Manca: indicazioni di Regioni, ACI o Ministero dell'economia. Verifica: sito della Regione di residenza prima della scadenza 2027.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-01d46d17f7",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-6c6adb4d74",
+      "testo": "No: l'art. 2 non prevede limiti di reddito né di ISEE.",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-6c6adb4d74",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-8b574a7e93",
+      "testo": "Il decreto non chiede un requisito di residenza. La residenza decide a quale Regione si paga il bollo (art. 14 d.lgs. 147/2026). In Sicilia e nelle Province autonome di Trento e Bolzano serve l'Accordo con lo Stato (art. 2, c. 4).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-8b574a7e93",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        },
+        {
+          "citazione": "art. 14 d.lgs. 147/2026",
+          "atto": "d.lgs. 147/2026",
+          "articolo": "14"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "art. 14 d.lgs. 147/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-08-07;147",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-7b929b1c1c",
+      "testo": "Il testo copre le auto a benzina o gasolio «anche in combinazione con altra fonte di propulsione»: quindi anche le ibride, comprese le plug-in, se fino a 80 kW (art. 2, c. 2). Le auto omologate per andare solo a GPL o metano sono una categoria distinta nella legge (art. 17, c. 5, L. 449/1997) e alla lettera restano fuori, come le auto solo elettriche.",
+      "etichetta": "INTERPRETAZIONE",
+      "certezza": "Media",
+      "nota_etichetta": "lettura redazionale",
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-7b929b1c1c",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        },
+        {
+          "citazione": "art. 17, c. 5, L. 449/1997",
+          "atto": "L. 449/1997",
+          "articolo": "17"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "art. 17, c. 5, L. 449/1997",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 27 dicembre 1997, n. 449",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-08d81309cd",
+      "testo": "Se le auto bifuel (benzina con GPL o metano) rientrino nell'art. 2, c. 2, D.L. 162/2026, e come la Regione registra l'alimentazione dei veicoli bifuel o ibridi. Manca: chiarimento ufficiale. Verifica: carta di circolazione e sito della Regione.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-08d81309cd",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 2, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-e7a943a2b4",
+      "testo": "Il decreto parla di potenza «espressa in kW», non di cavalli (CV) (art. 2, c. 2).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-e7a943a2b4",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-6d44c2f74b",
+      "testo": "In quale voce della carta di circolazione si legge la potenza in kW richiesta dall'art. 2, c. 2, D.L. 162/2026. Manca: verifica sul modello ufficiale della carta di circolazione. Verifica: la tua carta di circolazione o un ufficio della Motorizzazione o dell'ACI.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-6d44c2f74b",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 2, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-34b4c172df",
+      "testo": "L'esenzione per le persone con disabilità (art. 8, c. 7, L. 449/1997; dal 2027 con rinvio al Testo unico IVA, Tabella A, parte II, n. 24) resta nella sostanza invariata: auto fino a 2.000 cc a benzina o ibride, 2.800 cc diesel o ibride, 150 kW se elettriche, per un solo veicolo, su domanda all'ente che gestisce il bollo. Riguarda i veicoli adattati per persone con ridotte o impedite capacità motorie permanenti; i veicoli, anche non adattati, di persone con grave limitazione della capacità di deambulazione o con pluriamputazioni e di persone con handicap psichico o mentale titolari dell'indennità di accompagnamento (art. 30, c. 7, L. 388/2000); i veicoli di non vedenti e sordomuti. Vale anche se il veicolo è intestato al familiare di cui la persona è fiscalmente a carico (art. 8, cc. 3 e 7, L. 449/1997; dal 2027 Testo unico IVA, Tabella A, parte II, n. 24). Il D.L. 162 non la modifica. Spiegazione pratica: Agenzia delle Entrate.",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-34b4c172df",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 30, c. 7, L. 388/2000",
+          "atto": "L. 388/2000",
+          "articolo": "30"
+        },
+        {
+          "citazione": "art. 8, c. 7, L. 449/1997",
+          "atto": "L. 449/1997",
+          "articolo": "8"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "art. 8, c. 7, L. 449/1997",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art8",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Testo unico IVA",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-01-19;10",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "art. 30, c. 7, L. 388/2000",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388~art30",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Agenzia delle Entrate",
+          "url": "https://www.agenziaentrate.gov.it/portale/esenzione-permanente-dal-pagamento-del-bollo",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 23 dicembre 2000, n. 388",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "L. 27 dicembre 1997, n. 449",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-31997e6204",
+      "testo": "Chi è già esente per disabilità e ha un secondo veicolo con i requisiti: l'art. 2 D.L. 162/2026 non dice se possa avere anche l'esenzione 2027. Manca: chiarimento ufficiale. Verifica: Regione di residenza.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-31997e6204",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2 D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-92daa68a5f",
+      "testo": "Conta il termine ordinario di pagamento, che deve cadere nel 2027 (art. 2, c. 1).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-92daa68a5f",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-e53bb16fb8",
+      "testo": "Conta il termine per pagare, non i mesi coperti. Se il termine di pagamento cade entro il 31 dicembre 2026, quel bollo si paga anche se copre mesi del 2027. Se cade dal 1° gennaio 2027 (per esempio il rinnovo di un bollo valido fino a dicembre 2026), rientra nell'esenzione (art. 2, c. 1, D.L. 162/2026; DM 18 novembre 1998, n. 462, art. 1). Le Regioni possono avere termini propri: verifica sul sito della tua Regione.",
+      "etichetta": "INTERPRETAZIONE",
+      "certezza": "Media",
+      "nota_etichetta": "lettura redazionale",
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-e53bb16fb8",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 1, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        },
+        {
+          "citazione": "art. 1",
+          "atto": null,
+          "articolo": "1"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "DM 18 novembre 1998, n. 462",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.finanze:decreto:1998-11-18;462",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-auto-99f240991b",
+      "testo": "Se non è convertito in legge entro il 16 novembre 2026, il decreto perde efficacia fin dall'inizio (art. 77 Cost.).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-99f240991b",
+        "titolo": "Bollo auto 2027: chi è esente",
+        "sezione": "Domande frequenti"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 77 Cost.",
+          "atto": "Costituzione",
+          "articolo": "77"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-d07d9e2f98",
+      "testo": "L'esenzione è solo per le persone fisiche (art. 2, c. 1).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-d07d9e2f98",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "1. Chi paga il bollo"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-eb3c20be78",
+      "testo": "Auto a benzina o gasolio, «anche in combinazione con altra fonte di propulsione», fino a 80 kW (art. 2, c. 2).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-eb3c20be78",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "2. Auto a benzina o gasolio fino a 80 kW"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-d35c23eca9",
+      "testo": "Moto e motorini a benzina rientrano solo se la persona non risulta tenuta al bollo (soggetto passivo) per alcuna auto fino a 80 kW; il testo non fissa un limite di kW per le moto (art. 2, c. 3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-d35c23eca9",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "3. Moto o motorino a benzina"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-62ecdd9b53",
+      "testo": "L'esenzione riguarda «un solo veicolo regolarmente assicurato» (art. 2, c. 1).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-62ecdd9b53",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "4. Assicurazione"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-35773a7c81",
+      "testo": "Dove il bollo è un tributo proprio dell'ente, l'esenzione vale «previo Accordo» (art. 2, c. 4).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-35773a7c81",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "5. Dove paghi il bollo"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-5baceb0724",
+      "testo": "è esente un solo veicolo a persona",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] Se hai risposto «sì» a ogni passo, il tuo veicolo può rientrare nell'esenzione per i pagamenti che scadono dal 1° gennaio al 31 dicembre 2027 (art. 2, c. 1). Ricorda:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-5baceb0724",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile sì"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-6316fad6e3",
+      "testo": "con più auto fino a 80 kW, quella con meno kW (a parità, quella con il bollo più basso)",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] Se hai risposto «sì» a ogni passo, il tuo veicolo può rientrare nell'esenzione per i pagamenti che scadono dal 1° gennaio al 31 dicembre 2027 (art. 2, c. 1). Ricorda:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-6316fad6e3",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile sì"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-77c4a26918",
+      "testo": "con più moto, quella con meno kW; con più motorini, quello immatricolato per primo (art. 2, cc. 2-3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[FATTO · Alta] Se hai risposto «sì» a ogni passo, il tuo veicolo può rientrare nell'esenzione per i pagamenti che scadono dal 1° gennaio al 31 dicembre 2027 (art. 2, c. 1). Ricorda:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-77c4a26918",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile sì"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-ae103c3e1f",
+      "testo": "Se hai risposto «sì» a ogni passo, il tuo veicolo può rientrare nell'esenzione per i pagamenti che scadono dal 1° gennaio al 31 dicembre 2027 (art. 2, c. 1). Ricorda:",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-ae103c3e1f",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile sì"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-64c87bb9e5",
+      "testo": "Il decreto non dice se l'esenzione è automatica o se serve una domanda (art. 2 D.L. 162/2026). Verifica sul sito della tua Regione prima della scadenza.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-64c87bb9e5",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile sì"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2 D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-c60fbfb1d4",
+      "testo": "In base al testo, il D.L. 162 non esenta veicoli di società o enti, auto oltre 80 kW, auto solo elettriche, moto non a benzina o veicoli non assicurati (art. 2, cc. 1-3).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-c60fbfb1d4",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile no"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-7e1a389930",
+      "testo": "Potresti però avere altre esenzioni già previste: quella per le persone con disabilità (art. 8 L. 449/1997) o, per le auto elettriche, l'esenzione per i primi cinque anni e poi la riduzione a un quarto previste dalla legge statale (art. 17, c. 5, L. 449/1997), con eventuali condizioni diverse decise dalla tua Regione. Verifica sul sito della tua Regione.",
+      "etichetta": "INTERPRETAZIONE",
+      "certezza": "Media",
+      "nota_etichetta": "lettura redazionale",
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-7e1a389930",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Probabile no"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 8 L. 449/1997",
+          "atto": "L. 449/1997",
+          "articolo": "8"
+        },
+        {
+          "citazione": "art. 17, c. 5, L. 449/1997",
+          "atto": "L. 449/1997",
+          "articolo": "17"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "art. 8 L. 449/1997",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art8",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "art. 17, c. 5, L. 449/1997",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art17",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 27 dicembre 1997, n. 449",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-b3394a3fab",
+      "testo": "leasing o noleggio a lungo termine: dovresti rientrare se nel 2027 il bollo spetta a te come persona, ma manca una conferma ufficiale; per il noleggio con contratto precedente al 2027 e non rinnovato non sappiamo chi paga (art. 2, cc. 2-3, D.L. 162/2026)",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[DA VERIFICARE] L'art. 2 del D.L. 162/2026 non risolve da solo questi casi:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-b3394a3fab",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Dipende, verifica qui"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, cc. 2-3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-094aa5f5ed",
+      "testo": "alimentazione che non sai classificare, per esempio bifuel: manca un chiarimento ufficiale (art. 2, c. 2, D.L. 162/2026)",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[DA VERIFICARE] L'art. 2 del D.L. 162/2026 non risolve da solo questi casi:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-094aa5f5ed",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Dipende, verifica qui"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 2, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-ee4f89421b",
+      "testo": "auto fino a 80 kW non a benzina o gasolio (per esempio elettrica) insieme a una moto o un motorino: non è chiaro se la moto possa essere esente (art. 2, c. 3, D.L. 162/2026)",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[DA VERIFICARE] L'art. 2 del D.L. 162/2026 non risolve da solo questi casi:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-ee4f89421b",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Dipende, verifica qui"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-d3d2910ebd",
+      "testo": "Sicilia, Trento, Bolzano: serve l'Accordo con lo Stato (art. 2, c. 4, D.L. 162/2026)",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[DA VERIFICARE] L'art. 2 del D.L. 162/2026 non risolve da solo questi casi:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-d3d2910ebd",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Dipende, verifica qui"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 4, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-e1b23413b7",
+      "testo": "moto e motorino insieme: il testo non dice quale dei due è esente (art. 2, c. 3, D.L. 162/2026)",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[DA VERIFICARE] L'art. 2 del D.L. 162/2026 non risolve da solo questi casi:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-e1b23413b7",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Dipende, verifica qui"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 2, c. 3, D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
+    },
+    {
+      "id": "bollo-sono-esente-d642a6ecd4",
+      "testo": "già esente per disabilità con un secondo veicolo: il D.L. 162/2026 non dice se si può avere anche l'esenzione 2027.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": true,
+      "contesto": "[DA VERIFICARE] L'art. 2 del D.L. 162/2026 non risolve da solo questi casi:",
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-sono-esente.html#af-bollo-sono-esente-d642a6ecd4",
+        "titolo": "Bollo 2027: sono esente?",
+        "sezione": "Dipende, verifica qui"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": null
+        },
+        {
+          "citazione": "art. 2 del D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": "2"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "D.L. 162/2026",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-45c865e2c8",
@@ -5882,7 +8424,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0da44c84bc",
@@ -5920,7 +8462,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-dced647128",
@@ -5958,7 +8500,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-2c0ece6264",
@@ -5996,7 +8538,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-b5173f5a3f",
@@ -6028,7 +8570,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-81d0763d27",
@@ -6060,7 +8602,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-3162c760e3",
@@ -6103,7 +8645,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-be74f614bf",
@@ -6135,7 +8677,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6d3d9cbe41",
@@ -6167,7 +8709,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-b82d243e4c",
@@ -6210,7 +8752,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-652ebd5798",
@@ -6242,7 +8784,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-9fd9f2ce36",
@@ -6261,7 +8803,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-7f90feba16",
@@ -6304,7 +8846,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-06b726347c",
@@ -6347,7 +8889,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-713a294ee5",
@@ -6373,7 +8915,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-db78e37ab6",
@@ -6472,7 +9014,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-667b4736ea",
@@ -6491,7 +9033,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-45a5588211",
@@ -6523,7 +9065,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-8f4c5d65c7",
@@ -6577,7 +9119,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-42c2677d4e",
@@ -6631,7 +9173,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-fbc88069ff",
@@ -6685,7 +9227,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-9fac759707",
@@ -6739,7 +9281,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d9638810e2",
@@ -6804,7 +9346,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-42fa3040e9",
@@ -6858,7 +9400,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-5e08f900d8",
@@ -6912,7 +9454,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e0ff6b5ab7",
@@ -6938,7 +9480,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-c2cc16d6d7",
@@ -6964,7 +9506,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-2ae7f10051",
@@ -6996,7 +9538,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-3c54c2176f",
@@ -7050,7 +9592,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-123c65a7c1",
@@ -7076,7 +9618,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-f11a547e92",
@@ -7108,7 +9650,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e30e94851b",
@@ -7140,7 +9682,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-ea95d4e1e3",
@@ -7183,7 +9725,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-57fc0954db",
@@ -7215,7 +9757,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-84ac2e8620",
@@ -7247,7 +9789,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d2a4cfa1b9",
@@ -7301,7 +9843,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d18bcfaf09",
@@ -7344,7 +9886,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6606bb5fee",
@@ -7398,7 +9940,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-530a414f4e",
@@ -7469,7 +10011,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-7833271bfe",
@@ -7512,7 +10054,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6efd70b3d5",
@@ -7544,7 +10086,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-cb18ddc686",
@@ -7570,7 +10112,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0a12da20f5",
@@ -7608,7 +10150,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0daf5aa13e",
@@ -7627,7 +10169,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-31c9fddbe5",
@@ -7676,7 +10218,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0ecfceb384",
@@ -7719,7 +10261,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6e707c1eae",
@@ -7757,7 +10299,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e376e808f2",
@@ -7795,7 +10337,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-1200ecf3e3",
@@ -7833,7 +10375,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-2b6995f560",
@@ -7865,7 +10407,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-aa306b8685",
@@ -7897,7 +10439,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-a25bd9780d",
@@ -7929,7 +10471,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-765459d838",
@@ -7961,7 +10503,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-fbf967be34",
@@ -7993,7 +10535,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-8163e906b1",
@@ -8025,7 +10567,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-f1db47e3cc",
@@ -8057,7 +10599,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-40ac8ec6af",
@@ -8089,7 +10631,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e6c7b48792",
@@ -8121,7 +10663,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-825704140b",
@@ -8158,7 +10700,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d65245d533",
@@ -8195,7 +10737,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-1400898a4b",
@@ -8221,7 +10763,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-4da086e225",
@@ -8247,7 +10789,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0200e92059",
@@ -8279,7 +10821,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0f910ea654",
@@ -8298,7 +10840,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-166c919594",
@@ -8317,7 +10859,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-5c9ab6c064",
@@ -8343,7 +10885,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-86cd271e9a",
@@ -8369,7 +10911,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0c691bdd0c",
@@ -8395,7 +10937,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-828378b8c5",
@@ -8421,7 +10963,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d26915ee53",
@@ -8447,7 +10989,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-4b2695cb08",
@@ -8473,7 +11015,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-daf0acba39",
@@ -8499,7 +11041,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-db04a1d9e6",
@@ -8525,7 +11067,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-9e53241494",
@@ -8551,7 +11093,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-72615418a0",
@@ -8583,7 +11125,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-a06350cd7c",
@@ -8631,7 +11173,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e90b453ca8",
@@ -8663,7 +11205,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-3cbaa6fe4f",
@@ -8721,7 +11263,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-1d0b5bc4fb",
@@ -8753,7 +11295,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-b3e56c1569",
@@ -8785,7 +11327,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-a6a9ccdfec",
@@ -8817,7 +11359,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-23e02a4289",
@@ -8861,7 +11403,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0edb96b0dc",
@@ -8904,7 +11446,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-24fa7f23ab",
@@ -8936,7 +11478,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e516417bb8",
@@ -8962,7 +11504,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-4f497cf046",
@@ -8988,7 +11530,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-07839e6c20",
@@ -9036,7 +11578,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-343ad923da",
@@ -9106,7 +11648,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-f31f7ac6c5",
@@ -9132,7 +11674,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6fef678fe3",
@@ -9158,7 +11700,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d503d9c125",
@@ -9177,7 +11719,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-01eecc3b30",
@@ -9226,7 +11768,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-ebc8b49c4e",
@@ -9274,7 +11816,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-cfb68428f4",
@@ -9306,7 +11848,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-e8e5403e5d",
@@ -9332,7 +11874,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-151fda765f",
@@ -9364,7 +11906,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-82e2460761",
@@ -9396,7 +11938,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6d76ac282f",
@@ -9434,7 +11976,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-9b48beda88",
@@ -9472,7 +12014,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-d8ae8c2dbe",
@@ -9510,7 +12052,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-5f0a042a86",
@@ -9548,7 +12090,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-6c2a60e066",
@@ -9574,7 +12116,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-35a0e96220",
@@ -9600,7 +12142,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-3a80157b9e",
@@ -9619,7 +12161,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-1de4350476",
@@ -9645,7 +12187,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-36eefef2d6",
@@ -9671,7 +12213,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0daae66e50",
@@ -9697,7 +12239,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-9be5cd6d93",
@@ -9723,7 +12265,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-afcc1aa99a",
@@ -9749,7 +12291,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-834aa2f4e4",
@@ -9768,7 +12310,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-88d48195b3",
@@ -9828,7 +12370,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-af1a412316",
@@ -9854,7 +12396,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-a71562d2bc",
@@ -9880,7 +12422,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-3bd2d1bbe8",
@@ -9899,7 +12441,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-7430bc2e53",
@@ -9925,7 +12467,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-1073289aa2",
@@ -9957,7 +12499,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-ddfc6f9fac",
@@ -10001,7 +12543,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-2f69977915",
@@ -10027,7 +12569,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-9bd93eabcd",
@@ -10076,7 +12618,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-ddbfb9d071",
@@ -10120,7 +12662,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-c5d0966426",
@@ -10152,7 +12694,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-0b215667be",
@@ -10190,7 +12732,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-ad7b0721a6",
@@ -10216,7 +12758,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "bussola-completa-10efb6614c",
@@ -10248,7 +12790,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-60ee8e1250",
@@ -10280,7 +12822,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-f89a30089b",
@@ -10318,7 +12860,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-d18a1f0ba5",
@@ -10389,7 +12931,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-f684f7a633",
@@ -10427,7 +12969,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-509b8713c3",
@@ -10453,7 +12995,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-3cb06838c7",
@@ -10479,7 +13021,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-a7f28386cd",
@@ -10527,7 +13069,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-3f0f6e5167",
@@ -10570,7 +13112,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-c322a1afb7",
@@ -10613,7 +13155,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-face9da946",
@@ -10662,7 +13204,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-bd90accac7",
@@ -10711,7 +13253,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-6e6784e9de",
@@ -10786,7 +13328,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-32e6cb2371",
@@ -10856,7 +13398,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-953a16840a",
@@ -10882,7 +13424,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-c367aa3f7b",
@@ -10908,7 +13450,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-efcfb1cf53",
@@ -10966,7 +13508,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-65d3a58467",
@@ -11024,7 +13566,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-641e01b9a5",
@@ -11073,7 +13615,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-5456ee97ae",
@@ -11116,7 +13658,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-ada495c189",
@@ -11148,7 +13690,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-c17af04cad",
@@ -11167,7 +13709,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-aeb3d15d31",
@@ -11215,7 +13757,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-6d7ff1dbad",
@@ -11234,7 +13776,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-14502d910e",
@@ -11293,7 +13835,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-461e07ba1b",
@@ -11325,7 +13867,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-75e234c1dd",
@@ -11357,7 +13899,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-7059eefe64",
@@ -11393,6 +13935,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
           "titolo": "D.L. 23 ottobre 2026, n. 193 (testo in Gazzetta Ufficiale)",
           "url": "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/SG",
           "ufficiale": true,
@@ -11400,7 +13948,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-dd5795e39d",
@@ -11426,7 +13974,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-6b60b621ff",
@@ -11452,7 +14000,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-29T18:47:00+01:00"
+      "data_aggiornamento": "2026-10-29T19:40:00+01:00"
     }
   ]
 }
