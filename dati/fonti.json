@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.1",
-  "generato_il": "2026-10-27T19:16:00+01:00",
+  "generato_il": "2026-10-29T18:35:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 71,
+  "totale": 72,
   "fonti": [
     {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
@@ -52,9 +52,11 @@
         "bussola-completa-1073289aa2",
         "bussola-completa-1400898a4b",
         "bussola-completa-7430bc2e53",
+        "bussola-completa-868bac7965",
+        "bussola-completa-92fb4cd1ac",
+        "bussola-completa-c5d0966426",
         "bussola-completa-ddbfb9d071",
-        "bussola-completa-ddfc6f9fac",
-        "bussola-completa-f77ab8f08a"
+        "bussola-completa-ddfc6f9fac"
       ]
     },
     {
@@ -149,7 +151,7 @@
       "ufficiale": true,
       "dominio": "www.cgsse.it",
       "affermazioni": [
-        "bussola-completa-f77ab8f08a"
+        "bussola-completa-c5d0966426"
       ]
     },
     {
@@ -989,6 +991,8 @@
         "bussola-completa-765459d838",
         "bussola-completa-8163e906b1",
         "bussola-completa-825704140b",
+        "bussola-completa-868bac7965",
+        "bussola-completa-92fb4cd1ac",
         "bussola-completa-a25bd9780d",
         "bussola-completa-aa306b8685",
         "bussola-completa-d65245d533",
@@ -997,7 +1001,6 @@
         "bussola-completa-e376e808f2",
         "bussola-completa-e6c7b48792",
         "bussola-completa-f1db47e3cc",
-        "bussola-completa-f77ab8f08a",
         "bussola-completa-fbf967be34",
         "diritti-037f52515e",
         "diritti-5e9842ab6c",
@@ -1242,6 +1245,16 @@
         "bussola-completa-0da44c84bc",
         "bussola-completa-2c0ece6264",
         "bussola-completa-dced647128"
+      ]
+    },
+    {
+      "url": "https://www.trentinotrasporti.it/it/news/sciopero-di-24-ore-venerdi-30-ottobre-2026-ordinanza-n-204-t-del-mit-differimento?id=1317&idSpecial=13206",
+      "titolo": "Trentino Trasporti",
+      "altri_titoli": [],
+      "ufficiale": false,
+      "dominio": "www.trentinotrasporti.it",
+      "affermazioni": [
+        "bussola-completa-868bac7965"
       ]
     }
   ]
