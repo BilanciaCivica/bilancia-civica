@@ -3,8 +3,8 @@
   "sito": "https://bilanciacivica.github.io/bilancia-civica/",
   "repository": "https://github.com/BilanciaCivica/bilancia-civica",
   "documentazione": "https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
-  "versione_schema": "1.0.2",
-  "generato_il": "2026-10-29T19:40:00+01:00",
+  "versione_schema": "1.0.3",
+  "generato_il": "2026-10-30T08:17:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -12,7 +12,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "testi_aggiornati_al": "29/10/2026, ore 19:40 (ora di Roma)",
+  "testi_aggiornati_al": "30/10/2026, ore 08:17 (ora di Roma)",
   "nota_generato_il": "Coincide con la data di aggiornamento dei testi: due generazioni dagli stessi testi producono file identici.",
   "etichette": {
     "FATTO": "si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale)",
@@ -21,12 +21,12 @@
     "DA VERIFICARE": "non ancora confermato da una fonte ufficiale: diciamo cosa manca"
   },
   "conteggi": {
-    "affermazioni": 389,
+    "affermazioni": 492,
     "per_etichetta": {
-      "FATTO": 305,
-      "STIMA": 4,
-      "INTERPRETAZIONE": 16,
-      "DA VERIFICARE": 64
+      "FATTO": 366,
+      "STIMA": 14,
+      "INTERPRETAZIONE": 17,
+      "DA VERIFICARE": 95
     },
     "per_tema": {
       "presidi": 71,
@@ -34,8 +34,9 @@
       "sciopero": 61,
       "decreto-sicurezza": 115,
       "autotrasporto": 10,
-      "legge-di-bilancio": 4,
-      "bollo-auto": 71,
+      "legge-di-bilancio": 57,
+      "bollo-auto": 72,
+      "diesel-euro5": 49,
       "generale": 15
     },
     "per_pagina": {
@@ -46,15 +47,18 @@
       "sciopero.html": 6,
       "decreto.html": 27,
       "esempio.html": 20,
-      "stato.html": 31,
+      "stato.html": 47,
       "bollo-auto.html": 44,
       "bollo-sono-esente.html": 18,
+      "diesel-euro5.html": 36,
+      "diesel-euro5-posso-circolare.html": 4,
+      "manovra-2027.html": 47,
       "bussola-completa.html": 124,
       "analisi-dl-190-2026.html": 29
     },
-    "fonti": 94,
-    "fonti_ufficiali": 86,
-    "affermazioni_senza_fonte_collegata": 17
+    "fonti": 119,
+    "fonti_ufficiali": 111,
+    "affermazioni_senza_fonte_collegata": 15
   },
   "controllo_estrazione": {
     "index.html": {
@@ -100,10 +104,10 @@
       "affermazioni": 20
     },
     "stato.html": {
-      "badge": 19,
+      "badge": 26,
       "esempio": 0,
-      "intestazione": 2,
-      "affermazioni": 31
+      "intestazione": 4,
+      "affermazioni": 47
     },
     "bollo-auto.html": {
       "badge": 33,
@@ -116,6 +120,24 @@
       "esempio": 0,
       "intestazione": 1,
       "affermazioni": 18
+    },
+    "diesel-euro5.html": {
+      "badge": 32,
+      "esempio": 0,
+      "intestazione": 1,
+      "affermazioni": 36
+    },
+    "diesel-euro5-posso-circolare.html": {
+      "badge": 4,
+      "esempio": 0,
+      "intestazione": 0,
+      "affermazioni": 4
+    },
+    "manovra-2027.html": {
+      "badge": 21,
+      "esempio": 0,
+      "intestazione": 7,
+      "affermazioni": 47
     },
     "impatto.html": {
       "badge": 1,

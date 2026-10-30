@@ -1,6 +1,6 @@
 {
-  "versione_schema": "1.0.2",
-  "generato_il": "2026-10-29T19:40:00+01:00",
+  "versione_schema": "1.0.3",
+  "generato_il": "2026-10-30T08:17:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,8 +8,75 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 94,
+  "totale": 119,
   "fonti": [
+    {
+      "url": "https://dati.senato.it/sparql",
+      "titolo": "dati aperti del Senato",
+      "altri_titoli": [
+        "dati aperti ufficiali"
+      ],
+      "ufficiale": true,
+      "dominio": "dati.senato.it",
+      "affermazioni": [
+        "manovra-2027-257a7c8cff",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-d82f26d5b3",
+        "stato-257a7c8cff",
+        "stato-5daadf1640",
+        "stato-79314f97a8",
+        "stato-8d0acd48d8",
+        "stato-a9b54612f3",
+        "stato-b20e4c7017"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/011/004/INTERO.pdf",
+      "titolo": "Camera, Doc. XI n. 4",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "manovra-2027-6d29bb7b6e"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
+      "titolo": "calendario dei lavori dell'Assemblea n. 44, novembre 2026",
+      "altri_titoli": [
+        "calendario dell'Assemblea",
+        "calendario della Camera",
+        "calendario n. 44"
+      ],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "diesel-euro5-7869d49f9d",
+        "stato-0dd13a774f",
+        "stato-15060af6da",
+        "stato-2a4092677f",
+        "stato-2c4a7e448f",
+        "stato-31ab611876",
+        "stato-39af3ba53d",
+        "stato-4207b7f2da",
+        "stato-48c36e361b",
+        "stato-52c47d7a5f",
+        "stato-5f6ccae5d1",
+        "stato-70a1d46ef0",
+        "stato-744b9fc9cc",
+        "stato-85b153896e",
+        "stato-9014947608",
+        "stato-97f65b8b9d",
+        "stato-9b28107a03",
+        "stato-b4e1ebc92d",
+        "stato-c930c3c4be",
+        "stato-f03928b32c"
+      ]
+    },
     {
       "url": "https://documenti.camera.it/leg19/dossier/Pdf/VQ3106.pdf",
       "titolo": "Servizio Bilancio della Camera",
@@ -37,6 +104,25 @@
       ]
     },
     {
+      "url": "https://documenti.camera.it/leg19/dossier/testi/D26167.htm",
+      "titolo": "dossier",
+      "altri_titoli": [
+        "dossier della Camera"
+      ],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "diesel-euro5-1703e4004f",
+        "diesel-euro5-1f5acabb8a",
+        "diesel-euro5-6a0d66e683",
+        "diesel-euro5-9de1b69bd6",
+        "diesel-euro5-a245510b3f",
+        "diesel-euro5-c95fba1171",
+        "diesel-euro5-posso-circolare-34d1c0ecdc",
+        "diesel-euro5-posso-circolare-f430807e84"
+      ]
+    },
+    {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/21/06/allegato.htm",
       "titolo": "emendamenti approvati il 21/10",
       "altri_titoli": [],
@@ -57,13 +143,23 @@
       ]
     },
     {
-      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
-      "titolo": "bollettino della Camera",
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/28/06/comunic.htm",
+      "titolo": "bollettino della Camera del 28 ottobre 2026",
       "altri_titoli": [],
       "ufficiale": true,
       "dominio": "documenti.camera.it",
       "affermazioni": [
-        "stato-827e98a830"
+        "stato-702ae70c9f"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/21/leg.19.bol0751.data20261021.com06.pdf",
+      "titolo": "bollettino della Camera del 21 ottobre 2026",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "stato-702ae70c9f"
       ]
     },
     {
@@ -192,6 +288,30 @@
       ]
     },
     {
+      "url": "https://www.camera.it/leg19/126",
+      "titolo": "camera.it",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "manovra-2027-4d9a1ef57f",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-66f3a181f4",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-d82f26d5b3",
+        "stato-1f7dedac85",
+        "stato-5daadf1640",
+        "stato-748bcccd83",
+        "stato-79314f97a8",
+        "stato-8d0acd48d8",
+        "stato-a9b54612f3",
+        "stato-b20e4c7017"
+      ]
+    },
+    {
       "url": "https://www.camera.it/leg19/126?idDocumento=3106&leg=19",
       "titolo": "camera.it",
       "altri_titoli": [
@@ -205,10 +325,10 @@
         "stato-15060af6da",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
+        "stato-48c36e361b",
         "stato-52c47d7a5f",
         "stato-85b153896e",
-        "stato-9b28107a03",
-        "stato-bf34e4c317"
+        "stato-9b28107a03"
       ]
     },
     {
@@ -219,6 +339,27 @@
       "dominio": "www.camera.it",
       "affermazioni": [
         "stato-d6f77592bc"
+      ]
+    },
+    {
+      "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3119",
+      "titolo": "AC 3119",
+      "altri_titoli": [
+        "camera.it",
+        "scheda della Camera"
+      ],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "diesel-euro5-7869d49f9d",
+        "diesel-euro5-abdcad8f0e",
+        "stato-2a4092677f",
+        "stato-31ab611876",
+        "stato-5f6ccae5d1",
+        "stato-70a1d46ef0",
+        "stato-744b9fc9cc",
+        "stato-9014947608",
+        "stato-97f65b8b9d"
       ]
     },
     {
@@ -301,6 +442,16 @@
       "dominio": "www.cgsse.it",
       "affermazioni": [
         "bussola-completa-ddfc6f9fac"
+      ]
+    },
+    {
+      "url": "https://www.comune.milano.it/web/milano/aree-tematiche/mobilita/area-b",
+      "titolo": "sito del Comune di Milano",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.comune.milano.it",
+      "affermazioni": [
+        "diesel-euro5-4ca141a55f"
       ]
     },
     {
@@ -506,15 +657,43 @@
         "bollo-sono-esente-ee4f89421b",
         "stato-0dd13a774f",
         "stato-15060af6da",
+        "stato-2c4a7e448f",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
+        "stato-48c36e361b",
         "stato-52c47d7a5f",
-        "stato-6c484c9ac9",
-        "stato-827e98a830",
+        "stato-702ae70c9f",
         "stato-85b153896e",
         "stato-99631721dd",
         "stato-9b28107a03",
-        "stato-bf34e4c317"
+        "stato-f03928b32c"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG",
+      "titolo": "D.L. 28 settembre 2026, n. 167 (testo in Gazzetta Ufficiale)",
+      "altri_titoli": [
+        "GU Serie Generale n. 225 del 28 settembre 2026",
+        "GU n. 225 del 28 settembre 2026",
+        "Gazzetta Ufficiale",
+        "decreto"
+      ],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "diesel-euro5-18f2876e9e",
+        "diesel-euro5-4ee6265184",
+        "diesel-euro5-66abe358e2",
+        "diesel-euro5-7869d49f9d",
+        "stato-2a4092677f",
+        "stato-31ab611876",
+        "stato-5f6ccae5d1",
+        "stato-70a1d46ef0",
+        "stato-744b9fc9cc",
+        "stato-9014947608",
+        "stato-97f65b8b9d",
+        "stato-b4e1ebc92d",
+        "stato-c930c3c4be"
       ]
     },
     {
@@ -656,6 +835,7 @@
         "analisi-dl-190-2026-7059eefe64",
         "stato-49cd910211",
         "stato-574dfe7dd5",
+        "stato-702ae70c9f",
         "stato-99631721dd",
         "stato-da1388036c"
       ]
@@ -711,17 +891,63 @@
     },
     {
       "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973",
-      "titolo": "comunicato del Consiglio dei ministri n. 195",
+      "titolo": "comunicato",
       "altri_titoli": [
+        "comunicato del Consiglio dei ministri n. 195",
         "comunicato n. 195"
       ],
       "ufficiale": true,
       "dominio": "www.governo.it",
       "affermazioni": [
         "bollo-auto-77e867c128",
+        "manovra-2027-11c1eb0d0c",
+        "manovra-2027-12bc6fff98",
+        "manovra-2027-1ec85c0c58",
+        "manovra-2027-205a3810a1",
+        "manovra-2027-2065568439",
+        "manovra-2027-22b7157282",
+        "manovra-2027-2f95c3feb4",
+        "manovra-2027-33db2c3c6e",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-64c59cae02",
+        "manovra-2027-6ad31115c9",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-7a646da4e9",
+        "manovra-2027-85fc801cfc",
+        "manovra-2027-8c4d985b09",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-91770547e1",
+        "manovra-2027-91963f8c86",
+        "manovra-2027-9504733a11",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-99cda59146",
+        "manovra-2027-a0d874a385",
+        "manovra-2027-a312fe8b1f",
+        "manovra-2027-a95e1cd0ac",
+        "manovra-2027-abc02c2d82",
+        "manovra-2027-ad924db800",
+        "manovra-2027-be7d09b3a3",
+        "manovra-2027-d101b1b27f",
+        "manovra-2027-d82f26d5b3",
+        "manovra-2027-ed78720c75",
         "stato-1294f88194",
-        "stato-e129fbb965",
-        "stato-f498c8afe3"
+        "stato-5daadf1640",
+        "stato-79314f97a8",
+        "stato-8991885c30",
+        "stato-8d0acd48d8",
+        "stato-b20e4c7017",
+        "stato-e129fbb965"
+      ]
+    },
+    {
+      "url": "https://www.ilportaledellautomobilista.it",
+      "titolo": "Portale dell'Automobilista",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.ilportaledellautomobilista.it",
+      "affermazioni": [
+        "diesel-euro5-a245510b3f"
       ]
     },
     {
@@ -739,6 +965,28 @@
         "bussola-completa-1de4350476",
         "decreto-c78b18d332",
         "esempio-51e4272a6c"
+      ]
+    },
+    {
+      "url": "https://www.mef.gov.it/export/sites/MEF/inevidenza/2026/article_00393/Italys-DBP-2027.pdf",
+      "titolo": "DPB",
+      "altri_titoli": [
+        "DPB 2027, tabella I.6-1",
+        "Documento programmatico di bilancio"
+      ],
+      "ufficiale": true,
+      "dominio": "www.mef.gov.it",
+      "affermazioni": [
+        "manovra-2027-0806a927e6",
+        "manovra-2027-2975e25914",
+        "manovra-2027-4136a37d5a",
+        "manovra-2027-5b5766e70b",
+        "manovra-2027-692490c604",
+        "manovra-2027-6bff57bb90",
+        "manovra-2027-6d29bb7b6e",
+        "manovra-2027-9ecdf728b4",
+        "manovra-2027-aa87ad615d",
+        "manovra-2027-bbdee3468c"
       ]
     },
     {
@@ -794,6 +1042,8 @@
         "corteo-0cdde9881a",
         "decreto-10a59bd435",
         "decreto-d782532e57",
+        "diesel-euro5-4f6d607ab5",
+        "diesel-euro5-ad28b93656",
         "diritti-4d378948de",
         "diritti-70be1de314",
         "diritti-80798e52df",
@@ -807,8 +1057,21 @@
         "esempio-0e1d6ebb19",
         "esempio-0e3736fc21",
         "esempio-d53dbb1a51",
+        "manovra-2027-13829ce0d5",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-5f5b311096",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-d82f26d5b3",
         "presidio-af9a350a8b",
         "stato-52c47d7a5f",
+        "stato-5daadf1640",
+        "stato-744b9fc9cc",
+        "stato-79314f97a8",
+        "stato-8d0acd48d8",
+        "stato-b20e4c7017",
         "stato-bf08471979"
       ]
     },
@@ -864,6 +1127,43 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "bussola-completa-cb18ddc686"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77",
+      "titolo": "art. 77 Cost.",
+      "altri_titoli": [
+        "art. 77, terzo comma, Cost."
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "diesel-euro5-4f6d607ab5",
+        "diesel-euro5-ad28b93656"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81",
+      "titolo": "Costituzione, art. 81",
+      "altri_titoli": [
+        "art. 81, c. 5, Cost.",
+        "art. 81, cc. 4-5, Cost."
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-2027-13829ce0d5",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-5f5b311096",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-d82f26d5b3",
+        "stato-5daadf1640",
+        "stato-79314f97a8",
+        "stato-8d0acd48d8",
+        "stato-b20e4c7017"
       ]
     },
     {
@@ -969,6 +1269,46 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-12;121",
+      "titolo": "D.L. 12 settembre 2023, n. 121 (testo vigente su Normattiva)",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "diesel-euro5-116d292e00",
+        "diesel-euro5-21fbb99f90",
+        "diesel-euro5-255e6ded26",
+        "diesel-euro5-44c71cc1b0",
+        "diesel-euro5-4ee6265184",
+        "diesel-euro5-77c461392b",
+        "diesel-euro5-9eea43018d",
+        "diesel-euro5-aa35ff7d32",
+        "diesel-euro5-ab756a16c7",
+        "diesel-euro5-ac045e2f60",
+        "diesel-euro5-af7830e373",
+        "diesel-euro5-d29d24d1cd",
+        "diesel-euro5-ee7005cd59",
+        "diesel-euro5-f3bbf95b33",
+        "diesel-euro5-febadd5a2f",
+        "diesel-euro5-posso-circolare-f73decb696",
+        "diesel-euro5-posso-circolare-fc52653263"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-12;121~art1",
+      "titolo": "D.L. 121/2023",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "diesel-euro5-77c461392b",
+        "diesel-euro5-ab756a16c7",
+        "diesel-euro5-ac045e2f60",
+        "diesel-euro5-af7830e373",
+        "diesel-euro5-f3bbf95b33"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-03-18;33",
       "titolo": "D.L. 18 marzo 2026, n. 33",
       "altri_titoli": [],
@@ -1015,10 +1355,31 @@
         "stato-15060af6da",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
+        "stato-48c36e361b",
         "stato-52c47d7a5f",
         "stato-85b153896e",
-        "stato-9b28107a03",
-        "stato-bf34e4c317"
+        "stato-9b28107a03"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1",
+      "titolo": "D.L. 167/2026",
+      "altri_titoli": [
+        "Normattiva",
+        "decreto"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "diesel-euro5-2a0cd4ead1",
+        "diesel-euro5-4ee6265184",
+        "stato-2a4092677f",
+        "stato-31ab611876",
+        "stato-5f6ccae5d1",
+        "stato-70a1d46ef0",
+        "stato-744b9fc9cc",
+        "stato-9014947608",
+        "stato-97f65b8b9d"
       ]
     },
     {
@@ -1052,6 +1413,16 @@
         "bussola-completa-e90b453ca8",
         "diritti-62a3a66d64",
         "diritti-abc708952c"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-04-30;285",
+      "titolo": "D.lgs. 30 aprile 1992, n. 285 (Nuovo codice della strada, testo vigente su Normattiva)",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "diesel-euro5-af7830e373"
       ]
     },
     {
@@ -1369,6 +1740,51 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196",
+      "titolo": "L. 31 dicembre 2009, n. 196 (testo vigente su Normattiva)",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-2027-13829ce0d5",
+        "manovra-2027-3cbcdab2d7",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-5f5b311096",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-d82f26d5b3",
+        "stato-5daadf1640",
+        "stato-79314f97a8",
+        "stato-8d0acd48d8",
+        "stato-b20e4c7017"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20",
+      "titolo": "L. 196/2009, art. 20",
+      "altri_titoli": [
+        "art. 20, c. 2, L. 196/2009"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-2027-13829ce0d5",
+        "manovra-2027-5daadf1640",
+        "manovra-2027-5f5b311096",
+        "manovra-2027-63d2b9f420",
+        "manovra-2027-74499f5b04",
+        "manovra-2027-8d0acd48d8",
+        "manovra-2027-96f52d6262",
+        "manovra-2027-d82f26d5b3",
+        "stato-5daadf1640",
+        "stato-79314f97a8",
+        "stato-8d0acd48d8",
+        "stato-b20e4c7017"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2025-06-09;80",
       "titolo": "L. 80/2025",
       "altri_titoli": [],
@@ -1554,6 +1970,67 @@
         "bussola-completa-36eefef2d6",
         "bussola-completa-afcc1aa99a",
         "decreto-c78b18d332"
+      ]
+    },
+    {
+      "url": "https://www.regione.emilia-romagna.it/notizie/2026/settembre/diesel-euro5",
+      "titolo": "Regione Emilia-Romagna",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.regione.emilia-romagna.it",
+      "affermazioni": [
+        "diesel-euro5-48cb0f86c1",
+        "diesel-euro5-a2cc9277d2"
+      ]
+    },
+    {
+      "url": "https://www.regione.lombardia.it/ambiente-e-territorio/qualita-dell-aria/misure-permanenti-per-migliorare-la-qualita-dell-aria",
+      "titolo": "Regione Lombardia",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.regione.lombardia.it",
+      "affermazioni": [
+        "diesel-euro5-a5afdf43f8"
+      ]
+    },
+    {
+      "url": "https://www.regione.piemonte.it/web/pinforma/notizie/evitato-blocco-dei-diesel-euro-5-nuove-misure-antismog",
+      "titolo": "Regione Piemonte",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.regione.piemonte.it",
+      "affermazioni": [
+        "diesel-euro5-a88345134d"
+      ]
+    },
+    {
+      "url": "https://www.regione.piemonte.it/web/temi/ambiente-territorio/ambiente/aria/migliorare-qualita-dellaria-misure-strutturali-temporanee-per-circolazione-dei-veicoli",
+      "titolo": "Regione Piemonte",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.regione.piemonte.it",
+      "affermazioni": [
+        "diesel-euro5-b2ff036417"
+      ]
+    },
+    {
+      "url": "https://www.regione.piemonte.it/web/temi/ambiente-territorio/ambiente/aria/piano-regionale-qualita-dellaria",
+      "titolo": "Regione Piemonte",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.regione.piemonte.it",
+      "affermazioni": [
+        "diesel-euro5-f5e789f476"
+      ]
+    },
+    {
+      "url": "https://www.regione.veneto.it/article-detail?articleGroupId=10709&articleId=14416130",
+      "titolo": "Regione Veneto",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.regione.veneto.it",
+      "affermazioni": [
+        "diesel-euro5-952232b929"
       ]
     },
     {
