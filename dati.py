@@ -33,7 +33,7 @@ import unicodedata
 from html.parser import HTMLParser
 from urllib.parse import urlsplit
 
-VERSIONE_SCHEMA = "1.0.2"
+VERSIONE_SCHEMA = "1.0.3"
 BASE_SITO = "https://bilanciacivica.github.io/bilancia-civica/"
 ETICHETTE_VALIDE = ("FATTO", "STIMA", "INTERPRETAZIONE", "DA VERIFICARE")
 RE_DIRETTIVA = re.compile(r"^<!--\s*dati:\s*([a-z-]+)(?:\s+([^<>]*?))?\s*-->$")
@@ -46,6 +46,9 @@ DOMINI_UFFICIALI = (
     "gazzettaufficiale.it", "normattiva.it", "camera.it", "senato.it", "governo.it",
     "cortecostituzionale.it", "gov.it", "cgsse.it", "upbilancio.it", "istat.it",
     "anac.it", "europa.eu", "quirinale.it",
+    # Regioni e Comuni citati dalle pagine sul diesel Euro 5; portale del Ministero dei trasporti
+    "regione.piemonte.it", "cr.piemonte.it", "regione.lombardia.it", "regione.veneto.it",
+    "regione.emilia-romagna.it", "comune.milano.it", "ilportaledellautomobilista.it",
 )
 
 # Atti citati spesso senza collegamento nel testo: testo ufficiale da collegare.
@@ -64,6 +67,14 @@ ATTI = {
                       "https://www.gazzettaufficiale.it/eli/id/2026/10/23/26G00216/SG"),
     "D.L. 162/2026": ("D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
                       "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG"),
+    "D.L. 167/2026": ("D.L. 28 settembre 2026, n. 167 (testo in Gazzetta Ufficiale)",
+                      "https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG"),
+    "D.L. 121/2023": ("D.L. 12 settembre 2023, n. 121 (testo vigente su Normattiva)",
+                      NIR + "decreto.legge:2023-09-12;121"),
+    "d.lgs. 285/1992": ("D.lgs. 30 aprile 1992, n. 285 (Nuovo codice della strada, testo vigente su Normattiva)",
+                        NIR + "decreto.legislativo:1992-04-30;285"),
+    "L. 196/2009": ("L. 31 dicembre 2009, n. 196 (testo vigente su Normattiva)",
+                    NIR + "legge:2009-12-31;196"),
     "D.L. 23/2026": ("D.L. 24 febbraio 2026, n. 23 (testo in Gazzetta Ufficiale)",
                      "https://www.gazzettaufficiale.it/eli/id/2026/02/24/26G00042/SG"),
     "L. 54/2026": ("L. 24 aprile 2026, n. 54 (testo in Gazzetta Ufficiale)",
@@ -93,9 +104,12 @@ TEMA_PAGINA = {
     "presidio.html": "presidi", "corteo.html": "cortei", "sciopero.html": "sciopero",
     "decreto.html": "decreto-sicurezza", "esempio.html": "decreto-sicurezza",
     "bollo-auto.html": "bollo-auto", "bollo-sono-esente.html": "bollo-auto",
+    "diesel-euro5.html": "diesel-euro5", "diesel-euro5-posso-circolare.html": "diesel-euro5",
+    "manovra-2027.html": "legge-di-bilancio",
 }
 TEMI_PAROLE = [
     ("bollo-auto", r"bollo auto|tassa automobilistica|D\.L\. 162|n\. 162\b|162/2026|AC 3106"),
+    ("diesel-euro5", r"[Dd]iesel Euro 5|D\.L\. 167|n\. 167\b|167/2026|AC 3119"),
     ("autotrasporto", r"autotrasport|credito d.imposta|camionist|gasolio"),
     ("legge-di-bilancio", r"legge di bilancio|manovra 20\d\d|Documento programmatico di bilancio"),
     ("sciopero", r"scioper|L\. 146/1990|precettazion|astensione collettiva"),
@@ -104,7 +118,7 @@ TEMI_PAROLE = [
     ("cortei", r"corte[oi]|manifestaz|scioglimento|fermo preventivo|travisament"),
 ]
 TEMI = ["presidi", "cortei", "sciopero", "decreto-sicurezza", "autotrasporto",
-        "legge-di-bilancio", "bollo-auto", "generale"]
+        "legge-di-bilancio", "bollo-auto", "diesel-euro5", "generale"]
 
 
 def _norm(testo: str) -> str:

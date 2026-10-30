@@ -5,14 +5,15 @@ indice: si
 ---
 # Glossario
 
-Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto segui sempre il link alla norma. *Aggiornato al 24 ottobre 2026.*
+Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto segui sempre il link alla norma. *Aggiornato al 30 ottobre 2026.*
 
 ## Leggi e sigle
 
 - **Costituzione (Cost.)** — la legge fondamentale della Repubblica. «Art. 17 Cost.» vuol dire articolo 17 della Costituzione. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27)
 - **Decreto-legge (D.L.)** — un atto del Governo con forza di legge, ammesso solo in casi straordinari di necessità e d'urgenza. Entra in vigore senza aspettare il voto del Parlamento: il D.L. 190/2026, per esempio, dal giorno dopo la pubblicazione (art. 10). Il Parlamento deve **convertirlo in legge** entro 60 giorni dalla pubblicazione, anche con modifiche; se non lo fa, il decreto perde efficacia fin dall'inizio (art. 77 Cost.).
-- **Conversione in legge** — il voto con cui Camera e Senato trasformano un decreto-legge in legge, eventualmente modificandolo. Si fa con un **disegno di legge (ddl) di conversione**. Esempio: il D.L. 162/2026 sul bollo auto va convertito entro il 16 novembre 2026.
+- **Conversione in legge** — il voto con cui Camera e Senato trasformano un decreto-legge in legge, eventualmente modificandolo. Si fa con un **disegno di legge (ddl) di conversione**. Esempio: il D.L. 162/2026 sul bollo auto va convertito entro il 16 novembre 2026, il D.L. 167/2026 sui diesel Euro 5 entro il 27 novembre 2026.
 - **AC 3159** — il numero con cui la Camera dei deputati identifica il disegno di legge di conversione del decreto sicurezza (AC sta per «Atto Camera»). [Scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)
+- **AC 3119** — il disegno di legge di conversione del D.L. 167/2026 (diesel Euro 5) alla Camera. [Scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)
 - **Gazzetta Ufficiale (GU)** — dove vengono pubblicati leggi e decreti; fa fede per la data di entrata in vigore. [gazzettaufficiale.it](https://www.gazzettaufficiale.it)
 - **Normattiva** — il sito pubblico con i testi delle leggi in vigore e le loro versioni nel tempo. [normattiva.it](https://www.normattiva.it)
 - **c.p. e c.p.p.** — codice penale e codice di procedura penale. «Art. 337 c.p.» vuol dire articolo 337 del codice penale.
@@ -32,6 +33,30 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 - **Regione a statuto speciale** — Sicilia, Sardegna, Valle d'Aosta, Friuli-Venezia Giulia e Trentino-Alto Adige (con le Province autonome di Trento e di Bolzano). Hanno più autonomia anche sulle imposte: in alcune il bollo è un tributo proprio, e per l'esenzione 2027 serve un Accordo con lo Stato (art. 2, c. 4, D.L. 162/2026).
 - **Relazione tecnica** — il documento del Governo che accompagna una legge o un decreto e ne stima costi ed effetti sui conti pubblici. Le sue cifre sono stime.
 - **AC 3106** — il disegno di legge di conversione del D.L. 162/2026 alla Camera. [Scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)
+
+## Diesel Euro 5 e qualità dell'aria
+
+- **Classe Euro (classe ambientale)** — la sigla, da Euro 0 a Euro 6, che indica quanto inquina un veicolo secondo le regole europee in vigore quando è stato omologato. È scritta sulla carta di circolazione. Più il numero è alto, più le regole erano severe.
+- **Diesel Euro 5** — i veicoli a gasolio omologati Euro 5: secondo il dossier della Camera sul D.L. 167/2026, indicativamente quelli immatricolati tra il 2011 e il 2015. Conta quello che è scritto sulla carta di circolazione.
+- **Categorie M1 e N1, N2, N3** — M1 sono le auto per il trasporto di persone; N1, N2 e N3 sono i veicoli per il trasporto di merci (furgoni e camion), divisi per peso (art. 47 del codice della strada). Il D.L. 121/2023 riguarda le auto e i veicoli N1, N2 e N3.
+- **Blocco (limitazione) strutturale** — un divieto di circolazione che vale per tutto il periodo stabilito (per esempio dal 1° ottobre al 31 marzo), nei giorni e negli orari decisi dalla Regione, a prescindere dallo smog del giorno.
+- **Blocco temporaneo (o di emergenza)** — un divieto che scatta solo quando lo smog supera certi livelli, spesso indicato con colori (semaforo o allerta arancione e rossa). Lo decidono Regioni e Comuni.
+- **Misure compensative** — altre misure contro l'inquinamento, per esempio sul riscaldamento, che una Regione adotta al posto del blocco dei diesel Euro 5. Il D.L. 121/2023 le ammette dopo il 1° ottobre 2027 se riducono le emissioni in modo coerente con gli obblighi europei.
+- **Piano regionale per la qualità dell'aria** — il documento con cui ogni Regione fissa le misure contro l'inquinamento dell'aria, tra cui i blocchi del traffico.
+- **Bacino padano** — l'area della pianura del Po. Il D.L. 121/2023 riguarda le sue quattro Regioni: Piemonte, Lombardia, Veneto ed Emilia-Romagna.
+- **PM10 e NO₂** — le polveri sottili (particolato con diametro fino a 10 millesimi di millimetro) e il biossido di azoto: due inquinanti dell'aria con limiti fissati dalle regole europee.
+- **Area B** — la zona a traffico limitato del Comune di Milano, con regole proprie decise dal Comune.
+
+## Bilancio dello Stato
+
+- **Legge di bilancio (manovra)** — la legge con cui ogni anno il Parlamento approva entrate e spese dello Stato per l'anno dopo e i due successivi. Il Governo presenta un disegno di legge; le Camere lo approvano con legge (art. 81 Cost.).
+- **Disegno di legge (ddl)** — il testo di una legge proposta, prima che il Parlamento la approvi. Finché è un disegno di legge, non è in vigore.
+- **Esercizio provvisorio** — se la legge di bilancio non è approvata entro il 31 dicembre, il Parlamento può autorizzare con legge lo Stato a spendere in via provvisoria, per non più di quattro mesi in tutto (art. 81 Cost.).
+- **DPB (Documento programmatico di bilancio)** — il documento che il Governo invia ogni ottobre alla Commissione europea e al Parlamento con le linee e le stime della manovra. Le sue cifre sono stime del Governo.
+- **Comunicato del Consiglio dei ministri** — il resoconto ufficiale, pubblicato su governo.it, di cosa ha approvato il Governo in una riunione. Non è una legge: descrive le misure con le parole del Governo.
+- **Coperture** — le entrate o i risparmi che pagano le nuove spese o i tagli di tasse di una legge. La Costituzione chiede che ogni legge che comporta nuove spese indichi come farvi fronte (art. 81 Cost.).
+- **Cedolare secca** — un modo di tassare gli affitti con un'imposta fissa al posto dell'IRPEF, che chi dà in affitto può scegliere.
+- **Regime forfetario** — un regime fiscale semplificato per le partite IVA sotto una certa soglia di ricavi, con un'imposta unica al posto dell'IRPEF.
 
 ## Manifestare
 

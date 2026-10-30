@@ -29,6 +29,8 @@ descrizione: Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge, 
 - [**Cortei: diritti, limiti e cosa cambia**Cosa è consentito e cosa è punibile](corteo.html)
 - [**Sciopero: regole e tutele**Servizi pubblici essenziali, settore privato, autotrasporto](sciopero.html)
 - [**Bollo auto 2027: chi è esente**Auto a benzina o gasolio fino a 80 kW, moto a benzina: requisiti e punti aperti](bollo-auto.html)
+- [**Diesel Euro 5: cosa cambia**Blocco strutturale rinviato al 2027 in Piemonte, Lombardia, Veneto ed Emilia-Romagna](diesel-euro5.html)
+- [**Manovra 2027: cosa è stato annunciato**Le misure annunciate dal Governo, area per area: non ancora legge](manovra-2027.html)
 - [**Parole difficili? Glossario**Decreto-legge, questore, preavviso e altre parole](glossario.html)
 :::
 

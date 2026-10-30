@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "29/10/2026, ore 19:40 (ora di Roma)"
+AGGIORNATO = "30/10/2026, ore 08:17 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -54,6 +54,9 @@ PAGINE = [
     ("stato.html", "contenuti/stato.md", None, None),
     ("bollo-auto.html", "contenuti/bollo-auto.md", None, None),
     ("bollo-sono-esente.html", "contenuti/bollo-sono-esente.md", None, None),
+    ("diesel-euro5.html", "contenuti/diesel-euro5.md", None, None),
+    ("diesel-euro5-posso-circolare.html", "contenuti/diesel-euro5-posso-circolare.md", None, None),
+    ("manovra-2027.html", "contenuti/manovra-2027.md", None, None),
     ("impatto.html", "contenuti/impatto.md", None, None),
     ("alternative.html", "contenuti/alternative.md", None, None),
     ("fonti.html", "contenuti/fonti.md", None, None),
@@ -86,6 +89,12 @@ MAPPA_LINK.update({"LICENSE": REPO_URL + "/blob/main/LICENSE",
 # Dicono solo di cosa parla la pagina: nessuna affermazione nuova. Il titolo dei dati aperti
 # (affermazioni.json, campo pagina.titolo) resta quello dell'intestazione del file sorgente.
 SEO = {
+    "diesel-euro5.html": ("Diesel Euro 5: rinvio del blocco al 2027 (D.L. 167/2026) · Bilancia Civica",
+                          "Il D.L. 167/2026 rinvia al 1° ottobre 2027 l'obbligo di inserire il blocco dei diesel Euro 5 nei piani di Piemonte, Lombardia, Veneto ed Emilia-Romagna."),
+    "diesel-euro5-posso-circolare.html": ("Diesel Euro 5: la mia auto può circolare? · Bilancia Civica",
+                                          "Quattro domande per orientarti sui blocchi dei diesel Euro 5 nell'inverno 2026-2027 dopo il D.L. 167/2026. Orientamento, non una risposta ufficiale."),
+    "manovra-2027.html": ("Manovra 2027: cosa è stato annunciato · Bilancia Civica",
+                          "Le misure della legge di bilancio 2027 annunciate dal Governo il 28/10/2026, divise per area. Sono annunci, non ancora legge: decide il Parlamento."),
     "bollo-auto.html": ("Bollo auto 2027: chi è esente (D.L. 162/2026) · Bilancia Civica",
                         "Esenzione dal bollo 2027: un solo veicolo per persona, auto a benzina o gasolio fino a 80 kW oppure moto a benzina. Requisiti, più veicoli e punti aperti."),
     "bollo-sono-esente.html": ("Bollo 2027: sono esente? · Bilancia Civica",
@@ -140,12 +149,12 @@ OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sic
 # (data gg/mm/aaaa, testo, link interno). Sono inserite dopo l'estrazione dei dati aperti,
 # quindi non diventano affermazioni in affermazioni.json.
 NOVITA = [
+    ("30/10/2026", "Diesel Euro 5: nuova pagina sul rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali (D.L. 167/2026) e bussola «La mia auto può circolare?».",
+     "diesel-euro5.html"),
+    ("30/10/2026", "Manovra 2027: nuova pagina con le misure annunciate dal Governo, area per area. Sono annunci, non ancora legge.",
+     "manovra-2027.html"),
     ("29/10/2026", "Bollo auto 2027: nuova pagina su chi è esente secondo il D.L. 162/2026 e bussola «Sono esente?».",
      "bollo-auto.html"),
-    ("29/10/2026", "Stato degli atti: iniziato in Commissione Giustizia l'esame del decreto sicurezza; legge di bilancio approvata dal Consiglio dei ministri.",
-     "stato.html"),
-    ("29/10/2026", "Sciopero del 30 ottobre: aggiunta l'ordinanza del Ministero dei trasporti che rinvia lo sciopero in alcuni settori dei trasporti.",
-     "bussola-completa.html#63-quando-uno-sciopero-è-legittimo"),
 ]
 
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "

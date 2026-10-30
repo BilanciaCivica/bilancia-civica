@@ -33,7 +33,7 @@ I file vengono generati da `build.py` insieme alle pagine HTML (`python3 build.p
 | `nota_etichetta` | Precisazione scritta accanto all'etichetta, se c'è; altrimenti `null` |
 | `etichetta_ereditata` | `true` se l'etichetta è scritta una sola volta per un intero elenco o una tabella e vale per ogni voce |
 | `contesto` | Testo vicino che aiuta a capire l'affermazione: intestazione dell'elenco, prima cella della riga, frase che segue senza etichetta propria. Non è un'affermazione etichettata |
-| `tema` | `presidi`, `cortei`, `sciopero`, `decreto-sicurezza`, `autotrasporto`, `legge-di-bilancio`, `bollo-auto` o `generale`. È assegnato in automatico (pagina, poi titolo della sezione, poi parole del testo): è solo indicativo |
+| `tema` | `presidi`, `cortei`, `sciopero`, `decreto-sicurezza`, `autotrasporto`, `legge-di-bilancio`, `bollo-auto`, `diesel-euro5` o `generale`. È assegnato in automatico (pagina, poi titolo della sezione, poi parole del testo): è solo indicativo |
 | `pagina` | `url` con l'ancora al punto esatto (`…#af-<id>`), `titolo` della pagina e `sezione` (ultimo titolo di secondo o terzo livello) |
 | `riferimenti_normativi` | Articoli e atti citati nel testo: `citazione` (come è scritta), `atto` (per esempio `Costituzione`, `Codice penale`, `D.L. 190/2026`) e `articolo`. `atto` è `null` quando il testo cita un articolo senza dire di quale atto; `articolo` è `null` quando è citato l'atto intero |
 | `fonti` | Fonti con `titolo`, `url`, `ufficiale` e `origine` (vedi sotto) |
@@ -49,7 +49,7 @@ I file vengono generati da `build.py` insieme alle pagine HTML (`python3 build.p
   Gazzetta Ufficiale o sito della Corte costituzionale. Se la frase cita solo l'articolo («art. 7») e
   l'atto è chiaro dal contesto della pagina, l'atto è indicato da una direttiva `atti` (vedi sotto).
 - `ufficiale: true` indica i siti istituzionali (Gazzetta Ufficiale, Normattiva, Parlamento, Governo,
-  ministeri, Corte costituzionale, altre amministrazioni pubbliche). Gli articoli di giornale e i siti
+  ministeri, Corte costituzionale, altre amministrazioni pubbliche, comprese Regioni e Comuni). Gli articoli di giornale e i siti
   di associazioni hanno `ufficiale: false`.
 
 ## Codici (id) stabili
@@ -116,7 +116,8 @@ domande. Ogni risposta riporta etichetta, fonte e avvertenza. Istruzioni e confi
 - `versione_schema` segue la numerazione *x.y.z*: cambia *x* se un campo viene tolto o cambia
   significato, *y* se ne viene aggiunto uno, *z* per correzioni che non toccano i campi.
 - Storico: **1.0.1** (24/10/2026), direttiva `<!-- dati: atti … -->` per collegare gli articoli
-  all'atto; **1.0.2** (29/10/2026), nuovo valore `bollo-auto` del campo `tema`. I campi non cambiano.
+  all'atto; **1.0.2** (29/10/2026), nuovo valore `bollo-auto` del campo `tema`; **1.0.3** (30/10/2026), nuovo
+  valore `diesel-euro5` del campo `tema` e siti di Regioni e Comuni tra le fonti `ufficiale`. I campi non cambiano.
 - `generato_il` coincide con la data di aggiornamento dei testi: due generazioni dagli stessi testi
   producono file identici, byte per byte.
 - L'ordine è fisso: le affermazioni seguono l'ordine delle pagine e del testo, le fonti l'ordine
