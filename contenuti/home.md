@@ -10,11 +10,11 @@ descrizione: Decreti, leggi e manovra spiegati in modo semplice, con la fonte uf
 
 <!-- dati: esempio -->
 - [FATTO] si può controllare sulla fonte indicata
-- [STIMA] un calcolo, sempre come intervallo «da… a…»
-- [INTERPRETAZIONE] un'opinione, con il nome di chi la esprime
-- [DA VERIFICARE] non ancora confermato: diciamo cosa manca
+- [STIMA] un calcolo, sempre come intervallo «da… a…», con le ipotesi dichiarate
+- [INTERPRETAZIONE] un'opinione o una lettura, con il nome di chi la esprime
+- [DA VERIFICARE] non ancora confermato da una fonte ufficiale: diciamo cosa manca
 
-Accanto all'etichetta: **Alta**, **Media** o **Bassa**, cioè quanto è solida l'informazione. [Come leggere le etichette](metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare)
+Accanto all'etichetta trovi **Alta**, **Media** o **Bassa**: indicano quanto è solida l'informazione. [Come leggere le etichette](metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare)
 
 *Ultimo aggiornamento: {{AGGIORNATO}}* · [Vai all'elenco di tutti i temi](#tutti-i-temi) · [Segnala un errore](chi-siamo.html#segnalare-un-errore-o-chiedere-una-rettifica)
 
@@ -50,7 +50,7 @@ Anche: [Fonti](fonti.html) · [Chi siamo e contatti](chi-siamo.html) · [Segnala
 
 <!-- dati: esempio -->
 - **Apartitico.** Stessi criteri per qualunque governo, partito o coalizione. Le opinioni sono sempre attribuite a chi le ha espresse.
-- **Niente numeri inventati.** Se un dato manca scriviamo «non disponibile»; se non è confermato, [DA VERIFICARE].
+- **Niente numeri inventati.** Se un dato manca scriviamo «non disponibile»; se non è confermato, lo segnaliamo come [DA VERIFICARE].
 - **Niente dati personali.** Nessun cookie, nessun tracciamento. Non aiutiamo a identificare manifestanti, agenti o minori.
 - **Tutto pubblico e correggibile.** Codice ([GNU AGPL-3.0](LICENSE)) e testi ([CC BY-SA 4.0](LICENSE-TESTI)) sono aperti. Le correzioni restano registrate.
 - **Versione di lavoro (v0.2).** È prevista una revisione esterna da parte di almeno un giurista e un economista indipendenti. **Stato: da fare.**

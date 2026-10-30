@@ -156,27 +156,28 @@ CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumen
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
     {"data": "29/10/2026", "titolo": "Bollo auto 2027",
-     "novita": "**Cosa cambia:** per il 2027 niente bollo per un solo veicolo assicurato a persona fisica: un'auto a benzina o gasolio "
-               "fino a 80 kW, anche ibrida, oppure, per chi non è tenuto al bollo per nessuna auto così, una moto o un "
-               "motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore e ora è in Parlamento: l'Aula della Camera ha in calendario "
-              "la discussione dal 3/11/2026; va convertito in legge entro il **16/11/2026** "
+     "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
+               "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
+               "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. L'Aula della Camera ha in calendario "
+              "la discussione dal 3/11/2026; il decreto va convertito in legge entro il **16/11/2026** "
               f"([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
     {"data": "30/10/2026", "titolo": "Diesel Euro 5",
      "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
                "di inserire nei piani per la qualità dell'aria il blocco strutturale dei diesel Euro 5, salvo misure "
                "compensative ([art. 1 D.L. 167/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore e ora è in Parlamento: l'Aula della Camera ha in calendario "
-              "la discussione dal 9/11/2026; va convertito in legge entro il **27/11/2026** "
+     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. L'Aula della Camera ha in calendario "
+              "la discussione dal 9/11/2026; il decreto va convertito in legge entro il **27/11/2026** "
               f"([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
      "link": [("Cosa cambia per i diesel Euro 5", "diesel-euro5.html"),
               ("Bussola: la mia auto può circolare?", "diesel-euro5-posso-circolare.html")]},
     {"data": "30/10/2026", "titolo": "Manovra 2027",
-     "novita": "**Cosa cambia:** per ora nulla. Il Consiglio dei ministri ha approvato il disegno di legge di bilancio "
-               "2027-2029 il 28/10/2026: le misure sono annunci, non ancora legge "
+     "novita": "**Cosa cambia:** per ora nulla. Il 28/10/2026 il Consiglio dei ministri ha approvato il disegno di legge di "
+               "bilancio per il 2027 (con il bilancio pluriennale 2027-2029): le misure sono proposte, non ancora legge "
                "([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta]",
-     "stato": "**A che punto è:** annunciata; al 30/10/2026 il testo non risulta presentato né alla Camera "
+     "stato": "**A che punto è:** il disegno di legge è stato approvato dal Consiglio dei ministri; al 30/10/2026 non risulta "
+              "ancora presentato né alla Camera "
               "([camera.it](https://www.camera.it/leg19/126)) né al Senato ([dati aperti del Senato](https://dati.senato.it/sparql)). "
               "[FATTO · Media: i dati aperti del Senato possono avere qualche ora di ritardo]",
      "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
@@ -216,8 +217,9 @@ SCADENZE = [
     "**21 dicembre 2026** · Decreto sicurezza (D.L. 190/2026): termine per la conversione in legge, altrimenti il "
     "decreto perde efficacia dall'inizio ([Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG); "
     "[art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)). [FATTO · Alta]",
-    "**31 dicembre 2026** · Manovra 2027: termine per l'approvazione della legge di bilancio, altrimenti serve "
-    "una legge di «esercizio provvisorio» ([art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
+    "**31 dicembre 2026** · Manovra 2027: finisce l'anno finanziario; se la legge di bilancio per il 2027 non è "
+    "approvata entro questa data, serve una legge che autorizzi l'«esercizio provvisorio», per non più di quattro "
+    "mesi in tutto ([art. 81, cc. 4 e 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
     "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
 ]
 
@@ -774,7 +776,7 @@ def md_novita() -> str:
 
 def md_scadenze() -> str:
     """Riquadro «A che punto sono le leggi» della home, in Markdown."""
-    return ("::: stato\n**Prossime scadenze**\n\n" + "\n".join("- " + r for r in SCADENZE)
+    return ("::: stato\n**Prossime date e scadenze**\n\n" + "\n".join("- " + r for r in SCADENZE)
             + "\n\nTutti i passaggi, atto per atto: [Stato degli atti](stato.html)\n:::")
 
 
