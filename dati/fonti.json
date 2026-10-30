@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.3",
-  "generato_il": "2026-10-30T08:17:00+01:00",
+  "generato_il": "2026-10-30T08:54:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -19,6 +19,7 @@
       "ufficiale": true,
       "dominio": "dati.senato.it",
       "affermazioni": [
+        "home-10a2479b25",
         "manovra-2027-257a7c8cff",
         "manovra-2027-5daadf1640",
         "manovra-2027-63d2b9f420",
@@ -56,6 +57,10 @@
       "dominio": "documenti.camera.it",
       "affermazioni": [
         "diesel-euro5-7869d49f9d",
+        "home-00fe1d09a9",
+        "home-07faef310c",
+        "home-253bec3fcb",
+        "home-a765b08c20",
         "stato-0dd13a774f",
         "stato-15060af6da",
         "stato-2a4092677f",
@@ -294,6 +299,7 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
+        "home-10a2479b25",
         "manovra-2027-4d9a1ef57f",
         "manovra-2027-5daadf1640",
         "manovra-2027-63d2b9f420",
@@ -655,6 +661,8 @@
         "bollo-sono-esente-e1b23413b7",
         "bollo-sono-esente-eb3c20be78",
         "bollo-sono-esente-ee4f89421b",
+        "home-4371226f9a",
+        "home-a765b08c20",
         "stato-0dd13a774f",
         "stato-15060af6da",
         "stato-2c4a7e448f",
@@ -685,6 +693,8 @@
         "diesel-euro5-4ee6265184",
         "diesel-euro5-66abe358e2",
         "diesel-euro5-7869d49f9d",
+        "home-00fe1d09a9",
+        "home-4a627e37e5",
         "stato-2a4092677f",
         "stato-31ab611876",
         "stato-5f6ccae5d1",
@@ -706,7 +716,6 @@
         "GU – testo",
         "Gazzetta Ufficiale",
         "decreto sicurezza",
-        "decreto-legge 22 ottobre 2026, n. 190",
         "divieto di radunarsi",
         "fermo preventivo",
         "nuovo art. 420-bis",
@@ -808,7 +817,7 @@
         "esempio-8a1d8b87c8",
         "esempio-cd66f963f2",
         "esempio-de998e6fc3",
-        "home-b94d95c585",
+        "home-293a0794b9",
         "presidio-1d2483c03a",
         "presidio-a97cdb537f",
         "sciopero-fd10932766",
@@ -900,6 +909,7 @@
       "dominio": "www.governo.it",
       "affermazioni": [
         "bollo-auto-77e867c128",
+        "home-3b66f62e5c",
         "manovra-2027-11c1eb0d0c",
         "manovra-2027-12bc6fff98",
         "manovra-2027-1ec85c0c58",
@@ -1057,6 +1067,8 @@
         "esempio-0e1d6ebb19",
         "esempio-0e3736fc21",
         "esempio-d53dbb1a51",
+        "home-293a0794b9",
+        "home-3f5e1424e1",
         "manovra-2027-13829ce0d5",
         "manovra-2027-5daadf1640",
         "manovra-2027-5f5b311096",
@@ -1139,7 +1151,8 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "diesel-euro5-4f6d607ab5",
-        "diesel-euro5-ad28b93656"
+        "diesel-euro5-ad28b93656",
+        "home-293a0794b9"
       ]
     },
     {
@@ -1147,11 +1160,13 @@
       "titolo": "Costituzione, art. 81",
       "altri_titoli": [
         "art. 81, c. 5, Cost.",
+        "art. 81, cc. 4 e 5, Cost.",
         "art. 81, cc. 4-5, Cost."
       ],
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
+        "home-3f5e1424e1",
         "manovra-2027-13829ce0d5",
         "manovra-2027-5daadf1640",
         "manovra-2027-5f5b311096",
@@ -1334,6 +1349,7 @@
       "titolo": "D.L. 162/2026",
       "altri_titoli": [
         "Normattiva",
+        "art. 2 D.L. 162/2026",
         "testo vigente su Normattiva"
       ],
       "ufficiale": true,
@@ -1351,6 +1367,7 @@
         "bollo-sono-esente-d642a6ecd4",
         "bollo-sono-esente-e1b23413b7",
         "bollo-sono-esente-ee4f89421b",
+        "home-4371226f9a",
         "stato-0dd13a774f",
         "stato-15060af6da",
         "stato-39af3ba53d",
@@ -1366,6 +1383,7 @@
       "titolo": "D.L. 167/2026",
       "altri_titoli": [
         "Normattiva",
+        "art. 1 D.L. 167/2026",
         "decreto"
       ],
       "ufficiale": true,
@@ -1373,6 +1391,7 @@
       "affermazioni": [
         "diesel-euro5-2a0cd4ead1",
         "diesel-euro5-4ee6265184",
+        "home-4a627e37e5",
         "stato-2a4092677f",
         "stato-31ab611876",
         "stato-5f6ccae5d1",
@@ -1746,6 +1765,7 @@
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
+        "home-3f5e1424e1",
         "manovra-2027-13829ce0d5",
         "manovra-2027-3cbcdab2d7",
         "manovra-2027-5daadf1640",
@@ -1770,6 +1790,7 @@
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
+        "home-3f5e1424e1",
         "manovra-2027-13829ce0d5",
         "manovra-2027-5daadf1640",
         "manovra-2027-5f5b311096",
