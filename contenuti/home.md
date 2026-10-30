@@ -1,60 +1,52 @@
 ---
 titolo: Bilancia Civica · Ogni decreto, pesato sulla tua vita
-descrizione: Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge, cosa è consentito, cosa è punibile e cosa cambia, spiegato in modo semplice e con le fonti ufficiali. Apartitico e open source.
+descrizione: Decreti, leggi e manovra spiegati in modo semplice, con la fonte ufficiale per ogni affermazione: decreto sicurezza, cortei, sciopero, bollo auto, diesel Euro 5, manovra 2027.
 ---
 # Ogni decreto, pesato sulla tua vita
 
 ::: risposta
-**Cosa dice la legge** su decreto sicurezza, presidi, cortei e scioperi, in modo semplice e con la fonte ufficiale per ogni affermazione.
+**Cosa dice la legge e cosa cambia per te**, spiegato in modo semplice: decreti, leggi e manovra, con la fonte ufficiale per ogni affermazione.
 :::
-
-*Ultimo aggiornamento: {{AGGIORNATO}}* · [Segnala un errore](chi-siamo.html#segnalare-un-errore-o-chiedere-una-rettifica) · [Come leggere le etichette](#come-leggere-le-etichette)
-
-::: stato
-**Decreto sicurezza (D.L. 190/2026): cosa cambia**
-
-È il [decreto-legge 22 ottobre 2026, n. 190](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), **in vigore dal 23 ottobre 2026**. Il Parlamento deve convertirlo in legge, anche con modifiche, **entro il 21 dicembre 2026**; altrimenti il decreto perde efficacia fin dall'inizio. [FATTO · Alta]
-
-- Nasce un **nuovo reato** per le violenze di gruppo nelle manifestazioni (art. 420-bis c.p.). Per chi partecipa servono insieme: gruppo organizzato di almeno 5 persone, uso illegittimo o lancio di oggetti atti a offendere (o di razzi, petardi, gas urticanti), pericolo concreto per le persone e danni alle cose. Chi organizza o promuove il gruppo, o incita o istiga a queste condotte, anche online, rischia 4–12 anni anche senza violenza personale. Chi partecipa pacificamente non lo commette.
-- Si allarga il **fermo preventivo** (fino a 12 ore), una misura di controllo che può riguardare anche chi non commette reati, se ci sono i presupposti di legge.
-- Le nuove norme penali non valgono per fatti precedenti al 23 ottobre 2026.
-
-[Cosa cambia, punto per punto](decreto.html) · [A che punto è l'approvazione](stato.html)
-:::
-
-## Cosa vuoi capire?
-
-::: scelte
-- [**Presidi: cosa dice la legge**Preavviso al questore, prescrizioni e sanzioni](presidio.html)
-- [**Cortei: diritti, limiti e cosa cambia**Cosa è consentito e cosa è punibile](corteo.html)
-- [**Sciopero: regole e tutele**Servizi pubblici essenziali, settore privato, autotrasporto](sciopero.html)
-- [**Bollo auto 2027: chi è esente**Auto a benzina o gasolio fino a 80 kW, moto a benzina: requisiti e punti aperti](bollo-auto.html)
-- [**Diesel Euro 5: cosa cambia**Blocco strutturale rinviato al 2027 in Piemonte, Lombardia, Veneto ed Emilia-Romagna](diesel-euro5.html)
-- [**Manovra 2027: cosa è stato annunciato**Le misure annunciate dal Governo, area per area: non ancora legge](manovra-2027.html)
-- [**Parole difficili? Glossario**Decreto-legge, questore, preavviso e altre parole](glossario.html)
-:::
-
-**Per chi è questo sito.** Per cittadini, studenti, genitori, giornalisti, operatori e forze dell'ordine: chiunque voglia capire le regole.
-
-## Come leggere le etichette
-
-Ogni affermazione ha un'**etichetta** e un link alla fonte:
 
 <!-- dati: esempio -->
-| Etichetta | Che cosa vuol dire |
-|---|---|
-| [FATTO] | Si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale). |
-| [STIMA] | Un calcolo su numeri, sempre come intervallo «da… a…», con le ipotesi dichiarate. |
-| [INTERPRETAZIONE] | Un'opinione o una lettura, sempre con il nome di chi la esprime. |
-| [DA VERIFICARE] | Non ancora confermato da una fonte ufficiale: diciamo cosa manca. |
+- [FATTO] si può controllare sulla fonte indicata
+- [STIMA] un calcolo, sempre come intervallo «da… a…»
+- [INTERPRETAZIONE] un'opinione, con il nome di chi la esprime
+- [DA VERIFICARE] non ancora confermato: diciamo cosa manca
 
-Accanto all'etichetta c'è quanto è solida l'informazione: **Alta**, **Media** o **Bassa**.
+Accanto all'etichetta: **Alta**, **Media** o **Bassa**, cioè quanto è solida l'informazione. [Come leggere le etichette](metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare)
+
+*Ultimo aggiornamento: {{AGGIORNATO}}* · [Vai all'elenco di tutti i temi](#tutti-i-temi) · [Segnala un errore](chi-siamo.html#segnalare-un-errore-o-chiedere-una-rettifica)
+
+## Ultime novità
+
+{{NOVITA}}
+
+## Tutti i temi
+
+{{TEMI}}
+
+## A che punto sono le leggi
+
+{{SCADENZE}}
+
+## Per saperne di più
+
+::: scelte
+- [**Glossario**Le parole difficili: decreto-legge, questore, preavviso e altre](glossario.html)
+- [**Dati aperti**Tutte le affermazioni del sito in formato JSON, con etichette e fonti](dati.html)
+- [**Registro delle correzioni**Ogni errore corretto, con data e motivo]({{REPO}}/blob/main/CORREZIONI.md)
+- [**Metodo**Come lavoriamo: etichette, fonti e verifiche](metodo.html)
+:::
+
+Anche: [Fonti](fonti.html) · [Chi siamo e contatti](chi-siamo.html) · [Segnala un errore](chi-siamo.html#segnalare-un-errore-o-chiedere-una-rettifica)
 
 ::: avviso
 **Informazione generale, non consulenza legale.** Le norme vanno sempre applicate ai fatti specifici. Per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.
 :::
 
-## Chi siamo, in breve
+::: dettagli Chi siamo, in breve
+**Per chi è questo sito.** Per cittadini, studenti, genitori, giornalisti, operatori e forze dell'ordine: chiunque voglia capire le regole.
 
 <!-- dati: esempio -->
 - **Apartitico.** Stessi criteri per qualunque governo, partito o coalizione. Le opinioni sono sempre attribuite a chi le ha espresse.
@@ -64,3 +56,4 @@ Accanto all'etichetta c'è quanto è solida l'informazione: **Alta**, **Media** 
 - **Versione di lavoro (v0.2).** È prevista una revisione esterna da parte di almeno un giurista e un economista indipendenti. **Stato: da fare.**
 
 Più dettagli: [Chi siamo e contatti](chi-siamo.html) · [Come lavoriamo (Metodo)](metodo.html) · [Fonti](fonti.html)
+:::

@@ -99,8 +99,8 @@ SEO = {
                         "Esenzione dal bollo 2027: un solo veicolo per persona, auto a benzina o gasolio fino a 80 kW oppure moto a benzina. Requisiti, più veicoli e punti aperti."),
     "bollo-sono-esente.html": ("Bollo 2027: sono esente? · Bilancia Civica",
                                "Cinque domande per capire se il tuo veicolo può rientrare nell'esenzione dal bollo 2027 del D.L. 162/2026. Orientamento, non una risposta ufficiale."),
-    "index.html": ("Decreto sicurezza: cosa cambia · Bilancia Civica",
-                   "Decreto sicurezza, presidi, cortei e scioperi: cosa dice la legge e cosa cambia, spiegato in modo semplice e con le fonti ufficiali."),
+    "index.html": ("Bilancia Civica · Ogni decreto, pesato sulla tua vita",
+                   "Decreti, leggi e manovra spiegati in modo semplice, con le fonti ufficiali: decreto sicurezza, cortei, sciopero, bollo auto, diesel Euro 5, manovra 2027."),
     "diritti.html": ("Diritto di manifestare e di sciopero · Bilancia Civica",
                      "Diritto di manifestare, riunione e sciopero: le regole di legge, cosa è protetto, cosa è punibile e cosa cambia con il decreto sicurezza."),
     "presidio.html": ("Presidio: preavviso al questore e regole · Bilancia Civica",
@@ -145,16 +145,80 @@ OG_IMMAGINE = "og-bilancia-civica.png"
 OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sicurezza: presidi, cortei, "
           "scioperi. Con le fonti.")
 
-# «Ultime novità» in home: al massimo 3 voci, solo aggiornamenti già pubblicati sul sito.
-# (data gg/mm/aaaa, testo, link interno). Sono inserite dopo l'estrazione dei dati aperti,
-# quindi non diventano affermazioni in affermazioni.json.
+# ---------------------------------------------------------------------------
+# Home: «Ultime novità», «Tutti i temi» e «A che punto sono le leggi».
+# Si aggiornano qui. Le righe di NOVITA e SCADENZE sono affermazioni: ognuna ha
+# etichetta e fonte, e riprende quanto già scritto nella pagina del tema o nello
+# Stato degli atti (finiscono nei dati aperti come tutte le altre). Le righe di
+# TEMI_HOME sono solo descrizioni di navigazione, senza affermazioni.
+# ---------------------------------------------------------------------------
+CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
+# Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
-    ("30/10/2026", "Diesel Euro 5: nuova pagina sul rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali (D.L. 167/2026) e bussola «La mia auto può circolare?».",
-     "diesel-euro5.html"),
-    ("30/10/2026", "Manovra 2027: nuova pagina con le misure annunciate dal Governo, area per area. Sono annunci, non ancora legge.",
-     "manovra-2027.html"),
-    ("29/10/2026", "Bollo auto 2027: nuova pagina su chi è esente secondo il D.L. 162/2026 e bussola «Sono esente?».",
-     "bollo-auto.html"),
+    {"data": "29/10/2026", "titolo": "Bollo auto 2027",
+     "novita": "**Cosa cambia:** per il 2027 niente bollo per un solo veicolo assicurato a persona fisica: un'auto a benzina o gasolio "
+               "fino a 80 kW, anche ibrida, oppure, per chi non è tenuto al bollo per nessuna auto così, una moto o un "
+               "motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore e ora è in Parlamento: l'Aula della Camera ha in calendario "
+              "la discussione dal 3/11/2026; va convertito in legge entro il **16/11/2026** "
+              f"([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+     "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
+    {"data": "30/10/2026", "titolo": "Diesel Euro 5",
+     "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
+               "di inserire nei piani per la qualità dell'aria il blocco strutturale dei diesel Euro 5, salvo misure "
+               "compensative ([art. 1 D.L. 167/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1)). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore e ora è in Parlamento: l'Aula della Camera ha in calendario "
+              "la discussione dal 9/11/2026; va convertito in legge entro il **27/11/2026** "
+              f"([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+     "link": [("Cosa cambia per i diesel Euro 5", "diesel-euro5.html"),
+              ("Bussola: la mia auto può circolare?", "diesel-euro5-posso-circolare.html")]},
+    {"data": "30/10/2026", "titolo": "Manovra 2027",
+     "novita": "**Cosa cambia:** per ora nulla. Il Consiglio dei ministri ha approvato il disegno di legge di bilancio "
+               "2027-2029 il 28/10/2026: le misure sono annunci, non ancora legge "
+               "([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta]",
+     "stato": "**A che punto è:** annunciata; al 30/10/2026 il testo non risulta presentato né alla Camera "
+              "([camera.it](https://www.camera.it/leg19/126)) né al Senato ([dati aperti del Senato](https://dati.senato.it/sparql)). "
+              "[FATTO · Media: i dati aperti del Senato possono avere qualche ora di ritardo]",
+     "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
+]
+
+# Griglia «Tutti i temi»: ordine fisso (decreto sicurezza per primo). «aggiornato»
+# è la data dell'ultima modifica della pagina del tema: va aggiornata a mano.
+TEMI_HOME = [
+    ("⚖️", "Decreto sicurezza (D.L. 190/2026)", "Le misure punto per punto, lo stato della conversione e i punti aperti.",
+     "decreto.html", "24/10/2026"),
+    ("📣", "Manifestazioni e cortei", "Cosa è consentito, cosa è punibile e cosa cambia per chi va a un corteo.",
+     "corteo.html", "27/10/2026"),
+    ("✊", "Sciopero", "Preavviso, servizi pubblici essenziali, settore privato, precettazione e autotrasporto.",
+     "sciopero.html", "24/10/2026"),
+    ("🚗", "Bollo auto 2027", "Chi può essere esente secondo il D.L. 162/2026: requisiti, più veicoli e punti aperti.",
+     "bollo-auto.html", "29/10/2026"),
+    ("⛽", "Diesel Euro 5", "Il rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali, Regione per Regione.",
+     "diesel-euro5.html", "30/10/2026"),
+    ("💶", "Manovra 2027", "Le misure annunciate dal Governo, area per area: non ancora legge.",
+     "manovra-2027.html", "30/10/2026"),
+    ("📍", "Presidi", "Preavviso al questore, prescrizioni e sanzioni, passo per passo.",
+     "presidio.html", "25/10/2026"),
+    ("📘", "Diritti e regole", "Riunione, manifestazione e sciopero: cosa è protetto e cosa è punibile.",
+     "diritti.html", "25/10/2026"),
+    ("🧭", "Bussola Diritti (testo completo)", "Tutte le norme, le domande frequenti e le fonti su riunione, manifestazione e sciopero.",
+     "bussola-completa.html", "29/10/2026"),
+    ("🔍", "Analisi del decreto sicurezza", "Analisi tecnica, articolo per articolo, del D.L. 190/2026.",
+     "analisi-dl-190-2026.html", "27/10/2026"),
+]
+
+# «A che punto sono le leggi»: prossime scadenze, in ordine di data (dalla pagina Stato degli atti).
+SCADENZE = [
+    "**3 novembre 2026** · Bollo auto 2027 (D.L. 162/2026): l'Aula della Camera ha in calendario la discussione; "
+    f"conversione in legge entro il 16/11/2026 ([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+    "**9 novembre 2026** · Diesel Euro 5 (D.L. 167/2026): l'Aula della Camera ha in calendario la discussione; "
+    f"conversione in legge entro il 27/11/2026 ([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+    "**21 dicembre 2026** · Decreto sicurezza (D.L. 190/2026): termine per la conversione in legge, altrimenti il "
+    "decreto perde efficacia dall'inizio ([Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG); "
+    "[art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)). [FATTO · Alta]",
+    "**31 dicembre 2026** · Manovra 2027: termine per l'approvazione della legge di bilancio, altrimenti serve "
+    "una legge di «esercizio provvisorio» ([art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
+    "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
 ]
 
 CSP = ("default-src 'none'; style-src 'self'; img-src 'self'; "
@@ -690,18 +754,39 @@ def meta_social(out: str, titolo: str, descrizione: str) -> str:
     return "\n".join(righe)
 
 
-def blocco_novita() -> str:
-    """Riquadro «Ultime novità» della home (HTML statico, nessuno script)."""
-    if not NOVITA:
-        return ""
+def _data_lunga(data: str) -> str:
+    g, m, a = (int(x) for x in data.split("/"))
+    return f"{g} {MESI[m - 1]} {a}"
+
+
+def md_novita() -> str:
+    """Schede «Ultime novità» della home, in Markdown (passano dall'estrazione delle affermazioni)."""
+    if len(NOVITA) > 3:
+        raise ValueError("NOVITA: al massimo 3 schede")
+    righe = ["::: schede-novita"]
+    for n in NOVITA:
+        link = " · ".join(f"[{t}]({u})" for t, u in n["link"])
+        righe += ["::: scheda", f"### {n['titolo']}", "", f"*Novità del {_data_lunga(n['data'])}*", "",
+                  n["novita"], "", n["stato"], "", link, ":::"]
+    righe += [":::", "", "[Tutte le correzioni e gli aggiornamenti nel registro]({{REPO}}/blob/main/CORREZIONI.md)"]
+    return "\n".join(righe).replace("{{REPO}}", REPO_URL)
+
+
+def md_scadenze() -> str:
+    """Riquadro «A che punto sono le leggi» della home, in Markdown."""
+    return ("::: stato\n**Prossime scadenze**\n\n" + "\n".join("- " + r for r in SCADENZE)
+            + "\n\nTutti i passaggi, atto per atto: [Stato degli atti](stato.html)\n:::")
+
+
+def html_temi() -> str:
+    """Griglia «Tutti i temi» della home (HTML statico, nessuno script, nessuna affermazione)."""
     voci = []
-    for data, testo, link in NOVITA[:3]:
+    for icona, titolo, sintesi, link, data in TEMI_HOME:
         g, m, a = (int(x) for x in data.split("/"))
-        voci.append(f'<li><time datetime="{a:04d}-{m:02d}-{g:02d}">{g} {MESI[m - 1]} {a}</time> · '
-                    f'<a href="{html.escape(link, quote=True)}">{html.escape(testo)}</a></li>')
-    return ('<section class="novita" aria-labelledby="ultime-novita"><h2 id="ultime-novita">Ultime novità</h2><ul>'
-            + "".join(voci) + f'</ul><p><a href="{REPO_URL}/blob/main/CORREZIONI.md" rel="noopener noreferrer">'
-            'Tutte le correzioni nel registro</a></p></section>\n')
+        voci.append(f'<li><a href="{html.escape(link, quote=True)}"><span class="icona" aria-hidden="true">{icona}</span>'
+                    f'<strong>{html.escape(titolo)}</strong><span class="sintesi">{html.escape(sintesi)}</span>'
+                    f'<span class="agg">Aggiornato il <time datetime="{a:04d}-{m:02d}-{g:02d}">{g:02d}/{m:02d}/{a}</time></span></a></li>')
+    return '<ul class="temi">' + "".join(voci) + "</ul>"
 
 
 def scrivi_sitemap(pagine: list[str]) -> None:
@@ -746,6 +831,8 @@ def costruisci() -> list[str]:
                 testo = testa + blocco + testo[m.end():]
             else:
                 testo = blocco + testo
+        if out == "index.html":
+            testo = testo.replace("{{NOVITA}}", md_novita()).replace("{{SCADENZE}}", md_scadenze())
         toc: list = []
         corpo = markdown(testo, toc)
         corpo = rifinisci(corpo)
@@ -762,15 +849,14 @@ def costruisci() -> list[str]:
             corpo = corpo.replace("<!--INDICE-->", "")
             primo_h2 = corpo.find("<h2")
             corpo = corpo[:primo_h2] + indice + corpo[primo_h2:] if primo_h2 >= 0 else corpo + indice
-        if 'class="et et-' in corpo:
+        if 'class="et et-' in corpo and out != "index.html":  # in home la legenda è in cima
             corpo += ('<aside class="legenda" aria-label="Come leggere le etichette"><p><strong>Come leggere le etichette</strong></p><ul>'
                       + "".join(f'<li><span class="et et-{ETICHETTE[n]}">{n}</span> {html.escape(s)}</li>' for n, s in SPIEGAZIONE.items())
                       + '</ul><p>Alta, Media o Bassa indicano quanto è solida l\'informazione. <a href="glossario.html">Glossario</a> · <a href="metodo.html#13-etichette-fatto--stima--interpretazione--da-verificare">Metodo completo</a></p></aside>')
         if out == "index.html":
-            marcatore = '<h2 id="cosa-vuoi-capire">'
-            if marcatore not in corpo:
-                raise ValueError("home: manca il titolo «Cosa vuoi capire?» per le Ultime novità")
-            corpo = corpo.replace(marcatore, blocco_novita() + marcatore, 1)
+            if corpo.count("<p>{{TEMI}}</p>") != 1:
+                raise ValueError("home: manca il segnaposto {{TEMI}}")
+            corpo = corpo.replace("<p>{{TEMI}}</p>", html_temi())
         titolo_seo, descr_seo = SEO[out]
         pagina = MODELLO.format(
             csp=CSP,
