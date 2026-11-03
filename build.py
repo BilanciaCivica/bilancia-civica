@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "3/11/2026, ore 19:46 (ora di Roma)"
+AGGIORNATO = "3/11/2026, ore 20:25 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -152,6 +152,7 @@ OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sic
 # Stato degli atti (finiscono nei dati aperti come tutte le altre). Le righe di
 # TEMI_HOME sono solo descrizioni di navigazione, senza affermazioni.
 # ---------------------------------------------------------------------------
+RESOCONTO_737 = "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario"
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
@@ -159,9 +160,9 @@ NOVITA = [
      "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
                "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
                "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. L'Aula della Camera ha in calendario "
-              "la discussione dal 3/11/2026; il decreto va convertito in legge entro il **16/11/2026** "
-              f"([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. Il 3/11/2026 l'Aula della Camera ha svolto "
+              "la discussione generale; il decreto va convertito in legge entro il **16/11/2026** "
+              f"([resoconto della Camera]({RESOCONTO_737})). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
     {"data": "30/10/2026", "titolo": "Diesel Euro 5",
      "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
@@ -210,10 +211,10 @@ TEMI_HOME = [
 
 # «A che punto sono le leggi»: prossime scadenze, in ordine di data (dalla pagina Stato degli atti).
 SCADENZE = [
-    "**3 novembre 2026** · Bollo auto 2027 (D.L. 162/2026): l'Aula della Camera ha in calendario la discussione; "
-    f"conversione in legge entro il 16/11/2026 ([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
     "**9 novembre 2026** · Diesel Euro 5 (D.L. 167/2026): l'Aula della Camera ha in calendario la discussione; "
     f"conversione in legge entro il 27/11/2026 ([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+    "**16 novembre 2026** · Bollo auto 2027 (D.L. 162/2026): termine per la conversione in legge; la discussione "
+    f"generale nell'Aula della Camera si è svolta il 3/11/2026 ([resoconto della Camera]({RESOCONTO_737})). [FATTO · Alta]",
     "**21 dicembre 2026** · Decreto sicurezza (D.L. 190/2026): termine per la conversione in legge, altrimenti il "
     "decreto perde efficacia dall'inizio ([Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG); "
     "[art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)). [FATTO · Alta]",
