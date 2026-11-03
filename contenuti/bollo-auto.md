@@ -5,7 +5,7 @@ indice: si
 ---
 # Bollo auto 2027: chi è esente
 
-*Decreto-legge 17 settembre 2026, n. 162, articolo 2. Situazione verificata al 29/10/2026 (ora di Roma); lo stato dell'esame alla Camera, al 3/11/2026. Il decreto è in vigore, ma il Parlamento deve ancora convertirlo in legge e può modificarlo.*
+*Decreto-legge 17 settembre 2026, n. 162, articolo 2. Situazione verificata al 29/10/2026 (ora di Roma); lo stato dell'esame alla Camera è aggiornato al 3/11/2026. Il decreto è in vigore, ma il Parlamento deve ancora convertirlo in legge e può modificarlo.*
 
 ::: inbreve
 **In breve**

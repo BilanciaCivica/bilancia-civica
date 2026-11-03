@@ -1,7 +1,7 @@
 # Bilancia Civica — Analisi del D.L. 190/2026 e scheda autotrasporto (v0.2)
 ### *Ogni decreto, pesato sulla tua vita*
 
-> **Aggiornato al 3/11/2026, ore 20:36 (ora di Roma, CET)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)). Estratto dal documento di progetto v0.2: contiene l'analisi del decreto sicurezza (§2), la scheda parametri sugli aiuti all'autotrasporto (§3) e le fonti consultate. Regole ed etichette: [METODOLOGIA.md](../METODOLOGIA.md) (§1). La numerazione delle sezioni è quella del documento originale.
+> **Aggiornato al 3/11/2026, ore 20:46 (ora di Roma, CET)**, dopo una verifica dei fatti sulle fonti primarie (correzioni in [CORREZIONI.md](../CORREZIONI.md)). Estratto dal documento di progetto v0.2: contiene l'analisi del decreto sicurezza (§2), la scheda parametri sugli aiuti all'autotrasporto (§3) e le fonti consultate. Regole ed etichette: [METODOLOGIA.md](../METODOLOGIA.md) (§1). La numerazione delle sezioni è quella del documento originale.
 
 > ⚠️ **Avvertenza.** Questo documento fornisce **informazione, non consulenza legale**. Le schede si basano su fonti pubbliche alla data indicata; norme e testi possono cambiare (in particolare un decreto-legge in corso di conversione). Per un caso concreto rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela.
 

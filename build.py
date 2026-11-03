@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "3/11/2026, ore 20:36 (ora di Roma)"
+AGGIORNATO = "3/11/2026, ore 20:46 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
