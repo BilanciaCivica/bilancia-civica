@@ -4,7 +4,7 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 ---
 # Stato degli atti seguiti
 
-*Situazione verificata al 30/10/2026, ore 08:15 (ora di Roma) per il diesel Euro 5 (D.L. 167/2026), il bollo auto 2027 (D.L. 162/2026) e la legge di bilancio; al 29/10/2026, ore 18:46, per il decreto sicurezza; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13, tranne la frase sull'emendamento 1.100, verificata al 30/10/2026, ore 08:15. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
+*Situazione verificata al 30/10/2026, ore 08:15 (ora di Roma) per il diesel Euro 5 (D.L. 167/2026), il bollo auto 2027 (D.L. 162/2026) e la legge di bilancio; al 3/11/2026, ore 19:40, per il decreto sicurezza; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13, tranne la frase sull'emendamento 1.100, verificata al 30/10/2026, ore 08:15. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
 
 ::: inbreve
 **In breve**
@@ -36,7 +36,9 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 <!-- dati: intestazione-precedente -->
 [FATTO · Alta] per tutte le righe con data (fonti: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), [governo.it](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884), [camera.it](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)).
 
-[DA VERIFICARE] Termine per gli emendamenti e data dell'esame in Aula: non ancora indicati nelle fonti. Verifica sulla [scheda AC 3159](https://www.camera.it/leg19/126?idDocumento=3159&leg=19).
+[FATTO · Alta] Il 3/11/2026 l'Aula della Camera ha respinto le questioni pregiudiziali nn. 1-4 sul disegno di legge di conversione, con 105 voti favorevoli e 152 contrari (seduta n. 737, [resoconto sommario](https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario)).
+
+[DA VERIFICARE] Termine per gli emendamenti in Commissione e data dell'esame in Aula nel merito: non ancora indicati nelle fonti. Verifica sulla [scheda AC 3159](https://www.camera.it/leg19/126?idDocumento=3159&leg=19).
 
 Cosa prevede: [Decreto sicurezza](decreto.html) · Testo: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG) · [Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-10-22;190)
 
