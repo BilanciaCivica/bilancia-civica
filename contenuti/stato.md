@@ -36,7 +36,7 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 <!-- dati: intestazione-precedente -->
 [FATTO · Alta] per tutte le righe con data (fonti: [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG), [governo.it](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884), [camera.it](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)).
 
-[FATTO · Alta] Il 3/11/2026 l'Aula della Camera ha respinto le questioni pregiudiziali nn. 1-4 sul disegno di legge di conversione, con 105 voti favorevoli e 152 contrari (seduta n. 737, [resoconto sommario](https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario)).
+[FATTO · Alta] Il 3/11/2026 l'Aula della Camera ha respinto, con un'unica votazione, le questioni pregiudiziali nn. 1-4 sul disegno di legge di conversione: 105 voti favorevoli e 152 contrari ([resoconto stenografico della seduta n. 737, votazione n. 2](https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#votazione.002)).
 
 [DA VERIFICARE] Termine per gli emendamenti in Commissione e data dell'esame in Aula nel merito: non ancora indicati nelle fonti. Verifica sulla [scheda AC 3159](https://www.camera.it/leg19/126?idDocumento=3159&leg=19).
 
@@ -65,7 +65,7 @@ Dettaglio, discrepanze e fonti: [scheda autotrasporto nell'analisi v0.2](analisi
 | Entrata in vigore | ✅ 18/09/2026 |
 | Presentazione alle Camere | ✅ AC 3106, presentato alla Camera il 17/09/2026; assegnato alla VI Commissione (Finanze) il 18/09/2026 ([scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)) |
 | Esame in Commissione | ✅ concluso il 28/10/2026, con modifiche all'art. 2 su Regioni e copertura (non su chi è esente) |
-| Voto dell'Aula della Camera | ⏳ in corso: discussione generale svolta il 3/11/2026, seguito dell'esame rinviato ad altra seduta ([resoconto sommario della seduta n. 737](https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario)); il calendario prevede il seguito dell'esame il 4-5/11 ed eventualmente il 6/11 ([calendario dei lavori dell'Assemblea n. 44, novembre 2026](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario)) |
+| Voto dell'Aula della Camera | ⏳ da fare (esame in corso): discussione generale svolta il 3/11/2026; seguito del dibattito rinviato ad altra seduta ([resoconto sommario della seduta n. 737](https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario)); il calendario prevede il seguito il 4-5/11 ed eventualmente il 6/11 ([calendario dei lavori dell'Assemblea n. 44, novembre 2026](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario)) |
 | Esame del Senato | ⏳ da fare |
 | Scadenza per la conversione (60 giorni, art. 77 Cost.) | **16/11/2026** |
 | Decreto MEF con le quote per le Regioni | ⏳ entro il 31/03/2027 (art. 2, c. 5) |

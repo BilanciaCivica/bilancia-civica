@@ -5,7 +5,7 @@ indice: si
 ---
 # Bollo auto 2027: chi è esente
 
-*Decreto-legge 17 settembre 2026, n. 162, articolo 2. Situazione verificata al 29/10/2026 (ora di Roma). Il decreto è in vigore, ma il Parlamento deve ancora convertirlo in legge e può modificarlo.*
+*Decreto-legge 17 settembre 2026, n. 162, articolo 2. Situazione verificata al 29/10/2026 (ora di Roma); lo stato dell'esame alla Camera, al 3/11/2026. Il decreto è in vigore, ma il Parlamento deve ancora convertirlo in legge e può modificarlo.*
 
 ::: inbreve
 **In breve**
@@ -19,7 +19,7 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 :::
 
 ::: stato
-**A che punto è:** in vigore dal 18/09/2026 ([GU Serie Generale n. 216 del 17/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). Conversione in legge entro il **16/11/2026** (60 giorni, art. 77 Cost.). Il disegno di legge di conversione è l'**AC 3106**: la Commissione Finanze della Camera ha concluso l'esame il 28/10/2026 e il testo passa all'Aula ([scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)). [FATTO · Alta]
+**A che punto è:** in vigore dal 18/09/2026 ([GU Serie Generale n. 216 del 17/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). Conversione in legge entro il **16/11/2026** (60 giorni, art. 77 Cost.). Il disegno di legge di conversione è l'**AC 3106**: la Commissione Finanze della Camera ha concluso l'esame il 28/10/2026 ([scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)); il 3/11/2026 l'Aula della Camera ha svolto la discussione generale e ha rinviato il seguito ad altra seduta ([resoconto sommario della seduta n. 737](https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario)). Dopo il voto della Camera il testo passa al Senato. [FATTO · Alta]
 :::
 
 ## Chi è esente

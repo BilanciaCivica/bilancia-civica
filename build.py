@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "3/11/2026, ore 20:25 (ora di Roma)"
+AGGIORNATO = "3/11/2026, ore 20:36 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -160,9 +160,9 @@ NOVITA = [
      "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
                "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
                "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. Il 3/11/2026 l'Aula della Camera ha svolto "
-              "la discussione generale; il decreto va convertito in legge entro il **16/11/2026** "
-              f"([resoconto della Camera]({RESOCONTO_737})). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. Va convertito in legge entro il **16/11/2026** "
+              "(60 giorni dalla pubblicazione, [art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77); [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)); "
+              f"il 3/11/2026 l'Aula della Camera ha svolto la discussione generale ([resoconto della Camera]({RESOCONTO_737})). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
     {"data": "30/10/2026", "titolo": "Diesel Euro 5",
      "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
@@ -194,7 +194,7 @@ TEMI_HOME = [
     ("✊", "Sciopero", "Preavviso, servizi pubblici essenziali, settore privato, precettazione e autotrasporto.",
      "sciopero.html", "24/10/2026"),
     ("🚗", "Bollo auto 2027", "Chi può essere esente secondo il D.L. 162/2026: requisiti, più veicoli e punti aperti.",
-     "bollo-auto.html", "29/10/2026"),
+     "bollo-auto.html", "3/11/2026"),
     ("⛽", "Diesel Euro 5", "Il rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali, Regione per Regione.",
      "diesel-euro5.html", "30/10/2026"),
     ("💶", "Manovra 2027", "Le misure annunciate dal Governo, area per area: non ancora legge.",
@@ -204,9 +204,9 @@ TEMI_HOME = [
     ("📘", "Diritti e regole", "Riunione, manifestazione e sciopero: cosa è protetto e cosa è punibile.",
      "diritti.html", "25/10/2026"),
     ("🧭", "Bussola Diritti (testo completo)", "Tutte le norme, le domande frequenti e le fonti su riunione, manifestazione e sciopero.",
-     "bussola-completa.html", "29/10/2026"),
+     "bussola-completa.html", "3/11/2026"),
     ("🔍", "Analisi del decreto sicurezza", "Analisi tecnica, articolo per articolo, del D.L. 190/2026.",
-     "analisi-dl-190-2026.html", "27/10/2026"),
+     "analisi-dl-190-2026.html", "3/11/2026"),
 ]
 
 # «A che punto sono le leggi»: prossime scadenze, in ordine di data (dalla pagina Stato degli atti).
