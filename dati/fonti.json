@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.3",
-  "generato_il": "2026-10-30T08:54:00+01:00",
+  "generato_il": "2026-11-03T20:46:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 119,
+  "totale": 127,
   "fonti": [
     {
       "url": "https://dati.senato.it/sparql",
@@ -59,16 +59,13 @@
         "diesel-euro5-7869d49f9d",
         "home-00fe1d09a9",
         "home-07faef310c",
-        "home-253bec3fcb",
-        "home-a765b08c20",
         "stato-0dd13a774f",
         "stato-15060af6da",
+        "stato-183a8cc2c2",
         "stato-2a4092677f",
-        "stato-2c4a7e448f",
         "stato-31ab611876",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-48c36e361b",
         "stato-52c47d7a5f",
         "stato-5f6ccae5d1",
         "stato-70a1d46ef0",
@@ -248,16 +245,6 @@
       ]
     },
     {
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
-      "titolo": "ANSA, 20 ottobre 2026",
-      "altri_titoli": [],
-      "ufficiale": false,
-      "dominio": "www.ansa.it",
-      "affermazioni": [
-        "bussola-completa-daf0acba39"
-      ]
-    },
-    {
       "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/penalisti-il-nuovo-decreto-sicurezza-e-inutile-e-lesivo-dei-diritti_aad4edf0-f971-444b-a62c-f8390db3520e.html",
       "titolo": "ANSA",
       "altri_titoli": [
@@ -326,12 +313,12 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "bollo-auto-9f3e9496a5",
+        "bollo-auto-fc794044ca",
         "stato-0dd13a774f",
         "stato-15060af6da",
+        "stato-183a8cc2c2",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-48c36e361b",
         "stato-52c47d7a5f",
         "stato-85b153896e",
         "stato-9b28107a03"
@@ -344,7 +331,7 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "stato-d6f77592bc"
+        "stato-b17de4404c"
       ]
     },
     {
@@ -392,6 +379,40 @@
       ]
     },
     {
+      "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+      "titolo": "resoconto della Camera",
+      "altri_titoli": [
+        "resoconto della seduta n. 737",
+        "resoconto sommario della seduta n. 737"
+      ],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "bollo-auto-fc794044ca",
+        "home-64653c24cd",
+        "home-d572026f5f",
+        "stato-0dd13a774f",
+        "stato-15060af6da",
+        "stato-183a8cc2c2",
+        "stato-31b686f977",
+        "stato-39af3ba53d",
+        "stato-4207b7f2da",
+        "stato-52c47d7a5f",
+        "stato-85b153896e",
+        "stato-9b28107a03"
+      ]
+    },
+    {
+      "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#votazione.002",
+      "titolo": "resoconto stenografico della seduta n. 737, votazione n. 2",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.camera.it",
+      "affermazioni": [
+        "stato-f929fe6f92"
+      ]
+    },
+    {
       "url": "https://www.cgsse.it",
       "titolo": "Commissione di garanzia",
       "altri_titoli": [
@@ -404,10 +425,19 @@
         "bussola-completa-1200ecf3e3",
         "bussola-completa-4b2695cb08",
         "bussola-completa-6e707c1eae",
-        "bussola-completa-db04a1d9e6",
         "bussola-completa-e376e808f2",
         "diritti-037f52515e",
         "sciopero-1f35ae5387"
+      ]
+    },
+    {
+      "url": "https://www.cgsse.it/attivita/delibere",
+      "titolo": "delibere della Commissione di garanzia",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.cgsse.it",
+      "affermazioni": [
+        "bussola-completa-b700410947"
       ]
     },
     {
@@ -451,6 +481,20 @@
       ]
     },
     {
+      "url": "https://www.cgsse.it/sites/default/files/2026-10/tmc_322_2026_1.pdf",
+      "titolo": "delibera n. 26/322",
+      "altri_titoli": [
+        "delibera n. 26/322 della Commissione di garanzia"
+      ],
+      "ufficiale": true,
+      "dominio": "www.cgsse.it",
+      "affermazioni": [
+        "bussola-completa-8de485ee69",
+        "bussola-completa-da43f1be36",
+        "bussola-completa-e1999b7308"
+      ]
+    },
+    {
       "url": "https://www.comune.milano.it/web/milano/aree-tematiche/mobilita/area-b",
       "titolo": "sito del Comune di Milano",
       "altri_titoli": [],
@@ -458,6 +502,17 @@
       "dominio": "www.comune.milano.it",
       "affermazioni": [
         "diesel-euro5-4ca141a55f"
+      ]
+    },
+    {
+      "url": "https://www.cortecostituzionale.it/comunicati-stampa",
+      "titolo": "comunicati stampa della Corte costituzionale",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.cortecostituzionale.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-5883416a08",
+        "bussola-completa-5883416a08"
       ]
     },
     {
@@ -516,6 +571,50 @@
         "bussola-completa-3c54c2176f",
         "diritti-8ffa5cd44f",
         "presidio-8ffa5cd44f"
+      ]
+    },
+    {
+      "url": "https://www.cortecostituzionale.it/uploads/release/6ae47a7f3357d.pdf",
+      "titolo": "agenda dei lavori della Corte, comunicato del 30 ottobre 2026",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.cortecostituzionale.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-eb76a76bc3",
+        "bussola-completa-eb76a76bc3"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00079&atto.dataPubblicazioneGazzetta=2026-05-06",
+      "titolo": "64",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-eb76a76bc3",
+        "bussola-completa-eb76a76bc3"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00080&atto.dataPubblicazioneGazzetta=2026-05-06",
+      "titolo": "65",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-eb76a76bc3",
+        "bussola-completa-eb76a76bc3"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00081&atto.dataPubblicazioneGazzetta=2026-05-06",
+      "titolo": "66",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "analisi-dl-190-2026-eb76a76bc3",
+        "bussola-completa-eb76a76bc3"
       ]
     },
     {
@@ -637,13 +736,13 @@
         "bollo-auto-9a7198ec4a",
         "bollo-auto-9bfec84ad1",
         "bollo-auto-9e0096b367",
-        "bollo-auto-9f3e9496a5",
         "bollo-auto-a0560a43f6",
         "bollo-auto-a9987b6e95",
         "bollo-auto-adc9be7a52",
         "bollo-auto-bee45f76e1",
         "bollo-auto-e53bb16fb8",
         "bollo-auto-e7a943a2b4",
+        "bollo-auto-fc794044ca",
         "bollo-sono-esente-094aa5f5ed",
         "bollo-sono-esente-35773a7c81",
         "bollo-sono-esente-5baceb0724",
@@ -662,13 +761,14 @@
         "bollo-sono-esente-eb3c20be78",
         "bollo-sono-esente-ee4f89421b",
         "home-4371226f9a",
-        "home-a765b08c20",
+        "home-64653c24cd",
+        "home-d572026f5f",
         "stato-0dd13a774f",
         "stato-15060af6da",
-        "stato-2c4a7e448f",
+        "stato-183a8cc2c2",
+        "stato-31b686f977",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-48c36e361b",
         "stato-52c47d7a5f",
         "stato-702ae70c9f",
         "stato-85b153896e",
@@ -1029,8 +1129,9 @@
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
+        "analisi-dl-190-2026-eb76a76bc3",
         "bollo-auto-99f240991b",
-        "bollo-auto-9f3e9496a5",
+        "bollo-auto-fc794044ca",
         "bussola-completa-06b726347c",
         "bussola-completa-0da44c84bc",
         "bussola-completa-0edb96b0dc",
@@ -1049,6 +1150,7 @@
         "bussola-completa-b82d243e4c",
         "bussola-completa-db78e37ab6",
         "bussola-completa-dced647128",
+        "bussola-completa-eb76a76bc3",
         "corteo-0cdde9881a",
         "decreto-10a59bd435",
         "decreto-d782532e57",
@@ -1069,6 +1171,7 @@
         "esempio-d53dbb1a51",
         "home-293a0794b9",
         "home-3f5e1424e1",
+        "home-64653c24cd",
         "manovra-2027-13829ce0d5",
         "manovra-2027-5daadf1640",
         "manovra-2027-5f5b311096",
@@ -1152,7 +1255,8 @@
       "affermazioni": [
         "diesel-euro5-4f6d607ab5",
         "diesel-euro5-ad28b93656",
-        "home-293a0794b9"
+        "home-293a0794b9",
+        "home-64653c24cd"
       ]
     },
     {
@@ -1370,9 +1474,9 @@
         "home-4371226f9a",
         "stato-0dd13a774f",
         "stato-15060af6da",
+        "stato-183a8cc2c2",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-48c36e361b",
         "stato-52c47d7a5f",
         "stato-85b153896e",
         "stato-9b28107a03"
@@ -1657,6 +1761,7 @@
         "bussola-completa-765459d838",
         "bussola-completa-8163e906b1",
         "bussola-completa-825704140b",
+        "bussola-completa-8de485ee69",
         "bussola-completa-9bd93eabcd",
         "bussola-completa-a25bd9780d",
         "bussola-completa-aa306b8685",
@@ -1832,6 +1937,7 @@
         "analisi-dl-190-2026-a7f28386cd",
         "analisi-dl-190-2026-bd90accac7",
         "analisi-dl-190-2026-c322a1afb7",
+        "analisi-dl-190-2026-eb76a76bc3",
         "analisi-dl-190-2026-efcfb1cf53",
         "analisi-dl-190-2026-f684f7a633",
         "analisi-dl-190-2026-face9da946",
@@ -1848,6 +1954,7 @@
         "bussola-completa-a6a9ccdfec",
         "bussola-completa-d2a4cfa1b9",
         "bussola-completa-d8ae8c2dbe",
+        "bussola-completa-eb76a76bc3",
         "corteo-0cdde9881a",
         "corteo-2e0579d8fd",
         "corteo-74c8f128b7",

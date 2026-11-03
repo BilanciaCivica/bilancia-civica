@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.3",
-  "generato_il": "2026-10-30T08:54:00+01:00",
+  "generato_il": "2026-11-03T20:46:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -9,7 +9,7 @@
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
   "schema": "https://bilanciacivica.github.io/bilancia-civica/dati/schema-affermazioni.json",
-  "totale": 501,
+  "totale": 509,
   "affermazioni": [
     {
       "id": "home-4371226f9a",
@@ -47,11 +47,11 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "home-253bec3fcb",
-      "testo": "A che punto è: il decreto è in vigore ed è all'esame del Parlamento. L'Aula della Camera ha in calendario la discussione dal 3 novembre 2026; il decreto va convertito in legge entro il 16 novembre 2026 (calendario della Camera).",
+      "id": "home-64653c24cd",
+      "testo": "A che punto è: il decreto è in vigore ed è all'esame del Parlamento. Va convertito in legge entro il 16 novembre 2026 (60 giorni dalla pubblicazione, art. 77 Cost.; Gazzetta Ufficiale); il 3 novembre 2026 l'Aula della Camera ha svolto la discussione generale (resoconto della Camera).",
       "etichetta": "FATTO",
       "certezza": "Alta",
       "nota_etichetta": null,
@@ -59,21 +59,45 @@
       "contesto": null,
       "tema": "bollo-auto",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/index.html#af-home-253bec3fcb",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/index.html#af-home-64653c24cd",
         "titolo": "Bilancia Civica · Ogni decreto, pesato sulla tua vita",
         "sezione": "Bollo auto 2027"
       },
-      "riferimenti_normativi": [],
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 77 Cost.",
+          "atto": "Costituzione",
+          "articolo": "77"
+        }
+      ],
       "fonti": [
         {
-          "titolo": "calendario della Camera",
-          "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
+          "titolo": "art. 77 Cost.",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77",
           "ufficiale": true,
           "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Gazzetta Ufficiale",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "resoconto della Camera",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-4a627e37e5",
@@ -111,7 +135,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-07faef310c",
@@ -137,7 +161,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-3b66f62e5c",
@@ -163,7 +187,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-10a2479b25",
@@ -195,45 +219,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
-    },
-    {
-      "id": "home-a765b08c20",
-      "testo": "3 novembre 2026 · Bollo auto 2027 (D.L. 162/2026): l'Aula della Camera ha in calendario la discussione; conversione in legge entro il 16 novembre 2026 (calendario della Camera).",
-      "etichetta": "FATTO",
-      "certezza": "Alta",
-      "nota_etichetta": null,
-      "etichetta_ereditata": false,
-      "contesto": null,
-      "tema": "bollo-auto",
-      "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/index.html#af-home-a765b08c20",
-        "titolo": "Bilancia Civica · Ogni decreto, pesato sulla tua vita",
-        "sezione": "A che punto sono le leggi"
-      },
-      "riferimenti_normativi": [
-        {
-          "citazione": "D.L. 162/2026",
-          "atto": "D.L. 162/2026",
-          "articolo": null
-        }
-      ],
-      "fonti": [
-        {
-          "titolo": "calendario della Camera",
-          "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
-          "ufficiale": true,
-          "origine": "collegamento nel testo"
-        },
-        {
-          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
-          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
-          "ufficiale": true,
-          "origine": "riferimento normativo citato"
-        }
-      ],
-      "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-00fe1d09a9",
@@ -271,7 +257,45 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "home-d572026f5f",
+      "testo": "16 novembre 2026 · Bollo auto 2027 (D.L. 162/2026): termine per la conversione in legge; la discussione generale nell'Aula della Camera si è svolta il 3 novembre 2026 (resoconto della Camera).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "bollo-auto",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/index.html#af-home-d572026f5f",
+        "titolo": "Bilancia Civica · Ogni decreto, pesato sulla tua vita",
+        "sezione": "A che punto sono le leggi"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "D.L. 162/2026",
+          "atto": "D.L. 162/2026",
+          "articolo": null
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "resoconto della Camera",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "D.L. 17 settembre 2026, n. 162 (testo in Gazzetta Ufficiale)",
+          "url": "https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-293a0794b9",
@@ -320,7 +344,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "home-3f5e1424e1",
@@ -375,7 +399,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-bed242ab67",
@@ -407,7 +431,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-da45ab5d35",
@@ -433,7 +457,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-9e4d1a164d",
@@ -465,7 +489,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-41510d76c8",
@@ -497,7 +521,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-80798e52df",
@@ -529,7 +553,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-4d378948de",
@@ -572,7 +596,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-f8eb4dba4e",
@@ -604,7 +628,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-7f04d3a1af",
@@ -636,7 +660,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-830561f579",
@@ -668,7 +692,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-bdc5ec4599",
@@ -711,7 +735,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-b8d89a9aeb",
@@ -810,7 +834,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-7652bcad27",
@@ -842,7 +866,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-fbe4eed8d3",
@@ -874,7 +898,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-89f9aec69c",
@@ -917,7 +941,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-80e1f5dd0e",
@@ -971,7 +995,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-fab4aa2862",
@@ -1025,7 +1049,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-cbd378e67c",
@@ -1079,7 +1103,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-3e2b541ff0",
@@ -1133,7 +1157,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-fc2ff18b6d",
@@ -1187,7 +1211,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-4259c2f117",
@@ -1246,7 +1270,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-2a81f5a754",
@@ -1300,7 +1324,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-e5c8edb71a",
@@ -1332,7 +1356,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-8ffa5cd44f",
@@ -1386,7 +1410,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-b11fcc34eb",
@@ -1429,7 +1453,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-420bbe0237",
@@ -1455,7 +1479,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-f5f5ab2f9d",
@@ -1521,7 +1545,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-70be1de314",
@@ -1553,7 +1577,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-8b1cb6b776",
@@ -1602,7 +1626,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-0daf5aa13e",
@@ -1621,7 +1645,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-4761dbcb3b",
@@ -1670,7 +1694,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-623b8445c3",
@@ -1702,7 +1726,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-90f57c2311",
@@ -1734,7 +1758,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-e59e4e0f1c",
@@ -1766,7 +1790,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-037f52515e",
@@ -1804,7 +1828,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-5e9842ab6c",
@@ -1836,7 +1860,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-f84bffee24",
@@ -1873,7 +1897,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-07b377bb5b",
@@ -1905,7 +1929,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-62a3a66d64",
@@ -1948,7 +1972,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-290831fa3b",
@@ -1985,7 +2009,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-ee1127054b",
@@ -2027,7 +2051,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-abc708952c",
@@ -2064,7 +2088,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-3536cb2483",
@@ -2096,7 +2120,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-00af22222e",
@@ -2128,7 +2152,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-7b973c495a",
@@ -2165,7 +2189,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-1a23b8a6bc",
@@ -2203,7 +2227,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-60ed094033",
@@ -2235,7 +2259,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-ad81c5d70a",
@@ -2267,7 +2291,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diritti-c2977d9e08",
@@ -2310,7 +2334,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-af9a350a8b",
@@ -2342,7 +2366,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-abc0d7d83d",
@@ -2368,7 +2392,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-a97cdb537f",
@@ -2394,7 +2418,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-39d8e8129e",
@@ -2426,7 +2450,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-face12d16c",
@@ -2452,7 +2476,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-c34cd30e7b",
@@ -2478,7 +2502,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-cf60ee74d2",
@@ -2497,7 +2521,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-88d48195b3",
@@ -2557,7 +2581,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-a5ac46af53",
@@ -2589,7 +2613,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-8ffa5cd44f",
@@ -2632,7 +2656,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-a6645f07f3",
@@ -2664,7 +2688,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-dc53063eae",
@@ -2696,7 +2720,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-8994094a05",
@@ -2728,7 +2752,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "presidio-1d2483c03a",
@@ -2771,7 +2795,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-427d8fa9a0",
@@ -2797,7 +2821,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-cb6010a5c4",
@@ -2823,7 +2847,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-a1d81b85d5",
@@ -2849,7 +2873,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-933d860b9b",
@@ -2875,7 +2899,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-6fc0ade84a",
@@ -2901,7 +2925,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-8e81fcc128",
@@ -2933,7 +2957,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-ff145f2c49",
@@ -2976,7 +3000,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-65bc1c4b5f",
@@ -3019,7 +3043,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-9066d07a17",
@@ -3051,7 +3075,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-0cdde9881a",
@@ -3094,7 +3118,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-062650a960",
@@ -3126,7 +3150,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-fa3f302c35",
@@ -3152,7 +3176,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-26eb2368f5",
@@ -3190,7 +3214,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-7c2cafcb63",
@@ -3216,7 +3240,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-e4d23787b5",
@@ -3242,7 +3266,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-42ceb54e28",
@@ -3268,7 +3292,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-7ad6c539c7",
@@ -3294,7 +3318,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-2e5dd875ee",
@@ -3332,7 +3356,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-0e89e14b0d",
@@ -3358,7 +3382,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-74c8f128b7",
@@ -3427,7 +3451,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-b42394152d",
@@ -3453,7 +3477,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-2e0579d8fd",
@@ -3496,7 +3520,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-d2d0488a37",
@@ -3539,7 +3563,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-47064edd45",
@@ -3565,7 +3589,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-461f029101",
@@ -3591,7 +3615,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-9e411f20b6",
@@ -3634,7 +3658,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "corteo-f629bf05b6",
@@ -3660,7 +3684,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "sciopero-d21c1dfa89",
@@ -3686,7 +3710,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "sciopero-fd352c8c4c",
@@ -3712,7 +3736,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "sciopero-fbff9633f3",
@@ -3744,7 +3768,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "sciopero-fd10932766",
@@ -3787,7 +3811,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "sciopero-7b689b8aeb",
@@ -3819,7 +3843,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "sciopero-1f35ae5387",
@@ -3845,7 +3869,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-d75672a500",
@@ -3871,7 +3895,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-693cf7f6ed",
@@ -3909,7 +3933,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-e2a812fbcf",
@@ -3935,7 +3959,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-10a59bd435",
@@ -3978,7 +4002,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-e516417bb8",
@@ -4004,7 +4028,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-0183f494cf",
@@ -4042,7 +4066,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-373c09522e",
@@ -4068,7 +4092,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-68a945fc41",
@@ -4094,7 +4118,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-3e3e73de5c",
@@ -4148,7 +4172,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-28744ff846",
@@ -4186,7 +4210,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-8108273dbd",
@@ -4229,7 +4253,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-629f560f61",
@@ -4261,7 +4285,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-3a9defde8e",
@@ -4287,7 +4311,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-3b5d1651ea",
@@ -4313,7 +4337,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-dbf87e9a01",
@@ -4356,7 +4380,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-91036faddf",
@@ -4382,7 +4406,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-1b0b433470",
@@ -4420,7 +4444,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-5b51b8452b",
@@ -4463,7 +4487,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-3d64223348",
@@ -4495,7 +4519,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-9e411f20b6",
@@ -4538,7 +4562,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-1b852a69d2",
@@ -4570,7 +4594,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-e627078c07",
@@ -4613,7 +4637,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-d782532e57",
@@ -4645,7 +4669,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-f94853ca6a",
@@ -4671,7 +4695,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-c78b18d332",
@@ -4703,7 +4727,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-82367cf10f",
@@ -4729,7 +4753,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "decreto-0716da0718",
@@ -4748,7 +4772,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-6e28135029",
@@ -4780,7 +4804,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-b8eea2c7e2",
@@ -4818,7 +4842,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-5bc1ef9586",
@@ -4844,7 +4868,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-2d79a35496",
@@ -4870,7 +4894,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-de998e6fc3",
@@ -4902,7 +4926,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-0e1d6ebb19",
@@ -4945,7 +4969,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-0e3736fc21",
@@ -4977,7 +5001,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-77fe2254ca",
@@ -5020,7 +5044,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-72fe39024a",
@@ -5074,7 +5098,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-67c03be378",
@@ -5112,7 +5136,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-cd66f963f2",
@@ -5138,7 +5162,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-0ea50d4b64",
@@ -5181,7 +5205,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-48b94ac23d",
@@ -5219,7 +5243,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-8108273dbd",
@@ -5262,7 +5286,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-8a1d8b87c8",
@@ -5288,7 +5312,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-86216161a8",
@@ -5320,7 +5344,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-7eb4945924",
@@ -5339,7 +5363,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-d53dbb1a51",
@@ -5382,7 +5406,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-51e4272a6c",
@@ -5408,7 +5432,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "esempio-fa0606c2d0",
@@ -5434,7 +5458,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-3d6a12bf48",
@@ -5466,7 +5490,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-da1388036c",
@@ -5509,11 +5533,11 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "stato-2c4a7e448f",
-      "testo": "Bollo auto 2027 (decreto-legge n. 162 del 17 settembre 2026, art. 2): in vigore dal 18 settembre 2026; il Parlamento deve convertirlo in legge entro il 16 novembre 2026. La Commissione Finanze della Camera ha concluso l'esame il 28 ottobre; l'Aula della Camera ha in calendario la discussione dal 3 novembre (calendario della Camera); poi deve votare il Senato.",
+      "id": "stato-31b686f977",
+      "testo": "Bollo auto 2027 (decreto-legge n. 162 del 17 settembre 2026, art. 2): in vigore dal 18 settembre 2026; il Parlamento deve convertirlo in legge entro il 16 novembre 2026. La Commissione Finanze della Camera ha concluso l'esame il 28 ottobre; il 3 novembre l'Aula della Camera ha svolto la discussione generale e ha rinviato il seguito dell'esame ad altra seduta (resoconto sommario della seduta n. 737); poi deve votare il Senato.",
       "etichetta": "FATTO",
       "certezza": "Alta",
       "nota_etichetta": null,
@@ -5521,7 +5545,7 @@
       "contesto": null,
       "tema": "bollo-auto",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-2c4a7e448f",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-31b686f977",
         "titolo": "Stato degli atti seguiti",
         "sezione": null
       },
@@ -5534,8 +5558,8 @@
       ],
       "fonti": [
         {
-          "titolo": "calendario della Camera",
-          "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
+          "titolo": "resoconto sommario della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
           "ufficiale": true,
           "origine": "collegamento nel testo"
         },
@@ -5547,7 +5571,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-c930c3c4be",
@@ -5585,7 +5609,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-8991885c30",
@@ -5611,7 +5635,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-a9b54612f3",
@@ -5643,7 +5667,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-1f7dedac85",
@@ -5669,7 +5693,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-92ef125c46",
@@ -5707,7 +5731,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-0fec9cf14b",
@@ -5745,7 +5769,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-7dc7b67df9",
@@ -5783,7 +5807,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-48de1a4681",
@@ -5827,7 +5851,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-8ee76a0280",
@@ -5865,7 +5889,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-6758557c78",
@@ -5915,7 +5939,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-cc39523147",
@@ -5959,7 +5983,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-bf08471979",
@@ -6009,11 +6033,37 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "stato-d6f77592bc",
-      "testo": "Termine per gli emendamenti e data dell'esame in Aula: non ancora indicati nelle fonti. Verifica sulla scheda AC 3159.",
+      "id": "stato-f929fe6f92",
+      "testo": "Il 3 novembre 2026 l'Aula della Camera ha respinto, con un'unica votazione, le questioni pregiudiziali nn. 1-4 sul disegno di legge di conversione: 105 voti favorevoli e 152 contrari (resoconto stenografico della seduta n. 737, votazione n. 2).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "decreto-sicurezza",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-f929fe6f92",
+        "titolo": "Stato degli atti seguiti",
+        "sezione": "Decreto sicurezza — D.L. 22 ottobre 2026, n. 190"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "resoconto stenografico della seduta n. 737, votazione n. 2",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=stenografico#votazione.002",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "stato-b17de4404c",
+      "testo": "Termine per gli emendamenti in Commissione e data dell'esame in Aula nel merito: non ancora indicati nelle fonti. Verifica sulla scheda AC 3159.",
       "etichetta": "DA VERIFICARE",
       "certezza": null,
       "nota_etichetta": null,
@@ -6021,7 +6071,7 @@
       "contesto": null,
       "tema": "decreto-sicurezza",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-d6f77592bc",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-b17de4404c",
         "titolo": "Stato degli atti seguiti",
         "sezione": "Decreto sicurezza — D.L. 22 ottobre 2026, n. 190"
       },
@@ -6035,7 +6085,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-9b6b004320",
@@ -6079,7 +6129,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-99631721dd",
@@ -6128,7 +6178,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-fe690c7ab1",
@@ -6154,7 +6204,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-49cd910211",
@@ -6186,7 +6236,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-702ae70c9f",
@@ -6241,7 +6291,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-574dfe7dd5",
@@ -6273,7 +6323,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-85b153896e",
@@ -6282,7 +6332,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-85b153896e",
@@ -6304,6 +6354,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6317,7 +6373,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-4207b7f2da",
@@ -6326,7 +6382,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-4207b7f2da",
@@ -6348,6 +6404,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6361,7 +6423,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-0dd13a774f",
@@ -6370,7 +6432,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-0dd13a774f",
@@ -6392,6 +6454,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6405,7 +6473,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-9b28107a03",
@@ -6414,7 +6482,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-9b28107a03",
@@ -6442,6 +6510,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6455,24 +6529,30 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "stato-48c36e361b",
-      "testo": "Voto dell'Aula della Camera — ⏳ da fare: discussione generale in calendario martedì 3 novembre 2026 (al termine delle votazioni), seguito dell'esame 4-5/11 ed eventualmente 6/11 (calendario dei lavori dell'Assemblea n. 44, novembre 2026)",
+      "id": "stato-183a8cc2c2",
+      "testo": "Voto dell'Aula della Camera — ⏳ da fare (esame in corso): discussione generale svolta il 3 novembre 2026; seguito del dibattito rinviato ad altra seduta (resoconto sommario della seduta n. 737); il calendario prevede il seguito il 4-5/11 ed eventualmente il 6/11 (calendario dei lavori dell'Assemblea n. 44, novembre 2026)",
       "etichetta": "FATTO",
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-48c36e361b",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-183a8cc2c2",
         "titolo": "Stato degli atti seguiti",
         "sezione": "Bollo auto 2027 — D.L. 17 settembre 2026, n. 162"
       },
       "riferimenti_normativi": [],
       "fonti": [
+        {
+          "titolo": "resoconto sommario della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
         {
           "titolo": "calendario dei lavori dell'Assemblea n. 44, novembre 2026",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
@@ -6499,7 +6579,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-15060af6da",
@@ -6508,7 +6588,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-15060af6da",
@@ -6530,6 +6610,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6543,7 +6629,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-52c47d7a5f",
@@ -6552,7 +6638,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-52c47d7a5f",
@@ -6580,6 +6666,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6599,7 +6691,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-39af3ba53d",
@@ -6608,7 +6700,7 @@
       "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": true,
-      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, calendario dell'Assemblea, Normattiva).",
+      "contesto": "[FATTO · Alta] per tutte le righe con data (fonti: Gazzetta Ufficiale, camera.it, resoconto della seduta n. 737, calendario dell'Assemblea, Normattiva).",
       "tema": "bollo-auto",
       "pagina": {
         "url": "https://bilanciacivica.github.io/bilancia-civica/stato.html#af-stato-39af3ba53d",
@@ -6636,6 +6728,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "calendario dell'Assemblea",
           "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
           "ufficiale": true,
@@ -6649,7 +6747,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-f03928b32c",
@@ -6687,7 +6785,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-97f65b8b9d",
@@ -6731,7 +6829,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-70a1d46ef0",
@@ -6775,7 +6873,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-31ab611876",
@@ -6819,7 +6917,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-9014947608",
@@ -6863,7 +6961,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-5f6ccae5d1",
@@ -6907,7 +7005,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-2a4092677f",
@@ -6951,7 +7049,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-744b9fc9cc",
@@ -7007,7 +7105,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-b4e1ebc92d",
@@ -7045,7 +7143,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-e129fbb965",
@@ -7071,7 +7169,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-8d0acd48d8",
@@ -7149,7 +7247,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-5daadf1640",
@@ -7227,7 +7325,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-b20e4c7017",
@@ -7305,7 +7403,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-79314f97a8",
@@ -7383,7 +7481,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-257a7c8cff",
@@ -7409,7 +7507,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-748bcccd83",
@@ -7435,7 +7533,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "stato-1294f88194",
@@ -7461,7 +7559,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-9a7198ec4a",
@@ -7499,7 +7597,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-258a0cef9a",
@@ -7531,7 +7629,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-2d4956a396",
@@ -7563,11 +7661,11 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "bollo-auto-9f3e9496a5",
-      "testo": "A che punto è: in vigore dal 18 settembre 2026 (GU Serie Generale n. 216 del 17 settembre 2026). Conversione in legge entro il 16 novembre 2026 (60 giorni, art. 77 Cost.). Il disegno di legge di conversione è l'AC 3106: la Commissione Finanze della Camera ha concluso l'esame il 28 ottobre 2026 e il testo passa all'Aula (scheda della Camera).",
+      "id": "bollo-auto-fc794044ca",
+      "testo": "A che punto è: in vigore dal 18 settembre 2026 (GU Serie Generale n. 216 del 17 settembre 2026). Conversione in legge entro il 16 novembre 2026 (60 giorni, art. 77 Cost.). Il disegno di legge di conversione è l'AC 3106: la Commissione Finanze della Camera ha concluso l'esame il 28 ottobre 2026 (scheda della Camera); il 3 novembre 2026 l'Aula della Camera ha svolto la discussione generale e ha rinviato il seguito ad altra seduta (resoconto sommario della seduta n. 737). Dopo il voto della Camera il testo passa al Senato.",
       "etichetta": "FATTO",
       "certezza": "Alta",
       "nota_etichetta": null,
@@ -7575,7 +7673,7 @@
       "contesto": null,
       "tema": "bollo-auto",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-9f3e9496a5",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bollo-auto.html#af-bollo-auto-fc794044ca",
         "titolo": "Bollo auto 2027: chi è esente",
         "sezione": null
       },
@@ -7600,6 +7698,12 @@
           "origine": "collegamento nel testo"
         },
         {
+          "titolo": "resoconto sommario della seduta n. 737",
+          "url": "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
           "titolo": "Costituzione della Repubblica italiana",
           "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
           "ufficiale": true,
@@ -7607,7 +7711,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-8f2cb07981",
@@ -7645,7 +7749,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-a0560a43f6",
@@ -7683,7 +7787,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-9bfec84ad1",
@@ -7721,7 +7825,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-76839caea6",
@@ -7759,7 +7863,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-1dcab44290",
@@ -7797,7 +7901,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-5671d29b30",
@@ -7829,7 +7933,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-4c46ca3675",
@@ -7861,7 +7965,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-17b9e858b1",
@@ -7893,7 +7997,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-3316b08c90",
@@ -7925,7 +8029,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-adc9be7a52",
@@ -7957,7 +8061,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-695e1b4b17",
@@ -7989,7 +8093,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-1915c13bea",
@@ -8021,7 +8125,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-c7818ef53a",
@@ -8064,7 +8168,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-9e0096b367",
@@ -8096,7 +8200,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-a9987b6e95",
@@ -8133,7 +8237,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-2ddbdc4717",
@@ -8165,7 +8269,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-16dbd67a14",
@@ -8191,7 +8295,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-945503a815",
@@ -8223,7 +8327,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-28288490fe",
@@ -8255,7 +8359,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-bee45f76e1",
@@ -8287,7 +8391,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-d54a0a3813",
@@ -8325,7 +8429,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-c63e96be0f",
@@ -8351,7 +8455,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-39e301b002",
@@ -8377,7 +8481,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-94c633051c",
@@ -8403,7 +8507,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-ef1d8503df",
@@ -8429,7 +8533,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-d3aa070507",
@@ -8455,7 +8559,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-77e867c128",
@@ -8481,7 +8585,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-fdb564ab54",
@@ -8513,7 +8617,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-01d46d17f7",
@@ -8545,7 +8649,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-6c6adb4d74",
@@ -8577,7 +8681,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-8b574a7e93",
@@ -8620,7 +8724,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-7b929b1c1c",
@@ -8669,7 +8773,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-08d81309cd",
@@ -8701,7 +8805,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-e7a943a2b4",
@@ -8733,7 +8837,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-6d44c2f74b",
@@ -8765,7 +8869,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-34b4c172df",
@@ -8832,7 +8936,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-31997e6204",
@@ -8864,7 +8968,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-92daa68a5f",
@@ -8896,7 +9000,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-e53bb16fb8",
@@ -8939,7 +9043,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-auto-99f240991b",
@@ -8971,7 +9075,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-d07d9e2f98",
@@ -9003,7 +9107,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-eb3c20be78",
@@ -9035,7 +9139,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-d35c23eca9",
@@ -9067,7 +9171,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-62ecdd9b53",
@@ -9099,7 +9203,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-35773a7c81",
@@ -9131,7 +9235,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-5baceb0724",
@@ -9163,7 +9267,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-6316fad6e3",
@@ -9195,7 +9299,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-77c4a26918",
@@ -9227,7 +9331,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-ae103c3e1f",
@@ -9259,7 +9363,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-64c87bb9e5",
@@ -9291,7 +9395,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-c60fbfb1d4",
@@ -9323,7 +9427,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-7e1a389930",
@@ -9372,7 +9476,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-b3394a3fab",
@@ -9410,7 +9514,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-094aa5f5ed",
@@ -9448,7 +9552,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-ee4f89421b",
@@ -9486,7 +9590,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-d3d2910ebd",
@@ -9524,7 +9628,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-e1b23413b7",
@@ -9562,7 +9666,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bollo-sono-esente-d642a6ecd4",
@@ -9605,7 +9709,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-4ee6265184",
@@ -9654,7 +9758,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-116d292e00",
@@ -9686,7 +9790,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-1703e4004f",
@@ -9712,7 +9816,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-6a0d66e683",
@@ -9738,7 +9842,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-7869d49f9d",
@@ -9776,7 +9880,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-ac045e2f60",
@@ -9814,7 +9918,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-ab756a16c7",
@@ -9852,7 +9956,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-f3bbf95b33",
@@ -9890,7 +9994,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-77c461392b",
@@ -9928,7 +10032,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-af7830e373",
@@ -9977,7 +10081,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-66abe358e2",
@@ -10009,7 +10113,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-1f5acabb8a",
@@ -10041,7 +10145,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-18f2876e9e",
@@ -10067,7 +10171,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-aa35ff7d32",
@@ -10099,7 +10203,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-21fbb99f90",
@@ -10131,7 +10235,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-9eea43018d",
@@ -10163,7 +10267,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-2a0cd4ead1",
@@ -10189,7 +10293,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-c95fba1171",
@@ -10215,7 +10319,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-f5e789f476",
@@ -10241,7 +10345,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-b2ff036417",
@@ -10267,7 +10371,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-a5afdf43f8",
@@ -10293,7 +10397,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-952232b929",
@@ -10319,7 +10423,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-48cb0f86c1",
@@ -10345,7 +10449,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-9de1b69bd6",
@@ -10371,7 +10475,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-4ca141a55f",
@@ -10397,7 +10501,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-a88345134d",
@@ -10423,7 +10527,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-a2cc9277d2",
@@ -10449,7 +10553,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-ad28b93656",
@@ -10487,7 +10591,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-4f6d607ab5",
@@ -10525,7 +10629,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-abdcad8f0e",
@@ -10551,7 +10655,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-a245510b3f",
@@ -10583,7 +10687,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-ee7005cd59",
@@ -10615,7 +10719,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-255e6ded26",
@@ -10647,7 +10751,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-febadd5a2f",
@@ -10679,7 +10783,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-44c71cc1b0",
@@ -10711,7 +10815,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-d29d24d1cd",
@@ -10743,7 +10847,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-posso-circolare-f73decb696",
@@ -10775,7 +10879,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-posso-circolare-fc52653263",
@@ -10807,7 +10911,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-posso-circolare-f430807e84",
@@ -10833,7 +10937,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "diesel-euro5-posso-circolare-34d1c0ecdc",
@@ -10859,7 +10963,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-8c4d985b09",
@@ -10885,7 +10989,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-2f95c3feb4",
@@ -10911,7 +11015,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-13829ce0d5",
@@ -10966,7 +11070,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-66f3a181f4",
@@ -10992,7 +11096,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-1ec85c0c58",
@@ -11018,7 +11122,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-a95e1cd0ac",
@@ -11044,7 +11148,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-a312fe8b1f",
@@ -11070,7 +11174,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-91963f8c86",
@@ -11096,7 +11200,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-7a646da4e9",
@@ -11122,7 +11226,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-abc02c2d82",
@@ -11148,7 +11252,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-64c59cae02",
@@ -11174,7 +11278,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-85fc801cfc",
@@ -11200,7 +11304,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-91770547e1",
@@ -11226,7 +11330,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-9504733a11",
@@ -11252,7 +11356,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-12bc6fff98",
@@ -11278,7 +11382,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-205a3810a1",
@@ -11304,7 +11408,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-ad924db800",
@@ -11330,7 +11434,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-6ad31115c9",
@@ -11356,7 +11460,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-2065568439",
@@ -11382,7 +11486,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-99cda59146",
@@ -11408,7 +11512,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-ed78720c75",
@@ -11434,7 +11538,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-22b7157282",
@@ -11460,7 +11564,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-11c1eb0d0c",
@@ -11486,7 +11590,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-d101b1b27f",
@@ -11512,7 +11616,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-be7d09b3a3",
@@ -11538,7 +11642,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-a0d874a385",
@@ -11564,7 +11668,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-33db2c3c6e",
@@ -11590,7 +11694,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-6d29bb7b6e",
@@ -11622,7 +11726,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-5b5766e70b",
@@ -11648,7 +11752,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-692490c604",
@@ -11674,7 +11778,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-0806a927e6",
@@ -11700,7 +11804,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-aa87ad615d",
@@ -11726,7 +11830,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-2975e25914",
@@ -11752,7 +11856,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-6bff57bb90",
@@ -11778,7 +11882,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-bbdee3468c",
@@ -11804,7 +11908,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-4136a37d5a",
@@ -11830,7 +11934,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-9ecdf728b4",
@@ -11856,7 +11960,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-8d0acd48d8",
@@ -11929,7 +12033,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-5daadf1640",
@@ -12002,7 +12106,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-74499f5b04",
@@ -12075,7 +12179,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-96f52d6262",
@@ -12148,7 +12252,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-63d2b9f420",
@@ -12221,7 +12325,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-d82f26d5b3",
@@ -12294,7 +12398,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-257a7c8cff",
@@ -12320,7 +12424,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-5f5b311096",
@@ -12375,7 +12479,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-3cbcdab2d7",
@@ -12407,7 +12511,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "manovra-2027-4d9a1ef57f",
@@ -12433,7 +12537,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-45c865e2c8",
@@ -12475,7 +12579,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0da44c84bc",
@@ -12513,7 +12617,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-dced647128",
@@ -12551,7 +12655,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-2c0ece6264",
@@ -12589,7 +12693,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-b5173f5a3f",
@@ -12621,7 +12725,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-81d0763d27",
@@ -12653,7 +12757,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-3162c760e3",
@@ -12696,7 +12800,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-be74f614bf",
@@ -12728,7 +12832,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6d3d9cbe41",
@@ -12760,7 +12864,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-b82d243e4c",
@@ -12803,7 +12907,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-652ebd5798",
@@ -12835,7 +12939,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-9fd9f2ce36",
@@ -12854,7 +12958,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-7f90feba16",
@@ -12897,7 +13001,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-06b726347c",
@@ -12940,7 +13044,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-713a294ee5",
@@ -12966,7 +13070,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-db78e37ab6",
@@ -13065,7 +13169,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-667b4736ea",
@@ -13084,7 +13188,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-45a5588211",
@@ -13116,7 +13220,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-8f4c5d65c7",
@@ -13170,7 +13274,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-42c2677d4e",
@@ -13224,7 +13328,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-fbc88069ff",
@@ -13278,7 +13382,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-9fac759707",
@@ -13332,7 +13436,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d9638810e2",
@@ -13397,7 +13501,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-42fa3040e9",
@@ -13451,7 +13555,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-5e08f900d8",
@@ -13505,7 +13609,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e0ff6b5ab7",
@@ -13531,7 +13635,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-c2cc16d6d7",
@@ -13557,7 +13661,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-2ae7f10051",
@@ -13589,7 +13693,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-3c54c2176f",
@@ -13643,7 +13747,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-123c65a7c1",
@@ -13669,7 +13773,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-f11a547e92",
@@ -13701,7 +13805,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e30e94851b",
@@ -13733,7 +13837,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-ea95d4e1e3",
@@ -13776,7 +13880,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-57fc0954db",
@@ -13808,7 +13912,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-84ac2e8620",
@@ -13840,7 +13944,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d2a4cfa1b9",
@@ -13894,7 +13998,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d18bcfaf09",
@@ -13937,7 +14041,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6606bb5fee",
@@ -13991,7 +14095,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-530a414f4e",
@@ -14062,7 +14166,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-7833271bfe",
@@ -14105,7 +14209,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6efd70b3d5",
@@ -14137,7 +14241,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-cb18ddc686",
@@ -14163,7 +14267,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0a12da20f5",
@@ -14201,7 +14305,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0daf5aa13e",
@@ -14220,7 +14324,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-31c9fddbe5",
@@ -14269,7 +14373,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0ecfceb384",
@@ -14312,7 +14416,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6e707c1eae",
@@ -14350,7 +14454,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e376e808f2",
@@ -14388,7 +14492,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-1200ecf3e3",
@@ -14426,7 +14530,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-2b6995f560",
@@ -14458,7 +14562,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-aa306b8685",
@@ -14490,7 +14594,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-a25bd9780d",
@@ -14522,7 +14626,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-765459d838",
@@ -14554,7 +14658,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-fbf967be34",
@@ -14586,7 +14690,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-8163e906b1",
@@ -14618,7 +14722,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-f1db47e3cc",
@@ -14650,7 +14754,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-40ac8ec6af",
@@ -14682,7 +14786,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e6c7b48792",
@@ -14714,7 +14818,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-825704140b",
@@ -14751,7 +14855,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d65245d533",
@@ -14788,7 +14892,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-1400898a4b",
@@ -14814,7 +14918,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-4da086e225",
@@ -14840,7 +14944,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0200e92059",
@@ -14872,7 +14976,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0f910ea654",
@@ -14891,7 +14995,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-166c919594",
@@ -14910,7 +15014,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-5c9ab6c064",
@@ -14936,7 +15040,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-86cd271e9a",
@@ -14962,7 +15066,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0c691bdd0c",
@@ -14988,7 +15092,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-828378b8c5",
@@ -15014,7 +15118,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d26915ee53",
@@ -15040,7 +15144,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-4b2695cb08",
@@ -15066,37 +15170,63 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "bussola-completa-daf0acba39",
-      "testo": "I fermi dell'autotrasporto di ottobre 2026 in Sicilia, Calabria e Campania sono iniziative di imprese e associazioni di categoria. In Sicilia il fermo è stato revocato il 20/10, in Calabria e in Campania prosegue almeno fino al 27/10 (ANSA, 20 ottobre 2026).",
+      "id": "bussola-completa-da43f1be36",
+      "testo": "Secondo la delibera n. 26/322 della Commissione di garanzia (seduta del 22 ottobre 2026), in Sicilia e in Calabria il fermo dal 16 al 20/10 era stato proclamato da associazioni di categoria (Comitato Trasporto Siciliano; Fedralog Calabria); la prosecuzione oltre il 20/10 annunciata in Calabria e nel Catanese è stata giudicata illegittima dalla Commissione (preavviso e limite di 5 giorni). In Puglia e Campania le proteste, con blocchi stradali, risultavano di comitati spontanei di autotrasportatori e agricoltori, senza proclamazione formale.",
       "etichetta": "FATTO",
-      "certezza": null,
+      "certezza": "Alta",
       "nota_etichetta": null,
       "etichetta_ereditata": false,
       "contesto": null,
       "tema": "sciopero",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-daf0acba39",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-da43f1be36",
         "titolo": "Bilancia Civica · Bussola Diritti",
         "sezione": "3. Sciopero, fermo, serrata: le differenze"
       },
       "riferimenti_normativi": [],
       "fonti": [
         {
-          "titolo": "ANSA, 20 ottobre 2026",
-          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
-          "ufficiale": false,
+          "titolo": "delibera n. 26/322 della Commissione di garanzia",
+          "url": "https://www.cgsse.it/sites/default/files/2026-10/tmc_322_2026_1.pdf",
+          "ufficiale": true,
           "origine": "collegamento nel testo"
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
-      "id": "bussola-completa-db04a1d9e6",
-      "testo": "Non abbiamo trovato delibere della Commissione su questi fermi. Manca: accesso al sito della Commissione. Verifica: delibere su cgsse.it, appena raggiungibile.",
+      "id": "bussola-completa-e1999b7308",
+      "testo": "Al 22/10 la Commissione non aveva ricevuto comunicazioni formali delle revoche annunciate da Fedralog e da Aias Service (delibera n. 26/322).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "sciopero",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-e1999b7308",
+        "titolo": "Bilancia Civica · Bussola Diritti",
+        "sezione": "3. Sciopero, fermo, serrata: le differenze"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "delibera n. 26/322",
+          "url": "https://www.cgsse.it/sites/default/files/2026-10/tmc_322_2026_1.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "bussola-completa-b700410947",
+      "testo": "Se le revoche siano state poi comunicate formalmente. Verifica sulle delibere della Commissione di garanzia.",
       "etichetta": "DA VERIFICARE",
       "certezza": null,
       "nota_etichetta": null,
@@ -15104,21 +15234,83 @@
       "contesto": null,
       "tema": "sciopero",
       "pagina": {
-        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-db04a1d9e6",
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-b700410947",
         "titolo": "Bilancia Civica · Bussola Diritti",
         "sezione": "3. Sciopero, fermo, serrata: le differenze"
       },
       "riferimenti_normativi": [],
       "fonti": [
         {
-          "titolo": "cgsse.it",
-          "url": "https://www.cgsse.it",
+          "titolo": "delibere della Commissione di garanzia",
+          "url": "https://www.cgsse.it/attivita/delibere",
           "ufficiale": true,
           "origine": "collegamento nel testo"
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "bussola-completa-8de485ee69",
+      "testo": "Con la delibera n. 26/322 (seduta del 22 ottobre 2026) la Commissione ha segnalato al Ministro delle infrastrutture e dei trasporti e, per il suo tramite, alle Autorità territoriali competenti, ai sensi dell'art. 13, c. 1, lett. f, L. 146/1990, il fondato pericolo di pregiudizio ai diritti della persona e ha proposto di ordinare, con ordinanza ex art. 8 L. 146/1990, l'immediata cessazione dei blocchi stradali nei confronti dei singoli aderenti.",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "sciopero",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-8de485ee69",
+        "titolo": "Bilancia Civica · Bussola Diritti",
+        "sezione": "3. Sciopero, fermo, serrata: le differenze"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 8 L. 146/1990",
+          "atto": "L. 146/1990",
+          "articolo": "8"
+        },
+        {
+          "citazione": "art. 13, c. 1, lett. f, L. 146/1990",
+          "atto": "L. 146/1990",
+          "articolo": "13"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "delibera n. 26/322",
+          "url": "https://www.cgsse.it/sites/default/files/2026-10/tmc_322_2026_1.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "L. 12 giugno 1990, n. 146",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-06-12;146",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "bussola-completa-f2e34ea899",
+      "testo": "Se il Ministro o i Prefetti abbiano poi adottato ordinanze.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "sciopero",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-f2e34ea899",
+        "titolo": "Bilancia Civica · Bussola Diritti",
+        "sezione": "3. Sciopero, fermo, serrata: le differenze"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [],
+      "senza_fonte_collegata": true,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-9e53241494",
@@ -15144,7 +15336,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-72615418a0",
@@ -15176,7 +15368,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-a06350cd7c",
@@ -15224,7 +15416,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e90b453ca8",
@@ -15256,7 +15448,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-3cbaa6fe4f",
@@ -15314,7 +15506,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-1d0b5bc4fb",
@@ -15346,7 +15538,105 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "bussola-completa-eb76a76bc3",
+      "testo": "Davanti alla Corte costituzionale è pendente una questione sollevata dal Tribunale di Modena (ordinanze nn. 64, 65 e 66 del 2026, del 19 febbraio 2026) sulla pena minima dell'art. 583-quater, primo comma, c.p. (oggi la pena minima è di due anni; il Tribunale chiede che sia di otto mesi), in riferimento agli artt. 3 e 27, terzo comma, Cost. La questione era iscritta all'ordine dei lavori della camera di consiglio del 2 novembre 2026 (agenda dei lavori della Corte, comunicato del 30 ottobre 2026).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "generale",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-eb76a76bc3",
+        "titolo": "Bilancia Civica · Bussola Diritti",
+        "sezione": "❌ Reato (condotte punibili)"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 583-quater, primo comma, c.p.",
+          "atto": "Codice penale",
+          "articolo": "583-quater"
+        },
+        {
+          "citazione": "artt. 3 e 27, terzo comma, Cost.",
+          "atto": "Costituzione",
+          "articolo": "3"
+        },
+        {
+          "citazione": "artt. 3 e 27, terzo comma, Cost.",
+          "atto": "Costituzione",
+          "articolo": "27"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "64",
+          "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00079&atto.dataPubblicazioneGazzetta=2026-05-06",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "65",
+          "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00080&atto.dataPubblicazioneGazzetta=2026-05-06",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "66",
+          "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00081&atto.dataPubblicazioneGazzetta=2026-05-06",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "agenda dei lavori della Corte, comunicato del 30 ottobre 2026",
+          "url": "https://www.cortecostituzionale.it/uploads/release/6ae47a7f3357d.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "bussola-completa-5883416a08",
+      "testo": "Se l'esame si sia svolto il 2 novembre 2026 o sia stato rinviato, la decisione e il suo effetto. Verifica sui comunicati stampa della Corte costituzionale.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "generale",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/bussola-completa.html#af-bussola-completa-5883416a08",
+        "titolo": "Bilancia Civica · Bussola Diritti",
+        "sezione": "❌ Reato (condotte punibili)"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "comunicati stampa della Corte costituzionale",
+          "url": "https://www.cortecostituzionale.it/comunicati-stampa",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-b3e56c1569",
@@ -15378,7 +15668,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-a6a9ccdfec",
@@ -15410,7 +15700,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-23e02a4289",
@@ -15454,7 +15744,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0edb96b0dc",
@@ -15497,7 +15787,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-24fa7f23ab",
@@ -15529,7 +15819,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e516417bb8",
@@ -15555,7 +15845,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-4f497cf046",
@@ -15581,7 +15871,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-07839e6c20",
@@ -15629,7 +15919,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-343ad923da",
@@ -15699,7 +15989,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-f31f7ac6c5",
@@ -15725,7 +16015,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6fef678fe3",
@@ -15751,7 +16041,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d503d9c125",
@@ -15770,7 +16060,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-01eecc3b30",
@@ -15819,7 +16109,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-ebc8b49c4e",
@@ -15867,7 +16157,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-cfb68428f4",
@@ -15899,7 +16189,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-e8e5403e5d",
@@ -15925,7 +16215,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-151fda765f",
@@ -15957,7 +16247,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-82e2460761",
@@ -15989,7 +16279,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6d76ac282f",
@@ -16027,7 +16317,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-9b48beda88",
@@ -16065,7 +16355,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-d8ae8c2dbe",
@@ -16103,7 +16393,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-5f0a042a86",
@@ -16141,7 +16431,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-6c2a60e066",
@@ -16167,7 +16457,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-35a0e96220",
@@ -16193,7 +16483,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-3a80157b9e",
@@ -16212,7 +16502,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-1de4350476",
@@ -16238,7 +16528,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-36eefef2d6",
@@ -16264,7 +16554,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0daae66e50",
@@ -16290,7 +16580,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-9be5cd6d93",
@@ -16316,7 +16606,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-afcc1aa99a",
@@ -16342,7 +16632,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-834aa2f4e4",
@@ -16361,7 +16651,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-88d48195b3",
@@ -16421,7 +16711,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-af1a412316",
@@ -16447,7 +16737,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-a71562d2bc",
@@ -16473,7 +16763,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-3bd2d1bbe8",
@@ -16492,7 +16782,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-7430bc2e53",
@@ -16518,7 +16808,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-1073289aa2",
@@ -16550,7 +16840,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-ddfc6f9fac",
@@ -16594,7 +16884,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-2f69977915",
@@ -16620,7 +16910,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-9bd93eabcd",
@@ -16669,7 +16959,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-ddbfb9d071",
@@ -16713,7 +17003,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-c5d0966426",
@@ -16745,7 +17035,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-0b215667be",
@@ -16783,7 +17073,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-ad7b0721a6",
@@ -16809,7 +17099,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "bussola-completa-10efb6614c",
@@ -16841,7 +17131,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-60ee8e1250",
@@ -16873,7 +17163,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-f89a30089b",
@@ -16911,7 +17201,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-d18a1f0ba5",
@@ -16982,7 +17272,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-f684f7a633",
@@ -17020,7 +17310,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-509b8713c3",
@@ -17046,7 +17336,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-3cb06838c7",
@@ -17072,7 +17362,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-a7f28386cd",
@@ -17120,7 +17410,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-3f0f6e5167",
@@ -17163,7 +17453,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-c322a1afb7",
@@ -17206,7 +17496,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-face9da946",
@@ -17255,7 +17545,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-bd90accac7",
@@ -17304,7 +17594,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-6e6784e9de",
@@ -17379,7 +17669,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-32e6cb2371",
@@ -17449,7 +17739,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-953a16840a",
@@ -17475,7 +17765,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-c367aa3f7b",
@@ -17501,7 +17791,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-efcfb1cf53",
@@ -17559,7 +17849,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-65d3a58467",
@@ -17617,7 +17907,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-641e01b9a5",
@@ -17666,7 +17956,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-5456ee97ae",
@@ -17709,7 +17999,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-ada495c189",
@@ -17741,7 +18031,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-c17af04cad",
@@ -17760,7 +18050,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-aeb3d15d31",
@@ -17808,7 +18098,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-6d7ff1dbad",
@@ -17827,7 +18117,7 @@
       "riferimenti_normativi": [],
       "fonti": [],
       "senza_fonte_collegata": true,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-14502d910e",
@@ -17886,7 +18176,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-461e07ba1b",
@@ -17918,7 +18208,105 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "analisi-dl-190-2026-eb76a76bc3",
+      "testo": "Davanti alla Corte costituzionale è pendente una questione sollevata dal Tribunale di Modena (ordinanze nn. 64, 65 e 66 del 2026, del 19 febbraio 2026) sulla pena minima dell'art. 583-quater, primo comma, c.p. (oggi la pena minima è di due anni; il Tribunale chiede che sia di otto mesi), in riferimento agli artt. 3 e 27, terzo comma, Cost. La questione era iscritta all'ordine dei lavori della camera di consiglio del 2 novembre 2026 (agenda dei lavori della Corte, comunicato del 30 ottobre 2026).",
+      "etichetta": "FATTO",
+      "certezza": "Alta",
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "decreto-sicurezza",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/analisi-dl-190-2026.html#af-analisi-dl-190-2026-eb76a76bc3",
+        "titolo": "Bilancia Civica — Analisi del D.L. 190/2026 e scheda autotrasporto (v0.2)",
+        "sezione": "2.4 Tabella: protetto / illecito amministrativo / reato"
+      },
+      "riferimenti_normativi": [
+        {
+          "citazione": "art. 583-quater, primo comma, c.p.",
+          "atto": "Codice penale",
+          "articolo": "583-quater"
+        },
+        {
+          "citazione": "artt. 3 e 27, terzo comma, Cost.",
+          "atto": "Costituzione",
+          "articolo": "3"
+        },
+        {
+          "citazione": "artt. 3 e 27, terzo comma, Cost.",
+          "atto": "Costituzione",
+          "articolo": "27"
+        }
+      ],
+      "fonti": [
+        {
+          "titolo": "64",
+          "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00079&atto.dataPubblicazioneGazzetta=2026-05-06",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "65",
+          "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00080&atto.dataPubblicazioneGazzetta=2026-05-06",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "66",
+          "url": "https://www.gazzettaufficiale.it/atto/corte_costituzionale/caricaDettaglioAtto/originario?atto.codiceRedazionale=26C00081&atto.dataPubblicazioneGazzetta=2026-05-06",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "agenda dei lavori della Corte, comunicato del 30 ottobre 2026",
+          "url": "https://www.cortecostituzionale.it/uploads/release/6ae47a7f3357d.pdf",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        },
+        {
+          "titolo": "Codice penale (R.D. 1398/1930)",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        },
+        {
+          "titolo": "Costituzione della Repubblica italiana",
+          "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27",
+          "ufficiale": true,
+          "origine": "riferimento normativo citato"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
+    },
+    {
+      "id": "analisi-dl-190-2026-5883416a08",
+      "testo": "Se l'esame si sia svolto il 2 novembre 2026 o sia stato rinviato, la decisione e il suo effetto. Verifica sui comunicati stampa della Corte costituzionale.",
+      "etichetta": "DA VERIFICARE",
+      "certezza": null,
+      "nota_etichetta": null,
+      "etichetta_ereditata": false,
+      "contesto": null,
+      "tema": "decreto-sicurezza",
+      "pagina": {
+        "url": "https://bilanciacivica.github.io/bilancia-civica/analisi-dl-190-2026.html#af-analisi-dl-190-2026-5883416a08",
+        "titolo": "Bilancia Civica — Analisi del D.L. 190/2026 e scheda autotrasporto (v0.2)",
+        "sezione": "2.4 Tabella: protetto / illecito amministrativo / reato"
+      },
+      "riferimenti_normativi": [],
+      "fonti": [
+        {
+          "titolo": "comunicati stampa della Corte costituzionale",
+          "url": "https://www.cortecostituzionale.it/comunicati-stampa",
+          "ufficiale": true,
+          "origine": "collegamento nel testo"
+        }
+      ],
+      "senza_fonte_collegata": false,
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-75e234c1dd",
@@ -17950,7 +18338,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-7059eefe64",
@@ -17999,7 +18387,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-dd5795e39d",
@@ -18025,7 +18413,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     },
     {
       "id": "analisi-dl-190-2026-6b60b621ff",
@@ -18051,7 +18439,7 @@
         }
       ],
       "senza_fonte_collegata": false,
-      "data_aggiornamento": "2026-10-30T08:54:00+01:00"
+      "data_aggiornamento": "2026-11-03T20:46:00+01:00"
     }
   ]
 }
