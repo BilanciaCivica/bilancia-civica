@@ -4,7 +4,7 @@ descrizione: A che punto sono gli atti seguiti da Bilancia Civica: decreto sicur
 ---
 # Stato degli atti seguiti
 
-*Situazione verificata al 9/11/2026, ore 22:20 (ora di Roma) per il bollo auto 2027 (D.L. 162/2026), il diesel Euro 5 (D.L. 167/2026) e la legge di bilancio; al 3/11/2026, ore 20:45, per il decreto sicurezza; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13, tranne la frase sull'emendamento 1.100, verificata al 30/10/2026, ore 08:15. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
+*Situazione verificata al 9/11/2026, ore 23:00 (ora di Roma) per il bollo auto 2027 (D.L. 162/2026), il diesel Euro 5 (D.L. 167/2026) e la legge di bilancio; al 3/11/2026, ore 20:45, per il decreto sicurezza; per gli aiuti all'autotrasporto, al 24/10/2026, ore 10:13, tranne la frase sull'emendamento 1.100, verificata al 30/10/2026, ore 08:15. Questa pagina si aggiorna a mano quando cambia lo stato di un atto; ogni modifica resta visibile nella cronologia del repository.*
 
 ::: inbreve
 **In breve**
