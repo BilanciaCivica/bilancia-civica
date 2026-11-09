@@ -185,8 +185,8 @@ NOVITA = [
      "stato": "**A che punto è:** il decreto è in vigore. Va convertito in legge entro il **16/11/2026** "
               "(60 giorni dalla pubblicazione, [art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77); [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). "
               f"Il 5/11/2026 l'Aula della Camera ha approvato, con 127 voti favorevoli, 38 contrari e 49 astenuti, "
-              f"il disegno di legge che converte il decreto con modificazioni (AC 3106-A) "
-              f"([resoconto sommario della seduta n. 739]({RESOCONTO_739}); "
+              f"il disegno di legge che converte il decreto con modificazioni (AC 3106-A; "
+              f"[resoconto sommario della seduta n. 739]({RESOCONTO_739}); "
               f"[resoconto stenografico, votazione n. 14]({STENO_739})); il testo è stato trasmesso al Senato "
               f"come AS 2085 ([scheda della Camera]({SCHEDA_3106}); [dati aperti del Senato](https://dati.senato.it/sparql)). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
