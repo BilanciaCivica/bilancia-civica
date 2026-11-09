@@ -160,6 +160,8 @@ SCHEDA_3106 = "https://www.camera.it/leg19/126?idDocumento=3106&leg=19"
 SCHEDA_3119 = "https://www.camera.it/leg19/126?leg=19&idDocumento=3119"
 SCHEDA_3174 = "https://www.camera.it/leg19/126?idDocumento=3174&leg=19"
 SCHEDA_3174BIS = "https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19"
+TESTO_3174BIS = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760")
+TESTO_3106A = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3106_A.19PDL0215620")
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
@@ -173,7 +175,8 @@ NOVITA = [
      "stato": "**A che punto è:** l'**AC 3174-bis** è assegnato alla V Commissione (Bilancio); va approvato dal Parlamento "
               "entro il **31/12/2026** "
               f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); "
-              "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81)). [FATTO · Alta]",
+              "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
+              "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
      "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
     {"data": "9/11/2026", "titolo": "Bollo auto 2027",
      "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
@@ -181,9 +184,10 @@ NOVITA = [
                "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
      "stato": "**A che punto è:** il decreto è in vigore. Va convertito in legge entro il **16/11/2026** "
               "(60 giorni dalla pubblicazione, [art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77); [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). "
-              f"Il 5/11/2026 l'Aula della Camera ha approvato il disegno di legge di conversione (AC 3106-A), con modificazioni, "
-              f"con 127 voti favorevoli e 38 contrari ([resoconto sommario della seduta n. 739]({RESOCONTO_739}); "
-              f"[elenco delle votazioni del resoconto stenografico]({STENO_739})); il testo è stato trasmesso al Senato "
+              f"Il 5/11/2026 l'Aula della Camera ha approvato, con 127 voti favorevoli, 38 contrari e 49 astenuti, "
+              f"il disegno di legge che converte il decreto con modificazioni (AC 3106-A) "
+              f"([resoconto sommario della seduta n. 739]({RESOCONTO_739}); "
+              f"[resoconto stenografico, votazione n. 14]({STENO_739})); il testo è stato trasmesso al Senato "
               f"come AS 2085 ([scheda della Camera]({SCHEDA_3106}); [dati aperti del Senato](https://dati.senato.it/sparql)). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
     {"data": "9/11/2026", "titolo": "Diesel Euro 5",

@@ -16,7 +16,7 @@ descrizione: Le misure della legge di bilancio 2027 annunciate dal Governo il 28
 - Il Consiglio dei ministri ha approvato il disegno di legge di bilancio il 28/10/2026 ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta]
 - Secondo il Governo la manovra vale «circa 26 miliardi di euro nel 2027 e 27 miliardi nel 2028» ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta: è quanto afferma il Governo]
 - Il Parlamento deve approvare la legge di bilancio entro il **31 dicembre 2026**; altrimenti serve una legge di «esercizio provvisorio» ([art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); [art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). Vedi [Come diventa legge](#come-diventa-legge). [FATTO · Alta]
-- Il disegno di legge è stato presentato alla Camera il 30/10/2026 come **AC 3174**; il 4/11/2026, dopo lo stralcio, l'esame prosegue sull'**AC 3174-bis**, assegnato alla V Commissione (Bilancio) ([scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)). [FATTO · Alta]
+- Il disegno di legge è stato presentato alla Camera il 30/10/2026 come **AC 3174**; il 4/11/2026, dopo lo stralcio delle disposizioni estranee all'oggetto (art. 120, c. 2, Reg. Camera), l'esame prosegue sull'**AC 3174-bis**, assegnato alla V Commissione (Bilancio); le parti stralciate sono gli AC 3174-ter, 3174-quater e 3174-quinquies ([scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)). [FATTO · Alta]
 - [DA VERIFICARE] Le misure qui sotto restano da verificare finché non sono confrontate con il testo dell'AC 3174-bis. Manca: lettura articolo per articolo. Verifica: [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19).
 :::
 
@@ -45,7 +45,7 @@ descrizione: Le misure della legge di bilancio 2027 annunciate dal Governo il 28
 
 ## Auto e moto
 
-[DA VERIFICARE] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) annuncia che «diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli». Senza il testo non sappiamo requisiti, decorrenza e costo. Manca: testo e relazione tecnica. Verifica: camera.it e senato.it. L'esenzione già prevista per il 2027 è spiegata in [Bollo auto 2027: chi è esente](bollo-auto.html).
+[FATTO · Alta] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) annuncia che «diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli»; nel testo presentato è l'[art. 3](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) dell'**AC 3174-bis**, che decorre dal 1° gennaio 2027 e abroga l'art. 2 del D.L. 162/2026 (c. 9). È una proposta, non ancora legge ([scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19); [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760)). [DA VERIFICARE] Il confronto punto per punto con l'art. 2 del D.L. 162/2026 e il costo complessivo. Verifica: [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) e relazione tecnica. L'esenzione oggi in vigore per i pagamenti del 2027 è spiegata in [Bollo auto 2027: chi è esente](bollo-auto.html).
 
 ## Famiglie
 
@@ -111,7 +111,7 @@ Un numero negativo è una spesa o un taglio di tasse; un numero positivo è una 
 |---|---|
 | Approvazione del Consiglio dei ministri | ✅ 28/10/2026 |
 | Presentazione al Parlamento | ✅ AC 3174, presentato alla Camera il 30/10/2026; dal 4/11/2026 l'esame prosegue sull'AC 3174-bis ([scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)) |
-| Esame e voto della prima Camera | ⏳ AC 3174-bis assegnato alla V Commissione (Bilancio) in sede referente il 4/11/2026 |
+| Esame e voto della prima Camera | ⏳ AC 3174-bis assegnato alla V Commissione (Bilancio) in sede referente il 4/11/2026 ([scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)) |
 | Esame e voto della seconda Camera | ⏳ da fare, dopo il voto della Camera |
 | Approvazione definitiva | ⏳ entro il **31/12/2026** |
 | Pubblicazione in Gazzetta Ufficiale | ⏳ da fare |
@@ -121,7 +121,7 @@ Un numero negativo è una spesa o un taglio di tasse; un numero positivo è una 
 
 [FATTO · Alta] L'anno finanziario dello Stato va dal 1° gennaio al 31 dicembre ([art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). Le Camere approvano ogni anno con legge il bilancio presentato dal Governo; se non lo approvano in tempo, serve una legge di «esercizio provvisorio», per non più di quattro mesi in tutto ([art. 81, cc. 4-5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81)).
 
-[FATTO · Alta] La legge prevede che il Governo presenti il disegno di legge di bilancio entro il 20 ottobre (art. 7, c. 2, L. 196/2009); quest'anno il Consiglio dei ministri lo ha approvato il 28 ottobre e lo ha presentato alla Camera il 30 ottobre.
+[FATTO · Alta] La legge prevede che il Governo presenti il disegno di legge di bilancio entro il 20 ottobre (art. 7, c. 2, L. 196/2009); quest'anno il Consiglio dei ministri lo ha approvato il 28 ottobre e il Governo lo ha presentato alla Camera il 30 ottobre.
 
 [DA VERIFICARE] Calendario delle audizioni e termine per gli emendamenti in V Commissione. Verifica: bollettini della V Commissione su camera.it.
 
