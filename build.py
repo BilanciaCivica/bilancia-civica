@@ -163,6 +163,18 @@ SCHEDA_3174BIS = "https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19"
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
+    {"data": "9/11/2026", "titolo": "Manovra 2027",
+     "novita": "**Cosa cambia:** il disegno di legge di bilancio 2027-2029 è all'esame della Camera: presentato il 30/10/2026 "
+               "come **AC 3174**; il 4/11/2026, dopo lo stralcio di alcune disposizioni, l'esame prosegue sull'**AC 3174-bis**, "
+               "assegnato alla V Commissione (Bilancio) in sede referente "
+               f"([scheda AC 3174]({SCHEDA_3174}); [scheda AC 3174-bis]({SCHEDA_3174BIS}); "
+               "[comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). "
+               "Le misure restano proposte, non ancora legge. [FATTO · Alta]",
+     "stato": "**A che punto è:** l'**AC 3174-bis** è assegnato alla V Commissione (Bilancio); va approvato dal Parlamento "
+              "entro il **31/12/2026** "
+              f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); "
+              "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81)). [FATTO · Alta]",
+     "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
     {"data": "9/11/2026", "titolo": "Bollo auto 2027",
      "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
                "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
@@ -184,15 +196,6 @@ NOVITA = [
               f"[scheda della Camera]({SCHEDA_3119})). [FATTO · Alta]",
      "link": [("Cosa cambia per i diesel Euro 5", "diesel-euro5.html"),
               ("Bussola: la mia auto può circolare?", "diesel-euro5-posso-circolare.html")]},
-    {"data": "9/11/2026", "titolo": "Manovra 2027",
-     "novita": "**Cosa cambia:** per ora nulla di già legge. Il disegno di legge di bilancio 2027-2029 è all'esame della Camera: "
-               "le misure restano proposte, non ancora legge "
-               "([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta]",
-     "stato": "**A che punto è:** presentato alla Camera il 30/10/2026 come **AC 3174** "
-              f"([scheda della Camera]({SCHEDA_3174})); il 4/11/2026, dopo lo stralcio di alcune disposizioni, l'esame prosegue "
-              f"sul testo **AC 3174-bis**, assegnato alla V Commissione (Bilancio) in sede referente "
-              f"([scheda AC 3174-bis]({SCHEDA_3174BIS})). Va approvato entro il **31/12/2026**. [FATTO · Alta]",
-     "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
 ]
 
 # Griglia «Tutti i temi»: ordine fisso (decreto sicurezza per primo). «aggiornato»
