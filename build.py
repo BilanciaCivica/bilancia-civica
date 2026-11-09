@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "3/11/2026, ore 20:46 (ora di Roma)"
+AGGIORNATO = "9/11/2026, ore 22:20 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -153,34 +153,45 @@ OG_ALT = ("Bilancia Civica, «Ogni decreto, pesato sulla tua vita». Decreto sic
 # TEMI_HOME sono solo descrizioni di navigazione, senza affermazioni.
 # ---------------------------------------------------------------------------
 RESOCONTO_737 = "https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario"
+RESOCONTO_739 = "https://www.camera.it/leg19/410?idSeduta=0739&tipo=sommario"
+RESOCONTO_741 = "https://www.camera.it/leg19/410?idSeduta=0741&tipo=sommario"
+STENO_739 = "https://www.camera.it/leg19/410?idSeduta=0739&tipo=stenografico"
+SCHEDA_3106 = "https://www.camera.it/leg19/126?idDocumento=3106&leg=19"
+SCHEDA_3119 = "https://www.camera.it/leg19/126?leg=19&idDocumento=3119"
+SCHEDA_3174 = "https://www.camera.it/leg19/126?idDocumento=3174&leg=19"
+SCHEDA_3174BIS = "https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19"
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
-    {"data": "29/10/2026", "titolo": "Bollo auto 2027",
+    {"data": "9/11/2026", "titolo": "Bollo auto 2027",
      "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
                "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
                "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. Va convertito in legge entro il **16/11/2026** "
-              "(60 giorni dalla pubblicazione, [art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77); [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)); "
-              f"il 3/11/2026 l'Aula della Camera ha svolto la discussione generale ([resoconto della Camera]({RESOCONTO_737})). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore. Va convertito in legge entro il **16/11/2026** "
+              "(60 giorni dalla pubblicazione, [art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77); [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). "
+              f"Il 5/11/2026 l'Aula della Camera ha approvato il disegno di legge di conversione (AC 3106-A), con modificazioni, "
+              f"con 127 voti favorevoli e 38 contrari ([resoconto sommario della seduta n. 739]({RESOCONTO_739}); "
+              f"[elenco delle votazioni del resoconto stenografico]({STENO_739})); il testo è stato trasmesso al Senato "
+              f"come AS 2085 ([scheda della Camera]({SCHEDA_3106}); [dati aperti del Senato](https://dati.senato.it/sparql)). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
-    {"data": "30/10/2026", "titolo": "Diesel Euro 5",
+    {"data": "9/11/2026", "titolo": "Diesel Euro 5",
      "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
                "di inserire nei piani per la qualità dell'aria il blocco strutturale dei diesel Euro 5, salvo misure "
                "compensative ([art. 1 D.L. 167/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. L'Aula della Camera ha in calendario "
-              "la discussione dal 9/11/2026; il decreto va convertito in legge entro il **27/11/2026** "
-              f"([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. Va convertito in legge entro il **27/11/2026**. "
+              f"Il 9/11/2026 l'Aula della Camera ha svolto la discussione generale sull'AC 3119 e ha rinviato il seguito "
+              f"ad altra seduta ([resoconto sommario della seduta n. 741]({RESOCONTO_741}); "
+              f"[scheda della Camera]({SCHEDA_3119})). [FATTO · Alta]",
      "link": [("Cosa cambia per i diesel Euro 5", "diesel-euro5.html"),
               ("Bussola: la mia auto può circolare?", "diesel-euro5-posso-circolare.html")]},
-    {"data": "30/10/2026", "titolo": "Manovra 2027",
-     "novita": "**Cosa cambia:** per ora nulla. Il 28/10/2026 il Consiglio dei ministri ha approvato il disegno di legge di "
-               "bilancio per il 2027 (con il bilancio pluriennale 2027-2029): le misure sono proposte, non ancora legge "
+    {"data": "9/11/2026", "titolo": "Manovra 2027",
+     "novita": "**Cosa cambia:** per ora nulla di già legge. Il disegno di legge di bilancio 2027-2029 è all'esame della Camera: "
+               "le misure restano proposte, non ancora legge "
                "([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il disegno di legge è stato approvato dal Consiglio dei ministri; al 30/10/2026 non risulta "
-              "ancora presentato né alla Camera "
-              "([camera.it](https://www.camera.it/leg19/126)) né al Senato ([dati aperti del Senato](https://dati.senato.it/sparql)). "
-              "[FATTO · Media: i dati aperti del Senato possono avere qualche ora di ritardo]",
+     "stato": "**A che punto è:** presentato alla Camera il 30/10/2026 come **AC 3174** "
+              f"([scheda della Camera]({SCHEDA_3174})); il 4/11/2026, dopo lo stralcio di alcune disposizioni, l'esame prosegue "
+              f"sul testo **AC 3174-bis**, assegnato alla V Commissione (Bilancio) in sede referente "
+              f"([scheda AC 3174-bis]({SCHEDA_3174BIS})). Va approvato entro il **31/12/2026**. [FATTO · Alta]",
      "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
 ]
 
@@ -194,11 +205,11 @@ TEMI_HOME = [
     ("✊", "Sciopero", "Preavviso, servizi pubblici essenziali, settore privato, precettazione e autotrasporto.",
      "sciopero.html", "24/10/2026"),
     ("🚗", "Bollo auto 2027", "Chi può essere esente secondo il D.L. 162/2026: requisiti, più veicoli e punti aperti.",
-     "bollo-auto.html", "3/11/2026"),
+     "bollo-auto.html", "9/11/2026"),
     ("⛽", "Diesel Euro 5", "Il rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali, Regione per Regione.",
-     "diesel-euro5.html", "30/10/2026"),
+     "diesel-euro5.html", "9/11/2026"),
     ("💶", "Manovra 2027", "Le misure annunciate dal Governo, area per area: non ancora legge.",
-     "manovra-2027.html", "30/10/2026"),
+     "manovra-2027.html", "9/11/2026"),
     ("📍", "Presidi", "Preavviso al questore, prescrizioni e sanzioni, passo per passo.",
      "presidio.html", "25/10/2026"),
     ("📘", "Diritti e regole", "Riunione, manifestazione e sciopero: cosa è protetto e cosa è punibile.",
@@ -211,10 +222,11 @@ TEMI_HOME = [
 
 # «A che punto sono le leggi»: prossime scadenze, in ordine di data (dalla pagina Stato degli atti).
 SCADENZE = [
-    "**9 novembre 2026** · Diesel Euro 5 (D.L. 167/2026): l'Aula della Camera ha in calendario la discussione; "
-    f"conversione in legge entro il 27/11/2026 ([calendario della Camera]({CALENDARIO_CAMERA})). [FATTO · Alta]",
-    "**16 novembre 2026** · Bollo auto 2027 (D.L. 162/2026): termine per la conversione in legge; la discussione "
-    f"generale nell'Aula della Camera si è svolta il 3/11/2026 ([resoconto della Camera]({RESOCONTO_737})). [FATTO · Alta]",
+    "**16 novembre 2026** · Bollo auto 2027 (D.L. 162/2026): termine per la conversione in legge; il 5/11/2026 "
+    f"l'Aula della Camera ha approvato il disegno di legge di conversione e l'ha trasmesso al Senato "
+    f"([resoconto sommario della seduta n. 739]({RESOCONTO_739}); [scheda della Camera]({SCHEDA_3106})). [FATTO · Alta]",
+    "**27 novembre 2026** · Diesel Euro 5 (D.L. 167/2026): termine per la conversione in legge; il 9/11/2026 "
+    f"l'Aula della Camera ha svolto la discussione generale ([resoconto sommario della seduta n. 741]({RESOCONTO_741})). [FATTO · Alta]",
     "**21 dicembre 2026** · Decreto sicurezza (D.L. 190/2026): termine per la conversione in legge, altrimenti il "
     "decreto perde efficacia dall'inizio ([Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG); "
     "[art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)). [FATTO · Alta]",

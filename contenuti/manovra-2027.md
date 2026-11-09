@@ -4,10 +4,10 @@ descrizione: Le misure della legge di bilancio 2027 annunciate dal Governo il 28
 ---
 # Manovra 2027: cosa è stato annunciato
 
-*Disegno di legge di bilancio 2027-2029, approvato dal Consiglio dei ministri il 28/10/2026. Situazione verificata al 30/10/2026: il testo non risulta ancora presentato né alla Camera né al Senato.*
+*Disegno di legge di bilancio 2027-2029, approvato dal Consiglio dei ministri il 28/10/2026 e presentato alla Camera il 30/10/2026 (AC 3174; dopo lo stralcio del 4/11/2026: AC 3174-bis). Situazione verificata al 9/11/2026.*
 
 ::: attenzione
-**Sono annunci, non ancora legge.** Qui riportiamo le parole del Governo nel [comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973). Le novità annunciate non sono ancora in vigore e per ora non c'è nessuna domanda da fare. Alcune misure, secondo il comunicato, confermano o prorogano agevolazioni che esistono già: per quelle valgono le regole oggi in vigore, con le loro scadenze. Il Parlamento può cambiarle tutte. Quando il testo arriverà in Parlamento, aggiorneremo la pagina.
+**Sono annunci, non ancora legge.** Qui riportiamo le parole del Governo nel [comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973). Le novità annunciate non sono ancora in vigore. Alcune misure, secondo il comunicato, confermano o prorogano agevolazioni che esistono già: per quelle valgono le regole oggi in vigore, con le loro scadenze. Il Parlamento può cambiarle tutte. Il testo è all'esame della Camera (**AC 3174-bis**); finché non confrontiamo articolo per articolo le singole misure restano da verificare.
 :::
 
 ::: inbreve
@@ -16,7 +16,8 @@ descrizione: Le misure della legge di bilancio 2027 annunciate dal Governo il 28
 - Il Consiglio dei ministri ha approvato il disegno di legge di bilancio il 28/10/2026 ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta]
 - Secondo il Governo la manovra vale «circa 26 miliardi di euro nel 2027 e 27 miliardi nel 2028» ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). [FATTO · Alta: è quanto afferma il Governo]
 - Il Parlamento deve approvare la legge di bilancio entro il **31 dicembre 2026**; altrimenti serve una legge di «esercizio provvisorio» ([art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); [art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). Vedi [Come diventa legge](#come-diventa-legge). [FATTO · Alta]
-- [DA VERIFICARE] Le misure qui sotto restano da verificare finché non c'è il testo. Manca: testo del disegno di legge e relazione tecnica. Verifica: [camera.it](https://www.camera.it/leg19/126) e senato.it dopo la presentazione.
+- Il disegno di legge è stato presentato alla Camera il 30/10/2026 come **AC 3174**; il 4/11/2026, dopo lo stralcio, l'esame prosegue sull'**AC 3174-bis**, assegnato alla V Commissione (Bilancio) ([scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)). [FATTO · Alta]
+- [DA VERIFICARE] Le misure qui sotto restano da verificare finché non sono confrontate con il testo dell'AC 3174-bis. Manca: lettura articolo per articolo. Verifica: [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19).
 :::
 
 ## Tasse e lavoro
@@ -109,22 +110,20 @@ Un numero negativo è una spesa o un taglio di tasse; un numero positivo è una 
 | Passo | Stato |
 |---|---|
 | Approvazione del Consiglio dei ministri | ✅ 28/10/2026 |
-| Presentazione al Parlamento | ⏳ al 30 ottobre 2026 non risulta presentato né alla Camera né al Senato |
-| Esame e voto della prima Camera | ⏳ da fare |
-| Esame e voto della seconda Camera | ⏳ da fare |
+| Presentazione al Parlamento | ✅ AC 3174, presentato alla Camera il 30/10/2026; dal 4/11/2026 l'esame prosegue sull'AC 3174-bis ([scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)) |
+| Esame e voto della prima Camera | ⏳ AC 3174-bis assegnato alla V Commissione (Bilancio) in sede referente il 4/11/2026 |
+| Esame e voto della seconda Camera | ⏳ da fare, dopo il voto della Camera |
 | Approvazione definitiva | ⏳ entro il **31/12/2026** |
 | Pubblicazione in Gazzetta Ufficiale | ⏳ da fare |
 
 <!-- dati: intestazione-precedente -->
-[FATTO · Alta] per le righe con data ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973); [camera.it](https://www.camera.it/leg19/126); [dati aperti del Senato](https://dati.senato.it/sparql); scadenza: [art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81) e [art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)).
-
-[FATTO · Media: i dati aperti del Senato possono avere qualche ora di ritardo] Al Senato, nei [dati aperti ufficiali](https://dati.senato.it/sparql), l'ultimo disegno di legge al 30/10/2026 è l'AS 2082, presentato il 29/10/2026; non c'è un disegno di legge di bilancio per il 2027.
+[FATTO · Alta] per le righe con data ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973); [scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19); scadenza: [art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81) e [art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)).
 
 [FATTO · Alta] L'anno finanziario dello Stato va dal 1° gennaio al 31 dicembre ([art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). Le Camere approvano ogni anno con legge il bilancio presentato dal Governo; se non lo approvano in tempo, serve una legge di «esercizio provvisorio», per non più di quattro mesi in tutto ([art. 81, cc. 4-5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81)).
 
-[FATTO · Alta] La legge prevede che il Governo presenti il disegno di legge di bilancio entro il 20 ottobre (art. 7, c. 2, L. 196/2009); quest'anno il Consiglio dei ministri lo ha approvato il 28 ottobre.
+[FATTO · Alta] La legge prevede che il Governo presenti il disegno di legge di bilancio entro il 20 ottobre (art. 7, c. 2, L. 196/2009); quest'anno il Consiglio dei ministri lo ha approvato il 28 ottobre e lo ha presentato alla Camera il 30 ottobre.
 
-[DA VERIFICARE] Da quale Camera parte l'esame e con quale numero (AC o AS). Manca: la presentazione formale. Verifica: [camera.it](https://www.camera.it/leg19/126) e senato.it.
+[DA VERIFICARE] Calendario delle audizioni e termine per gli emendamenti in V Commissione. Verifica: bollettini della V Commissione su camera.it.
 
 Segui lo stato: [Stato degli atti](stato.html#legge-di-bilancio-2027).
 

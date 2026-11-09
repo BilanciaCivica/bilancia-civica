@@ -4,7 +4,7 @@ descrizione: Il D.L. 167/2026 rinvia al 1° ottobre 2027 l'obbligo di inserire i
 ---
 # Diesel Euro 5: cosa cambia con il rinvio al 2027
 
-*Decreto-legge 28 settembre 2026, n. 167, art. 1. Situazione verificata al 30/10/2026 su Normattiva, Gazzetta Ufficiale, camera.it e siti delle Regioni. Il decreto deve essere convertito in legge entro il 27/11/2026 e il Parlamento può modificarlo.*
+*Decreto-legge 28 settembre 2026, n. 167, art. 1. Situazione verificata al 9/11/2026 su Normattiva, Gazzetta Ufficiale, camera.it e siti delle Regioni. Il decreto deve essere convertito in legge entro il 27/11/2026 e il Parlamento può modificarlo.*
 
 ::: inbreve
 **In breve**
@@ -18,7 +18,7 @@ Ti riguarda? [La mia auto può circolare?](diesel-euro5-posso-circolare.html)
 :::
 
 ::: stato
-**A che punto è.** In vigore dal 29/09/2026 ([GU n. 225 del 28/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG)). Alla Camera è l'[AC 3119](https://www.camera.it/leg19/126?leg=19&idDocumento=3119), in esame nelle Commissioni riunite VIII (Ambiente) e IX (Trasporti); l'Aula della Camera ha in calendario la discussione dal 9/11/2026 ([calendario n. 44](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario)). Va convertito in legge entro il **27/11/2026**. [FATTO · Alta] Dettagli: [Stato degli atti](stato.html#diesel-euro-5--dl-28-settembre-2026-n-167).
+**A che punto è.** In vigore dal 29/09/2026 ([GU n. 225 del 28/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG)). Alla Camera è l'[AC 3119](https://www.camera.it/leg19/126?leg=19&idDocumento=3119): le Commissioni riunite hanno concluso l'esame (scheda: «In stato di relazione»); il 9/11/2026 l'Aula ha svolto la discussione generale e ha rinviato il seguito ad altra seduta ([resoconto sommario della seduta n. 741](https://www.camera.it/leg19/410?idSeduta=0741&tipo=sommario)). Va convertito in legge entro il **27/11/2026**. [FATTO · Alta] Dettagli: [Stato degli atti](stato.html#diesel-euro-5--dl-28-settembre-2026-n-167).
 :::
 
 ## Chi riguarda

@@ -5,7 +5,7 @@ indice: si
 ---
 # Bollo auto 2027: chi è esente
 
-*Decreto-legge 17 settembre 2026, n. 162, articolo 2. Situazione verificata al 29/10/2026 (ora di Roma); lo stato dell'esame alla Camera è aggiornato al 3/11/2026. Il decreto è in vigore, ma il Parlamento deve ancora convertirlo in legge e può modificarlo.*
+*Decreto-legge 17 settembre 2026, n. 162, articolo 2. Situazione verificata al 9/11/2026 (ora di Roma). Il decreto è in vigore; la Camera ha approvato la conversione il 5/11/2026 e il testo è al Senato. Va convertito in legge entro il 16/11/2026 e il Parlamento può ancora modificarlo.*
 
 ::: inbreve
 **In breve**
@@ -19,7 +19,7 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 :::
 
 ::: stato
-**A che punto è:** in vigore dal 18/09/2026 ([GU Serie Generale n. 216 del 17/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). Conversione in legge entro il **16/11/2026** (60 giorni, art. 77 Cost.). Il disegno di legge di conversione è l'**AC 3106**: la Commissione Finanze della Camera ha concluso l'esame il 28/10/2026 ([scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)); il 3/11/2026 l'Aula della Camera ha svolto la discussione generale e ha rinviato il seguito ad altra seduta ([resoconto sommario della seduta n. 737](https://www.camera.it/leg19/410?idSeduta=0737&tipo=sommario)). Dopo il voto della Camera il testo passa al Senato. [FATTO · Alta]
+**A che punto è:** in vigore dal 18/09/2026 ([GU Serie Generale n. 216 del 17/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). Conversione in legge entro il **16/11/2026** (60 giorni, art. 77 Cost.). Il 5/11/2026 l'Aula della Camera ha approvato il disegno di legge di conversione (**AC 3106-A**), con modificazioni, con 127 voti favorevoli e 38 contrari ([resoconto sommario della seduta n. 739](https://www.camera.it/leg19/410?idSeduta=0739&tipo=sommario); [elenco delle votazioni del resoconto stenografico](https://www.camera.it/leg19/410?idSeduta=0739&tipo=stenografico)); il testo è stato trasmesso al Senato come **AS 2085** ([scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19); [dati aperti del Senato](https://dati.senato.it/sparql)). Le modifiche approvate in Commissione riguardano Regioni a statuto speciale e copertura finanziaria, non i requisiti di chi è esente ([bollettini della VI Commissione](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)). [FATTO · Alta]
 :::
 
 ## Chi è esente
@@ -89,7 +89,7 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 
 [FATTO · Alta: è quanto afferma il Governo] Secondo il Governo, che lo scrive nel [comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) del 28/10/2026 sul disegno di legge di bilancio 2027: «Diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli».
 
-[DA VERIFICARE] È un **annuncio**: al 29/10/2026 il testo della legge di bilancio non risulta presentato al Parlamento. Requisiti, decorrenza e costo sono sconosciuti, e il Parlamento può modificarli. Manca: testo del disegno di legge di bilancio 2027 e relazione tecnica. Verifica: [camera.it](https://www.camera.it) e [senato.it](https://www.senato.it) dopo la presentazione.
+[DA VERIFICARE] È un **annuncio** del Governo: il disegno di legge di bilancio è ora l'**AC 3174-bis** ([scheda](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)), ma senza un confronto articolo per articolo non sappiamo requisiti, decorrenza e costo della misura «strutturale», e il Parlamento può modificarli. Manca: lettura del testo presentato. Verifica: [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19).
 
 ## Domande frequenti
 
