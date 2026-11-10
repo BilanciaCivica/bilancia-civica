@@ -97,7 +97,7 @@ SEO = {
                           "Il D.L. 167/2026 rinvia al 1° ottobre 2027 l'obbligo di inserire il blocco dei diesel Euro 5 nei piani di Piemonte, Lombardia, Veneto ed Emilia-Romagna."),
     "diesel-euro5-posso-circolare.html": ("Diesel Euro 5: la mia auto può circolare? · Bilancia Civica",
                                           "Quattro domande per orientarti sui blocchi dei diesel Euro 5 nell'inverno 2026-2027 dopo il D.L. 167/2026. Orientamento, non una risposta ufficiale."),
-    "manovra-2027.html": ("Manovra 2027: cosa è stato annunciato · Bilancia Civica",
+    "manovra-2027.html": ("Manovra 2027: annunci e testo del disegno di legge · Bilancia Civica",
                           "Le misure della legge di bilancio 2027 (AC 3174-bis): panoramica e schede su IRPEF, famiglie, pensioni, carta sanitaria e bollo. Proposta in esame, non ancora legge."),
     "manovra-irpef.html": ("IRPEF e regime forfetario nella manovra 2027 · Bilancia Civica",
                            "Cosa prevede l'art. 9 dell'AC 3174-bis su aliquote IRPEF 2027 e soglie del regime forfetario. Proposta in esame, non ancora legge."),

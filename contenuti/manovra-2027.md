@@ -1,13 +1,13 @@
 ---
-titolo: Manovra 2027: cosa è stato annunciato
-descrizione: Le misure della legge di bilancio 2027 annunciate dal Governo il 28/10/2026, divise per area. Sono annunci, non ancora legge: decide il Parlamento.
+titolo: Manovra 2027: annunci e testo del disegno di legge
+descrizione: La legge di bilancio 2027 per aree: annunci del Governo e, per alcune misure, il testo dell'AC 3174-bis. Non è ancora legge: decide il Parlamento.
 ---
-# Manovra 2027: cosa è stato annunciato
+# Manovra 2027: annunci e testo del disegno di legge
 
 *Disegno di legge di bilancio 2027-2029, approvato dal Consiglio dei ministri il 28/10/2026 e presentato alla Camera il 30/10/2026 (AC 3174; dopo lo stralcio del 4/11/2026: AC 3174-bis). Situazione verificata al 10/11/2026 (ora di Roma) per le schede IRPEF, famiglie, pensioni, carta sanitaria e bollo; al 9/11/2026 per lo stato dell'iter e per gli annunci non ancora confrontati articolo per articolo.*
 
 ::: attenzione
-**Sono annunci, non ancora legge.** Qui riportiamo le parole del Governo nel [comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973). Le novità annunciate non sono ancora in vigore. Alcune misure, secondo il comunicato, confermano o prorogano agevolazioni che esistono già: per quelle valgono le regole oggi in vigore, con le loro scadenze. Il Parlamento può cambiarle tutte. Il testo è all'esame della Camera (**AC 3174-bis**). Per IRPEF, famiglie, pensioni, carta sanitaria e bollo il confronto con il testo è nelle [schede delle misure](#schede-delle-misure); le altre misure di questa pagina, se non rinviano a una scheda, restano da verificare.
+**Non è ancora legge.** Riportiamo gli annunci del Governo ([comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)) e, per alcune misure, il testo dell'AC 3174-bis. Le novità annunciate non sono ancora in vigore. Alcune misure, secondo il comunicato, confermano o prorogano agevolazioni che esistono già: per quelle valgono le regole oggi in vigore, con le loro scadenze. Il Parlamento può cambiarle tutte. Il testo è all'esame della Camera (**AC 3174-bis**). Per IRPEF, famiglie, pensioni, carta sanitaria e bollo il confronto con il testo è nelle [schede delle misure](#schede-delle-misure); le altre misure di questa pagina, se non rinviano a una scheda, restano da verificare.
 :::
 
 ::: inbreve
@@ -34,15 +34,15 @@ Queste schede partono dal [testo dell'AC 3174-bis](https://documenti.camera.it/a
 ## Tasse e lavoro
 
 <!-- dati: intestazione -->
-[DA VERIFICARE] Annunci del Governo ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)), non ancora legge. Manca: il testo. Verifica: camera.it e senato.it.
+[DA VERIFICARE] Le voci senza etichetta propria sono annunci del Governo ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)), non ancora confrontati con il [testo dell'AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760). Verifica: testo AC 3174-bis.
 
-- **IRPEF:** il testo dell'art. 9, c. 1, dell'AC 3174-bis prevede, per il 2027, l'aliquota del 33% fino a 55.000 euro. Dettaglio: [IRPEF e regime forfetario](manovra-irpef.html). [FATTO · Alta]
+- **IRPEF:** l'[art. 9, c. 1, dell'AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) prevede, per il solo 2027, l'aliquota del 33% fino a 55.000 euro. È una proposta, non ancora legge. Dettaglio: [IRPEF e regime forfetario](manovra-irpef.html). [FATTO · Alta]
 - **Rinnovi dei contratti:** il Governo annuncia di confermare l'imposta sostitutiva agevolata del 5% sugli aumenti di stipendio che derivano dai rinnovi dei contratti nel settore privato.
 - **Giovani:** «per il 2027, un'imposta sostitutiva dell'1 per cento sugli incrementi del reddito da lavoro dipendente dei giovani lavoratori, entro specifici limiti di reddito e di importo».
 - **Contributi:** «proroga al 31 dicembre 2027 degli esoneri contributivi previsti per le assunzioni a tempo indeterminato di donne, giovani e lavoratori nelle Zone economiche speciali (ZES)».
 - **Imprese che assumono:** «per il periodo d'imposta 2027, una maggiorazione del costo ammesso in deduzione in presenza di nuove assunzioni: il coefficiente sale all'80 per cento per le lavoratrici madri e al 40% per i giovani di età inferiore a 36 anni».
 - **Fringe benefit:** «elevato a 2.000 euro il limite di esenzione dei fringe benefit per i lavoratori con età non superiore a 30 anni».
-- **Partite IVA (regime forfetario):** l'art. 9, c. 2, eleva a 100.000 euro, ai fini delle imposte sui redditi, il limite di accesso al regime forfetario. Dettaglio: [IRPEF e regime forfetario](manovra-irpef.html). [FATTO · Alta] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) aggiunge che «ai fini dell'esenzione dall'IVA la soglia resta a 85.000 euro, in attesa dell'autorizzazione dell'Unione europea»: l'autorizzazione europea non è nel testo dell'art. 9. [DA VERIFICARE]
+- **Partite IVA (regime forfetario):** l'[art. 9, c. 2](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) propone di elevare a 100.000 euro, ai fini delle imposte sui redditi, il limite di accesso al regime forfetario. Dettaglio: [IRPEF e regime forfetario](manovra-irpef.html). [FATTO · Alta] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) aggiunge che «ai fini dell'esenzione dall'IVA la soglia resta a 85.000 euro, in attesa dell'autorizzazione dell'Unione europea»: l'autorizzazione europea non è nel testo dell'art. 9. [DA VERIFICARE]
 
 ## Casa
 
@@ -65,14 +65,14 @@ Queste schede partono dal [testo dell'AC 3174-bis](https://documenti.camera.it/a
 ## Salute
 
 <!-- dati: intestazione -->
-[DA VERIFICARE] Annunci del Governo ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)), non ancora legge. Manca: il testo. Verifica: camera.it e senato.it.
+[DA VERIFICARE] Le voci senza etichetta propria sono annunci del Governo ([comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)), non ancora confrontati con il [testo dell'AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760). Verifica: testo AC 3174-bis.
 
 - **Fondo sanitario nazionale:** le risorse «aumentano di 3,4 miliardi di euro e raggiungono i 146,3 miliardi nel 2027». Secondo il comunicato saranno destinate all'aumento dei tetti del payback, all'aggiornamento delle tariffe ospedaliere per acuti, al finanziamento degli interventi per Alzheimer e demenze e al rafforzamento dell'indennità di pronto soccorso.
-- **Over 75:** l'art. 53, cc. 1-2, prevede per il 2027 una carta da 300 euro per beni e prestazioni sanitarie, con i requisiti indicati nell'articolo. Dettaglio: [Carta sanitaria per gli over 75](manovra-carta-sanitaria.html). [FATTO · Alta]
+- **Over 75:** l'[art. 53, cc. 1-2](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) prevede per il 2027 una carta da 300 euro per beni e prestazioni sanitarie, con i requisiti indicati nell'articolo. È una proposta, non ancora legge. Dettaglio: [Carta sanitaria per gli over 75](manovra-carta-sanitaria.html). [FATTO · Alta]
 
 ## Pensioni
 
-[FATTO · Alta] Nel [testo dell'AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760): l'art. 51 propone di prorogare l'APE sociale al 31/12/2027; l'art. 52 istituisce un fondo per misure di uscita dal lavoro «da adottare con successivo provvedimento legislativo» (le regole non sono in questo disegno di legge); l'art. 55 disciplina la rivalutazione delle pensioni per il 2027. Scheda: [Pensioni nella manovra 2027](manovra-pensioni.html).
+[FATTO · Alta] Nel [testo dell'AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760): l'art. 51 propone di prorogare l'APE sociale al 31/12/2027; l'art. 52 istituirebbe un fondo per misure di uscita dal lavoro «da adottare con successivo provvedimento legislativo» (le regole non sono in questo disegno di legge); l'art. 54 estenderebbe al 2027 l'incentivo per chi resta al lavoro; l'art. 55 disciplinerebbe la rivalutazione delle pensioni per il 2027. Scheda: [Pensioni nella manovra 2027](manovra-pensioni.html).
 
 ## Imprese e investimenti
 
@@ -132,4 +132,4 @@ Un numero negativo è una spesa o un taglio di tasse; un numero positivo è una 
 
 Segui lo stato: [Stato degli atti](stato.html#legge-di-bilancio-2027).
 
-*Fonti: [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) · [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19) · [dossier Servizio Studi e Dipartimento Bilancio, Volume I, Articoli 1-75, 9/11/2026](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) · [Comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) · [DPB 2027 (MEF)](https://www.mef.gov.it/export/sites/MEF/inevidenza/2026/article_00393/Italys-DBP-2027.pdf) · [DPB trasmesso alla Camera (Doc. XI n. 4)](https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/011/004/INTERO.pdf) · [Dati aperti del Senato](https://dati.senato.it/sparql) · [L. 196/2009, art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art7) e [art. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20) · [Costituzione, art. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81).*
+*Fonti: [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) · [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19) · [dossier dei Servizi Studi di Senato e Camera, Volume I, Articoli 1-75, 9/11/2026](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) · [Comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) · [DPB 2027 (MEF)](https://www.mef.gov.it/export/sites/MEF/inevidenza/2026/article_00393/Italys-DBP-2027.pdf) · [DPB trasmesso alla Camera (Doc. XI n. 4)](https://documenti.camera.it/_dati/leg19/lavori/documentiparlamentari/IndiceETesti/011/004/INTERO.pdf) · [Dati aperti del Senato](https://dati.senato.it/sparql) · [L. 196/2009, art. 7](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art7) e [art. 20](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20) · [Costituzione, art. 81](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81).*
