@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "9/11/2026, ore 23:00 (ora di Roma)"
+AGGIORNATO = "10/11/2026, ore 19:20 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -177,19 +177,16 @@ TESTO_3106A = ("https://documenti.camera.it/apps/commonServices/getDocumento.ash
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
-    {"data": "9/11/2026", "titolo": "Manovra 2027",
-     "novita": "**Cosa cambia:** il disegno di legge di bilancio 2027-2029 è all'esame della Camera: presentato il 30/10/2026 "
-               "come **AC 3174**; il 4/11/2026, dopo lo stralcio di alcune disposizioni, l'esame prosegue sull'**AC 3174-bis**, "
-               "assegnato alla V Commissione (Bilancio) in sede referente "
-               f"([scheda AC 3174]({SCHEDA_3174}); [scheda AC 3174-bis]({SCHEDA_3174BIS}); "
-               "[comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)). "
-               "Le misure restano proposte, non ancora legge. [FATTO · Alta]",
+    {"data": "10/11/2026", "titolo": "Manovra 2027: disegno di legge in esame",
+     "novita": "**Cosa cambia:** il disegno di legge di bilancio 2027-2029 (AC 3174-bis) è all'esame della Camera: è una proposta, non ancora legge. "
+               "Le schede spiegano cosa prevede il testo per IRPEF, famiglie, pensioni e carta sanitaria "
+               f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760)). [FATTO · Alta]",
      "stato": "**A che punto è:** l'**AC 3174-bis** è assegnato alla V Commissione (Bilancio); va approvato dal Parlamento "
               "entro il **31/12/2026** "
               f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); "
               "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
               "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
-     "link": [("Cosa è stato annunciato nella manovra", "manovra-2027.html")]},
+     "link": [("Annunci e testo del disegno di legge (AC 3174-bis)", "manovra-2027.html")]},
     {"data": "9/11/2026", "titolo": "Bollo auto 2027",
      "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
                "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "

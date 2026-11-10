@@ -43,7 +43,7 @@ indice: si
 
 [FATTO · Media] Il [dossier](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) (scheda sull'art. 54) spiega l'incentivo come la corresponsione al lavoratore della quota di contribuzione pensionistica a suo carico, con esclusione del versamento e dell'accredito sia di quella quota sia di quella omologa a carico del datore, per chi prosegue l'attività dopo aver maturato i requisiti del pensionamento anticipato «a prescindere dall'età anagrafica».
 
-[DA VERIFICARE] Il testo vigente dell'art. 1, c. 286, della L. 197/2022 e dell'art. 24, c. 10, del D.L. 201/2011. Verifica: [Normattiva, L. 197/2022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197) e [D.L. 201/2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201).
+[DA VERIFICARE] Il testo vigente dell'art. 1, c. 286, della L. 197/2022 e dell'art. 24, c. 10, del D.L. 201/2011. Su Normattiva il c. 286 indica i requisiti maturati «entro il 31 dicembre 2025»; il [dossier](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) (p. 273) riferisce la disciplina finora vigente al 31/12/2026. Verifica: [Normattiva, L. 197/2022](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197) e [D.L. 201/2011](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201).
 
 ## Rivalutazione delle pensioni nel 2027 (art. 55)
 
@@ -60,7 +60,7 @@ indice: si
 
 [FATTO · Media] Il [dossier](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) (scheda sull'art. 55) indica che, rispetto alla disciplina a regime, questa è una perequazione più restrittiva per chi ha un trattamento complessivo superiore a quattro volte il minimo, mentre fino a quella soglia resta il criterio vigente a regime (100%).
 
-[FATTO · Media] Il [dossier](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) (scheda sull'art. 55, note 71 e 75, p. 276) ricorda che, in via interpretativa, le soglie della rivalutazione si calcolano sul trattamento minimo INPS dell'anno precedente a quello della rivalutazione. Per il 2026 il valore provvisorio di quel minimo è di 611,85 euro mensili (7.954,05 euro annui).
+[FATTO · Media] Il [dossier](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf) (scheda sull'art. 55, note 71 e 75, pp. 275-276) ricorda che, in via interpretativa, le soglie della rivalutazione si calcolano sul trattamento minimo INPS dell'anno precedente a quello della rivalutazione. Per il 2026 il valore provvisorio di quel minimo è di 611,85 euro mensili (7.954,05 euro annui).
 
 [DA VERIFICARE] Il valore definitivo del trattamento minimo INPS 2026, e quindi il valore in euro delle soglie («quattro volte», «cinque volte» e successive) per la rivalutazione 2027. Verifica: decreto annuale di perequazione del Ministro dell'economia ([dossier](https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf), p. 276) e circolare INPS.
 
