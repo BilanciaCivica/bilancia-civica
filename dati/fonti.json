@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.3",
-  "generato_il": "2026-11-09T23:00:00+01:00",
+  "generato_il": "2026-11-10T19:26:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 132,
+  "totale": 143,
   "fonti": [
     {
       "url": "https://dati.senato.it/sparql",
@@ -74,16 +74,154 @@
       "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760",
       "titolo": "art. 3",
       "altri_titoli": [
-        "testo AC 3174-bis"
+        "art. 51, c. 1",
+        "art. 51, c. 2",
+        "art. 52",
+        "art. 53",
+        "art. 53, c. 1",
+        "art. 53, c. 3",
+        "art. 53, c. 3, lett. a)",
+        "art. 53, c. 3, lett. b)",
+        "art. 53, cc. 1-2",
+        "art. 54",
+        "art. 55",
+        "art. 55, c. 1, lett. b), nn. 1-4",
+        "art. 57",
+        "art. 57, c. 1",
+        "art. 57, c. 2",
+        "art. 57, c. 3",
+        "art. 58",
+        "art. 58, c. 1",
+        "art. 58, c. 2",
+        "art. 58, c. 4",
+        "art. 58, c. 6",
+        "art. 58, cc. 5-6",
+        "art. 59",
+        "art. 59, c. 1",
+        "art. 60",
+        "art. 69",
+        "art. 9",
+        "art. 9, c. 1",
+        "art. 9, c. 1, dell'AC 3174-bis",
+        "art. 9, c. 2",
+        "art. 9, c. 2, lett. b)",
+        "art. 9, c. 2, lett. c)",
+        "art. 9, c. 3",
+        "artt. 57-60",
+        "testo AC 3174-bis",
+        "testo dell'AC 3174-bis",
+        "testo dell'art. 9"
       ],
       "ufficiale": true,
       "dominio": "documenti.camera.it",
       "affermazioni": [
         "bollo-auto-535d64b924",
         "bollo-auto-e56654c113",
+        "home-ce83ba9b05",
+        "manovra-2027-0a336cd05b",
+        "manovra-2027-2d5540d74a",
+        "manovra-2027-475d05f498",
+        "manovra-2027-4b26c4d793",
+        "manovra-2027-7a646da4e9",
+        "manovra-2027-854e7339d9",
         "manovra-2027-8b74603446",
+        "manovra-2027-91963f8c86",
+        "manovra-2027-99cda59146",
+        "manovra-2027-a312fe8b1f",
+        "manovra-2027-a5392ff6bd",
+        "manovra-2027-a95e1cd0ac",
+        "manovra-2027-abc02c2d82",
         "manovra-2027-c0f8e318a8",
+        "manovra-2027-d0e8107deb",
+        "manovra-2027-ddd52a7c81",
+        "manovra-carta-sanitaria-0b2c9043f2",
+        "manovra-carta-sanitaria-0b7fb1bc9f",
+        "manovra-carta-sanitaria-2c5e13b00b",
+        "manovra-carta-sanitaria-301667e34f",
+        "manovra-carta-sanitaria-447b90e0db",
+        "manovra-carta-sanitaria-4c72bf2c09",
+        "manovra-carta-sanitaria-53b91684d2",
+        "manovra-carta-sanitaria-6651ae5332",
+        "manovra-carta-sanitaria-8516f1dc75",
+        "manovra-carta-sanitaria-ba5cc745b4",
+        "manovra-carta-sanitaria-ee1e92d01b",
+        "manovra-carta-sanitaria-fa073bdc47",
+        "manovra-famiglie-01693e998b",
+        "manovra-famiglie-047d64186d",
+        "manovra-famiglie-2b9db81ea2",
+        "manovra-famiglie-35f5658598",
+        "manovra-famiglie-4323f5cb05",
+        "manovra-famiglie-486c621395",
+        "manovra-famiglie-4cfedc2c2a",
+        "manovra-famiglie-514420f5af",
+        "manovra-famiglie-5c4ee7970e",
+        "manovra-famiglie-5e85678859",
+        "manovra-famiglie-6f9dfeebb1",
+        "manovra-famiglie-7abf79fd58",
+        "manovra-famiglie-7ff1aa94a5",
+        "manovra-famiglie-81f9953876",
+        "manovra-famiglie-88fad52fd0",
+        "manovra-famiglie-9bcaf91c6d",
+        "manovra-famiglie-bb80aa3d89",
+        "manovra-famiglie-d2b610d708",
+        "manovra-famiglie-ffc8fd3e9f",
+        "manovra-irpef-10cb72bba2",
+        "manovra-irpef-2d796aaf1d",
+        "manovra-irpef-340fa949e4",
+        "manovra-irpef-5c6b3dcc14",
+        "manovra-irpef-7634ae8547",
+        "manovra-irpef-96c7876b88",
+        "manovra-irpef-d0a2a52e2b",
+        "manovra-irpef-d124560c0c",
+        "manovra-irpef-eebfcfdc78",
+        "manovra-irpef-fd184569a7",
+        "manovra-pensioni-23bb494dcf",
+        "manovra-pensioni-323ca4b640",
+        "manovra-pensioni-581de399ed",
+        "manovra-pensioni-5a742b7999",
+        "manovra-pensioni-5c8c8c1cfa",
+        "manovra-pensioni-6a9b2bf206",
+        "manovra-pensioni-71593726fd",
+        "manovra-pensioni-778d5d0340",
+        "manovra-pensioni-8c9aa7461a",
+        "manovra-pensioni-acab1cb6ba",
+        "manovra-pensioni-bb3e94b0f1",
+        "manovra-pensioni-d75fb8f9e5",
+        "manovra-pensioni-d796bd0ad0",
+        "manovra-pensioni-e58798db36",
+        "manovra-pensioni-f0d228eb7e",
+        "manovra-pensioni-f7aed1d844",
+        "manovra-pensioni-fd8008704b",
         "stato-d5c957fd26"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/leg19/dossier/Pdf/ID0016vol1.pdf",
+      "titolo": "dossier",
+      "altri_titoli": [
+        "dossier dei Servizi Studi di Senato e Camera"
+      ],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "manovra-carta-sanitaria-0c489d2e5e",
+        "manovra-carta-sanitaria-ee1e92d01b",
+        "manovra-famiglie-1919f33115",
+        "manovra-famiglie-5c4ee7970e",
+        "manovra-famiglie-7ff1aa94a5",
+        "manovra-irpef-1e55a16721",
+        "manovra-irpef-c915dbd1b2",
+        "manovra-irpef-d4a175ce3f",
+        "manovra-irpef-e1c31c0970",
+        "manovra-irpef-edb13f52b6",
+        "manovra-irpef-eebfcfdc78",
+        "manovra-pensioni-0aecbf9fca",
+        "manovra-pensioni-1e669fa57a",
+        "manovra-pensioni-9d65fc4d05",
+        "manovra-pensioni-a58ad8c61e",
+        "manovra-pensioni-b6895eb102",
+        "manovra-pensioni-df4a55b503",
+        "manovra-pensioni-fe3d02cea0"
       ]
     },
     {
@@ -316,7 +454,6 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "home-592ff1e076",
         "manovra-2027-0672e2d2ee",
         "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
@@ -334,23 +471,29 @@
     },
     {
       "url": "https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19",
-      "titolo": "scheda AC 3174-bis",
-      "altri_titoli": [],
+      "titolo": "AC 3174-bis",
+      "altri_titoli": [
+        "scheda AC 3174-bis"
+      ],
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
         "bollo-auto-e56654c113",
-        "home-592ff1e076",
+        "home-ce83ba9b05",
         "home-ce95b5ef21",
         "manovra-2027-0672e2d2ee",
+        "manovra-2027-4b26c4d793",
         "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
-        "manovra-2027-97825c40b1",
         "manovra-2027-c0f8e318a8",
         "manovra-2027-d82f26d5b3",
         "manovra-2027-dbe3c24e23",
+        "manovra-carta-sanitaria-45bcee007b",
+        "manovra-famiglie-45bcee007b",
+        "manovra-irpef-45bcee007b",
+        "manovra-pensioni-45bcee007b",
         "stato-3e649c6e5c",
         "stato-406d2a68e9",
         "stato-7887362eee",
@@ -1098,21 +1241,18 @@
       "dominio": "www.governo.it",
       "affermazioni": [
         "bollo-auto-77e867c128",
-        "home-592ff1e076",
         "manovra-2027-0672e2d2ee",
+        "manovra-2027-0a336cd05b",
         "manovra-2027-11c1eb0d0c",
-        "manovra-2027-1ec85c0c58",
-        "manovra-2027-205a3810a1",
-        "manovra-2027-2065568439",
-        "manovra-2027-22b7157282",
+        "manovra-2027-2d5540d74a",
         "manovra-2027-2f95c3feb4",
         "manovra-2027-33db2c3c6e",
+        "manovra-2027-475d05f498",
         "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-63d2b9f420",
-        "manovra-2027-64c59cae02",
-        "manovra-2027-6ad31115c9",
         "manovra-2027-7a646da4e9",
+        "manovra-2027-854e7339d9",
         "manovra-2027-85fc801cfc",
         "manovra-2027-8c4d985b09",
         "manovra-2027-8d0acd48d8",
@@ -1124,12 +1264,11 @@
         "manovra-2027-a312fe8b1f",
         "manovra-2027-a95e1cd0ac",
         "manovra-2027-abc02c2d82",
-        "manovra-2027-ad924db800",
         "manovra-2027-be7d09b3a3",
         "manovra-2027-c0f8e318a8",
         "manovra-2027-d101b1b27f",
         "manovra-2027-d82f26d5b3",
-        "manovra-2027-ed78720c75",
+        "manovra-irpef-d4a175ce3f",
         "stato-3e649c6e5c",
         "stato-406d2a68e9",
         "stato-5961bafde3",
@@ -1479,6 +1618,16 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2011-12-06;201",
+      "titolo": "D.L. 201/2011",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-pensioni-df4a55b503"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-12;121",
       "titolo": "D.L. 12 settembre 2023, n. 121 (testo vigente su Normattiva)",
       "altri_titoli": [],
@@ -1640,6 +1789,20 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-26;151~art34",
+      "titolo": "Normattiva, art. 34",
+      "altri_titoli": [
+        "d.lgs. 26 marzo 2001, n. 151"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-famiglie-380df03257",
+        "manovra-famiglie-514420f5af",
+        "manovra-famiglie-5c4ee7970e"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196",
       "titolo": "Codice privacy",
       "altri_titoli": [],
@@ -1746,6 +1909,39 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-15;29",
+      "titolo": "d.lgs. 15 marzo 2024, n. 29",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-carta-sanitaria-4c72bf2c09"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-15;29~art34",
+      "titolo": "Normattiva, art. 34",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-carta-sanitaria-b7ce61a45b"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2024-03-15;29~art35",
+      "titolo": "Normattiva, art. 35",
+      "altri_titoli": [
+        "Normattiva, d.lgs. 29/2024, art. 35"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-carta-sanitaria-0b7fb1bc9f",
+        "manovra-carta-sanitaria-b7ce61a45b"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-01-19;10",
       "titolo": "Testo unico IVA",
       "altri_titoli": [],
@@ -1753,6 +1949,20 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "bollo-auto-34b4c172df"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-06-19;117",
+      "titolo": "Normattiva",
+      "altri_titoli": [
+        "d.lgs. 19 giugno 2026, n. 117"
+      ],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-irpef-340fa949e4",
+        "manovra-irpef-de12b6d041",
+        "manovra-irpef-e3c1b2a807"
       ]
     },
     {
@@ -2001,6 +2211,46 @@
         "stato-406d2a68e9",
         "stato-79314f97a8",
         "stato-8d0acd48d8"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2014-12-23;190",
+      "titolo": "L. 190/2014",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-irpef-de12b6d041"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016-12-11;232",
+      "titolo": "Normattiva",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-pensioni-1e669fa57a"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2022-12-29;197",
+      "titolo": "Normattiva, L. 197/2022",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-pensioni-df4a55b503"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2024-12-30;207",
+      "titolo": "Normattiva, L. 207/2024, art. 1, cc. 219-220",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "manovra-famiglie-7ff1aa94a5"
       ]
     },
     {
