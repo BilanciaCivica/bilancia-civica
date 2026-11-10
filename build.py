@@ -49,7 +49,7 @@ PAGINE = [
     ("presidio.html", "contenuti/presidio.md", None, "diritti"),
     ("corteo.html", "contenuti/corteo.md", None, "diritti"),
     ("sciopero.html", "contenuti/sciopero.md", None, "diritti"),
-    ("decreto.html", "contenuti/decreto.md", "Decreto sicurezza", "diritti"),
+    ("decreto.html", "contenuti/decreto.md", None, "diritti"),
     ("esempio.html", "contenuti/esempio.md", None, "diritti"),
     ("stato.html", "contenuti/stato.md", None, None),
     ("bollo-auto.html", "contenuti/bollo-auto.md", None, None),
@@ -449,9 +449,12 @@ def markdown(testo: str, toc: list | None = None) -> str:
             liv = len(m.group(1))
             contenuto = inline(m.group(2))
             ident = slug(contenuto)
+            if ident == "ultime-novità":
+                ident = "ultime-novita"
             if toc is not None and liv == 2:
                 toc.append((ident, contenuto))
-            out.append(f'<h{liv} id="{ident}">{contenuto}</h{liv}>')
+            extra = '<span id="ultime-novità"></span>' if ident == "ultime-novita" else ""
+            out.append(f'<h{liv} id="{ident}">{extra}{contenuto}</h{liv}>')
             i += 1
             continue
         if re.match(r"^(-{3,}|\*{3,})$", s):
@@ -525,6 +528,10 @@ def menu(attivo: str, gruppo: str | None) -> str:
         aria = ' aria-current="page"' if out == attivo else ""
         cls = ' class="attivo"' if corrente else ""
         voci.append(f'<li><a href="{out}"{cls}{aria}>{voce}</a></li>')
+        # Dopo «Diritti e regole»: sezione della home, non una pagina a sé
+        # (niente aria-current: senza script non si sa se l'ancora è visibile).
+        if out == "diritti.html":
+            voci.append('<li><a href="index.html#ultime-novita">Ultime novità</a></li>')
     return "\n".join(voci)
 
 
