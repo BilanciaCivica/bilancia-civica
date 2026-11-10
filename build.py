@@ -100,7 +100,7 @@ SEO = {
     "bollo-sono-esente.html": ("Bollo 2027: sono esente? · Bilancia Civica",
                                "Cinque domande per capire se il tuo veicolo può rientrare nell'esenzione dal bollo 2027 del D.L. 162/2026. Orientamento, non una risposta ufficiale."),
     "index.html": ("Bilancia Civica · Ogni decreto, pesato sulla tua vita",
-                   "Decreti, leggi e manovra spiegati in modo semplice, con le fonti ufficiali: decreto sicurezza, cortei, sciopero, bollo auto, diesel Euro 5, manovra 2027."),
+                   "Spiega in parole semplici cosa cambia con leggi e decreti per le persone, con fonti ufficiali ed etichette di certezza. Bollo, Diesel, Manovra, diritti e altro."),
     "diritti.html": ("Diritto di manifestare e di sciopero · Bilancia Civica",
                      "Diritto di manifestare, riunione e sciopero: le regole di legge, cosa è protetto, cosa è punibile e cosa cambia con il decreto sicurezza."),
     "presidio.html": ("Presidio: preavviso al questore e regole · Bilancia Civica",
@@ -771,6 +771,8 @@ def meta_social(out: str, titolo: str, descrizione: str) -> str:
         '<meta property="og:image:height" content="630">',
         f'<meta property="og:image:alt" content="{e(OG_ALT)}">',
         '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:title" content="{e(titolo)}">',
+        f'<meta name="twitter:description" content="{e(descrizione)}">',
         f'<meta name="twitter:image:alt" content="{e(OG_ALT)}">',
     ]
     return "\n".join(righe)
