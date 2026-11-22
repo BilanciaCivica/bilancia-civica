@@ -31,7 +31,7 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 - **Quale veicolo:** **uno solo**, e deve essere **regolarmente assicurato** (art. 2, c. 1).
 - **Auto:** alimentate **a benzina o gasolio**, «anche in combinazione con altra fonte di propulsione», con potenza **non superiore a 80 kW** (art. 2, c. 2).
 - **Moto e motorini:** alimentati **a benzina**, anche in combinazione con altra fonte. Il testo non fissa limiti di kW per le moto. L'esenzione spetta solo se la persona **non** risulta tenuta al bollo (soggetto passivo) per **alcuna auto** con potenza pari o inferiore a 80 kW (art. 2, c. 3).
-- **Periodo:** i pagamenti il cui **termine ordinario** cade **dal 1° gennaio al 31 dicembre 2027** (art. 2, c. 1, testo coordinato con la L. 209/2026).
+- **Periodo:** i pagamenti il cui **termine ordinario** cade **dal 1° gennaio al 31 dicembre 2027** (art. 2, c. 1; testo coordinato con la L. 209/2026).
 
 ## Se hai più veicoli
 
@@ -44,7 +44,7 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 - **Auto a benzina o gasolio fino a 80 kW + moto:** la moto non è esente; l'esenzione va all'auto (c. 3).
 - **Auto oltre 80 kW + moto a benzina:** l'auto paga; la moto può essere esente (c. 3).
 
-[DA VERIFICARE] Chi ha sia una **moto** sia un **motorino** con i requisiti: il testo indica il criterio solo tra più moto e tra più motorini, non tra una moto e un motorino. Manca: chiarimento ufficiale. Verifica: testo della legge di conversione e indicazioni della propria Regione.
+[DA VERIFICARE] Chi ha sia una **moto** sia un **motorino** con i requisiti: il testo indica il criterio solo tra più moto e tra più motorini, non tra una moto e un motorino. Manca: chiarimento ufficiale. Verifica: indicazioni della propria Regione.
 
 [DA VERIFICARE] Chi ha un'**auto fino a 80 kW non a benzina o gasolio** (per esempio solo elettrica) e una **moto o un motorino a benzina**: il comma 3 parla di «alcuna autovettura» fino a 80 kW senza distinguere l'alimentazione, mentre il dossier della Camera lo riferisce alle auto già esenti. Non è chiaro se la moto possa essere esente (art. 2, c. 3, D.L. 162/2026). Manca: chiarimento del Ministero dell'economia o delle Regioni. Verifica: indicazioni della propria Regione.
 
@@ -59,20 +59,20 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 ## Regioni a statuto speciale e province autonome
 
 <!-- dati: atti 2 = D.L. 162/2026 -->
-[FATTO · Alta] L'esenzione vale anche nelle Regioni a statuto speciale e nelle Province autonome, «previo Accordo con ciascuna autonomia speciale titolare della tassa automobilistica quale tributo proprio» (art. 2, c. 4).
+[FATTO · Alta] L'esenzione vale anche nelle Regioni a statuto speciale e nelle Province autonome, «previo accordo con ciascuna autonomia speciale titolare della tassa automobilistica quale tributo proprio» (art. 2, c. 4; testo coordinato con la L. 209/2026). Per Trento e Bolzano l'accordo è concluso ai sensi dell'art. 104 del D.P.R. 670/1972.
 
 [FATTO · Alta] Secondo il [dossier della Camera](https://documenti.camera.it/leg19/dossier/testi/D26162.htm), il bollo è un tributo proprio in **Sicilia** e nelle Province autonome di **Trento** e **Bolzano**; in **Valle d'Aosta**, **Sardegna** e **Friuli-Venezia Giulia** è un tributo dello Stato, con una quota del gettito (10/10 in Valle d'Aosta, 7/10 in Sardegna) o senza quota (Friuli-Venezia Giulia).
 
-[INTERPRETAZIONE · Media: lettura redazionale] Il comma 4 chiede l'Accordo solo dove il bollo è un tributo proprio dell'ente: secondo il dossier, quindi, in Sicilia e nelle Province autonome di Trento e Bolzano. In Valle d'Aosta, Sardegna e Friuli-Venezia Giulia l'esenzione dovrebbe valere senza Accordo (art. 2, c. 4, D.L. 162/2026). Le singole leggi regionali e provinciali non sono state verificate.
+[INTERPRETAZIONE · Media: lettura redazionale] Il comma 4 chiede l'accordo solo dove il bollo è un tributo proprio dell'ente: secondo il dossier, quindi, in Sicilia e nelle Province autonome di Trento e Bolzano. In Valle d'Aosta, Sardegna e Friuli-Venezia Giulia l'esenzione dovrebbe valere senza accordo (art. 2, c. 4, D.L. 162/2026, testo coordinato con la L. 209/2026). Le singole leggi regionali e provinciali non sono state verificate.
 
-[DA VERIFICARE] Chi abita in **Sicilia** o nelle Province autonome di **Trento** e **Bolzano**: l'esenzione dipende da un Accordo (art. 2, c. 4, D.L. 162/2026) che, alle fonti lette, non risulta ancora firmato. Manca: testo degli Accordi. Verifica: sito della propria Regione o Provincia autonoma.
+[DA VERIFICARE] Chi abita in **Sicilia** o nelle Province autonome di **Trento** e **Bolzano**: l'esenzione dipende da un accordo (art. 2, c. 4, D.L. 162/2026, testo coordinato con la L. 209/2026) che, alle fonti lette, non risulta ancora firmato. Manca: testo degli accordi. Verifica: sito della propria Regione o Provincia autonoma.
 
 ## Come vengono compensate le Regioni
 
 <!-- dati: atti 2 = D.L. 162/2026 -->
-[FATTO · Alta] Lo Stato trasferisce a Regioni e Province autonome **2.293,5 milioni di euro per il 2027** per compensare il bollo non incassato. La quota di ciascuna è fissata **entro il 31 marzo 2027** con decreto del Ministro dell'economia e delle finanze, tenendo conto degli Accordi, sentita la Conferenza Stato-Regioni (art. 2, c. 5).
+[FATTO · Alta] Lo Stato trasferisce a Regioni e Province autonome **2.293,5 milioni di euro per il 2027** per compensare il bollo non incassato. La quota di ciascuna è fissata **entro il 31 marzo 2027** con decreto del Ministro dell'economia e delle finanze, tenendo conto degli accordi di cui al comma 4, **previa intesa** in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano (art. 2, c. 5; testo coordinato con la L. 209/2026).
 
-[FATTO · Alta] In Commissione Finanze della Camera sono state approvate tre modifiche all'art. 2. Servono la **«previa intesa»** in Conferenza (non solo il parere), un riferimento allo Statuto del Trentino-Alto Adige per l'Accordo con Trento e Bolzano e la copertura scritta in cifre: 68,5 milioni per il comma 4 e 2.293,5 milioni per il comma 5 ([emendamenti approvati il 21/10](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/21/06/allegato.htm) e [il 28/10](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/28/06/allegato.htm)). Non cambiano chi è esente né i requisiti, e valgono solo se il testo è approvato da Camera e Senato.
+[FATTO · Alta] Queste regole sul riparto e sulla copertura (oneri del comma 4 valutati in 68,5 milioni di euro per il 2027 e trasferimento del comma 5 pari a 2.293,5 milioni) e il rinvio all'art. 104 del D.P.R. 670/1972 per l'accordo con Trento e Bolzano sono state introdotte dalla legge di conversione e sono in vigore dal 17/11/2026 ([allegato alla L. 209/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG); [art. 2, cc. 4-6, testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06055/SG)).
 
 ## Quanto vale, secondo il Governo
 
@@ -105,7 +105,7 @@ Ti riguarda? [Sono esente? Le domande in ordine](bollo-sono-esente.html)
 
 ::: dettagli Conta la Regione in cui abito?
 <!-- dati: atti 2 = D.L. 162/2026 -->
-[FATTO · Alta] Il decreto non chiede un requisito di residenza. La residenza decide a quale Regione si paga il bollo ([art. 14 d.lgs. 147/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-08-07;147)). In Sicilia e nelle Province autonome di Trento e Bolzano serve l'Accordo con lo Stato (art. 2, c. 4).
+[FATTO · Alta] Il decreto non chiede un requisito di residenza. La residenza decide a quale Regione si paga il bollo ([art. 14 d.lgs. 147/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-08-07;147)). In Sicilia e nelle Province autonome di Trento e Bolzano serve l'accordo con lo Stato (art. 2, c. 4; testo coordinato con la L. 209/2026).
 :::
 
 ::: dettagli La mia auto è ibrida, a GPL o a metano. Rientra?

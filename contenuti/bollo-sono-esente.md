@@ -58,10 +58,10 @@ Il veicolo è **regolarmente assicurato**?
 Abiti in **Sicilia** o nelle Province autonome di **Trento** o **Bolzano**?
 
 - **No** → [probabile sì](#probabile-sì)
-- **Sì** → [dipende](#dipende-verifica-qui): serve un Accordo tra lo Stato e la tua Regione o Provincia
+- **Sì** → [dipende](#dipende-verifica-qui): serve un accordo tra lo Stato e la tua Regione o Provincia
 
 <!-- dati: atti 2 = D.L. 162/2026 -->
-[FATTO · Alta] Dove il bollo è un tributo proprio dell'ente, l'esenzione vale «previo Accordo» (art. 2, c. 4).
+[FATTO · Alta] Dove il bollo è un tributo proprio dell'ente, l'esenzione vale «previo accordo» (art. 2, c. 4; testo coordinato con la L. 209/2026).
 
 ---
 
@@ -90,7 +90,7 @@ Abiti in **Sicilia** o nelle Province autonome di **Trento** o **Bolzano**?
 - **leasing o noleggio a lungo termine:** dovresti rientrare se nel 2027 il bollo spetta a te come persona, ma manca una conferma ufficiale; per il noleggio con contratto precedente al 2027 e non rinnovato non sappiamo chi paga (art. 2, cc. 2-3, D.L. 162/2026);
 - **alimentazione** che non sai classificare, per esempio bifuel: manca un chiarimento ufficiale (art. 2, c. 2, D.L. 162/2026);
 - **auto fino a 80 kW non a benzina o gasolio** (per esempio elettrica) **insieme a una moto o un motorino:** non è chiaro se la moto possa essere esente (art. 2, c. 3, D.L. 162/2026);
-- **Sicilia, Trento, Bolzano:** serve l'Accordo con lo Stato (art. 2, c. 4, D.L. 162/2026);
+- **Sicilia, Trento, Bolzano:** serve l'accordo con lo Stato (art. 2, c. 4, D.L. 162/2026, testo coordinato con la L. 209/2026);
 - **moto e motorino insieme:** il testo non dice quale dei due è esente (art. 2, c. 3, D.L. 162/2026);
 - **già esente per disabilità** con un secondo veicolo: il D.L. 162/2026 non dice se si può avere anche l'esenzione 2027.
 

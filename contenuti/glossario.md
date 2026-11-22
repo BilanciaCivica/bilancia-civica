@@ -11,9 +11,9 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 
 - **Costituzione (Cost.)** — la legge fondamentale della Repubblica. «Art. 17 Cost.» vuol dire articolo 17 della Costituzione. [Testo su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27)
 - **Decreto-legge (D.L.)** — un atto del Governo con forza di legge, ammesso solo in casi straordinari di necessità e d'urgenza. Entra in vigore senza aspettare il voto del Parlamento: il D.L. 190/2026, per esempio, dal giorno dopo la pubblicazione (art. 10). Il Parlamento deve **convertirlo in legge** entro 60 giorni dalla pubblicazione, anche con modifiche; se non lo fa, il decreto perde efficacia fin dall'inizio (art. 77 Cost.).
-- **Conversione in legge** — il voto con cui Camera e Senato trasformano un decreto-legge in legge, eventualmente modificandolo. Si fa con un **disegno di legge (ddl) di conversione**. Esempio: il D.L. 162/2026 sul bollo auto va convertito entro il 16 novembre 2026, il D.L. 167/2026 sui diesel Euro 5 entro il 27 novembre 2026.
+- **Conversione in legge** — il voto con cui Camera e Senato trasformano un decreto-legge in legge, eventualmente modificandolo. Si fa con un **disegno di legge (ddl) di conversione**. Esempio: il D.L. 162/2026 sul bollo auto è stato convertito, con modificazioni, dalla L. 209/2026; il D.L. 167/2026 sui diesel Euro 5 è stato convertito, senza modificazioni, dalla L. 210/2026. Il D.L. 190/2026 (decreto sicurezza) va convertito entro il 21 dicembre 2026.
 - **AC 3159** — il numero con cui la Camera dei deputati identifica il disegno di legge di conversione del decreto sicurezza (AC sta per «Atto Camera»). [Scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3159)
-- **AC 3119** — il disegno di legge di conversione del D.L. 167/2026 (diesel Euro 5) alla Camera. [Scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)
+- **AC 3119** — il disegno di legge di conversione del D.L. 167/2026 (diesel Euro 5) alla Camera, poi approvato e pubblicato come L. 210/2026. [Scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)
 - **Gazzetta Ufficiale (GU)** — dove vengono pubblicati leggi e decreti; fa fede per la data di entrata in vigore. [gazzettaufficiale.it](https://www.gazzettaufficiale.it)
 - **Normattiva** — il sito pubblico con i testi delle leggi in vigore e le loro versioni nel tempo. [normattiva.it](https://www.normattiva.it)
 - **c.p. e c.p.p.** — codice penale e codice di procedura penale. «Art. 337 c.p.» vuol dire articolo 337 del codice penale.
@@ -30,9 +30,9 @@ Le parole e le sigle che trovi sul sito, spiegate in breve. Per il testo esatto 
 - **Persona fisica** — un individuo, a differenza di una «persona giuridica» come una società, un'associazione o un ente pubblico.
 - **kW (kilowatt)** — l'unità con cui si misura la potenza del motore. Il D.L. 162/2026 usa i kW, non i cavalli. Per convertire: 1 kW vale circa 1,36 cavalli (CV), quindi 80 kW sono circa 109 CV.
 - **PRA (Pubblico registro automobilistico)** — il registro, tenuto dall'ACI, che indica a chi è intestato un veicolo. Il bollo si basa su questi dati.
-- **Regione a statuto speciale** — Sicilia, Sardegna, Valle d'Aosta, Friuli-Venezia Giulia e Trentino-Alto Adige (con le Province autonome di Trento e di Bolzano). Hanno più autonomia anche sulle imposte: in alcune il bollo è un tributo proprio, e per l'esenzione 2027 serve un Accordo con lo Stato (art. 2, c. 4, D.L. 162/2026).
+- **Regione a statuto speciale** — Sicilia, Sardegna, Valle d'Aosta, Friuli-Venezia Giulia e Trentino-Alto Adige (con le Province autonome di Trento e di Bolzano). Hanno più autonomia anche sulle imposte: in alcune il bollo è un tributo proprio, e per l'esenzione 2027 serve un accordo con lo Stato (art. 2, c. 4, D.L. 162/2026, testo coordinato con la L. 209/2026).
 - **Relazione tecnica** — il documento del Governo che accompagna una legge o un decreto e ne stima costi ed effetti sui conti pubblici. Le sue cifre sono stime.
-- **AC 3106** — il disegno di legge di conversione del D.L. 162/2026 alla Camera. [Scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)
+- **AC 3106** — il disegno di legge di conversione del D.L. 162/2026 alla Camera, poi approvato e pubblicato come L. 209/2026. [Scheda della Camera](https://www.camera.it/leg19/126?idDocumento=3106&leg=19)
 
 ## Diesel Euro 5 e qualità dell'aria
 

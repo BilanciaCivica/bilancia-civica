@@ -88,7 +88,7 @@ Cosa prevede: [Bollo auto 2027: chi è esente](bollo-auto.html) · [Sono esente?
 | Pubblicazione in Gazzetta Ufficiale | ✅ [GU Serie Generale n. 225 del 28/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG) |
 | Entrata in vigore | ✅ 29/09/2026 |
 | Presentazione alle Camere | ✅ AC 3119, presentato alla Camera il 28/09/2026; assegnato alle Commissioni riunite VIII (Ambiente) e IX (Trasporti) ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)) |
-| Esame in Commissione | ✅ concluso il 4/11/2026: Commissioni riunite VIII e IX; la scheda della Camera riporta «In stato di relazione» ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)) |
+| Esame in Commissione | ✅ concluso il 4/11/2026: Commissioni riunite VIII e IX ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)) |
 | Voto dell'Aula della Camera | ✅ 10/11/2026: approvato l'AC 3119 e trasmesso al Senato ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119)) |
 | Esame e voto del Senato | ✅ 17/11/2026: approvato in via definitiva l'AS 2091, trasmesso dalla Camera l'11/11/2026 ([dati aperti del Senato](https://dati.senato.it/sparql), data dello stato 17/11/2026) |
 | Legge di conversione | ✅ [legge 19 novembre 2026, n. 210](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG), senza modificazioni; [GU Serie Generale n. 271 del 20/11/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG); in vigore dal 21/11/2026 ([Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-11-19;210); [testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/SG)) |
