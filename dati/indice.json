@@ -4,7 +4,7 @@
   "repository": "https://github.com/BilanciaCivica/bilancia-civica",
   "documentazione": "https://github.com/BilanciaCivica/bilancia-civica/blob/main/DATI.md",
   "versione_schema": "1.0.3",
-  "generato_il": "2026-11-10T19:26:00+01:00",
+  "generato_il": "2026-11-22T15:11:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -12,7 +12,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "testi_aggiornati_al": "10/11/2026, ore 19:26 (ora di Roma)",
+  "testi_aggiornati_al": "22/11/2026, ore 15:11 (ora di Roma)",
   "nota_generato_il": "Coincide con la data di aggiornamento dei testi: due generazioni dagli stessi testi producono file identici.",
   "etichette": {
     "FATTO": "si può controllare sulla fonte indicata (legge, sentenza, atto ufficiale)",
@@ -21,55 +21,55 @@
     "DA VERIFICARE": "non ancora confermato da una fonte ufficiale: diciamo cosa manca"
   },
   "conteggi": {
-    "affermazioni": 591,
+    "affermazioni": 595,
     "per_etichetta": {
-      "FATTO": 460,
+      "FATTO": 467,
       "STIMA": 14,
       "INTERPRETAZIONE": 17,
-      "DA VERIFICARE": 100
+      "DA VERIFICARE": 97
     },
     "per_tema": {
       "presidi": 71,
       "cortei": 42,
-      "sciopero": 64,
-      "decreto-sicurezza": 118,
+      "sciopero": 65,
+      "decreto-sicurezza": 122,
       "autotrasporto": 10,
-      "legge-di-bilancio": 63,
-      "bollo-auto": 76,
-      "diesel-euro5": 52,
-      "generale": 95
+      "legge-di-bilancio": 65,
+      "bollo-auto": 75,
+      "diesel-euro5": 49,
+      "generale": 96
     },
     "per_pagina": {
-      "index.html": 10,
+      "index.html": 8,
       "diritti.html": 48,
       "presidio.html": 14,
       "corteo.html": 27,
       "sciopero.html": 6,
       "decreto.html": 27,
       "esempio.html": 20,
-      "stato.html": 49,
+      "stato.html": 53,
       "bollo-auto.html": 45,
       "bollo-sono-esente.html": 18,
-      "diesel-euro5.html": 36,
+      "diesel-euro5.html": 34,
       "diesel-euro5-posso-circolare.html": 4,
-      "manovra-2027.html": 47,
+      "manovra-2027.html": 48,
       "manovra-irpef.html": 18,
       "manovra-famiglie.html": 22,
       "manovra-pensioni.html": 25,
       "manovra-carta-sanitaria.html": 15,
-      "bussola-completa.html": 129,
-      "analisi-dl-190-2026.html": 31
+      "bussola-completa.html": 131,
+      "analisi-dl-190-2026.html": 32
     },
-    "fonti": 143,
-    "fonti_ufficiali": 136,
-    "affermazioni_senza_fonte_collegata": 19
+    "fonti": 148,
+    "fonti_ufficiali": 141,
+    "affermazioni_senza_fonte_collegata": 17
   },
   "controllo_estrazione": {
     "index.html": {
-      "badge": 15,
+      "badge": 13,
       "esempio": 5,
       "intestazione": 0,
-      "affermazioni": 10
+      "affermazioni": 8
     },
     "diritti.html": {
       "badge": 27,
@@ -108,10 +108,10 @@
       "affermazioni": 20
     },
     "stato.html": {
-      "badge": 28,
+      "badge": 33,
       "esempio": 0,
       "intestazione": 4,
-      "affermazioni": 49
+      "affermazioni": 53
     },
     "bollo-auto.html": {
       "badge": 34,
@@ -126,10 +126,10 @@
       "affermazioni": 18
     },
     "diesel-euro5.html": {
-      "badge": 32,
+      "badge": 30,
       "esempio": 0,
       "intestazione": 1,
-      "affermazioni": 36
+      "affermazioni": 34
     },
     "diesel-euro5-posso-circolare.html": {
       "badge": 4,
@@ -138,10 +138,10 @@
       "affermazioni": 4
     },
     "manovra-2027.html": {
-      "badge": 27,
+      "badge": 29,
       "esempio": 0,
       "intestazione": 6,
-      "affermazioni": 47
+      "affermazioni": 48
     },
     "manovra-irpef.html": {
       "badge": 18,
@@ -180,16 +180,16 @@
       "affermazioni": 0
     },
     "bussola-completa.html": {
-      "badge": 108,
+      "badge": 110,
       "esempio": 4,
       "intestazione": 8,
-      "affermazioni": 129
+      "affermazioni": 131
     },
     "analisi-dl-190-2026.html": {
-      "badge": 18,
+      "badge": 19,
       "esempio": 0,
       "intestazione": 1,
-      "affermazioni": 31
+      "affermazioni": 32
     },
     "glossario.html": {
       "badge": 4,

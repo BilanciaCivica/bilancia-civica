@@ -1,6 +1,6 @@
 {
   "versione_schema": "1.0.3",
-  "generato_il": "2026-11-10T19:26:00+01:00",
+  "generato_il": "2026-11-22T15:11:00+01:00",
   "licenza": {
     "testi": "CC BY-SA 4.0",
     "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.it",
@@ -8,7 +8,7 @@
     "esclusioni": "Sono esclusi dalla licenza i testi degli atti ufficiali, non protetti dal diritto d'autore (art. 5 L. 633/1941), e le citazioni di terzi, che restano dei rispettivi autori (art. 70 L. 633/1941)."
   },
   "avvertenza": "Contenuti informativi, non consulenza legale. Le fonti ufficiali restano il riferimento; per un caso concreto è opportuno rivolgersi a un avvocato, a un sindacato, a un patronato o a un'associazione di tutela dei diritti.",
-  "totale": 143,
+  "totale": 148,
   "fonti": [
     {
       "url": "https://dati.senato.it/sparql",
@@ -17,17 +17,21 @@
       "ufficiale": true,
       "dominio": "dati.senato.it",
       "affermazioni": [
-        "bollo-auto-5ab7b4c9c5",
-        "home-ff0c108ccf",
+        "bollo-auto-1a0ef7daf8",
+        "diesel-euro5-fc49beba53",
+        "home-874ac97022",
+        "home-f55b20c310",
         "stato-0dd13a774f",
+        "stato-39125299fa",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-52c47d7a5f",
-        "stato-68918a5455",
-        "stato-72d9acd971",
+        "stato-69518f77a5",
+        "stato-80afa896b9",
         "stato-85b153896e",
         "stato-9b28107a03",
-        "stato-e4345086f4"
+        "stato-9da23916cc",
+        "stato-e4345086f4",
+        "stato-ff2861db7f"
       ]
     },
     {
@@ -42,32 +46,49 @@
     },
     {
       "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario",
-      "titolo": "calendario dei lavori dell'Assemblea n. 44, novembre 2026",
-      "altri_titoli": [
-        "calendario dell'Assemblea",
-        "calendario n. 44"
-      ],
-      "ufficiale": true,
-      "dominio": "documenti.camera.it",
-      "affermazioni": [
-        "stato-29dcfa2c5f",
-        "stato-2a4092677f",
-        "stato-31ab611876",
-        "stato-4d7cffe467",
-        "stato-70a1d46ef0",
-        "stato-744b9fc9cc",
-        "stato-97f65b8b9d",
-        "stato-b4e1ebc92d"
-      ]
-    },
-    {
-      "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3106_A.19PDL0215620",
-      "titolo": "testo AC 3106-A",
+      "titolo": "calendario dell'Assemblea",
       "altri_titoli": [],
       "ufficiale": true,
       "dominio": "documenti.camera.it",
       "affermazioni": [
-        "bollo-auto-5ab7b4c9c5"
+        "stato-31ab611876",
+        "stato-70a1d46ef0",
+        "stato-97f65b8b9d",
+        "stato-9da23916cc",
+        "stato-b30b410e81",
+        "stato-d94f2ec78d",
+        "stato-f432ca8649"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=comunicato&anno=2026&mese=11&giorno=04&idCommissione=48&pagina=data.20261104.com48.bollettino.sede00010.tit00010&ancora=data.20261104.com48.bollettino.sede00010.tit00010",
+      "titolo": "bollettino della Camera del 4 novembre 2026",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "stato-e099f5ca99"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=comunicato&anno=2026&mese=11&giorno=12&idCommissione=02&pagina=&ancora=data.20261112.com02.bollettino.sede00010.tit00010.int00010",
+      "titolo": "bollettino della Camera del 12 novembre 2026, pag. 52",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "stato-775164714b",
+        "stato-b29ec3c3ef"
+      ]
+    },
+    {
+      "url": "https://documenti.camera.it/apps/commonServices/getDocumento.ashx?idLegislatura=19&sezione=bollettini&tipoDoc=comunicato&anno=2026&mese=11&giorno=12&idCommissione=05&pagina=&ancora=",
+      "titolo": "bollettino della V Commissione del 12 novembre 2026",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "documenti.camera.it",
+      "affermazioni": [
+        "stato-3afc141ca4"
       ]
     },
     {
@@ -119,12 +140,12 @@
         "bollo-auto-e56654c113",
         "home-ce83ba9b05",
         "manovra-2027-0a336cd05b",
+        "manovra-2027-11418c9565",
         "manovra-2027-2d5540d74a",
         "manovra-2027-475d05f498",
         "manovra-2027-4b26c4d793",
         "manovra-2027-7a646da4e9",
         "manovra-2027-854e7339d9",
-        "manovra-2027-8b74603446",
         "manovra-2027-91963f8c86",
         "manovra-2027-99cda59146",
         "manovra-2027-a312fe8b1f",
@@ -270,26 +291,6 @@
       ]
     },
     {
-      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/21/06/allegato.htm",
-      "titolo": "emendamenti approvati il 21/10",
-      "altri_titoli": [],
-      "ufficiale": true,
-      "dominio": "documenti.camera.it",
-      "affermazioni": [
-        "bollo-auto-d54a0a3813"
-      ]
-    },
-    {
-      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/28/06/allegato.htm",
-      "titolo": "il 28/10",
-      "altri_titoli": [],
-      "ufficiale": true,
-      "dominio": "documenti.camera.it",
-      "affermazioni": [
-        "bollo-auto-d54a0a3813"
-      ]
-    },
-    {
       "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/html/2026/10/28/06/comunic.htm",
       "titolo": "bollettino della Camera del 28 ottobre 2026",
       "altri_titoli": [],
@@ -320,16 +321,6 @@
       ]
     },
     {
-      "url": "https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/10/28/leg.19.bol0755.data20261028.com02.pdf",
-      "titolo": "bollettino della Camera, pag. 42",
-      "altri_titoli": [],
-      "ufficiale": true,
-      "dominio": "documenti.camera.it",
-      "affermazioni": [
-        "stato-cc39523147"
-      ]
-    },
-    {
       "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
       "titolo": "GDPR",
       "altri_titoli": [],
@@ -353,18 +344,20 @@
       "url": "https://scioperi.mit.gov.it/mit2/public/scioperi",
       "titolo": "prospetto MIT",
       "altri_titoli": [
+        "prospetto del MIT",
         "prospetto scioperi del Ministero delle infrastrutture e dei trasporti",
         "prospetto ufficiale del MIT"
       ],
       "ufficiale": true,
       "dominio": "scioperi.mit.gov.it",
       "affermazioni": [
-        "bussola-completa-1073289aa2",
         "bussola-completa-1400898a4b",
         "bussola-completa-2f69977915",
         "bussola-completa-7430bc2e53",
+        "bussola-completa-950b265a27",
         "bussola-completa-9bd93eabcd",
-        "bussola-completa-c5d0966426",
+        "bussola-completa-a76a5ed6a0",
+        "bussola-completa-a7e68dedea",
         "bussola-completa-ddbfb9d071",
         "bussola-completa-ddfc6f9fac"
       ]
@@ -411,7 +404,7 @@
       "ufficiale": false,
       "dominio": "www.ansa.it",
       "affermazioni": [
-        "bussola-completa-1073289aa2"
+        "bussola-completa-a7e68dedea"
       ]
     },
     {
@@ -421,28 +414,28 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "bollo-auto-5ab7b4c9c5",
-        "home-719c5de333",
-        "home-ff0c108ccf",
         "stato-0dd13a774f",
+        "stato-39125299fa",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-52c47d7a5f",
-        "stato-72d9acd971",
         "stato-85b153896e",
-        "stato-8a86234800",
         "stato-9b28107a03",
-        "stato-e4345086f4"
+        "stato-e4345086f4",
+        "stato-ff2861db7f"
       ]
     },
     {
       "url": "https://www.camera.it/leg19/126?idDocumento=3159&leg=19",
       "titolo": "scheda AC 3159",
-      "altri_titoli": [],
+      "altri_titoli": [
+        "scheda della Camera"
+      ],
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "stato-b17de4404c"
+        "stato-3158638ba2",
+        "stato-b29ec3c3ef",
+        "stato-ba4bb014ae"
       ]
     },
     {
@@ -455,14 +448,14 @@
       "dominio": "www.camera.it",
       "affermazioni": [
         "manovra-2027-0672e2d2ee",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
+        "manovra-2027-b66914772b",
         "manovra-2027-d82f26d5b3",
         "manovra-2027-dbe3c24e23",
-        "stato-3e649c6e5c",
         "stato-406d2a68e9",
+        "stato-5279a5c308",
         "stato-5961bafde3",
         "stato-7887362eee",
         "stato-79314f97a8",
@@ -479,49 +472,51 @@
       "dominio": "www.camera.it",
       "affermazioni": [
         "bollo-auto-e56654c113",
+        "home-74861a1eb0",
         "home-ce83ba9b05",
-        "home-ce95b5ef21",
         "manovra-2027-0672e2d2ee",
         "manovra-2027-4b26c4d793",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
+        "manovra-2027-ad48cd8466",
+        "manovra-2027-b66914772b",
         "manovra-2027-c0f8e318a8",
         "manovra-2027-d82f26d5b3",
         "manovra-2027-dbe3c24e23",
+        "manovra-2027-e0512d4a05",
         "manovra-carta-sanitaria-45bcee007b",
         "manovra-famiglie-45bcee007b",
         "manovra-irpef-45bcee007b",
         "manovra-pensioni-45bcee007b",
-        "stato-3e649c6e5c",
+        "stato-3afc141ca4",
         "stato-406d2a68e9",
+        "stato-5279a5c308",
         "stato-7887362eee",
         "stato-79314f97a8",
         "stato-8d0acd48d8",
+        "stato-ad48cd8466",
         "stato-d1ea5497e1",
         "stato-d5c957fd26"
       ]
     },
     {
       "url": "https://www.camera.it/leg19/126?leg=19&idDocumento=3119",
-      "titolo": "AC 3119",
-      "altri_titoli": [
-        "scheda della Camera"
-      ],
+      "titolo": "scheda della Camera",
+      "altri_titoli": [],
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "diesel-euro5-abdcad8f0e",
-        "diesel-euro5-b77691ea81",
-        "home-727cdf0854",
-        "stato-29dcfa2c5f",
-        "stato-2a4092677f",
+        "diesel-euro5-fc49beba53",
+        "home-f55b20c310",
         "stato-31ab611876",
-        "stato-4d7cffe467",
+        "stato-69518f77a5",
         "stato-70a1d46ef0",
-        "stato-744b9fc9cc",
-        "stato-97f65b8b9d"
+        "stato-97f65b8b9d",
+        "stato-9da23916cc",
+        "stato-b30b410e81",
+        "stato-d94f2ec78d",
+        "stato-f432ca8649"
       ]
     },
     {
@@ -543,8 +538,10 @@
         "stato-7dc7b67df9",
         "stato-8ee76a0280",
         "stato-92ef125c46",
+        "stato-b29ec3c3ef",
+        "stato-ba4bb014ae",
         "stato-bf08471979",
-        "stato-cc39523147"
+        "stato-e099f5ca99"
       ]
     },
     {
@@ -574,18 +571,14 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "bollo-auto-5ab7b4c9c5",
-        "home-719c5de333",
-        "home-ff0c108ccf",
         "stato-0dd13a774f",
+        "stato-39125299fa",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-52c47d7a5f",
-        "stato-72d9acd971",
         "stato-85b153896e",
-        "stato-8a86234800",
         "stato-9b28107a03",
-        "stato-e4345086f4"
+        "stato-e4345086f4",
+        "stato-ff2861db7f"
       ]
     },
     {
@@ -597,16 +590,14 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "bollo-auto-5ab7b4c9c5",
-        "home-ff0c108ccf",
         "stato-0dd13a774f",
+        "stato-39125299fa",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-52c47d7a5f",
-        "stato-72d9acd971",
         "stato-85b153896e",
         "stato-9b28107a03",
-        "stato-e4345086f4"
+        "stato-e4345086f4",
+        "stato-ff2861db7f"
       ]
     },
     {
@@ -616,17 +607,13 @@
       "ufficiale": true,
       "dominio": "www.camera.it",
       "affermazioni": [
-        "diesel-euro5-b77691ea81",
-        "home-727cdf0854",
-        "home-f7dfe1b272",
-        "stato-29dcfa2c5f",
-        "stato-2a4092677f",
         "stato-31ab611876",
-        "stato-481ac0500d",
-        "stato-4d7cffe467",
         "stato-70a1d46ef0",
-        "stato-744b9fc9cc",
-        "stato-97f65b8b9d"
+        "stato-97f65b8b9d",
+        "stato-9da23916cc",
+        "stato-b30b410e81",
+        "stato-d94f2ec78d",
+        "stato-f432ca8649"
       ]
     },
     {
@@ -659,12 +646,12 @@
     },
     {
       "url": "https://www.cgsse.it/attivita/interventi-preventivi",
-      "titolo": "cgsse.it",
+      "titolo": "interventi preventivi",
       "altri_titoli": [],
       "ufficiale": true,
       "dominio": "www.cgsse.it",
       "affermazioni": [
-        "bussola-completa-c5d0966426"
+        "bussola-completa-a76a5ed6a0"
       ]
     },
     {
@@ -712,6 +699,16 @@
       ]
     },
     {
+      "url": "https://www.cgsse.it/sites/default/files/2026-11/gen_12831_2026_2.pdf",
+      "titolo": "PDF",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.cgsse.it",
+      "affermazioni": [
+        "bussola-completa-950b265a27"
+      ]
+    },
+    {
       "url": "https://www.comune.milano.it/web/milano/aree-tematiche/mobilita/area-b",
       "titolo": "sito del Comune di Milano",
       "altri_titoli": [],
@@ -728,8 +725,8 @@
       "ufficiale": true,
       "dominio": "www.cortecostituzionale.it",
       "affermazioni": [
-        "analisi-dl-190-2026-5883416a08",
-        "bussola-completa-5883416a08"
+        "analisi-dl-190-2026-b6cc3c6ed0",
+        "bussola-completa-b6cc3c6ed0"
       ]
     },
     {
@@ -797,18 +794,8 @@
       "ufficiale": true,
       "dominio": "www.cortecostituzionale.it",
       "affermazioni": [
-        "analisi-dl-190-2026-eb76a76bc3",
-        "bussola-completa-eb76a76bc3"
-      ]
-    },
-    {
-      "url": "https://www.gazzettaufficiale.it/",
-      "titolo": "Gazzetta Ufficiale",
-      "altri_titoli": [],
-      "ufficiale": true,
-      "dominio": "www.gazzettaufficiale.it",
-      "affermazioni": [
-        "stato-68918a5455"
+        "analisi-dl-190-2026-d173cc2b2f",
+        "bussola-completa-d173cc2b2f"
       ]
     },
     {
@@ -818,8 +805,8 @@
       "ufficiale": true,
       "dominio": "www.gazzettaufficiale.it",
       "affermazioni": [
-        "analisi-dl-190-2026-eb76a76bc3",
-        "bussola-completa-eb76a76bc3"
+        "analisi-dl-190-2026-d173cc2b2f",
+        "bussola-completa-d173cc2b2f"
       ]
     },
     {
@@ -829,8 +816,8 @@
       "ufficiale": true,
       "dominio": "www.gazzettaufficiale.it",
       "affermazioni": [
-        "analisi-dl-190-2026-eb76a76bc3",
-        "bussola-completa-eb76a76bc3"
+        "analisi-dl-190-2026-d173cc2b2f",
+        "bussola-completa-d173cc2b2f"
       ]
     },
     {
@@ -840,8 +827,8 @@
       "ufficiale": true,
       "dominio": "www.gazzettaufficiale.it",
       "affermazioni": [
-        "analisi-dl-190-2026-eb76a76bc3",
-        "bussola-completa-eb76a76bc3"
+        "analisi-dl-190-2026-d173cc2b2f",
+        "bussola-completa-d173cc2b2f"
       ]
     },
     {
@@ -940,73 +927,71 @@
         "analisi-dl-190-2026-7059eefe64",
         "bollo-auto-01d46d17f7",
         "bollo-auto-08d81309cd",
+        "bollo-auto-0a8468c2a2",
         "bollo-auto-17b9e858b1",
         "bollo-auto-1915c13bea",
-        "bollo-auto-1dcab44290",
+        "bollo-auto-1a0ef7daf8",
         "bollo-auto-258a0cef9a",
-        "bollo-auto-28288490fe",
         "bollo-auto-2d4956a396",
-        "bollo-auto-2ddbdc4717",
+        "bollo-auto-2fb960f0b9",
         "bollo-auto-31997e6204",
         "bollo-auto-3316b08c90",
         "bollo-auto-4c46ca3675",
         "bollo-auto-535d64b924",
         "bollo-auto-5671d29b30",
-        "bollo-auto-5ab7b4c9c5",
-        "bollo-auto-695e1b4b17",
         "bollo-auto-6c6adb4d74",
         "bollo-auto-6d44c2f74b",
         "bollo-auto-76839caea6",
         "bollo-auto-7b929b1c1c",
-        "bollo-auto-8b574a7e93",
+        "bollo-auto-8dd2b5355c",
         "bollo-auto-8f2cb07981",
         "bollo-auto-92daa68a5f",
-        "bollo-auto-945503a815",
+        "bollo-auto-95ef4fc45e",
         "bollo-auto-9a7198ec4a",
         "bollo-auto-9bfec84ad1",
         "bollo-auto-9e0096b367",
         "bollo-auto-a0560a43f6",
         "bollo-auto-a9987b6e95",
         "bollo-auto-adc9be7a52",
-        "bollo-auto-bee45f76e1",
         "bollo-auto-e53bb16fb8",
         "bollo-auto-e56654c113",
+        "bollo-auto-e60468b20c",
         "bollo-auto-e7a943a2b4",
+        "bollo-auto-ec9ace16f8",
+        "bollo-auto-ee84670f06",
         "bollo-sono-esente-094aa5f5ed",
-        "bollo-sono-esente-35773a7c81",
+        "bollo-sono-esente-427ed2fbcb",
         "bollo-sono-esente-5baceb0724",
         "bollo-sono-esente-62ecdd9b53",
         "bollo-sono-esente-6316fad6e3",
         "bollo-sono-esente-64c87bb9e5",
         "bollo-sono-esente-77c4a26918",
+        "bollo-sono-esente-a55ccba5e7",
         "bollo-sono-esente-ae103c3e1f",
         "bollo-sono-esente-b3394a3fab",
         "bollo-sono-esente-c60fbfb1d4",
         "bollo-sono-esente-d07d9e2f98",
         "bollo-sono-esente-d35c23eca9",
-        "bollo-sono-esente-d3d2910ebd",
         "bollo-sono-esente-d642a6ecd4",
         "bollo-sono-esente-e1b23413b7",
         "bollo-sono-esente-eb3c20be78",
         "bollo-sono-esente-ee4f89421b",
         "home-4371226f9a",
-        "home-719c5de333",
-        "home-ff0c108ccf",
-        "manovra-2027-8b74603446",
+        "manovra-2027-11418c9565",
         "manovra-2027-c0f8e318a8",
         "stato-0dd13a774f",
         "stato-30895597aa",
+        "stato-39125299fa",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-52c47d7a5f",
         "stato-702ae70c9f",
-        "stato-72d9acd971",
+        "stato-80afa896b9",
         "stato-85b153896e",
-        "stato-8a86234800",
         "stato-99631721dd",
         "stato-9b28107a03",
         "stato-d5c957fd26",
-        "stato-e4345086f4"
+        "stato-e4345086f4",
+        "stato-ff2861db7f"
       ]
     },
     {
@@ -1024,18 +1009,16 @@
         "diesel-euro5-18f2876e9e",
         "diesel-euro5-4ee6265184",
         "diesel-euro5-66abe358e2",
-        "diesel-euro5-b77691ea81",
+        "diesel-euro5-fc49beba53",
         "home-4a627e37e5",
-        "home-f7dfe1b272",
-        "stato-29dcfa2c5f",
-        "stato-2a4092677f",
         "stato-31ab611876",
-        "stato-481ac0500d",
-        "stato-4d7cffe467",
+        "stato-69518f77a5",
         "stato-70a1d46ef0",
-        "stato-744b9fc9cc",
         "stato-97f65b8b9d",
-        "stato-b4e1ebc92d"
+        "stato-9da23916cc",
+        "stato-b30b410e81",
+        "stato-d94f2ec78d",
+        "stato-f432ca8649"
       ]
     },
     {
@@ -1160,8 +1143,10 @@
         "stato-7dc7b67df9",
         "stato-8ee76a0280",
         "stato-92ef125c46",
+        "stato-b29ec3c3ef",
+        "stato-ba4bb014ae",
         "stato-bf08471979",
-        "stato-cc39523147"
+        "stato-e099f5ca99"
       ]
     },
     {
@@ -1179,6 +1164,74 @@
         "stato-702ae70c9f",
         "stato-99631721dd",
         "stato-da1388036c"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06055/SG",
+      "titolo": "art. 2, cc. 4-6, testo coordinato",
+      "altri_titoli": [
+        "testo coordinato"
+      ],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "bollo-auto-1a0ef7daf8",
+        "bollo-auto-66927901c1",
+        "bollo-auto-ada1a89949",
+        "home-874ac97022",
+        "stato-1b60937aa8"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG",
+      "titolo": "GU Serie Generale n. 267 del 16 novembre 2026",
+      "altri_titoli": [
+        "L. 209/2026",
+        "allegato alla L. 209/2026",
+        "legge 13 novembre 2026, n. 209"
+      ],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "bollo-auto-1a0ef7daf8",
+        "bollo-auto-66927901c1",
+        "bollo-auto-ada1a89949",
+        "home-874ac97022",
+        "manovra-2027-11418c9565",
+        "stato-1b60937aa8",
+        "stato-39125299fa",
+        "stato-80afa896b9"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/SG",
+      "titolo": "testo coordinato",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "diesel-euro5-fa2affcc21",
+        "diesel-euro5-fc49beba53",
+        "home-f55b20c310",
+        "stato-f432ca8649"
+      ]
+    },
+    {
+      "url": "https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG",
+      "titolo": "GU Serie Generale n. 271 del 20 novembre 2026",
+      "altri_titoli": [
+        "L. 210/2026",
+        "legge 19 novembre 2026, n. 210"
+      ],
+      "ufficiale": true,
+      "dominio": "www.gazzettaufficiale.it",
+      "affermazioni": [
+        "diesel-euro5-fa2affcc21",
+        "diesel-euro5-fc49beba53",
+        "home-f55b20c310",
+        "stato-5d3df67880",
+        "stato-69518f77a5",
+        "stato-f432ca8649"
       ]
     },
     {
@@ -1215,8 +1268,10 @@
         "stato-7dc7b67df9",
         "stato-8ee76a0280",
         "stato-92ef125c46",
+        "stato-b29ec3c3ef",
+        "stato-ba4bb014ae",
         "stato-bf08471979",
-        "stato-cc39523147"
+        "stato-e099f5ca99"
       ]
     },
     {
@@ -1248,7 +1303,6 @@
         "manovra-2027-2f95c3feb4",
         "manovra-2027-33db2c3c6e",
         "manovra-2027-475d05f498",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-63d2b9f420",
         "manovra-2027-7a646da4e9",
@@ -1264,13 +1318,14 @@
         "manovra-2027-a312fe8b1f",
         "manovra-2027-a95e1cd0ac",
         "manovra-2027-abc02c2d82",
+        "manovra-2027-b66914772b",
         "manovra-2027-be7d09b3a3",
         "manovra-2027-c0f8e318a8",
         "manovra-2027-d101b1b27f",
         "manovra-2027-d82f26d5b3",
         "manovra-irpef-d4a175ce3f",
-        "stato-3e649c6e5c",
         "stato-406d2a68e9",
+        "stato-5279a5c308",
         "stato-5961bafde3",
         "stato-79314f97a8",
         "stato-8d0acd48d8",
@@ -1357,9 +1412,8 @@
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
-        "analisi-dl-190-2026-eb76a76bc3",
-        "bollo-auto-5ab7b4c9c5",
-        "bollo-auto-99f240991b",
+        "analisi-dl-190-2026-d173cc2b2f",
+        "analisi-dl-190-2026-ef35f73933",
         "bussola-completa-06b726347c",
         "bussola-completa-0da44c84bc",
         "bussola-completa-0edb96b0dc",
@@ -1376,14 +1430,13 @@
         "bussola-completa-b3e56c1569",
         "bussola-completa-b5173f5a3f",
         "bussola-completa-b82d243e4c",
+        "bussola-completa-d173cc2b2f",
         "bussola-completa-db78e37ab6",
         "bussola-completa-dced647128",
-        "bussola-completa-eb76a76bc3",
+        "bussola-completa-ef35f73933",
         "corteo-0cdde9881a",
         "decreto-10a59bd435",
         "decreto-d782532e57",
-        "diesel-euro5-4f6d607ab5",
-        "diesel-euro5-ad28b93656",
         "diritti-4d378948de",
         "diritti-70be1de314",
         "diritti-80798e52df",
@@ -1399,21 +1452,18 @@
         "esempio-d53dbb1a51",
         "home-293a0794b9",
         "home-3f5e1424e1",
-        "home-ce95b5ef21",
-        "home-ff0c108ccf",
+        "home-74861a1eb0",
         "manovra-2027-0672e2d2ee",
         "manovra-2027-13829ce0d5",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-5f5b311096",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
+        "manovra-2027-b66914772b",
         "manovra-2027-d82f26d5b3",
         "presidio-af9a350a8b",
-        "stato-3e649c6e5c",
         "stato-406d2a68e9",
-        "stato-52c47d7a5f",
-        "stato-744b9fc9cc",
+        "stato-5279a5c308",
         "stato-79314f97a8",
         "stato-8d0acd48d8",
         "stato-bf08471979"
@@ -1476,16 +1526,11 @@
     {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77",
       "titolo": "art. 77 Cost.",
-      "altri_titoli": [
-        "art. 77, terzo comma, Cost."
-      ],
+      "altri_titoli": [],
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
-        "diesel-euro5-4f6d607ab5",
-        "diesel-euro5-ad28b93656",
-        "home-293a0794b9",
-        "home-ff0c108ccf"
+        "home-293a0794b9"
       ]
     },
     {
@@ -1500,17 +1545,17 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "home-3f5e1424e1",
-        "home-ce95b5ef21",
+        "home-74861a1eb0",
         "manovra-2027-0672e2d2ee",
         "manovra-2027-13829ce0d5",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-5f5b311096",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
+        "manovra-2027-b66914772b",
         "manovra-2027-d82f26d5b3",
-        "stato-3e649c6e5c",
         "stato-406d2a68e9",
+        "stato-5279a5c308",
         "stato-79314f97a8",
         "stato-8d0acd48d8"
       ]
@@ -1694,32 +1739,35 @@
       "altri_titoli": [
         "Normattiva",
         "art. 2 D.L. 162/2026",
+        "art. 2 vigente",
         "testo vigente su Normattiva"
       ],
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
-        "bollo-auto-1dcab44290",
+        "bollo-auto-1a0ef7daf8",
         "bollo-auto-76839caea6",
         "bollo-auto-8f2cb07981",
         "bollo-auto-9a7198ec4a",
         "bollo-auto-9bfec84ad1",
         "bollo-auto-a0560a43f6",
+        "bollo-auto-ee84670f06",
         "bollo-sono-esente-094aa5f5ed",
+        "bollo-sono-esente-a55ccba5e7",
         "bollo-sono-esente-b3394a3fab",
-        "bollo-sono-esente-d3d2910ebd",
         "bollo-sono-esente-d642a6ecd4",
         "bollo-sono-esente-e1b23413b7",
         "bollo-sono-esente-ee4f89421b",
         "home-4371226f9a",
         "stato-0dd13a774f",
+        "stato-1b60937aa8",
+        "stato-39125299fa",
         "stato-39af3ba53d",
         "stato-4207b7f2da",
-        "stato-52c47d7a5f",
-        "stato-72d9acd971",
         "stato-85b153896e",
         "stato-9b28107a03",
-        "stato-e4345086f4"
+        "stato-e4345086f4",
+        "stato-ff2861db7f"
       ]
     },
     {
@@ -1728,6 +1776,7 @@
       "altri_titoli": [
         "Normattiva",
         "art. 1 D.L. 167/2026",
+        "art. 1 su Normattiva",
         "decreto"
       ],
       "ufficiale": true,
@@ -1735,14 +1784,15 @@
       "affermazioni": [
         "diesel-euro5-2a0cd4ead1",
         "diesel-euro5-4ee6265184",
+        "diesel-euro5-fa2affcc21",
         "home-4a627e37e5",
-        "stato-29dcfa2c5f",
-        "stato-2a4092677f",
         "stato-31ab611876",
-        "stato-4d7cffe467",
         "stato-70a1d46ef0",
-        "stato-744b9fc9cc",
-        "stato-97f65b8b9d"
+        "stato-97f65b8b9d",
+        "stato-9da23916cc",
+        "stato-b30b410e81",
+        "stato-d94f2ec78d",
+        "stato-f432ca8649"
       ]
     },
     {
@@ -1974,8 +2024,8 @@
       "ufficiale": true,
       "dominio": "www.normattiva.it",
       "affermazioni": [
-        "bollo-auto-8b574a7e93",
-        "bollo-auto-c7818ef53a"
+        "bollo-auto-c7818ef53a",
+        "bollo-auto-ec9ace16f8"
       ]
     },
     {
@@ -2172,18 +2222,18 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "home-3f5e1424e1",
-        "home-ce95b5ef21",
+        "home-74861a1eb0",
         "manovra-2027-0672e2d2ee",
         "manovra-2027-13829ce0d5",
         "manovra-2027-463e89dc36",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-5f5b311096",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
+        "manovra-2027-b66914772b",
         "manovra-2027-d82f26d5b3",
-        "stato-3e649c6e5c",
         "stato-406d2a68e9",
+        "stato-5279a5c308",
         "stato-79314f97a8",
         "stato-8d0acd48d8"
       ]
@@ -2198,17 +2248,17 @@
       "dominio": "www.normattiva.it",
       "affermazioni": [
         "home-3f5e1424e1",
-        "home-ce95b5ef21",
+        "home-74861a1eb0",
         "manovra-2027-0672e2d2ee",
         "manovra-2027-13829ce0d5",
-        "manovra-2027-5a8424d24e",
         "manovra-2027-5d3f1d2dd7",
         "manovra-2027-5f5b311096",
         "manovra-2027-63d2b9f420",
         "manovra-2027-8d0acd48d8",
+        "manovra-2027-b66914772b",
         "manovra-2027-d82f26d5b3",
-        "stato-3e649c6e5c",
         "stato-406d2a68e9",
+        "stato-5279a5c308",
         "stato-79314f97a8",
         "stato-8d0acd48d8"
       ]
@@ -2265,6 +2315,26 @@
       ]
     },
     {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-11-13;209",
+      "titolo": "Normattiva",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "stato-39125299fa"
+      ]
+    },
+    {
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2026-11-19;210",
+      "titolo": "Normattiva",
+      "altri_titoli": [],
+      "ufficiale": true,
+      "dominio": "www.normattiva.it",
+      "affermazioni": [
+        "stato-f432ca8649"
+      ]
+    },
+    {
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-19;1398",
       "titolo": "Codice penale (R.D. 1398/1930)",
       "altri_titoli": [],
@@ -2280,7 +2350,8 @@
         "analisi-dl-190-2026-a7f28386cd",
         "analisi-dl-190-2026-bd90accac7",
         "analisi-dl-190-2026-c322a1afb7",
-        "analisi-dl-190-2026-eb76a76bc3",
+        "analisi-dl-190-2026-d173cc2b2f",
+        "analisi-dl-190-2026-ef35f73933",
         "analisi-dl-190-2026-efcfb1cf53",
         "analisi-dl-190-2026-f684f7a633",
         "analisi-dl-190-2026-face9da946",
@@ -2295,9 +2366,10 @@
         "bussola-completa-7833271bfe",
         "bussola-completa-9b48beda88",
         "bussola-completa-a6a9ccdfec",
+        "bussola-completa-d173cc2b2f",
         "bussola-completa-d2a4cfa1b9",
         "bussola-completa-d8ae8c2dbe",
-        "bussola-completa-eb76a76bc3",
+        "bussola-completa-ef35f73933",
         "corteo-0cdde9881a",
         "corteo-2e0579d8fd",
         "corteo-74c8f128b7",
