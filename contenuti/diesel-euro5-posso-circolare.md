@@ -4,10 +4,10 @@ descrizione: Quattro domande per orientarti sui blocchi dei diesel Euro 5 nell'i
 ---
 # Diesel Euro 5: la mia auto può circolare?
 
-*Poche domande in ordine, senza raccogliere dati: rispondi da solo e segui il link. Basato sull'art. 1 del [D.L. 121/2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-12;121~art1), come modificato dal D.L. 167/2026, e sui siti delle Regioni, verificati al 30/10/2026.*
+*Poche domande in ordine, senza raccogliere dati: rispondi da solo e segui il link. Basato sull'art. 1 del [D.L. 121/2023](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2023-09-12;121~art1), come modificato dal D.L. 167/2026, convertito, senza modificazioni, dalla [L. 210/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG), e sui siti delle Regioni. Situazione normativa verificata al 22/11/2026.*
 
 ::: attenzione
-**Questa pagina orienta, non decide.** L'esito è sempre «probabile»: le regole le fissano la Regione e il Comune in cui guidi, e possono cambiare da un giorno all'altro con l'allerta smog. Il decreto deve ancora essere convertito in legge entro il 27/11/2026. Spiegazione completa: [Diesel Euro 5: cosa cambia](diesel-euro5.html).
+**Questa pagina orienta, non decide.** L'esito è sempre «probabile»: le regole le fissano la Regione e il Comune in cui guidi, e possono cambiare da un giorno all'altro con l'allerta smog. Il decreto è stato convertito in legge, senza modificazioni, dalla [L. 210/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG). Spiegazione completa: [Diesel Euro 5: cosa cambia](diesel-euro5.html).
 :::
 
 ## 1. Che veicolo è

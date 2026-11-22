@@ -4,7 +4,7 @@ descrizione: Il D.L. 167/2026 rinvia al 1° ottobre 2027 l'obbligo di inserire i
 ---
 # Diesel Euro 5: cosa cambia con il rinvio al 2027
 
-*Decreto-legge 28 settembre 2026, n. 167, art. 1. Situazione verificata al 9/11/2026 su Normattiva, Gazzetta Ufficiale, camera.it e siti delle Regioni. Il decreto deve essere convertito in legge entro il 27/11/2026 e il Parlamento può modificarlo.*
+*Decreto-legge 28 settembre 2026, n. 167, art. 1, convertito, senza modificazioni, dalla legge 19 novembre 2026, n. 210. Situazione verificata al 22/11/2026 su Normattiva, Gazzetta Ufficiale, camera.it e siti delle Regioni. La legge di conversione è in vigore dal 21/11/2026.*
 
 ::: inbreve
 **In breve**
@@ -18,7 +18,7 @@ Ti riguarda? [La mia auto può circolare?](diesel-euro5-posso-circolare.html)
 :::
 
 ::: stato
-**A che punto è.** In vigore dal 29/09/2026 ([GU n. 225 del 28/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG)). Alla Camera è l'[AC 3119](https://www.camera.it/leg19/126?leg=19&idDocumento=3119): le Commissioni riunite hanno concluso l'esame il 4/11/2026 (scheda: «In stato di relazione»); il 9/11/2026 l'Aula ha svolto la discussione generale e ha rinviato il seguito ad altra seduta ([resoconto sommario della seduta n. 741](https://www.camera.it/leg19/410?idSeduta=0741&tipo=sommario)). Va convertito in legge entro il **27/11/2026**. [FATTO · Alta] Dettagli: [Stato degli atti](stato.html#diesel-euro-5--dl-28-settembre-2026-n-167).
+**A che punto è.** In vigore dal 29/09/2026 ([GU n. 225 del 28/09/2026](https://www.gazzettaufficiale.it/eli/id/2026/09/28/26G00186/SG)). Convertito in legge, senza modificazioni, dalla [legge 19 novembre 2026, n. 210](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG), pubblicata nella GU Serie Generale n. 271 del 20/11/2026 ed entrata in vigore il 21/11/2026. La Camera ha approvato l'AC 3119 il 10/11/2026; il Senato ha approvato in via definitiva l'AS 2091 il 17/11/2026 ([scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119); [dati aperti del Senato](https://dati.senato.it/sparql); [testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/SG)). [FATTO · Alta] Dettagli: [Stato degli atti](stato.html#diesel-euro-5--dl-28-settembre-2026-n-167).
 :::
 
 ## Chi riguarda
@@ -76,13 +76,9 @@ Cosa dice la regola che il decreto modifica: art. 1 del [D.L. 121/2023](https://
 
 Non esiste nelle fonti lette un totale per le quattro Regioni: non lo calcoliamo noi.
 
-## Se il decreto non viene convertito
+## Conversione in legge
 
-[FATTO · Alta] Se il Parlamento non lo converte in legge entro il 27/11/2026, il decreto perde efficacia fin dall'inizio ([art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)).
-
-[FATTO · Alta] Le Camere possono però regolare con legge i rapporti giuridici sorti sulla base del decreto non convertito ([art. 77, terzo comma, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)).
-
-[DA VERIFICARE] Cosa succederebbe in pratica: le Regioni hanno già adottato atti propri (rinvii e misure compensative), e le fonti lette non dicono quali effetti avrebbe la mancata conversione su questi atti. Manca: un parere ufficiale. Verifica: esito della conversione sulla [scheda della Camera](https://www.camera.it/leg19/126?leg=19&idDocumento=3119) dopo il 27/11/2026.
+[FATTO · Alta] Il decreto è stato convertito in legge, senza modificazioni, dalla [L. 210/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG) (GU n. 271 del 20/11/2026; in vigore dal 21/11/2026). Il rinvio al 1° ottobre 2027 è quindi legge ([testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/SG); [art. 1 su Normattiva](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1)).
 
 ## Domande frequenti
 

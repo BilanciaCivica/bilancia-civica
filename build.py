@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "10/11/2026, ore 19:26 (ora di Roma)"
+AGGIORNATO = "22/11/2026, ore 12:30 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -177,38 +177,36 @@ TESTO_3106A = ("https://documenti.camera.it/apps/commonServices/getDocumento.ash
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
-    {"data": "10/11/2026", "titolo": "Manovra 2027: disegno di legge in esame",
+    {"data": "20/11/2026", "titolo": "Diesel Euro 5: decreto convertito in legge",
+     "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
+               "di inserire nei piani per la qualità dell'aria il blocco strutturale dei diesel Euro 5, salvo misure "
+               "compensative ([art. 1 D.L. 167/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1)). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è stato convertito, senza modificazioni, dalla [legge 19 novembre 2026, n. 210](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG) "
+              "(GU n. 271 del 20/11/2026; in vigore dal 21/11/2026). La Camera ha approvato l'AC 3119 il 10/11/2026; "
+              "il Senato ha approvato in via definitiva l'AS 2091 il 17/11/2026 "
+              f"([scheda della Camera]({SCHEDA_3119}); [dati aperti del Senato](https://dati.senato.it/sparql); "
+              "[testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26A06181/SG)). [FATTO · Alta]",
+     "link": [("Cosa cambia per i diesel Euro 5", "diesel-euro5.html"),
+              ("Bussola: la mia auto può circolare?", "diesel-euro5-posso-circolare.html")]},
+    {"data": "16/11/2026", "titolo": "Bollo auto 2027: decreto convertito in legge",
+     "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
+               "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
+               "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
+     "stato": "**A che punto è:** il decreto è stato convertito, con modificazioni, dalla [legge 13 novembre 2026, n. 209](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG) "
+              "(GU n. 267 del 16/11/2026; in vigore dal 17/11/2026). Le modifiche all'art. 2 non cambiano i requisiti di chi è esente "
+              "([testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06055/SG); "
+              "[dati aperti del Senato](https://dati.senato.it/sparql)). [FATTO · Alta]",
+     "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
+    {"data": "12/11/2026", "titolo": "Manovra 2027: disegno di legge in esame",
      "novita": "**Cosa cambia:** il disegno di legge di bilancio 2027-2029 (AC 3174-bis) è all'esame della Camera: è una proposta, non ancora legge. "
                "Le schede spiegano cosa prevede il testo per IRPEF, famiglie, pensioni e carta sanitaria "
                f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760)). [FATTO · Alta]",
-     "stato": "**A che punto è:** l'**AC 3174-bis** è assegnato alla V Commissione (Bilancio); va approvato dal Parlamento "
-              "entro il **31/12/2026** "
+     "stato": "**A che punto è:** l'esame in V Commissione (Bilancio) è iniziato il 12/11/2026; la scheda, al 22/11/2026, resta "
+              "«in corso di esame in Commissione». Va approvato dal Parlamento entro il **31/12/2026** "
               f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); "
               "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
               "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
      "link": [("Annunci e testo del disegno di legge (AC 3174-bis)", "manovra-2027.html")]},
-    {"data": "9/11/2026", "titolo": "Bollo auto 2027",
-     "novita": "**Cosa cambia:** per il 2027 le persone fisiche con i requisiti non pagano il bollo per un solo veicolo "
-               "regolarmente assicurato: un'auto a benzina o gasolio fino a 80 kW, anche ibrida, oppure, se non sono tenute "
-               "al bollo per nessuna auto fino a 80 kW, una moto o un motorino a benzina ([art. 2 D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore. Va convertito in legge entro il **16/11/2026** "
-              "(60 giorni dalla pubblicazione, [art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77); [Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/09/17/26G00181/SG)). "
-              f"Il 5/11/2026 l'Aula della Camera ha approvato, con 127 voti favorevoli, 38 contrari e 49 astenuti, "
-              f"il disegno di legge che converte il decreto con modificazioni (AC 3106-A; "
-              f"[resoconto sommario della seduta n. 739]({RESOCONTO_739}); "
-              f"[resoconto stenografico, votazione n. 14]({STENO_739})); il testo è stato trasmesso al Senato "
-              f"come AS 2085 ([scheda della Camera]({SCHEDA_3106}); [dati aperti del Senato](https://dati.senato.it/sparql)). [FATTO · Alta]",
-     "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
-    {"data": "9/11/2026", "titolo": "Diesel Euro 5",
-     "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
-               "di inserire nei piani per la qualità dell'aria il blocco strutturale dei diesel Euro 5, salvo misure "
-               "compensative ([art. 1 D.L. 167/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-28;167~art1)). [FATTO · Alta]",
-     "stato": "**A che punto è:** il decreto è in vigore ed è all'esame del Parlamento. Va convertito in legge entro il **27/11/2026**. "
-              f"Il 9/11/2026 l'Aula della Camera ha svolto la discussione generale sull'AC 3119 e ha rinviato il seguito "
-              f"ad altra seduta ([resoconto sommario della seduta n. 741]({RESOCONTO_741}); "
-              f"[scheda della Camera]({SCHEDA_3119})). [FATTO · Alta]",
-     "link": [("Cosa cambia per i diesel Euro 5", "diesel-euro5.html"),
-              ("Bussola: la mia auto può circolare?", "diesel-euro5-posso-circolare.html")]},
 ]
 
 # Griglia «Tutti i temi»: ordine fisso (decreto sicurezza per primo). «aggiornato»
@@ -220,29 +218,24 @@ TEMI_HOME = [
      "corteo.html", "27/10/2026"),
     ("✊", "Sciopero", "Preavviso, servizi pubblici essenziali, settore privato, precettazione e autotrasporto.",
      "sciopero.html", "24/10/2026"),
-    ("🚗", "Bollo auto 2027", "Chi può essere esente secondo il D.L. 162/2026: requisiti, più veicoli e punti aperti.",
-     "bollo-auto.html", "9/11/2026"),
+    ("🚗", "Bollo auto 2027", "Chi può essere esente secondo il D.L. 162/2026, convertito dalla L. 209/2026: requisiti, più veicoli e punti aperti.",
+     "bollo-auto.html", "16/11/2026"),
     ("⛽", "Diesel Euro 5", "Il rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali, Regione per Regione.",
-     "diesel-euro5.html", "9/11/2026"),
+     "diesel-euro5.html", "20/11/2026"),
     ("💶", "Manovra 2027", "Le misure del disegno di legge di bilancio, con schede su IRPEF, famiglie, pensioni e carta sanitaria: non ancora legge.",
-     "manovra-2027.html", "10/11/2026"),
+     "manovra-2027.html", "12/11/2026"),
     ("📍", "Presidi", "Preavviso al questore, prescrizioni e sanzioni, passo per passo.",
      "presidio.html", "25/10/2026"),
     ("📘", "Diritti e regole", "Riunione, manifestazione e sciopero: cosa è protetto e cosa è punibile.",
      "diritti.html", "25/10/2026"),
     ("🧭", "Bussola Diritti (testo completo)", "Tutte le norme, le domande frequenti e le fonti su riunione, manifestazione e sciopero.",
-     "bussola-completa.html", "3/11/2026"),
+     "bussola-completa.html", "22/11/2026"),
     ("🔍", "Analisi del decreto sicurezza", "Analisi tecnica, articolo per articolo, del D.L. 190/2026.",
-     "analisi-dl-190-2026.html", "3/11/2026"),
+     "analisi-dl-190-2026.html", "22/11/2026"),
 ]
 
 # «A che punto sono le leggi»: prossime scadenze, in ordine di data (dalla pagina Stato degli atti).
 SCADENZE = [
-    "**16 novembre 2026** · Bollo auto 2027 (D.L. 162/2026): termine per la conversione in legge; il 5/11/2026 "
-    f"l'Aula della Camera ha approvato il disegno di legge di conversione e l'ha trasmesso al Senato "
-    f"([resoconto sommario della seduta n. 739]({RESOCONTO_739}); [scheda della Camera]({SCHEDA_3106})). [FATTO · Alta]",
-    "**27 novembre 2026** · Diesel Euro 5 (D.L. 167/2026): termine per la conversione in legge; il 9/11/2026 "
-    f"l'Aula della Camera ha svolto la discussione generale ([resoconto sommario della seduta n. 741]({RESOCONTO_741})). [FATTO · Alta]",
     "**21 dicembre 2026** · Decreto sicurezza (D.L. 190/2026): termine per la conversione in legge, altrimenti il "
     "decreto perde efficacia dall'inizio ([Gazzetta Ufficiale](https://www.gazzettaufficiale.it/eli/id/2026/10/22/26G00214/SG); "
     "[art. 77 Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77)). [FATTO · Alta]",

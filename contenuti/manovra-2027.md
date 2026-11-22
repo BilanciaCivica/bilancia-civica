@@ -4,7 +4,7 @@ descrizione: La legge di bilancio 2027 per aree: annunci del Governo e, per alcu
 ---
 # Manovra 2027: annunci e testo del disegno di legge
 
-*Disegno di legge di bilancio 2027-2029, approvato dal Consiglio dei ministri il 28/10/2026 e presentato alla Camera il 30/10/2026 (AC 3174; dopo lo stralcio del 4/11/2026: AC 3174-bis). Situazione verificata al 10/11/2026 (ora di Roma) per le schede IRPEF, famiglie, pensioni, carta sanitaria e bollo; al 9/11/2026 per lo stato dell'iter e per gli annunci non ancora confrontati articolo per articolo.*
+*Disegno di legge di bilancio 2027-2029, approvato dal Consiglio dei ministri il 28/10/2026 e presentato alla Camera il 30/10/2026 (AC 3174; dopo lo stralcio del 4/11/2026: AC 3174-bis). Situazione verificata al 22/11/2026 (ora di Roma) per lo stato dell'iter; al 10/11/2026 per le schede IRPEF, famiglie, pensioni, carta sanitaria e bollo e per gli annunci non ancora confrontati articolo per articolo.*
 
 ::: attenzione
 **Non è ancora legge.** Riportiamo gli annunci del Governo ([comunicato del Consiglio dei ministri n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973)) e, per alcune misure, il testo dell'AC 3174-bis. Le novità annunciate non sono ancora in vigore. Alcune misure, secondo il comunicato, confermano o prorogano agevolazioni che esistono già: per quelle valgono le regole oggi in vigore, con le loro scadenze. Il Parlamento può cambiarle tutte. Il testo è all'esame della Camera (**AC 3174-bis**). Per IRPEF, famiglie, pensioni, carta sanitaria e bollo il confronto con il testo è nelle [schede delle misure](#schede-delle-misure); le altre misure di questa pagina, se non rinviano a una scheda, restano da verificare.
@@ -29,7 +29,7 @@ Queste schede partono dal [testo dell'AC 3174-bis](https://documenti.camera.it/a
 - [Famiglie](manovra-famiglie.html) — artt. 57-60: bonus lavoratrici madri, Fondo «Valore nuovi nati», congedo parentale, voucher per l'infanzia
 - [Pensioni](manovra-pensioni.html) — artt. 51, 52, 54 e 55: APE sociale, fondo per l'uscita dal lavoro (regole non ancora scritte), rivalutazione 2027
 - [Carta sanitaria per gli over 75](manovra-carta-sanitaria.html) — art. 53: carta da 300 euro e proroga della prestazione universale
-- [Bollo auto 2027](bollo-auto.html) — art. 3 dell'AC 3174-bis (proposta) e art. 2 del D.L. 162/2026 (in vigore, da convertire): la scheda sul decreto già in vigore, con il rinvio alla proposta, è in [Bollo auto 2027: chi è esente](bollo-auto.html)
+- [Bollo auto 2027](bollo-auto.html) — art. 3 dell'AC 3174-bis (proposta) e art. 2 del D.L. 162/2026 (in vigore, convertito dalla L. 209/2026): la scheda sul decreto già in vigore, con il rinvio alla proposta, è in [Bollo auto 2027: chi è esente](bollo-auto.html)
 
 ## Tasse e lavoro
 
@@ -56,7 +56,7 @@ Queste schede partono dal [testo dell'AC 3174-bis](https://documenti.camera.it/a
 
 ## Auto e moto
 
-[FATTO · Alta] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) annuncia che «diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli»; nel testo presentato è l'[art. 3](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) dell'**AC 3174-bis**, che prevede l'esenzione «a decorrere dal 1° gennaio 2027» e l'abrogazione dell'art. 2 del D.L. 162/2026 (c. 9). È una proposta, non ancora legge ([scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19); [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760)). [DA VERIFICARE] Il confronto punto per punto con l'art. 2 del D.L. 162/2026 e il costo complessivo. Verifica: [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) e relazione tecnica. L'esenzione prevista per i pagamenti del 2027 dal D.L. 162/2026 (in vigore, da convertire entro il 16/11/2026) è spiegata in [Bollo auto 2027: chi è esente](bollo-auto.html).
+[FATTO · Alta] Il [comunicato n. 195](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-195/32973) annuncia che «diventa strutturale l'esenzione dalla tassa automobilistica per i veicoli fino a 80 kW e per i motocicli»; nel testo presentato è l'[art. 3](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) dell'**AC 3174-bis**, che prevede l'esenzione «a decorrere dal 1° gennaio 2027» e l'abrogazione dell'art. 2 del D.L. 162/2026 (c. 9). È una proposta, non ancora legge ([scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19); [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760)). [DA VERIFICARE] Il confronto punto per punto con l'art. 2 del D.L. 162/2026 e il costo complessivo. Verifica: [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760) e relazione tecnica. L'esenzione prevista per i pagamenti del 2027 dal D.L. 162/2026, convertito dalla [L. 209/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG), è spiegata in [Bollo auto 2027: chi è esente](bollo-auto.html).
 
 ## Famiglie
 
@@ -116,7 +116,7 @@ Un numero negativo è una spesa o un taglio di tasse; un numero positivo è una 
 |---|---|
 | Approvazione del Consiglio dei ministri | ✅ 28/10/2026 |
 | Presentazione al Parlamento | ✅ AC 3174, presentato alla Camera il 30/10/2026; dal 4/11/2026 l'esame prosegue sull'AC 3174-bis ([scheda AC 3174](https://www.camera.it/leg19/126?idDocumento=3174&leg=19); [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)) |
-| Esame e voto della prima Camera | ⏳ AC 3174-bis assegnato alla V Commissione (Bilancio) in sede referente il 4/11/2026 ([scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)) |
+| Esame e voto della prima Camera | ⏳ AC 3174-bis assegnato alla V Commissione (Bilancio) in sede referente il 4/11/2026; esame iniziato il 12/11/2026 (esame e rinvio). La [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19), aggiornata al 22/11/2026, resta «in corso di esame in Commissione» e non elenca sedute in sede referente successive al 12/11. [FATTO · Alta] |
 | Esame e voto della seconda Camera | ⏳ da fare, dopo il voto della Camera |
 | Approvazione definitiva | ⏳ entro il **31/12/2026** |
 | Pubblicazione in Gazzetta Ufficiale | ⏳ da fare |
@@ -128,7 +128,7 @@ Un numero negativo è una spesa o un taglio di tasse; un numero positivo è una 
 
 [FATTO · Alta] La legge prevede che il Governo presenti il disegno di legge di bilancio entro il 20 ottobre (art. 7, c. 2, L. 196/2009); quest'anno il Consiglio dei ministri lo ha approvato il 28 ottobre e il Governo lo ha presentato alla Camera il 30 ottobre.
 
-[DA VERIFICARE] Calendario delle audizioni e termine per gli emendamenti in V Commissione. Verifica: bollettini della V Commissione su camera.it.
+[FATTO · Alta] L'esame in V Commissione è iniziato il 12/11/2026 ([scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19)). Il bollettino del 18/11/2026 non riporta un seguito in sede referente. [DA VERIFICARE] Termine per gli emendamenti in V Commissione, emendamenti approvati e data dell'esame in Aula. Verifica: bollettini della V Commissione e [scheda AC 3174-bis](https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19).
 
 Segui lo stato: [Stato degli atti](stato.html#legge-di-bilancio-2027).
 

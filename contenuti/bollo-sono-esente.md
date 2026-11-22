@@ -4,10 +4,10 @@ descrizione: Cinque domande per capire se il tuo veicolo può rientrare nell'ese
 ---
 # Bollo 2027: sono esente?
 
-*Poche domande in ordine, senza raccogliere dati: rispondi da solo e segui il link. Basato sull'art. 2 del [D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2), verificato al 29/10/2026.*
+*Poche domande in ordine, senza raccogliere dati: rispondi da solo e segui il link. Basato sull'art. 2 del [D.L. 162/2026](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2026-09-17;162~art2), convertito, con modificazioni, dalla [L. 209/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG), verificato al 22/11/2026.*
 
 ::: attenzione
-**Questa pagina orienta, non decide.** L'esito è sempre «probabile»: chi decide è la Regione (o l'ente) a cui paghi il bollo. Il decreto deve ancora essere convertito in legge entro il 16/11/2026 e il Parlamento può modificarlo. Spiegazione completa: [Bollo auto 2027: chi è esente](bollo-auto.html).
+**Questa pagina orienta, non decide.** L'esito è sempre «probabile»: chi decide è la Regione (o l'ente) a cui paghi il bollo. Il decreto è stato convertito in legge, con modificazioni, dalla [L. 209/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG): i requisiti di chi è esente non cambiano. Spiegazione completa: [Bollo auto 2027: chi è esente](bollo-auto.html).
 :::
 
 ## 1. Chi paga il bollo

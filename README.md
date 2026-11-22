@@ -125,6 +125,7 @@ Prima di pubblicare:
 
 ## Novità
 
+- **22/11/2026** – Stato degli atti, home e schede: il D.L. 162/2026 (bollo auto 2027) è convertito dalla [L. 209/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG) (GU n. 267 del 16/11/2026); il D.L. 167/2026 (diesel Euro 5) è convertito, senza modificazioni, dalla [L. 210/2026](https://www.gazzettaufficiale.it/eli/id/2026/11/20/26G00232/SG) (GU n. 271 del 20/11/2026). Aggiornati l'iter dell'AC 3159 (esame preliminare concluso il 12/11, termine emendamenti 18/11) e dell'AC 3174-bis (esame in V Commissione iniziato il 12/11). Nella Bussola lo sciopero generale del 20/11 è al passato. Schema dei dati invariato (1.0.3).
 - **10/11/2026** – Manovra 2027: nuove schede sul testo del disegno di legge AC 3174-bis ([IRPEF e regime forfetario](https://bilanciacivica.github.io/bilancia-civica/manovra-irpef.html), [Famiglie](https://bilanciacivica.github.io/bilancia-civica/manovra-famiglie.html), [Pensioni](https://bilanciacivica.github.io/bilancia-civica/manovra-pensioni.html), [Carta sanitaria over 75](https://bilanciacivica.github.io/bilancia-civica/manovra-carta-sanitaria.html)); la pagina [Manovra 2027](https://bilanciacivica.github.io/bilancia-civica/manovra-2027.html) distingue annunci del Governo e testo; card della home aggiornata. Sono proposte in esame, non ancora legge; schema dei dati invariato (1.0.3).
 - **9/11/2026** – Aggiornamento dello stato su bollo auto (approvato alla Camera il 5/11 e trasmesso al Senato), diesel Euro 5 (discussione generale il 9/11) e manovra 2027 (AC 3174 / 3174-bis). Dettagli in [CORREZIONI.md](CORREZIONI.md).
 - **3/11/2026** – Decreto sicurezza, bollo auto 2027 e fermi dell'autotrasporto: nello Stato degli atti l'esito del voto sulle questioni pregiudiziali (respinte il 3/11/2026) e, nello Stato, nella home e nella pagina del bollo auto, la discussione generale sul bollo auto svolta alla Camera il 3/11/2026; nella Bussola i fermi di ottobre 2026 secondo la delibera n. 26/322 della Commissione di garanzia; nella Bussola e nell'Analisi del D.L. 190/2026 una nota sulla questione di costituzionalità pendente sull'art. 583-quater c.p.; schema dei dati invariato (1.0.3); dettagli in [CORREZIONI.md](CORREZIONI.md).
@@ -154,4 +155,4 @@ Stato: **da fare**.
 
 Attribuzione suggerita: *Bilancia Civica – https://bilanciacivica.github.io/bilancia-civica/ – CC BY-SA 4.0*.
 
-*Contenuti aggiornati al 23/10/2026.*
+*Contenuti aggiornati al 22/11/2026.*
