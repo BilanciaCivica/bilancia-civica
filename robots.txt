@@ -1,0 +1,7 @@
+# Bilancia Civica: tutte le pagine sono pubbliche.
+# Nota: i motori di ricerca leggono solo il robots.txt alla radice del dominio
+# (https://bilanciacivica.github.io/robots.txt); la sitemap si invia in Google Search Console.
+User-agent: *
+Allow: /
+
+Sitemap: https://bilanciacivica.github.io/bilancia-civica/sitemap.xml
