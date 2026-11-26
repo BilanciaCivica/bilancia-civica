@@ -40,7 +40,7 @@ OUT = ROOT / "_site"
 REPO_URL = "https://github.com/BilanciaCivica/bilancia-civica"
 # Data mostrata nel piè di pagina («Testi aggiornati al …»). Va aggiornata a mano
 # ogni volta che si modificano i contenuti, insieme alle date nelle singole pagine.
-AGGIORNATO = "22/11/2026, ore 15:11 (ora di Roma)"
+AGGIORNATO = "26/11/2026, ore 14:45 (ora di Roma)"
 
 # Pagine: (file di uscita, sorgente, voce di menu principale o None, gruppo)
 PAGINE = [
@@ -175,8 +175,23 @@ SCHEDA_3174BIS = "https://www.camera.it/leg19/126?idDocumento=3174-bis&leg=19"
 TESTO_3174BIS = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760")
 TESTO_3106A = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3106_A.19PDL0215620")
 CALENDARIO_CAMERA = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.44.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
+CALENDARIO_ASSEMBLEA_45 = ("https://documenti.camera.it/apps/commonServices/getDocumento.ashx?file=calendario.45.Principale&idLegislatura=19&sezione=documenti&tipo=pdf&tipoDoc=lavori_calendario")
 # Al massimo 3 schede, dalla più recente o nell'ordine scelto dalla redazione.
 NOVITA = [
+    {"data": "24/11/2026", "titolo": "Manovra 2027: disegno di legge in esame",
+     "novita": "**Cosa cambia:** il disegno di legge di bilancio 2027-2029 (AC 3174-bis) è all'esame della Camera: è una proposta, non ancora legge. "
+               "Le schede spiegano cosa prevede il testo per IRPEF, famiglie, pensioni e carta sanitaria "
+               f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); [testo AC 3174-bis]({TESTO_3174BIS})). [FATTO · Alta]",
+     "stato": "**A che punto è:** l'esame in V Commissione (Bilancio) è iniziato il 12/11/2026 e ha avuto seguito, senza votazioni, il 23 e il 24/11/2026. "
+              "Sono state presentate 6.558 proposte emendative; il 23/11 sono state dichiarate inammissibili numerose proposte e il 24/11, dopo il riesame, alcune sono state riammesse. "
+              "Alla verifica del 26/11/2026 non risultano emendamenti approvati. Il calendario dell'Aula prevede l'esame a partire dal **18/12/2026**; va approvato dal Parlamento entro il **31/12/2026** "
+              f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); "
+              "[bollettino della V Commissione del 23/11/2026](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/11/23/leg.19.bol0768.data20261123.com05.pdf); "
+              "[bollettino del 24/11/2026](https://documenti.camera.it/leg19/resoconti/commissioni/bollettini/pdf/2026/11/24/leg.19.bol0769.data20261124.pdf); "
+              f"[calendario dell'Assemblea, dicembre 2026]({CALENDARIO_ASSEMBLEA_45}); "
+              "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
+              "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
+     "link": [("Annunci e testo del disegno di legge (AC 3174-bis)", "manovra-2027.html")]},
     {"data": "20/11/2026", "titolo": "Diesel Euro 5: decreto convertito in legge",
      "novita": "**Cosa cambia:** slitta al 1° ottobre 2027 l'obbligo, per Piemonte, Lombardia, Veneto ed Emilia-Romagna, "
                "di inserire nei piani per la qualità dell'aria il blocco strutturale dei diesel Euro 5, salvo misure "
@@ -197,16 +212,6 @@ NOVITA = [
               "([testo coordinato](https://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06055/SG); "
               "[dati aperti del Senato](https://dati.senato.it/sparql)). [FATTO · Alta]",
      "link": [("Cosa cambia per il bollo", "bollo-auto.html"), ("Bussola: sono esente?", "bollo-sono-esente.html")]},
-    {"data": "12/11/2026", "titolo": "Manovra 2027: disegno di legge in esame",
-     "novita": "**Cosa cambia:** il disegno di legge di bilancio 2027-2029 (AC 3174-bis) è all'esame della Camera: è una proposta, non ancora legge. "
-               "Le schede spiegano cosa prevede il testo per IRPEF, famiglie, pensioni e carta sanitaria "
-               f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); [testo AC 3174-bis](https://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=testo_pdl&idlegislatura=19&codice=leg.19.pdl.camera.3174-bis.19PDL0221760)). [FATTO · Alta]",
-     "stato": "**A che punto è:** l'esame in V Commissione (Bilancio) è iniziato il 12/11/2026; la scheda, al 22/11/2026, resta "
-              "«in corso di esame in Commissione». Va approvato dal Parlamento entro il **31/12/2026** "
-              f"([scheda AC 3174-bis]({SCHEDA_3174BIS}); "
-              "[art. 81, c. 5, Cost.](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art81); "
-              "[art. 20, c. 2, L. 196/2009](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-12-31;196~art20)). [FATTO · Alta]",
-     "link": [("Annunci e testo del disegno di legge (AC 3174-bis)", "manovra-2027.html")]},
 ]
 
 # Griglia «Tutti i temi»: ordine fisso (decreto sicurezza per primo). «aggiornato»
@@ -223,7 +228,7 @@ TEMI_HOME = [
     ("⛽", "Diesel Euro 5", "Il rinvio al 2027 dell'obbligo di inserire il blocco nei piani regionali, Regione per Regione.",
      "diesel-euro5.html", "20/11/2026"),
     ("💶", "Manovra 2027", "Le misure del disegno di legge di bilancio, con schede su IRPEF, famiglie, pensioni e carta sanitaria: non ancora legge.",
-     "manovra-2027.html", "12/11/2026"),
+     "manovra-2027.html", "26/11/2026"),
     ("📍", "Presidi", "Preavviso al questore, prescrizioni e sanzioni, passo per passo.",
      "presidio.html", "25/10/2026"),
     ("📘", "Diritti e regole", "Riunione, manifestazione e sciopero: cosa è protetto e cosa è punibile.",
